@@ -2,17 +2,18 @@ const RSSParser = require('rss-parser');
 const fs = require('fs');
 const parser = new RSSParser();
 
-// KÜRESEL PRESTİJLİ KAYNAKLAR
+// GÜNCEL KÜRESEL KAYNAK LİSTESİ
 const SOURCES = [
   { name: 'Reuters', url: 'https://www.reutersagency.com/feed/' },
   { name: 'UN News', url: 'https://news.un.org/feed/subscribe/en/news/all/rss.xml' },
   { name: 'CFR', url: 'https://www.cfr.org/rss.xml' },
-  { name: 'The Guardian', url: 'https://www.theguardian.com/world/rss' }
+  { name: 'The Guardian', url: 'https://www.theguardian.com/world/rss' },
+  { name: 'Justice Gov', url: 'https://www.justice.gov/news/rss' }
 ];
 
 async function start() {
   let list = [];
-  console.log("Küresel veriler toplanıyor...");
+  console.log("Küresel kaynaklar taranıyor...");
 
   for (const source of SOURCES) {
     try {
@@ -28,18 +29,19 @@ async function start() {
         });
       });
     } catch (e) { 
-      console.log(source.name + " hatası:", e.message); 
+      console.log(source.name + " taranırken hata oluştu."); 
     }
   }
 
-  // Tarihe göre sırala (En yeni üstte)
+  // Tarihe göre sırala (En yeni en üstte)
   list.sort((a, b) => b.sortDate - a.sortDate); 
 
-  // İlk 100 haberi kaydet
+  // İlk 100 haberi al
   const finalData = list.slice(0, 100);
 
+  // Dosyaya yaz
   fs.writeFileSync('./src/data/news.json', JSON.stringify(finalData, null, 2));
-  console.log("İşlem Başarılı: " + finalData.length + " haber kaydedildi.");
+  console.log("BAŞARILI: news.json güncellendi.");
 }
 
 start();
