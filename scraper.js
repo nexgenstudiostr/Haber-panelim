@@ -2,16 +2,19 @@ const RSSParser = require('rss-parser');
 const fs = require('fs');
 const parser = new RSSParser();
 
-// BURAYA İSTEDİĞİN RSS LİNKLERİNİ EKLEYEBİLİRSİN
+// YENİ DÜNYA GÜNDEMİ VE BELGE ODAKLI KAYNAKLAR
 const SOURCES = [
-  'https://www.cnnturk.com/feed/rss/all/news',
-  'https://www.haberturk.com/rss',
-  'https://www.ntv.com.tr/gundem.rss'
+  'https://www.reutersagency.com/feed/',        // Reuters - Küresel Ajans
+  'https://news.un.org/feed/subscribe/en/news/all/rss.xml', // UN News - BM Raporları
+  'https://www.cfr.org/rss.xml',                // CFR - Jeopolitik Analiz
+  'https://www.theguardian.com/world/rss',      // The Guardian - Dünya Haberleri
+  'https://thecradleturkiye.com/feed/',         // The Cradle - Stratejik Analiz
+  'https://www.justice.gov/news/rss'            // DOJ - Resmi Belgeler
 ];
 
 async function start() {
   let list = [];
-  console.log("Haberler çekilmeye başlanıyor...");
+  console.log("Küresel kaynaklardan veriler çekiliyor...");
 
   for (const url of SOURCES) {
     try {
@@ -19,13 +22,15 @@ async function start() {
       feed.items.forEach(item => {
         list.push({
           title: item.title,
-          description: item.contentSnippet,
+          description: item.contentSnippet || "",
           link: item.link, 
-          // 1. ADIM: Orijinal tarihi ham metin olarak sakla (Saat farkını önlemek için)
           originalDate: item.pubDate, 
-          // 2. ADIM: Sıralama yapabilmek için sayısal tarihe çevir
           sortDate: new Date(item.pubDate).getTime(),
-          source: feed.title
+          // Kaynak ismini daha okunaklı yapalım
+          source: feed.title.includes("Reuters") ? "Reuters" : 
+                  feed.title.includes("UN News") ? "UN News" : 
+                  feed.title.includes("Council on Foreign Relations") ? "CFR" : 
+                  feed.title.includes("The Guardian") ? "The Guardian" : feed.title
         });
       });
     } catch (e) { 
@@ -33,15 +38,14 @@ async function start() {
     }
   }
 
-  // 3. ADIM: KESİN SIRALAMA - En yeni (büyük sayı) en üstte
+  // En yeni haber en üstte olacak şekilde sırala
   list.sort((a, b) => b.sortDate - a.sortDate); 
 
-  // 4. ADIM: VERİYİ KAYDET - Sayfalama için ilk 100 haberi alalım
+  // İlk 100 haberi al ve kaydet
   const finalData = list.slice(0, 100);
 
   fs.writeFileSync('./src/data/news.json', JSON.stringify(finalData, null, 2));
-  console.log("SUCCESSFULLY: " + finalData.length + " adet haber güncelden eskiye sıralanarak kaydedildi.");
+  console.log("BAŞARILI: " + finalData.length + " adet küresel haber ve belge kaydedildi.");
 }
 
-// Fonksiyonu çalıştır
 start();
