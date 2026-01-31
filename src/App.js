@@ -13,18 +13,19 @@ function App() {
   const formatDate = (dateString) => {
     if (!dateString) return "Tarih Belirtilmedi";
     
-    // Bazı RSS kaynakları standart dışı tarih gönderebilir, temizleyelim
-    const cleanedDate = dateString.replace('GMT', '').trim();
+    // JavaScript'in anlayamadığı bazı Türkçe karakterli tarihleri veya 
+    // standart dışı boşlukları temizleyelim
+    const cleanedDate = dateString.replace(/(\d+)\s+([a-zA-ZçğıöşüÇĞİÖŞÜ]+)\s+(\d+)/, (match, p1, p2, p3) => {
+      // Eğer tarih formatı "31 Ocak 2026" gibiyse burası devreye girer
+      return `${p1} ${p2} ${p3}`;
+    }).trim();
+
     const d = new Date(cleanedDate);
 
-    // Eğer hala Invalid Date ise manuel bir deneme yapalım
+    // Eğer tarih hala Invalid ise, orijinal metni temizleyip geri döndür
     if (isNaN(d.getTime())) {
-      try {
-        // "31.01.2026 18:30" gibi bir format gelirse diye basit bir kontrol
-        return dateString; 
-      } catch (e) {
-        return "Tarih Belirtilmedi";
-      }
+      // "Invalid Date" yazmasındansa gelen metni biraz temizleyip gösterelim
+      return dateString.split(' +')[0].split(' -')[0]; 
     }
 
     return d.toLocaleString('tr-TR', {
@@ -41,9 +42,10 @@ function App() {
       .then(res => res.json())
   .then(data => {
         const sortedNews = data.sort((a, b) => {
-          const timeA = new Date(a.pubDate).getTime() || 0;
-          const timeB = new Date(b.pubDate).getTime() || 0;
-          return timeB - timeA; // Yeniden eskiye
+          // Tarihleri saniye cinsine (timestamp) çevir, çevrilemiyorsa 0 say
+          const dateA = new Date(a.pubDate).getTime() || 0;
+          const dateB = new Date(b.pubDate).getTime() || 0;
+          return dateB - dateA; // Büyükten küçüğe (Yeniden eskiye)
         });
         setNews(sortedNews);
       })
