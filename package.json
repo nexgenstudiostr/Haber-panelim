@@ -1,5 +1,6 @@
 {
   "name": "haber-panelim",
+"homepage": "http://nexgenstudiostr.github.io/Haber-panelim"
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -9,11 +10,23 @@
     "rss-parser": "^3.13.0"
   },
   "scripts": {
+predeploy": "npm run build", "deploy": "gh-pages -d build"
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
   "browserslist": {
-    "production": [">0.2%", "not dead", "not op_mini all"],
-    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

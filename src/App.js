@@ -9,13 +9,24 @@ function App() {
   const [newSource, setNewSource] = useState("");
   const newsPerPage = 10;
 
-  // Tarih Formatlayıcı Fonksiyon (Hata Almamak İçin)
+// Gelişmiş Tarih Formatlayıcı
   const formatDate = (dateString) => {
-    const d = new Date(dateString);
+    if (!dateString) return "Tarih Belirtilmedi";
+    
+    // Bazı RSS kaynakları standart dışı tarih gönderebilir, temizleyelim
+    const cleanedDate = dateString.replace('GMT', '').trim();
+    const d = new Date(cleanedDate);
+
+    // Eğer hala Invalid Date ise manuel bir deneme yapalım
     if (isNaN(d.getTime())) {
-      // Eğer tarih geçersizse bugününkini veya boş döner
-      return "Tarih Belirtilmedi";
+      try {
+        // "31.01.2026 18:30" gibi bir format gelirse diye basit bir kontrol
+        return dateString; 
+      } catch (e) {
+        return "Tarih Belirtilmedi";
+      }
     }
+
     return d.toLocaleString('tr-TR', {
       day: '2-digit',
       month: '2-digit',
@@ -28,12 +39,11 @@ function App() {
   useEffect(() => {
     fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/src/data/news.json?t=${new Date().getTime()}`)
       .then(res => res.json())
-      .then(data => {
-        // Tarihe göre sıralama (Geçersiz tarihleri en sona atar)
+  .then(data => {
         const sortedNews = data.sort((a, b) => {
-          const dateA = new Date(a.pubDate).getTime() || 0;
-          const dateB = new Date(b.pubDate).getTime() || 0;
-          return dateB - dateA;
+          const timeA = new Date(a.pubDate).getTime() || 0;
+          const timeB = new Date(b.pubDate).getTime() || 0;
+          return timeB - timeA; // Yeniden eskiye
         });
         setNews(sortedNews);
       })
