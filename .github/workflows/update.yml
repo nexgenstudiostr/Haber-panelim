@@ -1,18 +1,30 @@
 name: Haber Guncelle
 on:
-  schedule:
-    - cron: '*/45 * * * *'
+  repository_dispatch:
+    types: [update_news]
   workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: npm install
-      - run: node scraper.js
-      - run: |
-          git config --global user.name "Bot"
-          git config --global user.email "bot@mail.com"
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: npm install
+      - name: Run Scraper
+        run: node scraper.js # Scraper dosyanın adı farklıysa burayı düzelt
+        env:
+          NEW_RSS_URL: ${{ github.event.client_payload.rss_url }}
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           git add .
-          git commit -m "Guncelleme" || exit 0
+          git commit -m "Haberler güncellendi" || exit 0
           git push
