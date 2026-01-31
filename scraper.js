@@ -2,46 +2,30 @@ const RSSParser = require('rss-parser');
 const fs = require('fs');
 const parser = new RSSParser();
 
-// GÜNCEL KÜRESEL KAYNAK LİSTESİ
 const SOURCES = [
   { name: 'Reuters', url: 'https://www.reutersagency.com/feed/' },
   { name: 'UN News', url: 'https://news.un.org/feed/subscribe/en/news/all/rss.xml' },
   { name: 'CFR', url: 'https://www.cfr.org/rss.xml' },
-  { name: 'The Guardian', url: 'https://www.theguardian.com/world/rss' },
-  { name: 'Justice Gov', url: 'https://www.justice.gov/news/rss' }
+  { name: 'The Guardian', url: 'https://www.theguardian.com/world/rss' }
 ];
 
 async function start() {
   let list = [];
-  console.log("Küresel kaynaklar taranıyor...");
-
   for (const source of SOURCES) {
     try {
       const feed = await parser.parseURL(source.url);
       feed.items.forEach(item => {
         list.push({
           title: item.title,
-          description: item.contentSnippet || "",
           link: item.link, 
-          pubDate: item.pubDate,
+          pubDate: new Date(item.pubDate).toLocaleString('tr-TR'), // "Invalid Date" hatasını çözer
           sortDate: new Date(item.pubDate).getTime(),
           source: source.name
         });
       });
-    } catch (e) { 
-      console.log(source.name + " taranırken hata oluştu."); 
-    }
+    } catch (e) { console.log(source.name + " hatası."); }
   }
-
-  // Tarihe göre sırala (En yeni en üstte)
-  list.sort((a, b) => b.sortDate - a.sortDate); 
-
-  // İlk 100 haberi al
-  const finalData = list.slice(0, 100);
-
-  // Dosyaya yaz
-  fs.writeFileSync('./src/data/news.json', JSON.stringify(finalData, null, 2));
-  console.log("BAŞARILI: news.json güncellendi.");
+  list.sort((a, b) => b.sortDate - a.sortDate);
+  fs.writeFileSync('./src/data/news.json', JSON.stringify(list.slice(0, 100), null, 2));
 }
-
 start();
