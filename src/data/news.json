@@ -1,26 +1,26 @@
 [
   {
-    "title": "Reuters World News",
-    "link": "https://www.reutersagency.com/feed/",
-    "pubDate": "2026-01-31T21:15:00Z",
+    "title": "Reuters World News Updates",
+    "link": "https://www.reuters.com/world/",
+    "rss_url": "https://www.reutersagency.com/feed/",
     "source": "Reuters"
   },
   {
-    "title": "UN News - Global Perspective",
-    "link": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-    "pubDate": "2026-01-31T21:15:00Z",
+    "title": "United Nations Global Reports",
+    "link": "https://news.un.org/en/",
+    "rss_url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
     "source": "UN News"
   },
   {
-    "title": "Council on Foreign Relations (CFR)",
-    "link": "https://www.cfr.org/rss.xml",
-    "pubDate": "2026-01-31T21:15:00Z",
+    "title": "CFR Geopolitical Analysis",
+    "link": "https://www.cfr.org/",
+    "rss_url": "https://www.cfr.org/rss.xml",
     "source": "CFR"
   },
   {
-    "title": "The Guardian - World News",
-    "link": "https://www.theguardian.com/world/rss",
-    "pubDate": "2026-01-31T21:15:00Z",
+    "title": "The Guardian Investigation",
+    "link": "https://www.theguardian.com/world",
+    "rss_url": "https://www.theguardian.com/world/rss",
     "source": "The Guardian"
   }
 ]
