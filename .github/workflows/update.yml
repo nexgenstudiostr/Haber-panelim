@@ -1,0 +1,18 @@
+name: Haber Guncelle
+on:
+  schedule:
+    - cron: '*/45 * * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: node scraper.js
+      - run: |
+          git config --global user.name "Bot"
+          git config --global user.email "bot@mail.com"
+          git add .
+          git commit -m "Guncelleme" || exit 0
+          git push
