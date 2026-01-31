@@ -11,44 +11,44 @@ function App() {
 
 // Gelişmiş Tarih Formatlayıcı
   const formatDate = (dateString) => {
-    if (!dateString) return "Tarih Belirtilmedi";
+  if (!dateString) return "Yeni Haber";
+
+  // Tarih objesini oluşturmayı dene
+  const date = new Date(dateString);
+
+  // Eğer tarih geçersizse (Invalid Date), ham veriyi göster veya bugünü baz al
+  if (isNaN(date.getTime())) {
+    // Bazı RSS kaynakları "31-01-2026 15:00" gibi gönderir, bunu temizleyip tekrar dene
+    const cleaned = dateString.replace(/-/g, '/');
+    const secondTry = new Date(cleaned);
     
-    // JavaScript'in anlayamadığı bazı Türkçe karakterli tarihleri veya 
-    // standart dışı boşlukları temizleyelim
-    const cleanedDate = dateString.replace(/(\d+)\s+([a-zA-ZçğıöşüÇĞİÖŞÜ]+)\s+(\d+)/, (match, p1, p2, p3) => {
-      // Eğer tarih formatı "31 Ocak 2026" gibiyse burası devreye girer
-      return `${p1} ${p2} ${p3}`;
-    }).trim();
-
-    const d = new Date(cleanedDate);
-
-    // Eğer tarih hala Invalid ise, orijinal metni temizleyip geri döndür
-    if (isNaN(d.getTime())) {
-      // "Invalid Date" yazmasındansa gelen metni biraz temizleyip gösterelim
-      return dateString.split(' +')[0].split(' -')[0]; 
+    if (isNaN(secondTry.getTime())) {
+      return "Tarih: " + dateString.split('T')[0]; // En azından bir kısmını göster
     }
+    return secondTry.toLocaleString('tr-TR');
+  }
 
-    return d.toLocaleString('tr-TR', {
-      day: '2-digit',
-      month: '2-digit',
-      year: 'numeric',
-      hour: '2-digit',
-      minute: '2-digit'
-    });
-  };
+  return date.toLocaleString('tr-TR', {
+    day: '2-digit',
+    month: '2-digit',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit'
+  });
+};
 
   useEffect(() => {
     fetch(`https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/src/data/news.json?t=${new Date().getTime()}`)
       .then(res => res.json())
-  .then(data => {
-        const sortedNews = data.sort((a, b) => {
-          // Tarihleri saniye cinsine (timestamp) çevir, çevrilemiyorsa 0 say
-          const dateA = new Date(a.pubDate).getTime() || 0;
-          const dateB = new Date(b.pubDate).getTime() || 0;
-          return dateB - dateA; // Büyükten küçüğe (Yeniden eskiye)
-        });
-        setNews(sortedNews);
-      })
+ .then(data => {
+  const sortedNews = data.sort((a, b) => {
+    // Geçersiz tarihleri en sona atmak için büyük bir sayı ver
+    const timeA = new Date(a.pubDate).getTime() || 0;
+    const timeB = new Date(b.pubDate).getTime() || 0;
+    return timeB - timeA;
+  });
+  setNews(sortedNews);
+})
       .catch(err => console.error("Veri yükleme hatası:", err));
   }, []);
 
