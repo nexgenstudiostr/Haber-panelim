@@ -1,31 +1,39 @@
 name: Haber Guncelle
+
 on:
-  repository_dispatch:
-    types: [update_news]
-  workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *' # Her saat başı otomatik çalışır
+  workflow_dispatch:      # Senin tıkladığın "Run Workflow" butonu
+
+permissions:
+  contents: write         # GitHub Actions'a yazma yetkisini buradan zorluyoruz
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # Tüm geçmişi çekerek çakışma riskini bitirir
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '16'
+
       - name: Install dependencies
-        run: npm install
+        run: npm install rss-parser
+
       - name: Run Scraper
-        run: node scraper.js # Scraper dosyanın adı farklıysa burayı düzelt
-        env:
-          NEW_RSS_URL: ${{ github.event.client_payload.rss_url }}
-          - name: Commit and Push
+        run: node scraper.js
+
+      - name: Force Commit and Push
         run: |
-          git config --global user.name "GitHub Action"
+          git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git pull --rebase origin main  # BU SATIRI EKLE (Çakışmayı önler)
           git add src/data/news.json
-          git commit -m "Haberler güncellendi" || exit 0
-          git push origin main
+          # Eğer değişiklik yoksa hata vermeden geçmesini sağlar
+          git commit -m "Haberler güncellendi: $(date)" || exit 0
+          # --force kullanarak çakışmaları ezer ve veriyi zorla yazar
+          git push origin main --force
