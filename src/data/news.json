@@ -1,37 +1,100 @@
 [
   {
-    "title": "Australian news live: Joyce claims he’s added to ‘acceptability’ of One Nation; economists warn rates hike likely ‘not one and done’",
+    "title": "Australia politics live: Marles reveals $3bn defence properties to be sold off as ‘much of it not being used’",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/04/australian-politics-live-labor-liberal-anthony-albanese-sussan-ley-leadership-challenge-coalition-littleproud-chalmers-interest-rates-rise-rba-ntwfb",
-    "pubDate": "03.02.2026 21:50:40",
-    "sortDate": 1770155440000,
+    "pubDate": "03.02.2026 23:39:07",
+    "sortDate": 1770161947000,
     "source": "The Guardian"
   },
   {
-    "title": "White House deflects Trump’s call to ‘nationalize’ elections to bill requiring proof of citizenship to vote – live",
+    "title": "Albanese government to sell off $3bn worth of historic defence sites amid push to free up space for new homes",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/04/albanese-government-to-sell-off-3bn-worth-of-historic-defence-sites-amid-push-to-free-up-space-for-new-homes",
+    "pubDate": "03.02.2026 23:24:38",
+    "sortDate": 1770161078000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump scolds CNN reporter Kaitlan Collins for not smiling as she asks about Epstein abuse survivors – live",
     "link": "https://www.theguardian.com/us-news/live/2026/feb/03/donald-trump-colombia-gustavo-petro-venezuela-jeffrey-epstein-files-bill-hillary-clinton-us-politics-live-news",
-    "pubDate": "03.02.2026 21:45:04",
-    "sortDate": 1770155104000,
+    "pubDate": "03.02.2026 23:24:25",
+    "sortDate": 1770161065000,
     "source": "The Guardian"
   },
   {
-    "title": "Netflix co-CEO grilled by US senators over Warner Bros Discovery merger",
-    "link": "https://www.theguardian.com/media/2026/feb/03/senate-netflix-warner-bros-discovery-merger",
-    "pubDate": "03.02.2026 21:31:37",
-    "sortDate": 1770154297000,
+    "title": "Colombian president and Trump put aside insults for amicable White House meeting",
+    "link": "https://www.theguardian.com/world/2026/feb/03/colombian-president-and-trump-put-aside-insults-for-amicable-white-house-meeting",
+    "pubDate": "03.02.2026 23:21:03",
+    "sortDate": 1770160863000,
     "source": "The Guardian"
   },
   {
-    "title": "DHS’s account of two Venezuelans shot by border patrol falls apart in court: ‘a smear campaign’",
-    "link": "https://www.theguardian.com/us-news/2026/feb/02/portland-venezuelans-shot-border-patrol-court",
-    "pubDate": "03.02.2026 21:23:53",
-    "sortDate": 1770153833000,
+    "title": "Police to review latest claim about Andrew Mountbatten-Windsor’s links to Epstein",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/03/met-to-review-latest-claim-about-andrew-mountbatten-windsors-links-to-epstein",
+    "pubDate": "03.02.2026 23:14:11",
+    "sortDate": 1770160451000,
     "source": "The Guardian"
   },
   {
-    "title": "Outrage in Mexico at Trump praise for ‘legendary’ 19th-century US invasion",
-    "link": "https://www.theguardian.com/us-news/2026/feb/03/mexico-leaders-react-trump-invasion",
-    "pubDate": "03.02.2026 21:18:29",
-    "sortDate": 1770153509000,
+    "title": "California officials move forward with plans to exterminate mule deer from island",
+    "link": "https://www.theguardian.com/us-news/2026/feb/03/california-mule-deer-extermination-catalina-island",
+    "pubDate": "03.02.2026 23:05:29",
+    "sortDate": 1770159929000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One Nation says it will ‘contest every seat’ in South Australia – but will voters tick the box when it matters?",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/04/one-nation-south-australia-state-election-pauline-hanson-cory-bernardi-analysis",
+    "pubDate": "03.02.2026 23:00:25",
+    "sortDate": 1770159625000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Collision between Greek coastguard patrol and and migrant boat kills 14",
+    "link": "https://www.theguardian.com/world/2026/feb/03/collision-between-greek-coastguard-patrol-and-boat-carrying-migrants",
+    "pubDate": "03.02.2026 22:52:33",
+    "sortDate": 1770159153000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jimmy Lai’s son says UK government did not do enough to help him on China visit",
+    "link": "https://www.theguardian.com/world/2026/feb/03/jimmy-lais-son-says-uk-government-did-not-do-enough-to-help-him-on-china-visit",
+    "pubDate": "03.02.2026 22:42:28",
+    "sortDate": 1770158548000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘It’s sick’: Trump administration uses mascot called ‘Coalie’ to push dirtiest fossil fuel",
+    "link": "https://www.theguardian.com/us-news/2026/feb/03/trump-administration-coalie-mascot-fossil-fuels",
+    "pubDate": "03.02.2026 22:42:13",
+    "sortDate": 1770158533000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Three-quarters of cancer patients in England to survive by 2035 under new plans",
+    "link": "https://www.theguardian.com/society/2026/feb/03/three-quarters-of-cancer-patients-in-england-to-survive-by-2035-under-new-plans",
+    "pubDate": "03.02.2026 22:30:25",
+    "sortDate": 1770157825000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump signs $1.2tn funding bill, ending partial government shutdown",
+    "link": "https://www.theguardian.com/us-news/2026/feb/03/house-passes-funds-ending-government-shutdown",
+    "pubDate": "03.02.2026 22:23:23",
+    "sortDate": 1770157403000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New York to create team of legal observers to document ICE raids",
+    "link": "https://www.theguardian.com/us-news/2026/feb/03/new-york-legal-observers-ice-raids",
+    "pubDate": "03.02.2026 22:19:33",
+    "sortDate": 1770157173000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tories seek disclosure of vetting process for Mandelson’s ambassador role",
+    "link": "https://www.theguardian.com/politics/2026/feb/03/tories-seek-disclosure-of-vetting-process-for-mandelsons-role-as-ambassador",
+    "pubDate": "03.02.2026 22:00:24",
+    "sortDate": 1770156024000,
     "source": "The Guardian"
   },
   {
@@ -42,45 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Arizona officials say they ‘don’t know where’ Savannah Guthrie’s mother is, three days after disappearance",
-    "link": "https://www.theguardian.com/us-news/2026/feb/03/savannah-guthrie-mother-abduction",
-    "pubDate": "03.02.2026 19:58:40",
-    "sortDate": 1770148720000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Police to review latest claim about Andrew Mountbatten-Windsor’s links to Epstein",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/03/met-to-review-latest-claim-about-andrew-mountbatten-windsors-links-to-epstein",
-    "pubDate": "03.02.2026 19:33:54",
-    "sortDate": 1770147234000,
-    "source": "The Guardian"
-  },
-  {
     "title": "French prosecutors ask appeal court to keep ban on Marine Le Pen running for office",
     "link": "https://www.theguardian.com/world/2026/feb/03/french-prosecutors-ask-appeal-court-to-keep-ban-on-marine-le-pen-running-for-office",
     "pubDate": "03.02.2026 19:22:59",
     "sortDate": 1770146579000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Life expectancy of LGB+ people a year lower than that of heterosexuals, ONS finds",
-    "link": "https://www.theguardian.com/world/2026/feb/03/life-expectancy-of-lgb-people-a-year-lower-than-heterosexuals-ons-finds",
-    "pubDate": "03.02.2026 19:13:05",
-    "sortDate": 1770145985000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Epstein called Mandelson ‘devious’ after he lobbied bank to back mining project",
-    "link": "https://www.theguardian.com/politics/2026/feb/03/epstein-mandelson-devious-lobbied-bank-mining-project",
-    "pubDate": "03.02.2026 19:10:36",
-    "sortDate": 1770145836000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Met police launch investigation into alleged Mandelson-Epstein email leaks",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/03/met-police-to-launch-investigation-into-alleged-mandelson-epstein-email-leaks",
-    "pubDate": "03.02.2026 19:09:59",
-    "sortDate": 1770145799000,
     "source": "The Guardian"
   },
   {
@@ -119,13 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "French magistrate reportedly summons two French-Israelis over ‘complicity in genocide’",
-    "link": "https://www.theguardian.com/world/2026/feb/03/french-magistrate-reportedly-summons-two-french-israelis-over-complicity-genocide",
-    "pubDate": "03.02.2026 16:59:21",
-    "sortDate": 1770137961000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Human Rights Watch researchers resign after report on Palestinian right of return blocked",
     "link": "https://www.theguardian.com/world/2026/feb/03/human-rights-watch-researchers-resign-palestine",
     "pubDate": "03.02.2026 16:00:03",
@@ -140,24 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australian influencer’s illegal crypto gambling ads permitted by Meta despite Acma warning of $2.4m fine",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/04/australian-influencer-dinah-crypto-gambling-ads-meta",
-    "pubDate": "03.02.2026 14:00:06",
-    "sortDate": 1770127206000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘We never would have bought’: Australian mortgage holders feel the pain as interest rates rise again",
     "link": "https://www.theguardian.com/australia-news/2026/feb/04/we-never-would-have-bought-australian-mortgage-holders-feel-the-pain-as-interest-rates-rise-again",
     "pubDate": "03.02.2026 14:00:06",
     "sortDate": 1770127206000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Campaign group behind attack ads on Labor, Greens and teal candidates was funded by coal industry lobby",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/04/coal-australia-industry-lobby-attack-ads-labor-green-teal",
-    "pubDate": "03.02.2026 14:00:03",
-    "sortDate": 1770127203000,
     "source": "The Guardian"
   },
   {
@@ -221,13 +228,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/02/indigenous-views-trump-greenland-push-inuits-arctic",
     "pubDate": "02.02.2026 13:59:23",
     "sortDate": 1770040763000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fernández wins Costa Rican presidency, steering Latin America further right",
-    "link": "https://www.theguardian.com/world/2026/feb/02/laura-fernandez-wins-costa-rica-president-latin-america-rightwing",
-    "pubDate": "02.02.2026 13:08:59",
-    "sortDate": 1770037739000,
     "source": "The Guardian"
   },
   {
