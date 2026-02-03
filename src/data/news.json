@@ -1,37 +1,93 @@
 [
   {
-    "title": "Melania: Amazon’s $106m documentary takes $982 per screen in Australian opening weekend",
-    "link": "https://www.theguardian.com/film/2026/feb/03/melania-amazons-106m-documentary-takes-982-per-screen-in-australian-opening-weekend",
-    "pubDate": "03.02.2026 04:48:56",
-    "sortDate": 1770094136000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Epstein files reveal Peter Mandelson supported campaign to undermine then-Australian PM Kevin Rudd’s mining super profits tax",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/03/epstein-files-peter-mandelson-kevin-rudd-mining-super-profits-tax",
-    "pubDate": "03.02.2026 04:46:02",
-    "sortDate": 1770093962000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia politics live: Chalmers says Ley targeting treasury secretary over RBA rate hike ‘reflects a level of desperation’; Tim Wilson ejected from question time",
+    "title": "Australia news live: major Sydney Mardi Gras event cancelled; man charged over allegedly giving Nazi salute to Jewish students at Melbourne airport",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/03/australia-politics-live-anthony-albanese-sussan-ley-labor-liberal-coalition-nationals-rba-interest-rates-decision-cost-of-living-leadership-spill-ntwnfb",
-    "pubDate": "03.02.2026 04:44:43",
-    "sortDate": 1770093883000,
+    "pubDate": "03.02.2026 07:42:59",
+    "sortDate": 1770104579000,
     "source": "The Guardian"
   },
   {
-    "title": "Lake Cargelligo alleged killer Julian Ingram previously convicted for grabbing family member by throat",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/03/accused-lake-cargelligo-shooter-julian-ingram-previous-throat-ntwnfb",
-    "pubDate": "03.02.2026 04:00:27",
-    "sortDate": 1770091227000,
+    "title": "Palestine Action Group plans march against Isaac Herzog’s visit despite protest restrictions",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/03/palestine-action-group-march-isaac-herzog-ntwnfb",
+    "pubDate": "03.02.2026 07:34:35",
+    "sortDate": 1770104075000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Elon Musk merges SpaceX with xAI at $1.25tn valuation",
+    "link": "https://www.theguardian.com/science/2026/feb/02/elon-musk-spacex-xai-merger",
+    "pubDate": "03.02.2026 07:25:18",
+    "sortDate": 1770103518000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Family of Australian woman who died after Japanese ski lift accident remember their ‘beautiful girl’",
+    "link": "https://www.theguardian.com/world/2026/feb/03/australian-woman-died-japan-ski-lift-brooke-day-tributes",
+    "pubDate": "03.02.2026 07:18:48",
+    "sortDate": 1770103128000,
     "source": "The Guardian"
   },
   {
     "title": "RBA interest rates decision: Reserve Bank increases cash rate to 3.85% in blow to mortgage holders",
     "link": "https://www.theguardian.com/australia-news/2026/feb/03/rba-interest-rate-decision-reserve-bank-australia-inflation",
-    "pubDate": "03.02.2026 03:49:52",
-    "sortDate": 1770090592000,
+    "pubDate": "03.02.2026 07:14:20",
+    "sortDate": 1770102860000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Aid cuts could cause 22m avoidable deaths by 2030, study finds",
+    "link": "https://www.theguardian.com/global-development/2026/feb/03/aid-cuts-avoidable-deaths-study-children-uk-us-donor-countries",
+    "pubDate": "03.02.2026 07:00:31",
+    "sortDate": 1770102031000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump says he is seeking $1bn in damages in Harvard dispute",
+    "link": "https://www.theguardian.com/us-news/2026/feb/03/trump-harvard-dispute-seeking-1bn-damages-settlement",
+    "pubDate": "03.02.2026 07:00:22",
+    "sortDate": 1770102022000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tuesday briefing: The ‘life-shattering’ stories of Epstein survivors",
+    "link": "https://www.theguardian.com/world/2026/feb/03/tuesday-briefing-first-edition-jeffrey-epstein-files-survivors",
+    "pubDate": "03.02.2026 06:40:30",
+    "sortDate": 1770100830000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nationals who defied shadow cabinet would sit on backbench for six months under Coalition peace deal",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/03/nationals-coalition-backbench",
+    "pubDate": "03.02.2026 05:58:19",
+    "sortDate": 1770098299000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran’s president says Tehran ready to pursue ‘fair’ talks with US",
+    "link": "https://www.theguardian.com/world/2026/feb/02/iran-abbas-araghchi-talks-us-nuclear-deal",
+    "pubDate": "03.02.2026 05:58:12",
+    "sortDate": 1770098292000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "China to ban hidden car door handles on all EVs over crash safety concerns",
+    "link": "https://www.theguardian.com/environment/2026/feb/03/china-to-ban-hidden-car-door-handles-evs",
+    "pubDate": "03.02.2026 05:27:16",
+    "sortDate": 1770096436000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Music and dancing signify defiance at celebratory funerals of Iran’s protesters",
+    "link": "https://www.theguardian.com/world/2026/feb/03/music-and-dancing-signify-defiance-at-celebratory-funerals-of-irans-protesters",
+    "pubDate": "03.02.2026 05:00:30",
+    "sortDate": 1770094830000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Riverford sales rise 6% as UK organics market enjoys biggest boom in two decades",
+    "link": "https://www.theguardian.com/environment/2026/feb/03/riverford-sales-rise-organics-market-boom",
+    "pubDate": "03.02.2026 05:00:30",
+    "sortDate": 1770094830000,
     "source": "The Guardian"
   },
   {
@@ -63,31 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Iran’s top diplomat says government is ready for talks with US on a nuclear deal",
-    "link": "https://www.theguardian.com/world/2026/feb/02/iran-abbas-araghchi-talks-us-nuclear-deal",
-    "pubDate": "03.02.2026 00:34:59",
-    "sortDate": 1770078899000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Sarah Ferguson charity to close after new details of friendship with Epstein",
     "link": "https://www.theguardian.com/uk-news/2026/feb/03/sarah-ferguson-charity-to-close-after-new-details-of-friendship-with-epstein",
     "pubDate": "03.02.2026 00:22:49",
     "sortDate": 1770078169000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "DHS’s account of two Venezuelans shot by border patrol falls apart in court: ‘A smear campaign’",
-    "link": "https://www.theguardian.com/us-news/2026/feb/02/portland-venezuelans-shot-border-patrol-court",
-    "pubDate": "03.02.2026 00:09:38",
-    "sortDate": 1770077378000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bill and Hillary Clinton agree to testify in House Epstein investigation",
-    "link": "https://www.theguardian.com/us-news/2026/feb/02/bill-clinton-interview-rejected-epstein",
-    "pubDate": "03.02.2026 00:07:20",
-    "sortDate": 1770077240000,
     "source": "The Guardian"
   },
   {
@@ -98,31 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Barnsley rebranded UK’s first ‘tech town’ as US giants join AI push",
-    "link": "https://www.theguardian.com/business/2026/feb/03/barnsley-uk-tech-town-ai-microsoft-cisco-adobe",
-    "pubDate": "03.02.2026 00:01:22",
-    "sortDate": 1770076882000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Emergency pneumonia cases surge to half a million a year in England",
-    "link": "https://www.theguardian.com/society/2026/feb/03/emergency-pneumonia-cases-skyrocket-england",
-    "pubDate": "03.02.2026 00:01:22",
-    "sortDate": 1770076882000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Handful of sick and wounded Palestinians allowed through Rafah crossing on first day",
     "link": "https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
     "pubDate": "02.02.2026 23:49:01",
     "sortDate": 1770076141000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Neil Gaiman claims sexual assault allegations are result of ‘smear campaign’",
-    "link": "https://www.theguardian.com/books/2026/feb/02/neil-gaiman-claims-sexual-assault-allegations-are-result-of-smear-campaign",
-    "pubDate": "02.02.2026 21:27:11",
-    "sortDate": 1770067631000,
     "source": "The Guardian"
   },
   {
@@ -203,6 +217,34 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN peacekeeping patrols suspended along Lebanon-Israel Blue Line",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166875",
+    "pubDate": "02.02.2026 12:00:00",
+    "sortDate": 1770033600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: Limited Rafah crossing reopening sparks hope – but also ‘massive trepidation’",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166872",
+    "pubDate": "02.02.2026 12:00:00",
+    "sortDate": 1770033600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Global health systems ‘at risk’ as funding cuts bite, warns WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166869",
+    "pubDate": "02.02.2026 12:00:00",
+    "sortDate": 1770033600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Invisible highways: The vast network of undersea cables powering our connectivity",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166867",
+    "pubDate": "02.02.2026 12:00:00",
+    "sortDate": 1770033600000,
+    "source": "UN News"
+  },
+  {
     "title": "‘Pure apocalypse’: a photographer’s journey through the Pantanal wildfires",
     "link": "https://www.theguardian.com/artanddesign/2026/feb/02/lalo-de-almeida-photographer-journey-through-pantanal-wildfires-brazil",
     "pubDate": "02.02.2026 07:00:50",
@@ -231,6 +273,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "From Cape Town to London, Deo Kato runs to challenge racism and reclaim the migration narrative",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166858",
+    "pubDate": "01.02.2026 12:00:00",
+    "sortDate": 1769947200000,
+    "source": "UN News"
+  },
+  {
     "title": "Gaza’s Rafah crossing to reopen for Palestinians on Monday, Israel says",
     "link": "https://www.theguardian.com/world/2026/feb/01/preparations-begin-for-reopening-of-gaza-rafah-crossing-officials-say",
     "pubDate": "01.02.2026 10:13:53",
@@ -242,13 +291,6 @@
     "link": "https://www.theguardian.com/business/2026/feb/01/us-uk-eu-australia-critical-minerals-rare-earths-g7-minimum-price",
     "pubDate": "01.02.2026 08:00:21",
     "sortDate": 1769932821000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Calls grow in Iran for independent inquiry into protest death toll",
-    "link": "https://www.theguardian.com/world/2026/feb/01/calls-grow-in-iran-for-independent-inquiry-into-protest-death-toll",
-    "pubDate": "01.02.2026 07:00:21",
-    "sortDate": 1769929221000,
     "source": "The Guardian"
   },
   {
@@ -266,6 +308,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Can workers compete with machines and stay relevant in the AI era?",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166847",
+    "pubDate": "31.01.2026 12:00:00",
+    "sortDate": 1769860800000,
+    "source": "UN News"
+  },
+  {
     "title": "Starmer hopes his China trip will begin the thaw after recent ice age",
     "link": "https://www.theguardian.com/world/2026/jan/31/starmer-hopes-his-china-trip-will-begin-the-thaw-after-recent-ice-age",
     "pubDate": "31.01.2026 06:00:55",
@@ -277,13 +326,6 @@
     "link": "https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
     "pubDate": "30.01.2026 22:11:57",
     "sortDate": 1769811117000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK politics: Starmer shrugs off Trump’s criticism of ‘very dangerous’ deal with China – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/jan/30/donald-trump-keir-starmer-china-uk-us-trade-deals-tariffs-latest-news",
-    "pubDate": "30.01.2026 17:10:05",
-    "sortDate": 1769793005000,
     "source": "The Guardian"
   },
   {
@@ -301,11 +343,179 @@
     "source": "The Guardian"
   },
   {
+    "title": "Myanmar crisis deepens five years after coup, as military ballot entrenches repression",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166866",
+    "pubDate": "30.01.2026 12:00:00",
+    "sortDate": 1769774400000,
+    "source": "UN News"
+  },
+  {
+    "title": "South Sudan: ‘All the conditions for a human catastrophe are present’",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166865",
+    "pubDate": "30.01.2026 12:00:00",
+    "sortDate": 1769774400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Syria ceasefire welcomed, ‘Olympic truce’, Ukraine’s freezing children",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166864",
+    "pubDate": "30.01.2026 12:00:00",
+    "sortDate": 1769774400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN watchdog warns Ukraine war remains world’s biggest threat to nuclear safety",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166863",
+    "pubDate": "30.01.2026 12:00:00",
+    "sortDate": 1769774400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Reaching a child in Darfur is ‘hard-won and fragile’, says UNICEF",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166861",
+    "pubDate": "30.01.2026 12:00:00",
+    "sortDate": 1769774400000,
+    "source": "UN News"
+  },
+  {
     "title": "Junta-backed party secures sweeping victory in Myanmar’s ‘sham’ election",
     "link": "https://www.theguardian.com/world/2026/jan/30/junta-backed-party-victory-myanmar-sham-election",
     "pubDate": "30.01.2026 06:46:47",
     "sortDate": 1769755607000,
     "source": "The Guardian"
+  },
+  {
+    "title": "UN chief ‘deeply concerned’ by escalation of violence in South Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166859",
+    "pubDate": "29.01.2026 12:00:00",
+    "sortDate": 1769688000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Violence roiling Nigeria extends beyond religious lines, amid a deepening humanitarian crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166857",
+    "pubDate": "29.01.2026 12:00:00",
+    "sortDate": 1769688000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: IOM warning for Sudan returnees, Nipah virus alert for India, food security in Afghanistan",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166855",
+    "pubDate": "29.01.2026 12:00:00",
+    "sortDate": 1769688000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Choose peace over chaos, Guterres urges as he sets out final-year priorities",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166853",
+    "pubDate": "29.01.2026 12:00:00",
+    "sortDate": 1769688000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Potential turning point for Gaza as peace plan enters second phase: UN envoy",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166852",
+    "pubDate": "28.01.2026 12:00:00",
+    "sortDate": 1769601600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘We children saw things that no one should ever have to see’ Holocaust survivor tells the UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166851",
+    "pubDate": "28.01.2026 12:00:00",
+    "sortDate": 1769601600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: UN Support Office in Haiti, Goodwill Ambassador Theo James in Syria, urgent appeal for millions in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166850",
+    "pubDate": "28.01.2026 12:00:00",
+    "sortDate": 1769601600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Ambassadors debate as Middle East crises mount",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166845",
+    "pubDate": "28.01.2026 12:00:00",
+    "sortDate": 1769601600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemen: Security Council votes on final extension of Hudaydah Mission",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166844",
+    "pubDate": "27.01.2026 12:00:00",
+    "sortDate": 1769515200000,
+    "source": "UN News"
+  },
+  {
+    "title": "From lunch tray to lifelong health: WHO sets global standards for school meals",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166843",
+    "pubDate": "27.01.2026 12:00:00",
+    "sortDate": 1769515200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN says Gaza crisis remains dire, children hardest hit",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166842",
+    "pubDate": "27.01.2026 12:00:00",
+    "sortDate": 1769515200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Remembering the Holocaust: ‘You are here because you choose hope over hate’",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166840",
+    "pubDate": "27.01.2026 12:00:00",
+    "sortDate": 1769515200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Independent experts alarmed by child rights violations in US immigration procedures",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166837",
+    "pubDate": "27.01.2026 12:00:00",
+    "sortDate": 1769515200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘We must stand up for our shared humanity - each and every day’: UN human rights chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166836",
+    "pubDate": "26.01.2026 12:00:00",
+    "sortDate": 1769428800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza ceasefire improves aid access, but children still face deadly conditions",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166835",
+    "pubDate": "26.01.2026 12:00:00",
+    "sortDate": 1769428800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Deadly shipwrecks in the Mediterranean, Duterte trial update, final hostage remains recovered in Gaza, FAO boosts farming in Haiti",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166834",
+    "pubDate": "26.01.2026 12:00:00",
+    "sortDate": 1769428800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Between fear and survival: Women and girls flee violence in northern Syria",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166833",
+    "pubDate": "26.01.2026 12:00:00",
+    "sortDate": 1769428800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN chief warns ‘law of the jungle’ is replacing rule of law",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166832",
+    "pubDate": "26.01.2026 12:00:00",
+    "sortDate": 1769428800000,
+    "source": "UN News"
+  },
+  {
+    "title": "South Sudan: UN and rights experts warn against risk of mass violence in Jonglei",
+    "link": "https://news.un.org/feed/view/en/story/2026/01/1166831",
+    "pubDate": "26.01.2026 12:00:00",
+    "sortDate": 1769428800000,
+    "source": "UN News"
   },
   {
     "title": "Myanmar military proxy expected to win landslide in widely denounced election",
