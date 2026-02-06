@@ -1,51 +1,121 @@
 [
   {
-    "title": "Calls to postpone presidential election as Storm Leonardo lashes Portugal and Spain",
-    "link": "https://www.theguardian.com/world/2026/feb/06/calls-postpone-presidential-election-storm-leonardo-portugal-spain",
-    "pubDate": "06.02.2026 11:54:05",
-    "sortDate": 1770378845000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Keir Starmer ‘needs a miracle’ to stay on as prime minister, says Labour MP amid Mandelson scandal - UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/feb/06/labour-party-keir-starmer-peter-mandelson-morgan-mcsweeney-live-news-latest-updates",
-    "pubDate": "06.02.2026 11:53:54",
-    "sortDate": 1770378834000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russia’s foreign minister claims Ukraine to blame for attempted assassination of top general – Europe live",
+    "title": "Russia blames Ukraine for attempted assassination of top general – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/feb/06/russian-military-intelligence-chief-shot-moscow-vladimir-alekseyev-ukraine-europe-live-news-updates",
-    "pubDate": "06.02.2026 11:45:21",
-    "sortDate": 1770378321000,
+    "pubDate": "06.02.2026 14:11:25",
+    "sortDate": 1770387085000,
     "source": "The Guardian"
   },
   {
     "title": "Donald Trump prompts fury after posting racist video about Barack and Michelle Obama – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/feb/06/trump-barack-obama-michelle-truth-social-epstein-latest-news-updates",
-    "pubDate": "06.02.2026 11:36:11",
-    "sortDate": 1770377771000,
+    "pubDate": "06.02.2026 14:08:23",
+    "sortDate": 1770386903000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Keir Starmer ‘needs a miracle’ to stay on as prime minister, says Labour MP amid Mandelson scandal - UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/06/labour-party-keir-starmer-peter-mandelson-morgan-mcsweeney-live-news-latest-updates",
+    "pubDate": "06.02.2026 14:02:52",
+    "sortDate": 1770386572000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Legal groups push for Australian federal police to arrest retired general travelling with Israeli president",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/06/legal-groups-push-for-australian-federal-police-to-arrest-retired-general-travelling-with-israeli-president",
+    "pubDate": "06.02.2026 14:00:09",
+    "sortDate": 1770386409000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Most of England’s smart motorways are poor value for money, official reports find",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/06/smart-motorways-poor-value-report-aa",
+    "pubDate": "06.02.2026 13:48:45",
+    "sortDate": 1770385725000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran’s state media says talks with the US ‘over for now’ as fears of direct conflict continue – live",
+    "link": "https://www.theguardian.com/world/live/2026/feb/06/us-iran-nuclear-talks-oman-live-updates",
+    "pubDate": "06.02.2026 13:45:06",
+    "sortDate": 1770385506000,
     "source": "The Guardian"
   },
   {
     "title": "Weather tracker: Storm Leonardo continues to batter Europe and northern Africa",
     "link": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
-    "pubDate": "06.02.2026 11:28:23",
-    "sortDate": 1770377303000,
+    "pubDate": "06.02.2026 13:33:15",
+    "sortDate": 1770384795000,
     "source": "The Guardian"
   },
   {
-    "title": "US and Iran set for further talks in Oman amid Trump’s military threats – live",
-    "link": "https://www.theguardian.com/world/live/2026/feb/06/us-iran-nuclear-talks-oman-live-updates",
-    "pubDate": "06.02.2026 11:23:54",
-    "sortDate": 1770377034000,
+    "title": "Menstrual blood test could offer alternative to cervical screening for cancer",
+    "link": "https://www.theguardian.com/society/2026/feb/06/menstrual-blood-test-alternative-cervical-screening-hpv",
+    "pubDate": "06.02.2026 13:32:50",
+    "sortDate": 1770384770000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Calls to postpone presidential election as Storm Leonardo lashes Portugal and Spain",
+    "link": "https://www.theguardian.com/world/2026/feb/06/calls-postpone-presidential-election-storm-leonardo-portugal-spain",
+    "pubDate": "06.02.2026 13:32:33",
+    "sortDate": 1770384753000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK and France asylum deal could violate human rights laws, warns UN",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/06/un-uk-and-france-halt-one-in-one-out-asylum-system",
+    "pubDate": "06.02.2026 13:17:58",
+    "sortDate": 1770383878000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Bombing at mosque in Pakistan’s capital kills at least 31 people",
+    "link": "https://www.theguardian.com/world/2026/feb/06/bombing-explosion-shia-mosque-pakistan-islamabad",
+    "pubDate": "06.02.2026 13:05:03",
+    "sortDate": 1770383103000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russian general Vladimir Alekseyev in critical condition after Moscow shooting",
+    "link": "https://www.theguardian.com/world/2026/feb/06/russia-military-general-vladimir-alekseyev",
+    "pubDate": "06.02.2026 12:55:41",
+    "sortDate": 1770382541000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Boss of lobbying firm founded with Peter Mandelson quits after Epstein revelations",
+    "link": "https://www.theguardian.com/politics/2026/feb/06/ben-wegg-prosser-boss-lobbying-firm-peter-mandelson-quits-jeffrey-epstein-revelations",
+    "pubDate": "06.02.2026 12:48:41",
+    "sortDate": 1770382121000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak",
+    "link": "https://www.theguardian.com/us-news/2026/feb/06/rfk-jr-samoa-trip",
+    "pubDate": "06.02.2026 12:11:54",
+    "sortDate": 1770379914000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Canada and France open Greenland consulates in show of Denmark support",
+    "link": "https://www.theguardian.com/world/2026/feb/06/canada-and-france-open-greenland-consulates-in-show-of-denmark-support",
+    "pubDate": "06.02.2026 12:05:45",
+    "sortDate": 1770379545000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Despite assurances, residents and officials prepare for possible ICE operations during Super Bowl",
+    "link": "https://www.theguardian.com/sport/2026/feb/06/super-bowl-ice-operations",
+    "pubDate": "06.02.2026 12:00:08",
+    "sortDate": 1770379208000,
     "source": "The Guardian"
   },
   {
     "title": "TikTok could be forced to change app’s ‘addictive design’ by European Commission",
     "link": "https://www.theguardian.com/technology/2026/feb/06/tiktok-app-addictive-design-preliminary-ruling-european-commission",
-    "pubDate": "06.02.2026 11:09:58",
-    "sortDate": 1770376198000,
+    "pubDate": "06.02.2026 11:57:10",
+    "sortDate": 1770379030000,
     "source": "The Guardian"
   },
   {
@@ -56,14 +126,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Only seven new petrol-powered cars sold in Norway in January",
-    "link": "https://www.theguardian.com/world/2026/feb/06/only-seven-petrol-powered-cars-sold-in-norway-in-january",
-    "pubDate": "06.02.2026 10:20:02",
-    "sortDate": 1770373202000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labour thinktank close to Morgan McSweeney ‘paid firm to investigate journalists’",
+    "title": "Labour thinktank close to Morgan McSweeney paid firm to investigate journalists",
     "link": "https://www.theguardian.com/politics/2026/feb/06/labour-thinktank-close-to-morgan-mcsweeney-allegedly-paid-firm-to-investigate-journalists",
     "pubDate": "06.02.2026 10:06:31",
     "sortDate": 1770372391000,
@@ -74,34 +137,6 @@
     "link": "https://www.theguardian.com/music/2026/feb/06/bad-bunny-super-bowl-info-explainer",
     "pubDate": "06.02.2026 10:04:03",
     "sortDate": 1770372243000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Gruffalo Granny is coming to stay’: new story to be released in September",
-    "link": "https://www.theguardian.com/books/2026/feb/06/gruffalo-granny-released-september-julian-donaldson-axel-scheffler",
-    "pubDate": "06.02.2026 10:00:14",
-    "sortDate": 1770372014000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russian general Vladimir Alekseyev in critical condition after Moscow shooting",
-    "link": "https://www.theguardian.com/world/2026/feb/06/russia-military-general-vladimir-alekseyev",
-    "pubDate": "06.02.2026 09:47:09",
-    "sortDate": 1770371229000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Starmer faces renewed calls to sack chief of staff over Mandelson scandal",
-    "link": "https://www.theguardian.com/politics/2026/feb/06/starmer-renewed-calls-sack-morgan-mcsweeney-mandelson",
-    "pubDate": "06.02.2026 09:20:58",
-    "sortDate": 1770369658000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Price of average UK home passes £300,000 for first time, Halifax says",
-    "link": "https://www.theguardian.com/business/2026/feb/06/price-of-average-uk-home-passes-300000-for-first-time-halifax-says",
-    "pubDate": "06.02.2026 08:12:07",
-    "sortDate": 1770365527000,
     "source": "The Guardian"
   },
   {
@@ -116,13 +151,6 @@
     "link": "https://www.theguardian.com/us-news/2026/feb/06/donald-trump-voting-midterms-democrat-national-strike",
     "pubDate": "06.02.2026 04:37:21",
     "sortDate": 1770352641000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US military says two killed in strike on alleged drug boat in Pacific",
-    "link": "https://www.theguardian.com/us-news/2026/feb/06/two-killed-us-strike-alleged-drug-boat-pacific-trump",
-    "pubDate": "06.02.2026 04:08:22",
-    "sortDate": 1770350902000,
     "source": "The Guardian"
   },
   {
@@ -147,13 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Savannah Guthrie’s brother pleads for mother’s kidnapper to contact family",
-    "link": "https://www.theguardian.com/us-news/2026/feb/05/savannah-nancy-guthrie-mom-blood-home",
-    "pubDate": "06.02.2026 03:06:09",
-    "sortDate": 1770347169000,
-    "source": "The Guardian"
-  },
-  {
     "title": "That’s a wrasse! Rare fish spotted for first time since 2009 in kelp forest in Western Australia",
     "link": "https://www.theguardian.com/environment/2026/feb/06/braun-wrasse-rare-fish-kelp-forest-western-australia",
     "pubDate": "06.02.2026 02:50:24",
@@ -172,13 +193,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/feb/06/man-shot-dead-police-nsw-after-stabbing-woman-ntwnfb",
     "pubDate": "06.02.2026 02:18:33",
     "sortDate": 1770344313000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NSW chief justice says Tony Abbott’s criticism of Harbour Bridge march judge ‘misconceived and ignorant’",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/06/tony-abbott-chief-justice-criticism-harbour-bridge-judge",
-    "pubDate": "06.02.2026 01:46:46",
-    "sortDate": 1770342406000,
     "source": "The Guardian"
   },
   {
@@ -273,13 +287,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "The people betting on catastrophic world events – podcast",
-    "link": "https://www.theguardian.com/news/audio/2026/feb/04/the-people-betting-on-catastrophic-world-events-podcast",
-    "pubDate": "04.02.2026 03:00:31",
-    "sortDate": 1770174031000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pakistan targets Balochistan separatists after ‘unprecedented’ assaults",
     "link": "https://www.theguardian.com/world/2026/feb/01/pakistan-targets-balochistan-separatists-after-unprecedented-assaults",
     "pubDate": "01.02.2026 14:07:54",
@@ -305,13 +312,6 @@
     "link": "https://www.theguardian.com/world/2026/jan/30/junta-backed-party-victory-myanmar-sham-election",
     "pubDate": "30.01.2026 06:46:47",
     "sortDate": 1769755607000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Myanmar military proxy expected to win landslide in widely denounced election",
-    "link": "https://www.theguardian.com/world/2026/jan/25/myanmar-election-enters-final-stage-amid-airstrikes-and-exclusions",
-    "pubDate": "25.01.2026 10:55:53",
-    "sortDate": 1769338553000,
     "source": "The Guardian"
   }
 ]
