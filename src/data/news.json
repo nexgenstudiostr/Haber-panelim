@@ -1,16 +1,149 @@
 [
   {
+    "title": "Keir Starmer’s director of communications Tim Allan steps down",
+    "link": "https://www.theguardian.com/politics/2026/feb/09/keir-starmer-director-of-communications-tim-allan-step-down",
+    "pubDate": "09.02.2026 11:30:07",
+    "sortDate": 1770636607000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Disturbing’: Australian government demands review of Roblox’s PG rating after reports of child grooming",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/09/australian-government-roblox-rating-child-safety",
+    "pubDate": "09.02.2026 11:30:02",
+    "sortDate": 1770636602000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump calls Bad Bunny’s Super Bowl performance ‘absolutely terrible’ – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/feb/09/donald-trump-bad-bunny-super-bowl-politics-latest-updates",
+    "pubDate": "09.02.2026 11:29:16",
+    "sortDate": 1770636556000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First Thing: Relentless Seahawks pummel Patriots to claim their second Super Bowl title",
+    "link": "https://www.theguardian.com/us-news/2026/feb/09/first-thing-relentless-seahawks-pummel-patriots-to-claim-their-second-super-bowl-title",
+    "pubDate": "09.02.2026 11:25:00",
+    "sortDate": 1770636300000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Europe entering ‘prolonged period of confrontation’, security report warns – latest updates",
+    "link": "https://www.theguardian.com/world/live/2026/feb/09/europe-eu-jimmy-lai-ukraine-russia-us-portugal-latest-news-updates",
+    "pubDate": "09.02.2026 11:18:50",
+    "sortDate": 1770635930000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "53 dead or missing after migrant boat capsizes in Mediterranean",
+    "link": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
+    "pubDate": "09.02.2026 11:17:26",
+    "sortDate": 1770635846000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer’s head of communications Tim Allan says he is leaving ‘to allow new No 10 team to be built’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/09/starmer-mandelson-epstein-labour-mcsweeney-conservatives-latest-news-updates",
+    "pubDate": "09.02.2026 11:15:48",
+    "sortDate": 1770635748000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+    "link": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+    "pubDate": "09.02.2026 11:00:20",
+    "sortDate": 1770634820000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Maine shaken by ICE raids as backlash threatens Republican Senate control",
+    "link": "https://www.theguardian.com/us-news/2026/feb/09/maine-ice-raids",
+    "pubDate": "09.02.2026 11:00:05",
+    "sortDate": 1770634805000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police clash with protesters as thousands rally to oppose Israeli president’s visit – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/09/anthony-albanese-sussan-ley-labor-liberal-national-coalition-israel-president-arrives-sydney-melbourne-protests-vic-nsw-qld-ntwnfb",
+    "pubDate": "09.02.2026 10:37:36",
+    "sortDate": 1770633456000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Experts sound alarm over UK exports to firm linked to Russian war machine",
+    "link": "https://www.theguardian.com/business/2026/feb/09/experts-sound-alarm-over-uk-exports-to-firm-linked-to-russian-war-machine",
+    "pubDate": "09.02.2026 10:33:20",
+    "sortDate": 1770633200000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NSW police pepper spray protesters at Sydney rally opposing Isaac Herzog’s visit",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/09/nsw-police-pepper-spray-protesters-at-sydney-rally-opposing-isaac-herzogs-visit",
+    "pubDate": "09.02.2026 10:32:06",
+    "sortDate": 1770633126000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jimmy Lai, Hong Kong pro-democracy figure, sentenced to 20 years in prison",
+    "link": "https://www.theguardian.com/world/2026/feb/09/jimmy-lai-sentencing-china-hong-kong-pro-democracy-businessman",
+    "pubDate": "09.02.2026 10:27:58",
+    "sortDate": 1770632878000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Prince and Princess of Wales ‘deeply concerned’ by Epstein revelations",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/09/prince-princess-wales-deeply-concerned-epstein-revelations-andrew",
+    "pubDate": "09.02.2026 10:02:20",
+    "sortDate": 1770631340000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Japanese shares hit record high as Sanae Takaichi wins landslide election victory",
+    "link": "https://www.theguardian.com/world/2026/feb/09/japanese-shares-hit-record-high-as-sanae-takaichi-wins-landslide-election-victory",
+    "pubDate": "09.02.2026 09:29:13",
+    "sortDate": 1770629353000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Europe’s ‘painful’ realisation it must be bolder with US set out in security report",
+    "link": "https://www.theguardian.com/world/2026/feb/09/europe-us-munich-security-conference-report",
+    "pubDate": "09.02.2026 09:00:02",
+    "sortDate": 1770627602000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NatWest to buy wealth manager Evelyn Partners for £2.7bn",
+    "link": "https://www.theguardian.com/business/2026/feb/09/natwest-buy-wealth-manager-evelyn-partners-barclays",
+    "pubDate": "09.02.2026 08:33:59",
+    "sortDate": 1770626039000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Isaac Herzog meets survivors of Bondi terror attack as thousands in Sydney and Melbourne protest visit",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/09/isaac-herzog-israeli-president-arrives-sydney-australia-ntwnfb",
+    "pubDate": "09.02.2026 08:25:15",
+    "sortDate": 1770625515000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Portugal elects socialist as president but far-right rival takes record vote share",
+    "link": "https://www.theguardian.com/world/2026/feb/09/portugal-election-result-socialist-president-antonio-jose-seguro",
+    "pubDate": "09.02.2026 08:16:57",
+    "sortDate": 1770625017000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK expands Hong Kong visa scheme in wake of Jimmy Lai’s prison sentence",
+    "link": "https://www.theguardian.com/world/2026/feb/09/uk-expands-hong-kong-visa-scheme-in-wake-of-jimmy-lai-prison-sentence",
+    "pubDate": "09.02.2026 08:04:32",
+    "sortDate": 1770624272000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Authorities seek to remove from social media image of foetus being circulated by Australian anti-abortion activists",
     "link": "https://www.theguardian.com/australia-news/2026/feb/09/foetus-image-social-media-joanna-howe-anti-abortion-post-removal-ntwnfb",
     "pubDate": "09.02.2026 07:49:34",
     "sortDate": 1770623374000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: rallies in Melbourne and Sydney protest Isaac Herzog’s visit; federal Labor allocates about $131m for antisemitism royal commission",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/09/anthony-albanese-sussan-ley-labor-liberal-national-coalition-israel-president-arrives-sydney-melbourne-protests-vic-nsw-qld-ntwnfb",
-    "pubDate": "09.02.2026 07:44:32",
-    "sortDate": 1770623072000,
     "source": "The Guardian"
   },
   {
@@ -21,38 +154,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pro-Palestine group loses legal challenge against sweeping NSW police powers for Isaac Herzog’s visit",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/09/herzog-protests-pro-palestine-activists-nsw-major-event-powers",
-    "pubDate": "09.02.2026 06:17:06",
-    "sortDate": 1770617826000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran arrests leading reformists close to the country’s president",
     "link": "https://www.theguardian.com/world/2026/feb/09/iran-arrests-leading-reformists-close-to-the-countrys-president",
     "pubDate": "09.02.2026 06:00:54",
     "sortDate": 1770616854000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "England’s poorest areas have 70% more vape shops and bookmakers than wealthier ones",
-    "link": "https://www.theguardian.com/society/2026/feb/09/englands-poorest-areas-have-70-more-vape-shops-and-bookmakers-than-wealthier-ones",
-    "pubDate": "09.02.2026 06:00:51",
-    "sortDate": 1770616851000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Synthetic opioids may have caused hundreds more UK deaths than thought",
-    "link": "https://www.theguardian.com/society/2026/feb/09/synthetic-opioids-nitazenes-more-uk-deaths-than-thought",
-    "pubDate": "09.02.2026 05:00:54",
-    "sortDate": 1770613254000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "300,000 children face 10-year wait for settled status under UK plans, says IPPR",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/09/children-settled-status-home-office-plans-ippr",
-    "pubDate": "09.02.2026 05:00:50",
-    "sortDate": 1770613250000,
     "source": "The Guardian"
   },
   {
@@ -63,29 +168,8 @@
     "source": "The Guardian"
   },
   {
-    "title": "Angus Taylor supporters expect him to challenge Sussan Ley for Liberal leadership within days",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/09/angus-taylor-sussan-ley-liberal-leadership-challenge-expected",
-    "pubDate": "09.02.2026 03:42:11",
-    "sortDate": 1770608531000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "ABC to air Four Corners episode on Bondi terror attack despite preemptive criticism by Asio",
-    "link": "https://www.theguardian.com/media/2026/feb/09/abc-four-corners-episode-bondi-terror-attack-asio-warning",
-    "pubDate": "09.02.2026 03:19:09",
-    "sortDate": 1770607149000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Christchurch gunman seeks to appeal convictions and withdraw guilty plea",
     "link": "https://www.theguardian.com/world/2026/feb/09/christchurch-shooter-brenton-tarrant-conviction-appeal-guilty-plea",
-    "pubDate": "09.02.2026 03:17:07",
-    "sortDate": 1770607027000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Blame me’: what the UK papers say as Morgan McSweeney quits over Mandelson-Epstein scandal",
-    "link": "https://www.theguardian.com/politics/2026/feb/09/morgan-mcsweeney-quits-mandelson-epstein-scandal-uk-papers",
     "pubDate": "09.02.2026 03:17:07",
     "sortDate": 1770607027000,
     "source": "The Guardian"
@@ -95,20 +179,6 @@
     "link": "https://www.theguardian.com/world/live/2026/feb/09/jimmy-lai-sentencing-hong-kong-court-to-rule-on-pro-democracy-media-mogul-after-conviction-live-updates",
     "pubDate": "09.02.2026 03:01:13",
     "sortDate": 1770606073000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jimmy Lai, Hong Kong pro-democracy figure, sentenced to 20 years in prison for national security offences",
-    "link": "https://www.theguardian.com/world/2026/feb/09/jimmy-lai-sentencing-china-hong-kong-pro-democracy-businessman",
-    "pubDate": "09.02.2026 02:13:53",
-    "sortDate": 1770603233000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Pulling up the drawbridge’: Alf Dubs criticises Shabana Mahmood’s plans for child refugees",
-    "link": "https://www.theguardian.com/politics/2026/feb/09/alf-dubs-shabana-mahmood-labour-plans-child-refugees",
-    "pubDate": "09.02.2026 00:00:45",
-    "sortDate": 1770595245000,
     "source": "The Guardian"
   },
   {
@@ -126,34 +196,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Democrats will stop Trump from trying to nationalize midterms, Jeffries says",
-    "link": "https://www.theguardian.com/us-news/2026/feb/08/democrats-trump-nationalizing-midterms-hakeem-jeffries",
-    "pubDate": "08.02.2026 20:33:02",
-    "sortDate": 1770582782000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump calls Hunter Hess ‘a real loser’ for skier’s ambivalence about representing US",
-    "link": "https://www.theguardian.com/sport/2026/feb/08/donald-trump-hunter-hess-olympics",
-    "pubDate": "08.02.2026 19:20:19",
-    "sortDate": 1770578419000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sanae Takaichi’s conservatives cement power in landslide Japan election win",
-    "link": "https://www.theguardian.com/world/2026/feb/08/japan-election-conservatives-victory-sanae-takaichi",
-    "pubDate": "08.02.2026 18:50:02",
-    "sortDate": 1770576602000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Thai PM’s party on track to win election in blow to pro-democracy camp",
-    "link": "https://www.theguardian.com/world/2026/feb/08/thai-voters-head-to-the-polls-with-three-main-parties-vying-to-form-government",
-    "pubDate": "08.02.2026 17:51:00",
-    "sortDate": 1770573060000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran sentences Nobel laureate Narges Mohammadi to seven more years in prison",
     "link": "https://www.theguardian.com/world/2026/feb/08/iran-nobel-laureate-narges-mohammadi-seven-more-years-prison-hunger-strike",
     "pubDate": "08.02.2026 17:27:26",
@@ -165,34 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/08/french-police-arrest-five-over-crypto-linked-magistrate-kidnapping",
     "pubDate": "08.02.2026 16:49:34",
     "sortDate": 1770569374000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s EPA reapproves contentious weedkiller dicamba for some GM crops",
-    "link": "https://www.theguardian.com/us-news/2026/feb/08/epa-reapproves-contentious-weedkiller-dicamba",
-    "pubDate": "08.02.2026 16:42:30",
-    "sortDate": 1770568950000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Veteran French politician quits as head of prestigious institute after Epstein links revealed",
-    "link": "https://www.theguardian.com/world/2026/feb/07/veteran-french-politician-quits-as-head-of-prestigious-institute-after-epstein-links-revealed",
-    "pubDate": "08.02.2026 14:41:46",
-    "sortDate": 1770561706000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Memorial for Swiss bar fire victims goes up in flames",
-    "link": "https://www.theguardian.com/world/2026/feb/08/memorial-for-swiss-bar-fire-victims-crans-montana-goes-up-in-flames",
-    "pubDate": "08.02.2026 13:35:34",
-    "sortDate": 1770557734000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mystery plaintiff challenges Karl Lagerfeld’s will – but pampered cat can rest easy",
-    "link": "https://www.theguardian.com/fashion/2026/feb/08/mystery-plaintiff-challenges-karl-lagerfeld-will-pampered-cat-choupette",
-    "pubDate": "08.02.2026 12:45:18",
-    "sortDate": 1770554718000,
     "source": "The Guardian"
   },
   {
@@ -277,20 +291,6 @@
     "link": "https://www.theguardian.com/environment/2026/feb/06/weather-tracker-storm-leonardo-europe-portugal-spain-northern-africa",
     "pubDate": "06.02.2026 13:33:15",
     "sortDate": 1770384795000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘They killed my sons’: chief of Nigerian village where jihadists massacred hundreds recounts night of terror",
-    "link": "https://www.theguardian.com/world/2026/feb/05/nigeria-sends-troops-to-villages-attacked-by-jihadist-fighters",
-    "pubDate": "05.02.2026 20:33:00",
-    "sortDate": 1770323580000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
-    "link": "https://www.theguardian.com/world/2026/feb/04/gunmen-west-nigeria-attack-red-cross",
-    "pubDate": "04.02.2026 17:40:32",
-    "sortDate": 1770226832000,
     "source": "The Guardian"
   },
   {
