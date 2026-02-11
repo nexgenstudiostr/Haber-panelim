@@ -1,9 +1,93 @@
 [
   {
-    "title": "Australia politics live: Angus Taylor expected to quit shadow cabinet and launch leadership challenge against Sussan Ley tonight",
+    "title": "Lib Dems call for ‘anti-growth’ Treasury to be split up – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/11/pmqs-keir-starmer-kemi-badenoch-labour-matthew-doyle-peter-mandelson-latest-news-updates",
+    "pubDate": "11.02.2026 11:14:26",
+    "sortDate": 1770808466000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Met had ‘don’t ask, don’t tell’ policy, says spycop who tricked women into sexual relationships",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/11/spycop-scandal-public-inquiry-jim-boyling-sexual-relationships",
+    "pubDate": "11.02.2026 11:14:03",
+    "sortDate": 1770808443000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russian strikes on Ukraine kill four amid reports Zelenskyy considering elections and peace deal referendum – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/feb/11/europe-live-latest-news-updates-eu-ukraine-russia",
+    "pubDate": "11.02.2026 11:01:18",
+    "sortDate": 1770807678000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Activist investor Elliott builds up stake in London Stock Exchange Group",
+    "link": "https://www.theguardian.com/business/2026/feb/11/activist-investor-elliott-builds-up-stake-in-london-stock-exchange-group",
+    "pubDate": "11.02.2026 11:00:12",
+    "sortDate": 1770807612000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘How many beers do you have?’ Swedish PM seeks boost from phone-in podcast",
+    "link": "https://www.theguardian.com/world/2026/feb/11/swedish-prime-ministers-new-podcast-improve-his-fortunes-election",
+    "pubDate": "11.02.2026 10:36:17",
+    "sortDate": 1770806177000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "France makes international appeal over ex-teacher accused of raping 89 children",
+    "link": "https://www.theguardian.com/world/2026/feb/11/france-international-appeal-ex-teacher-jacques-leveugle-accused-rape-children",
+    "pubDate": "11.02.2026 10:35:13",
+    "sortDate": 1770806113000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Palestine Action activist says jury verdicts were vindication of cause",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/11/palestine-action-activist-says-jury-verdicts-were-vindication-of-cause",
+    "pubDate": "11.02.2026 10:28:10",
+    "sortDate": 1770805690000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK wealth manager and price comparison site shares fall amid AI fears",
+    "link": "https://www.theguardian.com/business/2026/feb/11/uk-wealth-manager-and-price-comparison-site-shares-fall-amid-ai-fears",
+    "pubDate": "11.02.2026 10:03:36",
+    "sortDate": 1770804216000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Angus Taylor resigns from shadow cabinet ahead of expected Liberal leadership challenge",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/11/angus-taylor-sussan-ley-liberal-leadership",
+    "pubDate": "11.02.2026 09:39:45",
+    "sortDate": 1770802785000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shadow attorney general says it would be unacceptable to ‘effectively knife’ first female Liberal leader – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/11/politics-liberal-party-spill-sussan-ley-labor-anthony-albanese-herzog-protests-sydney-canberra-melbourne-ntwnfb",
-    "pubDate": "11.02.2026 07:49:38",
-    "sortDate": 1770796178000,
+    "pubDate": "11.02.2026 09:31:06",
+    "sortDate": 1770802266000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No 10 ‘did not know’ of aide’s links to paedophile when he was given peerage",
+    "link": "https://www.theguardian.com/politics/2026/feb/11/downing-street-unaware-aide-matthew-doyle-links-to-paedophile-when-given-peerage",
+    "pubDate": "11.02.2026 09:31:05",
+    "sortDate": 1770802265000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘We need a helicopter to go find them’: 13-year-old’s emergency call to save family stranded off WA coast revealed",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/11/we-need-a-helicopter-to-go-find-them-13-year-olds-triple-zero-call-to-save-family-stranded-off-wa-coast-revealed",
+    "pubDate": "11.02.2026 08:27:52",
+    "sortDate": 1770798472000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Some of world’s oldest trees hit by climate-fuelled wildfires in Patagonia",
+    "link": "https://www.theguardian.com/world/2026/feb/11/climate-fuelled-wildfires-patagonia-argentina-chile-oldest-trees",
+    "pubDate": "11.02.2026 08:00:11",
+    "sortDate": 1770796811000,
     "source": "The Guardian"
   },
   {
@@ -42,45 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Broken ribs, ruptured bowels: ebike injuries double at major Sydney hospital in one year",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/11/broken-ribs-ruptured-bowels-ebike-injuries-double-at-major-sydney-hospital-in-one-year",
-    "pubDate": "11.02.2026 06:20:24",
-    "sortDate": 1770790824000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘I’m thinking of building an ark’: the Cornish village soaked by 41 consecutive days of rain",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/11/cardinham-cornwall-village-consecutive-days-rain",
-    "pubDate": "11.02.2026 06:00:10",
-    "sortDate": 1770789610000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nurses’ families fear being torn apart in UK immigration crackdown, survey says",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/11/nurses-families-fear-being-torn-apart-in-uk-immigration-crackdown-survey-says",
-    "pubDate": "11.02.2026 06:00:09",
-    "sortDate": 1770789609000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Can the Swedish prime minister’s new podcast improve his fortunes in this year’s election?",
-    "link": "https://www.theguardian.com/world/2026/feb/11/swedish-prime-ministers-new-podcast-improve-his-fortunes-election",
-    "pubDate": "11.02.2026 05:00:08",
-    "sortDate": 1770786008000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Father of pro-democracy activist Anna Kwok first to be convicted under Hong Kong national security law",
     "link": "https://www.theguardian.com/world/2026/feb/11/kwok-yin-sang-father-hong-kong-activist-anna-kwok-convicted",
     "pubDate": "11.02.2026 04:05:42",
     "sortDate": 1770782742000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "PM tells Isaac Herzog Australia wants transparency over Zomi Frankcom’s death as pair meet in Canberra",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/11/isaac-herzog-australia-zomi-frankcom-death-albanese-meeting-ntwnfb",
-    "pubDate": "11.02.2026 04:00:56",
-    "sortDate": 1770782456000,
     "source": "The Guardian"
   },
   {
@@ -133,27 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Unsustainable’ gaps in policing of franchise businesses must end, MPs say",
-    "link": "https://www.theguardian.com/business/2026/feb/11/unsustainable-gaps-policing-franchise-businesses-mps",
-    "pubDate": "11.02.2026 00:01:03",
-    "sortDate": 1770768063000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Antisemitic incidents in UK spiked after Manchester synagogue terror attack",
-    "link": "https://www.theguardian.com/news/2026/feb/11/antisemitic-incidents-spiked-manchester-synagogue-terror-attack",
-    "pubDate": "11.02.2026 00:01:03",
-    "sortDate": 1770768063000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "English secondary schools must offer inclusion areas for neurodiverse and Send pupils",
-    "link": "https://www.theguardian.com/education/2026/feb/11/english-secondary-schools-must-offer-inclusion-areas-for-neurodiverse-and-send-pupils",
-    "pubDate": "11.02.2026 00:01:01",
-    "sortDate": 1770768061000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran tells US not to let Netanyahu thwart nuclear talks before Trump meeting",
     "link": "https://www.theguardian.com/world/2026/feb/10/iran-tells-us-not-to-let-netanyahu-thwart-nuclear-talks-before-trump-meeting",
     "pubDate": "10.02.2026 19:34:01",
@@ -168,13 +196,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Norway defence chief says Russia could invade to protect nuclear assets",
-    "link": "https://www.theguardian.com/world/2026/feb/10/norway-defence-chief-russia-nuclear-assets",
-    "pubDate": "10.02.2026 19:07:06",
-    "sortDate": 1770750426000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Wake-up call’ for Greece as air force officer accused of spying for China",
     "link": "https://www.theguardian.com/world/2026/feb/10/greek-air-force-officer-arrested-on-suspicion-of-spying-for-china",
     "pubDate": "10.02.2026 19:04:29",
@@ -182,24 +203,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Drive the ‘ice road’, Estonians told – just don’t fasten your seatbelt",
-    "link": "https://www.theguardian.com/world/2026/feb/10/estonia-ice-road-frozen-sea-saaremaa-hiiumaa",
-    "pubDate": "10.02.2026 18:54:12",
-    "sortDate": 1770749652000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Mark Carney reminds Trump that Canada paid for key border bridge US president says he won’t open",
     "link": "https://www.theguardian.com/us-news/2026/feb/10/trump-canada-windsor-detroit-bridge",
     "pubDate": "10.02.2026 18:28:59",
     "sortDate": 1770748139000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bulgaria gripped by mysterious deaths of six people in mountains",
-    "link": "https://www.theguardian.com/world/2026/feb/10/bulgaria-mysterious-deaths-mountains-petrohan-pass",
-    "pubDate": "10.02.2026 17:13:52",
-    "sortDate": 1770743632000,
     "source": "The Guardian"
   },
   {
@@ -224,6 +231,69 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN social policy commission closes with calls to turn pledges into action",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166939",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Women and girls in science: Dismantling barriers, closing gender gaps",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166938",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN warns civilians remain at risk as airstrikes continue across Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166937",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Bahrain; work, dignity and the quiet rise of home-grown enterprise",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166934",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Violence surges in South Sudan leaving civilians at risk and peacekeepers stretched thin",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166935",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
+    "title": "General Assembly President urges Europeans to ‘stand up’ for the UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166933",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fresh report warns fish fraud extends to one fifth of global catch",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166932",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Sudan, sick and starving children ‘wasting away’",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166931",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ethiopia: Türk fears new crisis in Tigray amid renewed fighting",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166930",
+    "pubDate": "10.02.2026 12:00:00",
+    "sortDate": 1770724800000,
+    "source": "UN News"
+  },
+  {
     "title": "Iran’s shadow fleet of old tankers a ticking bomb for sea life, say experts",
     "link": "https://www.theguardian.com/environment/2026/feb/10/ticking-time-bomb-iran-shadow-fleet-old-tankers-risking-catastrophic-oil-spill",
     "pubDate": "10.02.2026 11:50:01",
@@ -235,13 +305,6 @@
     "link": "https://www.theguardian.com/global-development/2026/feb/10/traditional-food-could-help-reverse-nepals-diabetes-epidemic-studies-suggest",
     "pubDate": "10.02.2026 10:00:18",
     "sortDate": 1770717618000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump threatens to block new bridge in latest tirade against Canada",
-    "link": "https://www.theguardian.com/us-news/2026/feb/09/trump-gordie-howe-bridge-canada",
-    "pubDate": "10.02.2026 02:15:44",
-    "sortDate": 1770689744000,
     "source": "The Guardian"
   },
   {
@@ -273,11 +336,67 @@
     "source": "The Guardian"
   },
   {
+    "title": "Proposed amnesty law offers political prisoners in Venezuela an ‘opportunity’",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166929",
+    "pubDate": "09.02.2026 12:00:00",
+    "sortDate": 1770638400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Floods in Syria, relief operations in Cuba at risk, ending child labour",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166928",
+    "pubDate": "09.02.2026 12:00:00",
+    "sortDate": 1770638400000,
+    "source": "UN News"
+  },
+  {
+    "title": "West Bank: New Israeli measures further erode prospects for two-State solution",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166927",
+    "pubDate": "09.02.2026 12:00:00",
+    "sortDate": 1770638400000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: UN vows orderly peacekeeping transition as South Africa withdraws troops",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166926",
+    "pubDate": "09.02.2026 12:00:00",
+    "sortDate": 1770638400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: UN rights chief says worse is to come without international action",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166925",
+    "pubDate": "09.02.2026 12:00:00",
+    "sortDate": 1770638400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN calls for release of Hong Kong publisher Jimmy Lai following 20-year sentence",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166923",
+    "pubDate": "09.02.2026 12:00:00",
+    "sortDate": 1770638400000,
+    "source": "UN News"
+  },
+  {
+    "title": "53 migrants die in latest shipwreck tragedy off Libya coast",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166922",
+    "pubDate": "09.02.2026 12:00:00",
+    "sortDate": 1770638400000,
+    "source": "UN News"
+  },
+  {
     "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
     "link": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
     "pubDate": "09.02.2026 11:00:20",
     "sortDate": 1770634820000,
     "source": "The Guardian"
+  },
+  {
+    "title": "From rural margins to media trailblazers: India’s women journalists are rewriting the news",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166917",
+    "pubDate": "08.02.2026 12:00:00",
+    "sortDate": 1770552000000,
+    "source": "UN News"
   },
   {
     "title": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
@@ -294,6 +413,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "Guterres condemns escalating violence in South Sudan as aid operations come under fire",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166921",
+    "pubDate": "07.02.2026 12:00:00",
+    "sortDate": 1770465600000,
+    "source": "UN News"
+  },
+  {
+    "title": "How AI, gaming and virtual worlds are reshaping Holocaust remembrance",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166912",
+    "pubDate": "07.02.2026 12:00:00",
+    "sortDate": 1770465600000,
+    "source": "UN News"
+  },
+  {
     "title": "One person dead from Nipah virus in Bangladesh, WHO says",
     "link": "https://www.theguardian.com/world/2026/feb/07/one-person-dead-from-nipah-virus-in-bangladesh-who-says",
     "pubDate": "07.02.2026 01:45:43",
@@ -306,6 +439,83 @@
     "pubDate": "06.02.2026 14:57:10",
     "sortDate": 1770389830000,
     "source": "The Guardian"
+  },
+  {
+    "title": "From shelter to strength: How disaster refuges protect lives in Palau",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166915",
+    "pubDate": "06.02.2026 12:00:00",
+    "sortDate": 1770379200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Pakistan: Guterres condemns deadly suicide bombing at Islamabad mosque",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166920",
+    "pubDate": "06.02.2026 12:00:00",
+    "sortDate": 1770379200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nuclear disarmament at breaking point as mistrust grows – but hope remains",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166916",
+    "pubDate": "06.02.2026 12:00:00",
+    "sortDate": 1770379200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine war keeps nuclear safety on a knife-edge, UN watchdog warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166914",
+    "pubDate": "06.02.2026 12:00:00",
+    "sortDate": 1770379200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres welcomes resumption of Iran-US talks",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166910",
+    "pubDate": "06.02.2026 12:00:00",
+    "sortDate": 1770379200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Concerns persist over herbicide spraying reports on Blue Line between Lebanon and Israel",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166907",
+    "pubDate": "06.02.2026 12:00:00",
+    "sortDate": 1770379200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Keeping hope ‘alive for younger generations’ in Haiti as funding falters",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166906",
+    "pubDate": "06.02.2026 12:00:00",
+    "sortDate": 1770379200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fatwas, faith and fallacies: Myth-busting female genital mutilation in Africa",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166902",
+    "pubDate": "05.02.2026 12:00:00",
+    "sortDate": 1770292800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN Police ‘indispensable’ to fulfilling peacekeeping mandates, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166905",
+    "pubDate": "05.02.2026 12:00:00",
+    "sortDate": 1770292800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Chad: Africa’s refugee haven struggles with its own stark challenges",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166904",
+    "pubDate": "05.02.2026 12:00:00",
+    "sortDate": 1770292800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: UN condemns attack on civilians in Nigeria, updates from Gaza and West Bank, relief flights to resume in Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166903",
+    "pubDate": "05.02.2026 12:00:00",
+    "sortDate": 1770292800000,
+    "source": "UN News"
   },
   {
     "title": "Pakistan targets Balochistan separatists after ‘unprecedented’ assaults",
