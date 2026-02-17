@@ -1,9 +1,44 @@
 [
   {
+    "title": "Winter storm brings ‘very heavy’ snow and more rain to California",
+    "link": "https://www.theguardian.com/us-news/2026/feb/17/california-storm-snow-rain-floods",
+    "pubDate": "17.02.2026 22:19:50",
+    "sortDate": 1771366790000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Australia news live: Randa Abdel-Fattah to appear at Sydney writers’ festival; record renewable capacity added to grid",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/18/australia-news-live-renewable-energy-capacity-battery-grid-real-wage-growth-cost-of-living-albanese-angus-taylor-coalition-liberal-front-bench-immigration-ntwnfb",
-    "pubDate": "17.02.2026 21:20:54",
-    "sortDate": 1771363254000,
+    "pubDate": "17.02.2026 22:12:46",
+    "sortDate": 1771366366000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Colbert accuses Trump administration of censorship after CBS pulls interview",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/feb/17/colbert-trump-administration-censorship-cbs",
+    "pubDate": "17.02.2026 22:10:33",
+    "sortDate": 1771366233000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Boost to British Steel as Turkey places high-speed rail order",
+    "link": "https://www.theguardian.com/business/2026/feb/17/british-steel-turkey-high-speed-rail-order",
+    "pubDate": "17.02.2026 22:00:50",
+    "sortDate": 1771365650000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police assessing records of private flights at Stansted after publication of Epstein files",
+    "link": "https://www.theguardian.com/us-news/2026/feb/17/police-private-flights-stansted-publication-epstein-files",
+    "pubDate": "17.02.2026 21:56:19",
+    "sortDate": 1771365379000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US says 11 people killed in latest strikes on alleged drug boats",
+    "link": "https://www.theguardian.com/us-news/2026/feb/17/us-military-boats-strikes",
+    "pubDate": "17.02.2026 21:54:19",
+    "sortDate": 1771365259000,
     "source": "The Guardian"
   },
   {
@@ -14,7 +49,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Role of far-right ‘manosphere’ in homophobic attacks on men to be investigated in Victoria",
+    "title": "Role of far-right manosphere in homophobic attacks on men to be investigated in Victoria",
     "link": "https://www.theguardian.com/australia-news/2026/feb/18/far-right-influencers-homophobic-attacks-dating-apps-investigation-ntwnfb",
     "pubDate": "17.02.2026 20:52:35",
     "sortDate": 1771361555000,
@@ -70,13 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "DNA from glove in Nancy Guthrie abduction investigation yields no leads",
-    "link": "https://www.theguardian.com/us-news/2026/feb/17/savannah-guthrie-nancy-abduction-dna",
-    "pubDate": "17.02.2026 19:33:32",
-    "sortDate": 1771356812000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Javier Bardem and Tilda Swinton among those to condemn Berlinale’s ‘silence’ on Gaza",
     "link": "https://www.theguardian.com/culture/2026/feb/17/javier-bardem-and-tilda-swinton-among-those-to-condemn-berlinales-silence-on-gaza",
     "pubDate": "17.02.2026 19:30:37",
@@ -84,31 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Jesse Jackson was the living bridge between King and Obama",
-    "link": "https://www.theguardian.com/us-news/2026/feb/17/jesse-jackson-legacy-king-obama",
-    "pubDate": "17.02.2026 19:20:39",
-    "sortDate": 1771356039000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Four Chagossians return to islands in attempt to stop British transfer to Mauritius",
     "link": "https://www.theguardian.com/world/2026/feb/17/four-chagossians-return-to-islands-in-attempt-to-stop-british-transfer-to-mauritius",
     "pubDate": "17.02.2026 19:19:43",
     "sortDate": 1771355983000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘It’s soul-crushing’: young people battle to find any work in bleak jobs market",
-    "link": "https://www.theguardian.com/society/2026/feb/17/its-soul-crushing-young-people-battle-bleak-jobs-market-as-youth-unemployment-rises",
-    "pubDate": "17.02.2026 19:17:08",
-    "sortDate": 1771355828000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Keir Starmer buys personalised silver cufflinks given by Trump on state visit",
-    "link": "https://www.theguardian.com/politics/2026/feb/17/keir-starmer-bought-personalised-silver-cufflinks-given-by-trump-on-state-visit",
-    "pubDate": "17.02.2026 18:34:09",
-    "sortDate": 1771353249000,
     "source": "The Guardian"
   },
   {
@@ -154,7 +161,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Algorithm-based tool for home support funding is ‘cruel’ and ‘inhumane’, Australian aged care workers warn",
+    "title": "Algorithm-based tool for home support funding is cruel and inhumane, Australian aged care workers warn",
     "link": "https://www.theguardian.com/australia-news/2026/feb/17/australian-aged-care-algorithm-tool-home-support-funding-packages",
     "pubDate": "17.02.2026 14:00:12",
     "sortDate": 1771336812000,
@@ -319,13 +326,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/15/canada-support-tumbler-ridge-school-shooting",
     "pubDate": "15.02.2026 17:34:43",
     "sortDate": 1771176883000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US boards second oil tanker in Indian Ocean after it fled Venezuelan raid",
-    "link": "https://www.theguardian.com/world/2026/feb/15/us-forces-board-second-venezuelalinked-oil-tanker-in-indian-ocean",
-    "pubDate": "15.02.2026 16:30:20",
-    "sortDate": 1771173020000,
     "source": "The Guardian"
   },
   {
