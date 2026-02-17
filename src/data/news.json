@@ -1,9 +1,23 @@
 [
   {
-    "title": "Australia news live: Jane Hume touts ‘young’ shadow cabinet; Jacinta Nampijinpa Price and Andrew Hastie return to Coalition frontbench",
+    "title": "Gentoo penguins the first birds on Australian territory to contract H5N1 as bird flu spreads",
+    "link": "https://www.theguardian.com/environment/2026/feb/17/gentoo-penguins-h5n1-bird-flu-virus-heard-island-australian-territory",
+    "pubDate": "17.02.2026 07:24:52",
+    "sortDate": 1771313092000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK unemployment rate rises to 5.2%, the highest level in nearly five years",
+    "link": "https://www.theguardian.com/business/2026/feb/17/uk-unemployment-rate-ons-interest-rates",
+    "pubDate": "17.02.2026 07:15:28",
+    "sortDate": 1771312528000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labor approves 4.41% increase for health insurance premiums – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/17/racism-systemic-universities-angus-taylor-leaked-migration-policy-coalition-anthony-albanese-labor-accc-coles-ntwnfb",
-    "pubDate": "17.02.2026 06:44:01",
-    "sortDate": 1771310641000,
+    "pubDate": "17.02.2026 07:08:17",
+    "sortDate": 1771312097000,
     "source": "The Guardian"
   },
   {
@@ -53,13 +67,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/17/china-lunar-new-year-2026-chinese-tourists-shun-japan",
     "pubDate": "17.02.2026 05:30:50",
     "sortDate": 1771306250000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Taunts, harassment and assaults: landmark report finds racism at Australian universities is ‘systemic’",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/17/australian-university-racism-study-report",
-    "pubDate": "17.02.2026 05:26:33",
-    "sortDate": 1771305993000,
     "source": "The Guardian"
   },
   {
@@ -154,13 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Fertility patients win high court battle to save embryos after consent error",
-    "link": "https://www.theguardian.com/society/2026/feb/16/fertility-patients-high-court-embryos-consent-error",
-    "pubDate": "16.02.2026 19:54:12",
-    "sortDate": 1771271652000,
-    "source": "The Guardian"
-  },
-  {
     "title": "What is happening to Syria’s IS camps and their former residents?",
     "link": "https://www.theguardian.com/world/2026/feb/16/what-is-happening-to-syrias-is-camps-and-their-former-residents",
     "pubDate": "16.02.2026 18:49:53",
@@ -187,27 +187,6 @@
     "pubDate": "16.02.2026 13:00:25",
     "sortDate": 1771246825000,
     "source": "The Guardian"
-  },
-  {
-    "title": "As conditions worsen in Ukraine, refugees struggle to return",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166972",
-    "pubDate": "16.02.2026 12:00:00",
-    "sortDate": 1771243200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief urges renewed push to complete decolonization as 17 territories remain",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166971",
-    "pubDate": "16.02.2026 12:00:00",
-    "sortDate": 1771243200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan: Thousands cling to a fragile hope in makeshift tents",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166968",
-    "pubDate": "16.02.2026 12:00:00",
-    "sortDate": 1771243200000,
-    "source": "UN News"
   },
   {
     "title": "‘Life requires cash’: Gaza’s jobs crisis leaves people struggling to afford basics",
@@ -294,74 +273,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "New recombinant mpox strain detected in UK and India, WHO urges continued monitoring",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166966",
-    "pubDate": "14.02.2026 12:00:00",
-    "sortDate": 1771070400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres tells AU Summit: ‘This is 2026 – not 1946’ in push for reform",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166965",
-    "pubDate": "14.02.2026 12:00:00",
-    "sortDate": 1771070400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World Entrepreneurs and Investment Forum puts women at the heart of economic transformation",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166964",
-    "pubDate": "14.02.2026 12:00:00",
-    "sortDate": 1771070400000,
-    "source": "UN News"
-  },
-  {
-    "title": "In the hands of innovators from the Global South, AI can transform lives",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166959",
-    "pubDate": "14.02.2026 12:00:00",
-    "sortDate": 1771070400000,
-    "source": "UN News"
-  },
-  {
     "title": "Bangladesh election: BNP wins historic first vote since overthrow of Hasina",
     "link": "https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins",
     "pubDate": "13.02.2026 16:45:31",
     "sortDate": 1771001131000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: Deadly strikes in Sudan, health systems in South Sudan near the brink, Guterres calls for unity ahead of Ramadan.",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166963",
-    "pubDate": "13.02.2026 12:00:00",
-    "sortDate": 1770984000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Lifesaving aid operations continue despite restrictions",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166962",
-    "pubDate": "13.02.2026 12:00:00",
-    "sortDate": 1770984000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Syria transition gains ground with Kurdish deal, but violence and humanitarian strain persist",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166961",
-    "pubDate": "13.02.2026 12:00:00",
-    "sortDate": 1770984000000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Like a scene out of a horror movie’: UN report warns of war crimes in Sudan’s El Fasher",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166960",
-    "pubDate": "13.02.2026 12:00:00",
-    "sortDate": 1770984000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Madagascar: ‘Overwhelming’ destruction, surging needs after back-to-back cyclones – WFP",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166956",
-    "pubDate": "13.02.2026 12:00:00",
-    "sortDate": 1770984000000,
-    "source": "UN News"
   },
   {
     "title": "‘Invisible’ children born in the brothels of Bangladesh finally get birth certificates",
@@ -371,137 +287,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Political violence against MPs rising worldwide",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166953",
-    "pubDate": "12.02.2026 12:00:00",
-    "sortDate": 1770897600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN envoy urges renewed political push as Yemen tensions rise",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166951",
-    "pubDate": "12.02.2026 12:00:00",
-    "sortDate": 1770897600000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Türk slams relentless Russian attacks, Gaza update, Cyclone Gezani hits Madagascar",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166952",
-    "pubDate": "12.02.2026 12:00:00",
-    "sortDate": 1770897600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Protecting children in war is key to lasting peace, top UN envoy warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166948",
-    "pubDate": "12.02.2026 12:00:00",
-    "sortDate": 1770897600000,
-    "source": "UN News"
-  },
-  {
-    "title": "From war zones to outer space, radio remains essential",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166947",
-    "pubDate": "12.02.2026 12:00:00",
-    "sortDate": 1770897600000,
-    "source": "UN News"
-  },
-  {
     "title": "Tarique Rahman promises era of clean politics as Bangladesh holds first election since fall of Hasina",
     "link": "https://www.theguardian.com/world/2026/feb/12/tarique-rahman-bnp-bangladesh-election",
     "pubDate": "12.02.2026 01:10:15",
     "sortDate": 1770858615000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Gaza radio station re-opens, bringing voices from the rubble",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166943",
-    "pubDate": "11.02.2026 12:00:00",
-    "sortDate": 1770811200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: School shooting in Canada, cholera outbreak in DR Congo, evacuations in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166946",
-    "pubDate": "11.02.2026 12:00:00",
-    "sortDate": 1770811200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Civilians and aid operations under fire as Sudan airstrikes intensify",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166945",
-    "pubDate": "11.02.2026 12:00:00",
-    "sortDate": 1770811200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ukraine: UN aid convoy reaches frontlines in Dnipro",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166944",
-    "pubDate": "11.02.2026 12:00:00",
-    "sortDate": 1770811200000,
-    "source": "UN News"
-  },
-  {
-    "title": "West Bank: UN rights chief warns against deepening Israeli control over Palestinian land",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166941",
-    "pubDate": "11.02.2026 12:00:00",
-    "sortDate": 1770811200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Measles cases drop in 2025 across Europe and Central Asia, but outbreak risks remain",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166940",
-    "pubDate": "11.02.2026 12:00:00",
-    "sortDate": 1770811200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN social policy commission closes with calls to turn pledges into action",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166939",
-    "pubDate": "10.02.2026 12:00:00",
-    "sortDate": 1770724800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Women and girls in science: Dismantling barriers, closing gender gaps",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166938",
-    "pubDate": "10.02.2026 12:00:00",
-    "sortDate": 1770724800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN warns civilians remain at risk as airstrikes continue across Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166937",
-    "pubDate": "10.02.2026 12:00:00",
-    "sortDate": 1770724800000,
-    "source": "UN News"
-  },
-  {
-    "title": "In Bahrain; work, dignity and the quiet rise of home-grown enterprise",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166934",
-    "pubDate": "10.02.2026 12:00:00",
-    "sortDate": 1770724800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Violence surges in South Sudan leaving civilians at risk and peacekeepers stretched thin",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166935",
-    "pubDate": "10.02.2026 12:00:00",
-    "sortDate": 1770724800000,
-    "source": "UN News"
-  },
-  {
-    "title": "General Assembly President urges Europeans to ‘stand up’ for the UN",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166933",
-    "pubDate": "10.02.2026 12:00:00",
-    "sortDate": 1770724800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Fresh report warns fish fraud extends to one fifth of global catch",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166932",
-    "pubDate": "10.02.2026 12:00:00",
-    "sortDate": 1770724800000,
-    "source": "UN News"
   },
   {
     "title": "53 people dead or missing after migrant boat capsizes in Mediterranean",
