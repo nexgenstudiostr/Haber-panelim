@@ -1,9 +1,37 @@
 [
   {
-    "title": "Texas Democrat says campaign raised $2.5m in aftermath of Colbert interview controversy – US politics live",
+    "title": "‘Grace period’ needed for dual nationals returning to UK on second passport, say Lib Dems",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/18/ryanair-may-let-dual-nationals-board-uk-flights-without-a-british-passport",
+    "pubDate": "18.02.2026 19:18:26",
+    "sortDate": 1771442306000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "White House says diplomacy is ‘always’ Trump’s top option for Iran – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/feb/18/us-politics-latest-news-updates-donald-trump-colbert-cbs",
-    "pubDate": "18.02.2026 18:38:14",
-    "sortDate": 1771439894000,
+    "pubDate": "18.02.2026 19:10:09",
+    "sortDate": 1771441809000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Major European allies decline to join first meeting of Trump’s Board of Peace",
+    "link": "https://www.theguardian.com/us-news/2026/feb/18/trump-board-of-peace-first-meeting",
+    "pubDate": "18.02.2026 19:09:13",
+    "sortDate": 1771441753000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mark Zuckerberg testifies in landmark social media trial over teen mental health",
+    "link": "https://www.theguardian.com/technology/2026/feb/18/mark-zuckerberg-meta-trial-testimony",
+    "pubDate": "18.02.2026 19:01:26",
+    "sortDate": 1771441286000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Good news for Trump before midterms: he’s still more popular than cockroaches",
+    "link": "https://www.theguardian.com/us-news/2026/feb/18/ants-wasps-trump-and-the-midterms",
+    "pubDate": "18.02.2026 19:00:42",
+    "sortDate": 1771441242000,
     "source": "The Guardian"
   },
   {
@@ -63,20 +91,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mamdani floats New York City property tax raise if state won’t tax millionaires",
-    "link": "https://www.theguardian.com/us-news/2026/feb/18/mamdani-new-york-wealth-tax-property-taxes",
-    "pubDate": "18.02.2026 17:29:31",
-    "sortDate": 1771435771000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Environmental groups sue Trump’s EPA over repeal of landmark climate finding",
-    "link": "https://www.theguardian.com/us-news/2026/feb/18/trump-epa-environment-climate-lawsuit",
-    "pubDate": "18.02.2026 17:27:10",
-    "sortDate": 1771435630000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Zelenskyy says no agreement on key issues in peace talks as he accuses Russia of ‘dragging out negotiations’ – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/feb/18/ukraine-russia-peace-talks-zelenskyy-trump-putin-denmark-greenland-europe-live",
     "pubDate": "18.02.2026 16:07:54",
@@ -98,13 +112,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Labour insiders fear ‘annihilation’ in Lancashire local elections after U-turn",
-    "link": "https://www.theguardian.com/politics/2026/feb/18/labour-lancashire-fear-party-annihilated-polls-keir-starmer-u-turn",
-    "pubDate": "18.02.2026 15:46:42",
-    "sortDate": 1771429602000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Britons living in EU face repayment hikes amid Reeves student loans row",
     "link": "https://www.theguardian.com/money/2026/feb/18/britons-living-in-europe-face-repayment-hikes-amid-reeves-student-loans-row",
     "pubDate": "18.02.2026 15:43:48",
@@ -116,13 +123,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/feb/18/consumer-watchdog-concerned-by-rise-of-per-item-prices-at-australian-supermarkets",
     "pubDate": "18.02.2026 14:01:34",
     "sortDate": 1771423294000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘You have to find another one’: why children with complex needs are being turned away from childcare",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/18/childcare-australia-children-with-complex-needs-funding-inclusion-support-program",
-    "pubDate": "18.02.2026 14:00:35",
-    "sortDate": 1771423235000,
     "source": "The Guardian"
   },
   {
@@ -140,8 +140,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "Unprovoked shark attacks up sharply in 2025, with 12 human deaths worldwide",
-    "link": "https://www.theguardian.com/environment/2026/feb/18/unprovoked-shark-attack-increase",
+    "title": "‘You have to find another one’: why children with complex needs are being turned away from childcare",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/18/childcare-australia-children-with-complex-needs-funding-inclusion-support-program",
+    "pubDate": "18.02.2026 14:00:35",
+    "sortDate": 1771423235000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Federal MPs accept free sport tickets from gambling companies amid calls to restrict wagering ads",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/19/federal-mps-accept-free-sport-tickets-from-gambling-companies-amid-calls-to-restrict-wagering-ads",
     "pubDate": "18.02.2026 14:00:34",
     "sortDate": 1771423234000,
     "source": "The Guardian"
@@ -327,13 +334,6 @@
     "pubDate": "17.02.2026 12:00:00",
     "sortDate": 1771329600000,
     "source": "UN News"
-  },
-  {
-    "title": "Medics in UK and US say they have been barred from Gaza after speaking out",
-    "link": "https://www.theguardian.com/world/2026/feb/17/medics-uk-us-denied-entry-gaza-after-speaking-out-israel",
-    "pubDate": "17.02.2026 11:15:50",
-    "sortDate": 1771326950000,
-    "source": "The Guardian"
   },
   {
     "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
