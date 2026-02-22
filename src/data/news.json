@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump warns Netflix of ‘consequences’ unless it pulls top Democrat from board",
+    "link": "https://www.theguardian.com/media/2026/feb/22/trump-warns-netflix-of-consequences-unless-it-pulls-top-democrat-susan-rice-from-board",
+    "pubDate": "22.02.2026 13:30:07",
+    "sortDate": 1771767007000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tories would scrap ‘debt trap’ of high interest student loans, says Kemi Badenoch",
+    "link": "https://www.theguardian.com/politics/2026/feb/22/tories-scrap-high-interest-student-loans-says-kemi-badenoch",
+    "pubDate": "22.02.2026 13:19:00",
+    "sortDate": 1771766340000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Only 10% of boys aged 14-16 read daily for pleasure, National Literacy Trust finds",
     "link": "https://www.theguardian.com/education/2026/feb/22/teenage-boys-reading-books-research",
     "pubDate": "22.02.2026 13:00:51",
@@ -46,13 +60,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/feb/22/how-a-welsh-village-saved-its-forest-and-its-future",
     "pubDate": "22.02.2026 12:00:36",
     "sortDate": 1771761636000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Minister says children in England will get support more quickly under Send overhaul",
-    "link": "https://www.theguardian.com/education/2026/feb/22/minister-bridget-phillipson-says-children-in-england-will-get-support-more-quickly-under-send-overhaul",
-    "pubDate": "22.02.2026 11:58:43",
-    "sortDate": 1771761523000,
     "source": "The Guardian"
   },
   {
@@ -140,13 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump raises tariffs to 15% on imports from all countries",
-    "link": "https://www.theguardian.com/us-news/2026/feb/21/trump-tariffs-15-percent",
-    "pubDate": "21.02.2026 19:43:17",
-    "sortDate": 1771702997000,
-    "source": "The Guardian"
-  },
-  {
     "title": "At least five people killed in string of avalanches in Austria",
     "link": "https://www.theguardian.com/world/2026/feb/21/people-killed-in-string-of-avalanches-tirol-austria",
     "pubDate": "21.02.2026 18:15:37",
@@ -159,6 +159,13 @@
     "pubDate": "21.02.2026 16:00:12",
     "sortDate": 1771689612000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Guns, fashionable clothes and death threats: How gangs in Haiti ensnare children",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167004",
+    "pubDate": "21.02.2026 12:00:00",
+    "sortDate": 1771675200000,
+    "source": "UN News"
   },
   {
     "title": "Iran prepares nuclear counterproposal as US considers limited military strikes",
@@ -224,6 +231,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: UN humanitarian chief visits South Sudan, shelter fire risks in Gaza, West Bank violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167014",
+    "pubDate": "20.02.2026 12:00:00",
+    "sortDate": 1771588800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN report exposes torture, rape in Southeast Asia’s multi-billion-dollar scam centres",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167012",
+    "pubDate": "20.02.2026 12:00:00",
+    "sortDate": 1771588800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Science-led governance of AI can help power sustainable development: Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167011",
+    "pubDate": "20.02.2026 12:00:00",
+    "sortDate": 1771588800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine’s women at breaking point after four years of war as attacks on energy, healthcare continue – UN humanitarians",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167007",
+    "pubDate": "20.02.2026 12:00:00",
+    "sortDate": 1771588800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Alarming increase’ in recruitment of children into gangs in Haiti",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166954",
+    "pubDate": "20.02.2026 12:00:00",
+    "sortDate": 1771588800000,
+    "source": "UN News"
+  },
+  {
     "title": "Bolivia’s ex-leader Evo Morales reappears after months-long unexplained absence",
     "link": "https://www.theguardian.com/world/2026/feb/20/bolivia-evo-morales-public-appearance",
     "pubDate": "20.02.2026 04:10:29",
@@ -252,6 +294,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "UNICEF calls for release of children detained during Iran protests",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167006",
+    "pubDate": "19.02.2026 12:00:00",
+    "sortDate": 1771502400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Conflict deepens hunger crisis in South Sudan, restrictions hinder aid delivery in Gaza, UN child rights envoy concludes first visit to Syria",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167005",
+    "pubDate": "19.02.2026 12:00:00",
+    "sortDate": 1771502400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No corner of Sudan is safe’: UN officials warn of famine and atrocities as war intensifies",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167003",
+    "pubDate": "19.02.2026 12:00:00",
+    "sortDate": 1771502400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rights chief: AI must be based on inclusivity, accountability and global standards",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167000",
+    "pubDate": "19.02.2026 12:00:00",
+    "sortDate": 1771502400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Sudan in focus amid genocide warnings in Darfur",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166999",
+    "pubDate": "19.02.2026 12:00:00",
+    "sortDate": 1771502400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fears of ethnic cleansing in Gaza and the West Bank: UN rights report",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166998",
+    "pubDate": "19.02.2026 12:00:00",
+    "sortDate": 1771502400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: ‘Hallmarks of genocide’ found in El Fasher, UN investigators detail mass killings and ethnic targeting",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166997",
+    "pubDate": "19.02.2026 12:00:00",
+    "sortDate": 1771502400000,
+    "source": "UN News"
+  },
+  {
     "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
     "link": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
     "pubDate": "18.02.2026 17:57:22",
@@ -264,6 +355,69 @@
     "pubDate": "18.02.2026 12:00:32",
     "sortDate": 1771416032000,
     "source": "The Guardian"
+  },
+  {
+    "title": "From India, Guterres calls for $3 billion fund to ensure AI benefits all",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166996",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Guterres calls for fair swtich to clean energy, Ramadan in Gaza, escalating violence and displacement in South Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166995",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Situation in the Middle East",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166994",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Decades of gains overshadowed as Asia-Pacific falls behind on sustainable development targets",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166993",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Grain ATMs and hunger maps: AI innovations spotlighted at UN agency showcase in India",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166992",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Floods, drought and insecurity drive acute hunger for 7.5 million in Pakistan",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166991",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Artists face steep income decline due to AI, UNESCO finds",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166989",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Rights chief alarmed after at least 57 killed in drone attacks in two days",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166988",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN Libya envoy warns Security Council political deadlock threatens state unity",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166987",
+    "pubDate": "18.02.2026 12:00:00",
+    "sortDate": 1771416000000,
+    "source": "UN News"
   },
   {
     "title": "Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south",
@@ -285,6 +439,62 @@
     "pubDate": "17.02.2026 13:42:28",
     "sortDate": 1771335748000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Madagascar cyclone response, Gaza medical evacuations, remembering civil rights icon Jesse Jackson",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166986",
+    "pubDate": "17.02.2026 12:00:00",
+    "sortDate": 1771329600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ramadan in Gaza: Deprivation, high prices and the hardships of displacement",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166985",
+    "pubDate": "17.02.2026 12:00:00",
+    "sortDate": 1771329600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Migrants and refugees in Libya subjected to ‘systematic’ abuse: UN report",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166984",
+    "pubDate": "17.02.2026 12:00:00",
+    "sortDate": 1771329600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Humanitarian access to Gaza still insufficient for relief and rebuilding: UN development chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166983",
+    "pubDate": "17.02.2026 12:00:00",
+    "sortDate": 1771329600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Epstein files: ‘No one is too wealthy or too powerful to be above the law’; rights experts demand accountability",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166980",
+    "pubDate": "17.02.2026 12:00:00",
+    "sortDate": 1771329600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan crisis: UN agency launches $1.6 billion appeal to support refugees in seven countries",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166979",
+    "pubDate": "17.02.2026 12:00:00",
+    "sortDate": 1771329600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Maternal deaths spike during war and instability, new report warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166977",
+    "pubDate": "17.02.2026 12:00:00",
+    "sortDate": 1771329600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Four years of war in Ukraine: Childhood has ‘moved underground’, displacement continues – UN humanitarians",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1166976",
+    "pubDate": "17.02.2026 12:00:00",
+    "sortDate": 1771329600000,
+    "source": "UN News"
   },
   {
     "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
