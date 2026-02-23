@@ -1,20 +1,55 @@
 [
   {
-    "title": "News live: Australians ‘don’t want a bar’ of Andrew Mountbatten-Windsor, PM says; Nine reports revenue slump",
+    "title": "Australia news live: Victoria to tighten rules for endometriosis diagnosis after Four Corners report; revenue slump for Nine",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/24/mark-carney-one-nation-coalition-labor-poll-anthony-albanese-pauline-hanson-bondi-attack-royal-commission-antisemitism-ntwnfb",
-    "pubDate": "23.02.2026 22:18:03",
-    "sortDate": 1771885083000,
+    "pubDate": "23.02.2026 23:13:51",
+    "sortDate": 1771888431000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Canada seeks answers from OpenAI for failing to alert police after suspending school shooter’s account",
+    "link": "https://www.theguardian.com/world/2026/feb/23/openai-tumber-ridge-shooter-account-suspended",
+    "pubDate": "23.02.2026 22:56:00",
+    "sortDate": 1771887360000,
     "source": "The Guardian"
   },
   {
     "title": "Judge permanently bars US justice department from releasing report on Trump’s classified documents case – live",
     "link": "https://www.theguardian.com/us-news/live/2026/feb/23/donald-trump-mar-a-lago-tariffs-epstein-immigration-latest-news-updates",
-    "pubDate": "23.02.2026 22:06:42",
-    "sortDate": 1771884402000,
+    "pubDate": "23.02.2026 22:52:56",
+    "sortDate": 1771887176000,
     "source": "The Guardian"
   },
   {
-    "title": "US ambassador to Paris banned from meeting French ministers after no-show",
+    "title": "Trump threatens ‘obnoxious’ tariffs as UK and EU seek clarity on trade deals",
+    "link": "https://www.theguardian.com/us-news/2026/feb/23/us-stop-collecting-trump-tariffs-supreme-court-dollar-gold-ieepa-refunds",
+    "pubDate": "23.02.2026 22:40:53",
+    "sortDate": 1771886453000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australian families in convoy from Syrian camp warned they would be attacked unless they turned around",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/24/australian-families-in-convoy-from-syrian-camp-warned-they-would-be-attacked-unless-they-turned-around",
+    "pubDate": "23.02.2026 22:40:07",
+    "sortDate": 1771886407000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Millions under road travel bans as blizzard conditions slam US north-east",
+    "link": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
+    "pubDate": "23.02.2026 22:31:55",
+    "sortDate": 1771885915000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burberry is back on brand as a purveyor of the classic British coat",
+    "link": "https://www.theguardian.com/fashion/2026/feb/23/burberry-is-back-on-brand-as-a-purveyor-of-the-classic-british-coat",
+    "pubDate": "23.02.2026 22:14:01",
+    "sortDate": 1771884841000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "France bans US envoy after no-show at meeting over killing of activist",
     "link": "https://www.theguardian.com/world/2026/feb/23/us-ambassador-to-paris-banned-from-meeting-french-ministers-after-no-show",
     "pubDate": "23.02.2026 21:58:34",
     "sortDate": 1771883914000,
@@ -25,13 +60,6 @@
     "link": "https://www.theguardian.com/us-news/2026/feb/23/utah-house-voting-map-democrats",
     "pubDate": "23.02.2026 21:39:57",
     "sortDate": 1771882797000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Millions under road travel bans as blizzard conditions slam US north-east",
-    "link": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
-    "pubDate": "23.02.2026 21:22:06",
-    "sortDate": 1771881726000,
     "source": "The Guardian"
   },
   {
@@ -91,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Inquiry into Andrew’s links to Jeffrey Epstein is matter for MPs, says No 10",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/23/inquiry-andrew-links-jeffrey-epstein-matter-for-mps-says-no-10",
-    "pubDate": "23.02.2026 19:22:18",
-    "sortDate": 1771874538000,
-    "source": "The Guardian"
-  },
-  {
     "title": "More than 600 people have died trying to cross Mediterranean in 2026, UN says",
     "link": "https://www.theguardian.com/world/2026/feb/23/migrants-die-trying-to-cross-mediterranean-2026",
     "pubDate": "23.02.2026 18:50:07",
@@ -133,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump threatens ‘obnoxious’ tariffs as UK and EU seek clarity on trade deals",
-    "link": "https://www.theguardian.com/us-news/2026/feb/23/us-stop-collecting-trump-tariffs-supreme-court-dollar-gold-ieepa-refunds",
-    "pubDate": "23.02.2026 15:24:06",
-    "sortDate": 1771860246000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Stuff of nightmares’: calls for help surge by 50% after Australia launches aged-assistance tool",
     "link": "https://www.theguardian.com/australia-news/2026/feb/23/calls-for-help-surge-aged-assistance-tool-care-homes-australia",
     "pubDate": "23.02.2026 14:00:44",
@@ -159,6 +173,13 @@
     "pubDate": "23.02.2026 12:36:08",
     "sortDate": 1771850168000,
     "source": "The Guardian"
+  },
+  {
+    "title": "ICC judges assess case against Duterte over Philippines ‘war on drugs’ killings",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167021",
+    "pubDate": "23.02.2026 12:00:00",
+    "sortDate": 1771848000000,
+    "source": "UN News"
   },
   {
     "title": "Myriad fragments, one tragedy: How four years of war changed Ukraine",
@@ -207,13 +228,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/feb/23/high-speed-rail-australia-sydney-newcastle-link",
     "pubDate": "23.02.2026 11:00:40",
     "sortDate": 1771844440000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bill Kelty’s tax reform comments cast a harsh light on Labor’s lack of ambition",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/23/bill-kelty-capital-gains-tax-labor-jim-chalmers-analysis",
-    "pubDate": "23.02.2026 09:01:15",
-    "sortDate": 1771837275000,
     "source": "The Guardian"
   },
   {
@@ -292,13 +306,6 @@
     "pubDate": "21.02.2026 12:00:00",
     "sortDate": 1771675200000,
     "source": "UN News"
-  },
-  {
-    "title": "Floreana giant tortoise reintroduced to Galápagos island after almost 200 years",
-    "link": "https://www.theguardian.com/world/2026/feb/20/floreana-giant-tortoise-reintroduced-to-galapagos-island-after-almost-200-years",
-    "pubDate": "20.02.2026 21:00:49",
-    "sortDate": 1771621249000,
-    "source": "The Guardian"
   },
   {
     "title": "Officials race to contain virus outbreak after 72 captive tigers die in Thailand",
@@ -499,13 +506,6 @@
   {
     "title": "Ramadan in Gaza: Deprivation, high prices and the hardships of displacement",
     "link": "https://news.un.org/feed/view/en/story/2026/02/1166985",
-    "pubDate": "17.02.2026 12:00:00",
-    "sortDate": 1771329600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Migrants and refugees in Libya subjected to ‘systematic’ abuse: UN report",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166984",
     "pubDate": "17.02.2026 12:00:00",
     "sortDate": 1771329600000,
     "source": "UN News"
