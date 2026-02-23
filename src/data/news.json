@@ -1,58 +1,93 @@
 [
   {
-    "title": "Nancy Pelosi-palooza: Democrats praise lawmaker’s career at California convention",
-    "link": "https://www.theguardian.com/us-news/2026/feb/23/nancy-pelosi-california-democratic-convention",
-    "pubDate": "23.02.2026 18:54:51",
-    "sortDate": 1771872891000,
+    "title": "News live: PM says he ‘volunteered’ support for removing former prince Andrew from succession; One Nation just behind Labor in new poll",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/24/mark-carney-one-nation-coalition-labor-poll-anthony-albanese-pauline-hanson-bondi-attack-royal-commission-antisemitism-ntwnfb",
+    "pubDate": "23.02.2026 20:22:49",
+    "sortDate": 1771878169000,
     "source": "The Guardian"
   },
   {
     "title": "Judge permanently bars US justice department from releasing report on Trump’s classified documents case – live",
     "link": "https://www.theguardian.com/us-news/live/2026/feb/23/donald-trump-mar-a-lago-tariffs-epstein-immigration-latest-news-updates",
-    "pubDate": "23.02.2026 18:52:32",
-    "sortDate": 1771872752000,
+    "pubDate": "23.02.2026 20:19:39",
+    "sortDate": 1771877979000,
     "source": "The Guardian"
   },
   {
-    "title": "GoFundMe for actor Eric Dane’s family raises more than $415,000 after his death",
-    "link": "https://www.theguardian.com/us-news/2026/feb/23/eric-dane-family-fundraiser",
-    "pubDate": "23.02.2026 18:50:10",
-    "sortDate": 1771872610000,
+    "title": "US military strike on boat allegedly smuggling drugs kills three men",
+    "link": "https://www.theguardian.com/us-news/2026/feb/23/latest-boat-strike-caribbean-kills-three-men",
+    "pubDate": "23.02.2026 20:14:27",
+    "sortDate": 1771877667000,
     "source": "The Guardian"
   },
   {
-    "title": "Over 600 migrants die trying to cross Mediterranean so far in 2026, UN says",
+    "title": "Mexico faces uphill battle to appease kingpin Trump after cartel boss’s killing",
+    "link": "https://www.theguardian.com/world/2026/feb/23/mexico-trump-cartel-boss-killing",
+    "pubDate": "23.02.2026 20:08:31",
+    "sortDate": 1771877311000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Can Bridget Phillipson convince jaded families to have faith in Send changes?",
+    "link": "https://www.theguardian.com/education/2026/feb/23/communication-key-to-send-reforms-succeeding-analysis",
+    "pubDate": "23.02.2026 19:46:59",
+    "sortDate": 1771876019000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brandi Carlile concert raises over $600,000 for families affected by ICE",
+    "link": "https://www.theguardian.com/music/2026/feb/23/brandi-carlile-benefit-concert-minneapolis-ice",
+    "pubDate": "23.02.2026 19:46:43",
+    "sortDate": 1771876003000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Met police arrest former British ambassador to US Peter Mandelson – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/23/send-white-paper-keir-starmer-labour-reform-tories-uk-politics-latest-news-updates",
+    "pubDate": "23.02.2026 19:29:50",
+    "sortDate": 1771874990000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Inquiry into Andrew’s links to Jeffrey Epstein is matter for MPs, says No 10",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/23/inquiry-andrew-links-jeffrey-epstein-matter-for-mps-says-no-10",
+    "pubDate": "23.02.2026 19:22:18",
+    "sortDate": 1771874538000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nancy Pelosi-palooza: Democrats praise lawmaker’s career at California convention",
+    "link": "https://www.theguardian.com/us-news/2026/feb/23/nancy-pelosi-california-democratic-convention",
+    "pubDate": "23.02.2026 19:19:34",
+    "sortDate": 1771874374000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US evacuates staff from Lebanon embassy amid tensions with Iran",
+    "link": "https://www.theguardian.com/world/2026/feb/23/us-evacuates-staff-lebanon-embassy",
+    "pubDate": "23.02.2026 19:10:04",
+    "sortDate": 1771873804000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jeremy Hunt urges medics to do more to improve detection of rare childbirth condition",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/23/jeremy-hunt-medics-detection-rare-childbirth-condition-placenta-accreta-spectrum",
+    "pubDate": "23.02.2026 19:06:57",
+    "sortDate": 1771873617000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nottingham killer was not sectioned because of his race, inquiry told",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/23/nottingham-killer-valdo-calocane-race-mental-health-inquiry",
+    "pubDate": "23.02.2026 18:58:37",
+    "sortDate": 1771873117000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "More than 600 people have died trying to cross Mediterranean in 2026, UN says",
     "link": "https://www.theguardian.com/world/2026/feb/23/migrants-die-trying-to-cross-mediterranean-2026",
     "pubDate": "23.02.2026 18:50:07",
     "sortDate": 1771872607000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Parents of children with Send give changes in England a mixed response",
-    "link": "https://www.theguardian.com/education/2026/feb/23/parents-of-children-with-send-give-changes-in-england-a-mixed-response",
-    "pubDate": "23.02.2026 18:45:58",
-    "sortDate": 1771872358000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ex-Mail on Sunday editor denies misleading inquiry over private investigator",
-    "link": "https://www.theguardian.com/media/2026/feb/23/ex-mail-on-sunday-editor-denies-misleading-inquiry-over-private-investigator-high-court",
-    "pubDate": "23.02.2026 18:42:55",
-    "sortDate": 1771872175000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Met police arrest former British ambassador to US Peter Mandelson - UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/feb/23/send-white-paper-keir-starmer-labour-reform-tories-uk-politics-latest-news-updates",
-    "pubDate": "23.02.2026 18:31:16",
-    "sortDate": 1771871476000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Millions under road travel bans as blizzard conditions slam US north-east",
-    "link": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
-    "pubDate": "23.02.2026 18:27:55",
-    "sortDate": 1771871275000,
     "source": "The Guardian"
   },
   {
@@ -63,31 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "CDC deputy director abruptly resigns from role as agency reels from turnover",
-    "link": "https://www.theguardian.com/us-news/2026/feb/23/cdc-deputy-director-steps-down",
-    "pubDate": "23.02.2026 17:52:32",
-    "sortDate": 1771869152000,
-    "source": "The Guardian"
-  },
-  {
     "title": "EU fails to agree on new sanctions on Russia ahead of fourth anniversary of war – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/feb/23/russia-ukraine-war-sanctions-hungary-eu-europe-latest-news-updates",
     "pubDate": "23.02.2026 17:49:02",
     "sortDate": 1771868942000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ex-DJ jailed in London for selling fake parts to airlines",
-    "link": "https://www.theguardian.com/business/2026/feb/23/ex-dj-jailed-london-fake-parts-airlines",
-    "pubDate": "23.02.2026 17:28:34",
-    "sortDate": 1771867714000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Keir Starmer opens investigation into Josh Simons over targeting of reporters",
-    "link": "https://www.theguardian.com/politics/2026/feb/23/josh-simons-investigation-labour-together-reporters-keir-starmer",
-    "pubDate": "23.02.2026 17:12:17",
-    "sortDate": 1771866737000,
     "source": "The Guardian"
   },
   {
@@ -165,13 +179,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/23/mumbai-india-first-musical-road-resident-reactions",
     "pubDate": "23.02.2026 08:00:08",
     "sortDate": 1771833608000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tammy Shipley drank 67 glasses of water before her death in custody from water intoxication, inquest hears",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/23/tammy-shipley-drank-67-glasses-of-water-before-her-death-in-custody-from-water-intoxication-inquest-hears",
-    "pubDate": "23.02.2026 07:12:59",
-    "sortDate": 1771830779000,
     "source": "The Guardian"
   },
   {
@@ -256,13 +263,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/20/virus-outbreak-captive-tigers-die-in-thailand-chiang-mai-",
     "pubDate": "20.02.2026 17:05:08",
     "sortDate": 1771607108000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bolivia’s ex-leader Evo Morales reappears after months-long unexplained absence",
-    "link": "https://www.theguardian.com/world/2026/feb/20/bolivia-evo-morales-public-appearance",
-    "pubDate": "20.02.2026 04:10:29",
-    "sortDate": 1771560629000,
     "source": "The Guardian"
   },
   {
