@@ -1,5 +1,75 @@
 [
   {
+    "title": "Robert Mugabe’s son charged with attempted murder over Johannesburg shooting",
+    "link": "https://www.theguardian.com/world/2026/feb/23/robert-mugabe-son-bellarmine-mugabe-charged-with-crimes",
+    "pubDate": "23.02.2026 13:48:51",
+    "sortDate": 1771854531000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New Russia sanctions on hold as Hungary blocks EU package ahead of fourth anniversary of Ukraine war – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/feb/23/russia-ukraine-war-sanctions-hungary-eu-europe-latest-news-updates",
+    "pubDate": "23.02.2026 13:48:19",
+    "sortDate": 1771854499000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Phillipson says Send reforms needed ‘even if money were no object’ because current outcomes ‘not good enough’– UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/23/send-white-paper-keir-starmer-labour-reform-tories-uk-politics-latest-news-updates",
+    "pubDate": "23.02.2026 13:23:52",
+    "sortDate": 1771853032000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Martin Lewis ambushes Badenoch on Good Morning Britain over student loans plan",
+    "link": "https://www.theguardian.com/politics/2026/feb/23/martin-lewis-ambushes-kemi-badenoch-good-morning-britain-student-loans",
+    "pubDate": "23.02.2026 13:14:30",
+    "sortDate": 1771852470000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Millions face road travel bans as snow blankets New York and north-east US",
+    "link": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
+    "pubDate": "23.02.2026 13:05:20",
+    "sortDate": 1771851920000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fears of polio resurgence as US vaccine adviser questions need for childhood shots",
+    "link": "https://www.theguardian.com/us-news/2026/feb/23/polio-vaccines-us",
+    "pubDate": "23.02.2026 13:00:41",
+    "sortDate": 1771851641000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Killing of Mexican drug cartel boss ‘El Mencho’ triggers wave of violence",
+    "link": "https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence",
+    "pubDate": "23.02.2026 13:00:35",
+    "sortDate": 1771851635000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "People with rare genetic conditions are ‘systematically ignored’ by NHS",
+    "link": "https://www.theguardian.com/society/2026/feb/23/people-with-rare-genetic-conditions-systematically-ignored-by-nhs-report",
+    "pubDate": "23.02.2026 12:57:26",
+    "sortDate": 1771851446000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Activists hang photo of Andrew leaving police custody in the Louvre",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/23/activists-hang-andrew-photo-louvre-everyone-hates-elon",
+    "pubDate": "23.02.2026 12:48:01",
+    "sortDate": 1771850881000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Suspected gunman identified after being shot dead at Mar-a-Lago – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/feb/23/donald-trump-mar-a-lago-tariffs-epstein-immigration-latest-news-updates",
+    "pubDate": "23.02.2026 12:44:29",
+    "sortDate": 1771850669000,
+    "source": "The Guardian"
+  },
+  {
     "title": "‘Our classrooms are empty because the graveyards are full’: Iran’s students on why they are protesting again",
     "link": "https://www.theguardian.com/global-development/2026/feb/23/classrooms-empty-graveyards-full-iran-students-why-protesting-again",
     "pubDate": "23.02.2026 12:36:08",
@@ -7,31 +77,17 @@
     "source": "The Guardian"
   },
   {
-    "title": "New Russia sanctions on hold as Hungary blocks EU package ahead of fourth anniversary of Ukraine war – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/feb/23/russia-ukraine-war-sanctions-hungary-eu-europe-latest-news-updates",
-    "pubDate": "23.02.2026 12:35:11",
-    "sortDate": 1771850111000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Phillipson says Send reforms needed ‘even if money were no object’ because current outcomes ‘not good enough’– UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/feb/23/send-white-paper-keir-starmer-labour-reform-tories-uk-politics-latest-news-updates",
-    "pubDate": "23.02.2026 12:26:09",
-    "sortDate": 1771849569000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Suspected gunman identified after being shot dead at Mar-a-Lago – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/feb/23/donald-trump-mar-a-lago-tariffs-epstein-immigration-latest-news-updates",
-    "pubDate": "23.02.2026 12:17:02",
-    "sortDate": 1771849022000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US to stop collecting Trump tariffs ruled illegal by supreme court | First Thing",
     "link": "https://www.theguardian.com/us-news/2026/feb/23/first-thing-us-stop-collecting-trump-tariffs-ruled-illegal-supreme-court",
     "pubDate": "23.02.2026 12:06:49",
     "sortDate": 1771848409000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Epstein files cast pall among US faculty and students: ‘I just feel a deep disappointment’",
+    "link": "https://www.theguardian.com/us-news/2026/feb/23/students-faculty-universities-epstein",
+    "pubDate": "23.02.2026 12:00:39",
+    "sortDate": 1771848039000,
     "source": "The Guardian"
   },
   {
@@ -49,31 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Netflix boss says $83bn Warner Bros takeover will benefit industry",
-    "link": "https://www.theguardian.com/media/2026/feb/23/netflix-warner-bros-takeover-ted-sarandos-donald-trump-susan-rice",
-    "pubDate": "23.02.2026 11:08:16",
-    "sortDate": 1771844896000,
-    "source": "The Guardian"
-  },
-  {
     "title": "High-speed rail link between Sydney and Newcastle could be ‘shovel-ready’ in two years, Albanese government says",
     "link": "https://www.theguardian.com/australia-news/2026/feb/23/high-speed-rail-australia-sydney-newcastle-link",
     "pubDate": "23.02.2026 11:00:40",
     "sortDate": 1771844440000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fewer children in England to get EHCPs by 2035 under Send overhaul",
-    "link": "https://www.theguardian.com/education/2026/feb/23/fewer-children-england-ehcp-care-plans-send-overhaul",
-    "pubDate": "23.02.2026 11:00:12",
-    "sortDate": 1771844412000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andrew Mountbatten-Windsor charged massages to taxpayer while trade envoy, say reports",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/23/former-prince-andrew-mountbatten-windsor-charged-massages-taxpayers-uk-trade-envoy",
-    "pubDate": "23.02.2026 10:44:05",
-    "sortDate": 1771843445000,
     "source": "The Guardian"
   },
   {
@@ -88,13 +123,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/feb/23/bill-kelty-capital-gains-tax-labor-jim-chalmers-analysis",
     "pubDate": "23.02.2026 09:01:15",
     "sortDate": 1771837275000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US to stop collecting Trump tariffs ruled illegal by supreme court",
-    "link": "https://www.theguardian.com/us-news/2026/feb/23/us-stop-collecting-trump-tariffs-supreme-court-dollar-gold-ieepa-refunds",
-    "pubDate": "23.02.2026 08:57:58",
-    "sortDate": 1771837078000,
     "source": "The Guardian"
   },
   {
@@ -133,13 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Zohran Mamdani orders travel ban in New York as US north-east braces for heavy snow amid blizzard warnings",
-    "link": "https://www.theguardian.com/us-news/2026/feb/22/us-north-east-storm-blizzard-warnings",
-    "pubDate": "23.02.2026 02:06:48",
-    "sortDate": 1771812408000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Duterte refuses to attend ICC pre-trial hearing, as former Philippine leader’s ‘drug war’ case begins",
     "link": "https://www.theguardian.com/world/2026/feb/23/rodrigo-duterte-drug-war-case-icc-pre-trial-hearing-international-criminal-court-ntwnfb",
     "pubDate": "23.02.2026 01:32:59",
@@ -147,17 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Violence erupts after Mexican security forces kill drug cartel boss ‘El Mencho’",
+    "title": "Mexican security forces kill drug cartel boss ‘El Mencho’",
     "link": "https://www.theguardian.com/world/2026/feb/22/mexican-security-forces-reportedly-kill-drug-cartel-boss-el-mencho",
     "pubDate": "23.02.2026 00:39:49",
     "sortDate": 1771807189000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Trump’s reign of terror must end’: California Democrats plot national return to power",
-    "link": "https://www.theguardian.com/us-news/2026/feb/22/california-democratic-convention-trump",
-    "pubDate": "22.02.2026 23:24:31",
-    "sortDate": 1771802671000,
     "source": "The Guardian"
   },
   {
@@ -259,13 +273,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Leftist who defended child marriage elected as Peru’s interim president",
-    "link": "https://www.theguardian.com/world/2026/feb/19/jose-maria-balcazar-elected-peru-interim-president",
-    "pubDate": "19.02.2026 14:57:48",
-    "sortDate": 1771513068000,
-    "source": "The Guardian"
-  },
-  {
     "title": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
     "link": "https://www.theguardian.com/world/2026/feb/19/kenyan-soldiers-russia-ukraine-war-intelligence-report",
     "pubDate": "19.02.2026 14:39:41",
@@ -298,13 +305,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/17/trim-slugs-to-kenya-authorities-israel-tech-crack-activists-phone-report",
     "pubDate": "17.02.2026 11:01:02",
     "sortDate": 1771326062000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How an undercover cop foiled an IS plot to massacre Britain’s Jews – podcast",
-    "link": "https://www.theguardian.com/news/audio/2026/feb/16/how-an-undercover-cop-foiled-an-is-plot-to-massacre-britains-jews-podcast",
-    "pubDate": "16.02.2026 03:00:39",
-    "sortDate": 1771210839000,
     "source": "The Guardian"
   },
   {
