@@ -1,9 +1,51 @@
 [
   {
-    "title": "Trump uses State of the Union to claim economic success despite approval rating slipping even further in new poll - live",
+    "title": "HSBC boss signals overhaul of bank is almost over despite drop in profits",
+    "link": "https://www.theguardian.com/business/2026/feb/25/hsbc-overhaul-bank-almost-over-profits-drop",
+    "pubDate": "25.02.2026 08:15:05",
+    "sortDate": 1772007305000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Behind the Guardian’s analysis of 100 years of MPs’ language on immigration",
+    "link": "https://www.theguardian.com/politics/2026/feb/25/behind-the-guardians-analysis-of-100-years-of-mps-language-on-immigration",
+    "pubDate": "25.02.2026 08:00:05",
+    "sortDate": 1772006405000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump delivers longest-ever State of the Union address – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/feb/24/trump-state-of-the-union-address-congress-watch-updates",
-    "pubDate": "25.02.2026 06:43:10",
-    "sortDate": 1772001790000,
+    "pubDate": "25.02.2026 07:02:04",
+    "sortDate": 1772002924000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Energy bills will fall by £117 for millions of households in Great Britain from April",
+    "link": "https://www.theguardian.com/money/2026/feb/25/energy-bills-fall-households-april-price-cap",
+    "pubDate": "25.02.2026 07:00:37",
+    "sortDate": 1772002837000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jobs, gas prices and ending wars: factchecking Trump’s State of the Union claims",
+    "link": "https://www.theguardian.com/us-news/2026/feb/25/trump-state-of-the-union-factcheck",
+    "pubDate": "25.02.2026 06:58:32",
+    "sortDate": 1772002712000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Why the longest-ever State of the Union address was the most inconsequential",
+    "link": "https://www.theguardian.com/us-news/2026/feb/24/trump-state-of-union-speech-analysis",
+    "pubDate": "25.02.2026 06:50:51",
+    "sortDate": 1772002251000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reserve Bank could hike cash rate twice in 2026 as Australia’s inflation stays stubbornly high",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/25/reserve-bank-could-hike-cash-rate-twice-in-2026-as-australias-inflation-stays-stubbornly-high",
+    "pubDate": "25.02.2026 06:50:10",
+    "sortDate": 1772002210000,
     "source": "The Guardian"
   },
   {
@@ -77,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Strong rebound’ for UK housing market with 6% more homes for sale than a year ago",
-    "link": "https://www.theguardian.com/money/2026/feb/25/uk-housing-market-more-homes-for-sale-zoopla",
-    "pubDate": "25.02.2026 05:00:01",
-    "sortDate": 1771995601000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Marco Rubio briefs US lawmakers on Iran as Trump uses State of the Union to threaten nuclear programme",
     "link": "https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing",
     "pubDate": "25.02.2026 04:31:21",
@@ -98,24 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Democrats refuse to stand for Trump as Al Green ejected over ‘apes’ protest sign",
-    "link": "https://www.theguardian.com/us-news/2026/feb/24/al-green-sign-protest-state-of-union",
-    "pubDate": "25.02.2026 03:49:42",
-    "sortDate": 1771991382000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Woolworths reports 16% jump in profits as ACCC prepares legal action over ‘illusory’ discounts",
     "link": "https://www.theguardian.com/australia-news/2026/feb/25/woolworths-reports-16-jump-in-profits-as-accc-prepares-legal-action-over-illusory-discounts",
     "pubDate": "25.02.2026 03:28:00",
     "sortDate": 1771990080000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bomb threat at the Lodge that forced Albanese’s evacuation linked to opposition to Chinese dance group",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/24/anthony-albanese-evacuated-from-official-canberra-residence-due-to-security-threat-ntwnfb",
-    "pubDate": "25.02.2026 03:15:03",
-    "sortDate": 1771989303000,
     "source": "The Guardian"
   },
   {
@@ -126,24 +147,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "FBI investigations hindered by Kash Patel, whistleblower tells top Democrat",
-    "link": "https://www.theguardian.com/us-news/2026/feb/24/kash-patel-fbi-whistleblower-democrat",
-    "pubDate": "25.02.2026 02:36:11",
-    "sortDate": 1771986971000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Anger over plans to abolish New Zealand’s dedicated environment ministry",
     "link": "https://www.theguardian.com/world/2026/feb/25/new-zealand-plan-to-abolish-environment-ministry",
     "pubDate": "25.02.2026 01:41:42",
     "sortDate": 1771983702000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Half of Britons avoid calling GP when they are ill, survey finds",
-    "link": "https://www.theguardian.com/society/2026/feb/25/half-of-britons-avoid-calling-gp-when-they-are-ill-survey-nhs",
-    "pubDate": "25.02.2026 00:01:01",
-    "sortDate": 1771977661000,
     "source": "The Guardian"
   },
   {
@@ -179,13 +186,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/24/louvre-president-resigns-jewellery-heist-inquiry-reveals-systemic-failures",
     "pubDate": "24.02.2026 18:26:48",
     "sortDate": 1771957608000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Zelenskyy pushes for Ukraine’s 2027 EU accession as Europe marks four years of war – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/feb/24/russia-ukraine-war-four-year-anniversary-invasion-zelenskyy-putin-europe-latest-news",
-    "pubDate": "24.02.2026 18:06:11",
-    "sortDate": 1771956371000,
     "source": "The Guardian"
   },
   {
