@@ -1,9 +1,93 @@
 [
   {
-    "title": "Australia news live: Larissa Waters says threats of violence against MPs ‘must be called out’; heavily armed rapid response unit to be permanent in NSW",
+    "title": "Australia news live: rise in underlying inflation boosts fears of interest rate hike; software firm WiseTech to cut 2,000 jobs as AI changes sweep in",
     "link": "https://www.theguardian.com/australia-news/live/2026/feb/25/capital-gains-tax-hearing-anthony-albanese-canberra-threat-evacuation-cpi-inflation-figures-labor-coalition-politics-updates-ntwnfb",
-    "pubDate": "24.02.2026 23:13:50",
-    "sortDate": 1771974830000,
+    "pubDate": "25.02.2026 01:28:23",
+    "sortDate": 1771982903000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "State of the Union address: Trump to speak to Congress as dozens of Democrats plan boycott – live updates",
+    "link": "https://www.theguardian.com/us-news/live/2026/feb/24/trump-state-of-the-union-address-congress-watch-updates",
+    "pubDate": "25.02.2026 01:24:48",
+    "sortDate": 1771982688000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Signs of psychosis seen in Australian users’ interactions with AI chatbots, expert warns",
+    "link": "https://www.theguardian.com/technology/2026/feb/25/signs-of-psychosis-seen-in-australian-users-interactions-with-ai-chatbots-expert-warns",
+    "pubDate": "25.02.2026 01:00:00",
+    "sortDate": 1771981200000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Very troubling’: Albanese’s evacuation from Canberra Lodge over bomb threat a sign of the times, Gallagher says",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/24/anthony-albanese-evacuated-from-official-canberra-residence-due-to-security-threat-ntwnfb",
+    "pubDate": "25.02.2026 00:59:46",
+    "sortDate": 1771981186000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats to investigate whether DoJ withheld Epstein files on Trump abuse claim",
+    "link": "https://www.theguardian.com/us-news/2026/feb/24/democrats-epstein-trump",
+    "pubDate": "25.02.2026 00:48:11",
+    "sortDate": 1771980491000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Chris Baghsarian: two men arrested in relation to alleged kidnapping and murder of 85-year-old Sydney man",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/25/chris-baghsarian-alleged-kidnap-murder-arrests-nsw-police-sydney-ntwnfb",
+    "pubDate": "25.02.2026 00:46:24",
+    "sortDate": 1771980384000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Woolworths reports 16% jump in profits as ACCC prepares legal action over ‘illusory’ discounts",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/25/woolworths-reports-16-jump-in-profits-as-accc-prepares-legal-action-over-illusory-discounts",
+    "pubDate": "25.02.2026 00:45:45",
+    "sortDate": 1771980345000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US military leaders pressure Anthropic to bend Claude safeguards",
+    "link": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
+    "pubDate": "25.02.2026 00:35:31",
+    "sortDate": 1771979731000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man convicted of killing 70-year-old grocery store owner executed in Florida",
+    "link": "https://www.theguardian.com/us-news/2026/feb/24/florida-execution-melvin-trotter",
+    "pubDate": "25.02.2026 00:28:58",
+    "sortDate": 1771979338000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US justice department sues UCLA over alleged antisemitism amid pro-Palestinian protests",
+    "link": "https://www.theguardian.com/us-news/2026/feb/24/ucla-sued-antisemitism-pro-palestinian-protest-trump",
+    "pubDate": "25.02.2026 00:23:01",
+    "sortDate": 1771978981000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Half of Britons avoid calling GP when they are ill, survey finds",
+    "link": "https://www.theguardian.com/society/2026/feb/25/half-of-britons-avoid-calling-gp-when-they-are-ill-survey-nhs",
+    "pubDate": "25.02.2026 00:01:01",
+    "sortDate": 1771977661000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Marco Rubio delivers rare briefing to top US lawmakers on Iran amid tensions",
+    "link": "https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing",
+    "pubDate": "24.02.2026 23:33:27",
+    "sortDate": 1771976007000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Floods and landslides in Brazil kill at least 30 after record rainfall",
+    "link": "https://www.theguardian.com/world/2026/feb/24/floods-landslides-brazil-kill-after-record-rainfall",
+    "pubDate": "24.02.2026 23:28:09",
+    "sortDate": 1771975689000,
     "source": "The Guardian"
   },
   {
@@ -14,66 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "US congressman refuses to resign after allegations of affair with staffer",
-    "link": "https://www.theguardian.com/us-news/2026/feb/24/tony-gonzales-resign-affair",
-    "pubDate": "24.02.2026 23:11:54",
-    "sortDate": 1771974714000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Schumer predicts ‘long, painful and tedious’ Trump speech as dozens of Democrats plan to boycott – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/feb/24/us-politics-latest-news-donald-trump-tariffs-iran",
-    "pubDate": "24.02.2026 23:08:32",
-    "sortDate": 1771974512000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Senedd votes in favour of implementing Westminster’s assisted dying bill",
     "link": "https://www.theguardian.com/politics/2026/feb/24/senedd-votes-in-favour-of-implementing-westminsters-assisted-dying-bill",
     "pubDate": "24.02.2026 22:22:48",
     "sortDate": 1771971768000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Citizen scientists discover a Great Barrier Reef coral giant ‘like a rolling meadow’",
-    "link": "https://www.theguardian.com/environment/2026/feb/24/citizen-scientists-discover-great-barrier-reef-coral-giant-census",
-    "pubDate": "24.02.2026 22:00:52",
-    "sortDate": 1771970452000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Very troubling’: Albanese’s evacuation from Canberra Lodge over bomb threat a sign of the times, Gallagher says",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/24/anthony-albanese-evacuated-from-official-canberra-residence-due-to-security-threat-ntwnfb",
-    "pubDate": "24.02.2026 21:48:41",
-    "sortDate": 1771969721000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US military leaders meet with Anthropic to argue against Claude safeguards",
-    "link": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
-    "pubDate": "24.02.2026 21:48:20",
-    "sortDate": 1771969700000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man stabs four people to death in Washington state",
-    "link": "https://www.theguardian.com/us-news/2026/feb/24/gig-harbor-washington-stabbing",
-    "pubDate": "24.02.2026 21:47:26",
-    "sortDate": 1771969646000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Katherine Short, daughter of actor Martin Short, dies aged 42",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/feb/24/katherine-short-death",
-    "pubDate": "24.02.2026 21:34:16",
-    "sortDate": 1771968856000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two men arrested in relation to alleged kidnapping and murder of 85-year-old Chris Baghsarian",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/25/chris-baghsarian-alleged-kidnap-murder-arrests-nsw-police-sydney-ntwnfb",
-    "pubDate": "24.02.2026 20:51:34",
-    "sortDate": 1771966294000,
     "source": "The Guardian"
   },
   {
@@ -102,20 +130,6 @@
     "link": "https://www.theguardian.com/music/2026/feb/24/eliane-radigue-french-composer-dies-aged-94",
     "pubDate": "24.02.2026 19:53:56",
     "sortDate": 1771962836000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ministers urged to impose temporary ban on crypto political donations",
-    "link": "https://www.theguardian.com/politics/2026/feb/24/ministers-urged-to-ban-crypto-political-donations-over-foreign-interference-fears",
-    "pubDate": "24.02.2026 19:48:00",
-    "sortDate": 1771962480000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Marco Rubio to deliver rare briefing to top US lawmakers on Iran amid tensions",
-    "link": "https://www.theguardian.com/us-news/2026/feb/24/marco-rubio-iran-briefing",
-    "pubDate": "24.02.2026 18:46:16",
-    "sortDate": 1771958776000,
     "source": "The Guardian"
   },
   {
@@ -158,13 +172,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/24/iran-armed-police-flood-universities-to-crush-student-protests",
     "pubDate": "24.02.2026 16:06:53",
     "sortDate": 1771949213000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s new global tariffs kick in at 10%; Bank of England governor says March rate cut ‘open question’ – as it happened",
-    "link": "https://www.theguardian.com/business/live/2026/feb/24/trump-new-global-tariffs-trade-latest-business-news",
-    "pubDate": "24.02.2026 15:49:34",
-    "sortDate": 1771948174000,
     "source": "The Guardian"
   },
   {
@@ -235,13 +242,6 @@
     "link": "https://www.theguardian.com/us-news/2026/feb/23/trump-iran-airstrikes-nuclear-deal",
     "pubDate": "23.02.2026 21:08:05",
     "sortDate": 1771880885000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mexico faces uphill battle to appease kingpin Trump after cartel boss’s killing",
-    "link": "https://www.theguardian.com/world/2026/feb/23/mexico-trump-cartel-boss-killing",
-    "pubDate": "23.02.2026 20:08:31",
-    "sortDate": 1771877311000,
     "source": "The Guardian"
   },
   {
