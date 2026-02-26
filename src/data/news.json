@@ -1,5 +1,82 @@
 [
   {
+    "title": "Australia news live: attorneys general to meet to discuss antisemitism and online hate; cheaper mortgages push up cash rate, RBA says",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/27/coles-results-nsw-victoria-queensland-weather-politics-updates-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
+    "pubDate": "26.02.2026 20:19:22",
+    "sortDate": 1772137162000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kristi Noem blames Democrats for shutdown holding up $625m in World Cup funding",
+    "link": "https://www.theguardian.com/football/2026/feb/26/kristi-noem-nellie-pou-world-cup-funding-dhs-shutdown",
+    "pubDate": "26.02.2026 20:13:06",
+    "sortDate": 1772136786000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hillary Clinton says she has no information about Epstein crimes; Democrats call for Trump to be deposed ‘immediately’ – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump",
+    "pubDate": "26.02.2026 20:11:38",
+    "sortDate": 1772136698000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US-Iran talks conclude with ‘significant progress’ and ‘technical discussions’ to take place next week, Oman says – Middle East live",
+    "link": "https://www.theguardian.com/world/live/2026/feb/26/us-iran-nuclear-talks-middle-east-latest-news-updates",
+    "pubDate": "26.02.2026 20:06:18",
+    "sortDate": 1772136378000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "How Trump shifted from opposing foreign wars to threatening war in Iran",
+    "link": "https://www.theguardian.com/us-news/2026/feb/26/trump-foreign-wars-iran",
+    "pubDate": "26.02.2026 19:58:40",
+    "sortDate": 1772135920000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Melania Trump to lead UN security council session, White House says",
+    "link": "https://www.theguardian.com/us-news/2026/feb/26/melania-trump-un-security-council",
+    "pubDate": "26.02.2026 19:55:00",
+    "sortDate": 1772135700000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Drop in overseas workers is ‘car crash’ for UK hospitals and care homes, say experts",
+    "link": "https://www.theguardian.com/society/2026/feb/26/drop-in-overseas-workers-uk-hospitals-and-care-homes",
+    "pubDate": "26.02.2026 19:54:14",
+    "sortDate": 1772135654000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU opens up funding to guarantee abortion rights across bloc",
+    "link": "https://www.theguardian.com/world/2026/feb/26/eu-funding-guarantee-abortion-rights-across-bloc",
+    "pubDate": "26.02.2026 19:52:40",
+    "sortDate": 1772135560000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Conservative theatre-making will kill the UK industry, says National’s director",
+    "link": "https://www.theguardian.com/stage/2026/feb/26/conservative-theatre-making-kill-industry-national-director-indhu-rubasingham",
+    "pubDate": "26.02.2026 19:47:36",
+    "sortDate": 1772135256000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Playwrights’ ‘thrilling’ debuts share the Susan Smith Blackburn prize",
+    "link": "https://www.theguardian.com/stage/2026/feb/26/susan-smith-blackburn-prize-hannah-doran-ro-reddick",
+    "pubDate": "26.02.2026 19:45:20",
+    "sortDate": 1772135120000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brady Tkachuk decries White House’s AI video of him insulting Canadians after US gold",
+    "link": "https://www.theguardian.com/sport/2026/feb/26/brady-tkachuk-decries-white-houses-ai-video-of-him-insulting-canadians-after-us-gold",
+    "pubDate": "26.02.2026 19:39:25",
+    "sortDate": 1772134765000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Latest US-Iran nuclear talks conclude with claims of ‘significant progress’",
     "link": "https://www.theguardian.com/world/2026/feb/26/trump-attack-threat-looms-as-nuclear-talks-between-us-and-iran-go-to-wire",
     "pubDate": "26.02.2026 19:33:38",
@@ -14,38 +91,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mamdani makes unannounced trip to meet Trump in Washington",
-    "link": "https://www.theguardian.com/us-news/2026/feb/26/zohran-mamdani-trump-washington",
-    "pubDate": "26.02.2026 19:25:55",
-    "sortDate": 1772133955000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Columbia student arrested by DHS agents who posed as police officers",
-    "link": "https://www.theguardian.com/us-news/2026/feb/26/columbia-student-detained-federal-agents",
-    "pubDate": "26.02.2026 19:17:07",
-    "sortDate": 1772133427000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Cuba vows to fight ‘terrorist aggression’ after attack from US-registered boat",
     "link": "https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack",
     "pubDate": "26.02.2026 19:15:22",
     "sortDate": 1772133322000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hillary Clinton testifies that she has no information on Epstein’s criminal activities in House oversight hearing – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump",
-    "pubDate": "26.02.2026 19:13:17",
-    "sortDate": 1772133197000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US-Iran talks conclude with ‘significant progress’ and ‘technical discussions’ to take place next week, Oman says – Middle East live",
-    "link": "https://www.theguardian.com/world/live/2026/feb/26/us-iran-nuclear-talks-middle-east-latest-news-updates",
-    "pubDate": "26.02.2026 19:08:24",
-    "sortDate": 1772132904000,
     "source": "The Guardian"
   },
   {
@@ -56,45 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Shia LaBeouf must seek treatment as part of bail terms after alleged attack",
-    "link": "https://www.theguardian.com/film/2026/feb/26/shia-labeouf-homphobic-new-orleans-mardi-gras",
-    "pubDate": "26.02.2026 18:32:35",
-    "sortDate": 1772130755000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hillary Clinton accuses Republicans of ‘fishing expedition’ in Epstein testimony",
-    "link": "https://www.theguardian.com/us-news/2026/feb/26/clintons-testify-epstein-files-house",
-    "pubDate": "26.02.2026 18:22:58",
-    "sortDate": 1772130178000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "MPs condemn hosting of Tommy Robinson by Trump administration",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/26/mps-condemn-hosting-of-tommy-robinson-by-trump-administration",
-    "pubDate": "26.02.2026 18:22:38",
-    "sortDate": 1772130158000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK social media ban for under-16s edges closer with Starmer expected to back it",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/26/uk-social-media-ban-under-16s-consultation-keir-starmer-backing",
-    "pubDate": "26.02.2026 18:11:45",
-    "sortDate": 1772129505000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Anxiety mounts across Middle East amid fears of US-Iran war",
     "link": "https://www.theguardian.com/world/2026/feb/26/us-iran-middle-east-travel-warnings",
     "pubDate": "26.02.2026 18:10:24",
     "sortDate": 1772129424000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Subsidies for Rolls-Royce might seem a bit rich, but they are inevitable | Nils Pratley",
-    "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/26/subsidies-for-rolls-royce-might-seem-a-bit-rich-but-they-are-inevitable",
-    "pubDate": "26.02.2026 17:55:50",
-    "sortDate": 1772128550000,
     "source": "The Guardian"
   },
   {
@@ -123,13 +137,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/26/mafia-accused-naples-hospital-fraud-transport-corpses",
     "pubDate": "26.02.2026 14:57:32",
     "sortDate": 1772117852000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "British-Danish couple say new UK passport rules may separate them from children",
-    "link": "https://www.theguardian.com/politics/2026/feb/26/british-danish-couple-uk-passport-rules-dual-national-children",
-    "pubDate": "26.02.2026 14:52:26",
-    "sortDate": 1772117546000,
     "source": "The Guardian"
   },
   {
@@ -186,13 +193,6 @@
     "link": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
     "pubDate": "26.02.2026 08:00:23",
     "sortDate": 1772092823000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘The most important part is the vibe’: Bate Bay named Australia’s best beach",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/26/bate-bay-best-australian-beach-2026",
-    "pubDate": "26.02.2026 07:10:50",
-    "sortDate": 1772089850000,
     "source": "The Guardian"
   },
   {
