@@ -1,23 +1,135 @@
 [
   {
-    "title": "Your Party leadership election results give Jeremy Corbyn and allies control of its executive – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/feb/26/gorton-and-denton-byelection-green-party-labour-reform-uk-politics-latest-news-updates",
-    "pubDate": "26.02.2026 13:46:41",
-    "sortDate": 1772113601000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Denmark’s Mette Frederiksen calls March election amid ‘Greenland bounce’ in polls – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/feb/26/europe-latest-news-updates-russia-ukraine-war",
-    "pubDate": "26.02.2026 13:30:56",
-    "sortDate": 1772112656000,
+    "title": "Hillary Clinton to testify in House oversight committee’s Epstein investigation – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump",
+    "pubDate": "26.02.2026 15:31:48",
+    "sortDate": 1772119908000,
     "source": "The Guardian"
   },
   {
     "title": "Iran says agreement with US ‘within reach’ as nuclear talks begin in Geneva – Middle East live",
     "link": "https://www.theguardian.com/world/live/2026/feb/26/us-iran-nuclear-talks-middle-east-latest-news-updates",
-    "pubDate": "26.02.2026 13:19:35",
-    "sortDate": 1772111975000,
+    "pubDate": "26.02.2026 15:29:17",
+    "sortDate": 1772119757000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Denmark’s Mette Frederiksen calls March election amid ‘Greenland bounce’ in polls – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/feb/26/europe-latest-news-updates-russia-ukraine-war",
+    "pubDate": "26.02.2026 15:26:34",
+    "sortDate": 1772119594000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Group backing Zarah Sultana calls for ‘no more witch-hunts’ in Your Party – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/feb/26/gorton-and-denton-byelection-green-party-labour-reform-uk-politics-latest-news-updates",
+    "pubDate": "26.02.2026 15:20:17",
+    "sortDate": 1772119217000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "TikTok and Snapchat posts urge London pupils to join ‘school wars’ fights",
+    "link": "https://www.theguardian.com/education/2026/feb/26/tiktok-snapchat-london-pupils-school-wars",
+    "pubDate": "26.02.2026 15:14:48",
+    "sortDate": 1772118888000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Italian woman awarded compensation after breaking ankle while working from home",
+    "link": "https://www.theguardian.com/world/2026/feb/26/italian-woman-awarded-compensation-breaking-ankle-working-from-home",
+    "pubDate": "26.02.2026 15:04:19",
+    "sortDate": 1772118259000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tell us: how are your finances looking ahead of the Spring Forecast?",
+    "link": "https://www.theguardian.com/business/2026/feb/26/tell-us-how-are-your-finances-looking-ahead-of-the-spring-forecast",
+    "pubDate": "26.02.2026 15:03:50",
+    "sortDate": 1772118230000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Political storm in Wyoming as far-right activist caught handing checks to lawmakers",
+    "link": "https://www.theguardian.com/us-news/2026/feb/26/wyoming-republican-lawmakers-checks-house-floor",
+    "pubDate": "26.02.2026 15:00:10",
+    "sortDate": 1772118010000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flamm arts festival aims to spark interest in unsung Cornish town of Bodmin",
+    "link": "https://www.theguardian.com/uk-news/2026/feb/26/flamm-arts-festival-spark-interest-unsung-cornish-town-bodmin",
+    "pubDate": "26.02.2026 15:00:09",
+    "sortDate": 1772118009000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Homeland security awarded $250,000 contract to Trump-aligned consulting firm",
+    "link": "https://www.theguardian.com/us-news/2026/feb/26/homeland-security-contract-trump",
+    "pubDate": "26.02.2026 15:00:09",
+    "sortDate": 1772118009000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mafia accused of using Naples hospital for fraud and illegal transport of corpses",
+    "link": "https://www.theguardian.com/world/2026/feb/26/mafia-accused-naples-hospital-fraud-transport-corpses",
+    "pubDate": "26.02.2026 14:57:32",
+    "sortDate": 1772117852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British-Danish couple say new UK passport rules may separate them from children",
+    "link": "https://www.theguardian.com/politics/2026/feb/26/british-danish-couple-uk-passport-rules-dual-national-children",
+    "pubDate": "26.02.2026 14:52:26",
+    "sortDate": 1772117546000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ICE warns of vetting delays amid rapid hiring surge under Trump",
+    "link": "https://www.theguardian.com/us-news/2026/feb/26/trump-ice-hiring-surge",
+    "pubDate": "26.02.2026 14:50:04",
+    "sortDate": 1772117404000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "David Hockney’s first English landscape on show for first time in almost 30 years",
+    "link": "https://www.theguardian.com/artanddesign/2026/feb/26/david-hockneys-first-english-landscape-on-show-for-first-time-in-almost-30-years",
+    "pubDate": "26.02.2026 14:18:23",
+    "sortDate": 1772115503000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pauline Hanson’s daughter employed in taxpayer-funded job with NSW One Nation senator",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/26/pauline-hansons-daughter-employed-in-taxpayer-funded-job-with-nsw-one-nation-senator",
+    "pubDate": "26.02.2026 14:00:11",
+    "sortDate": 1772114411000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "An oil refinery defined life in this quaint California city. What happens when it’s gone?",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/26/benicia-california-oil-refinery",
+    "pubDate": "26.02.2026 14:00:10",
+    "sortDate": 1772114410000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Unbelievably dangerous’: experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+    "link": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+    "pubDate": "26.02.2026 14:00:09",
+    "sortDate": 1772114409000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Albanese should demand reparations from Israel, say families of Australian soldiers whose graves were bulldozed",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/27/australian-soldiers-graves-bulldozed-gaza-reparations-israel-idf-apology",
+    "pubDate": "26.02.2026 14:00:09",
+    "sortDate": 1772114409000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘A gift that falls from the sky’: why farmers are using Etna’s ash as fertiliser",
+    "link": "https://www.theguardian.com/environment/2026/feb/26/volcanic-ash-farmers-using-etna-ash-fertiliser-agriculture-potential",
+    "pubDate": "26.02.2026 14:00:08",
+    "sortDate": 1772114408000,
     "source": "The Guardian"
   },
   {
@@ -28,88 +140,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Hundreds of film-makers back Berlinale director in row over winners’ Gaza comments",
-    "link": "https://www.theguardian.com/film/2026/feb/26/film-makers-petition-berlinale-director-tricia-tuttle-award-winners-gaza-comments",
-    "pubDate": "26.02.2026 13:07:48",
-    "sortDate": 1772111268000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Number of young people in UK not in work or education rises closer to 1m",
-    "link": "https://www.theguardian.com/business/2026/feb/26/rise-in-neets-young-people-not-in-work-education-uk-ons",
-    "pubDate": "26.02.2026 13:02:04",
-    "sortDate": 1772110924000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Far-right Base group claims murders in Ukraine amid questions over Russia ties",
-    "link": "https://www.theguardian.com/world/2026/feb/26/the-base-far-right-terror-group-ukraine-russia",
-    "pubDate": "26.02.2026 13:00:35",
-    "sortDate": 1772110835000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Disabled activist and guest of Ilhan Omar says she did not intend to disrupt State of the Union",
-    "link": "https://www.theguardian.com/us-news/2026/feb/26/aliya-rahman-sotu-ilhan-omar",
-    "pubDate": "26.02.2026 13:00:35",
-    "sortDate": 1772110835000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rolls-Royce boss pushes for UK taxpayer support for new jet engine",
-    "link": "https://www.theguardian.com/business/2026/feb/26/rolls-royce-profits-soar-amid-booming-demand-for-ai-datacentre-power",
-    "pubDate": "26.02.2026 12:53:40",
-    "sortDate": 1772110420000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hillary Clinton to testify in House oversight committee’s Epstein investigation – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump",
-    "pubDate": "26.02.2026 12:40:43",
-    "sortDate": 1772109643000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Corbyn to be Your Party parliamentary leader as Sultana joins leadership committee",
-    "link": "https://www.theguardian.com/politics/2026/feb/26/jeremy-corbyn-your-party-parliamentary-leader-zarah-sultana-leadership-committee-seat",
-    "pubDate": "26.02.2026 12:35:31",
-    "sortDate": 1772109331000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Second suspect arrested after man with axe reportedly entered Manchester mosque",
-    "link": "https://www.theguardian.com/uk-news/2026/feb/26/second-suspect-arrested-man-axe-report-manchester-mosque",
-    "pubDate": "26.02.2026 12:35:04",
-    "sortDate": 1772109304000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US and Iranian negotiators meet for critical nuclear talks in Geneva | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/feb/26/first-thing-us-iran-nuclear-talks-geneva",
-    "pubDate": "26.02.2026 12:29:27",
-    "sortDate": 1772108967000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Really a lot of amazing beauty’: emails show how model scout connected Epstein with young women",
-    "link": "https://www.theguardian.com/us-news/2026/feb/26/daniel-siad-model-scout-jeffrey-epstein-emails",
-    "pubDate": "26.02.2026 12:00:34",
-    "sortDate": 1772107234000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Calls to move England’s home insulation scheme into council workers’ hands",
-    "link": "https://www.theguardian.com/environment/2026/feb/26/calls-to-move-england-home-insulation-scheme-into-council-workers-hands",
-    "pubDate": "26.02.2026 12:00:34",
-    "sortDate": 1772107234000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Democrats in four states seek to bar ICE employees from future civil service jobs",
-    "link": "https://www.theguardian.com/us-news/2026/feb/26/democrats-bar-ice-employees-civil-service-jobs",
-    "pubDate": "26.02.2026 12:00:34",
-    "sortDate": 1772107234000,
-    "source": "The Guardian"
+    "title": "UN’s Türk urges dialogue after deadly clashes on Afghan-Pakistan border",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167040",
+    "pubDate": "26.02.2026 12:00:00",
+    "sortDate": 1772107200000,
+    "source": "UN News"
   },
   {
     "title": "UN drug alert stops shipment that could have made 1.6 billion lethal fentanyl doses",
@@ -117,13 +152,6 @@
     "pubDate": "26.02.2026 12:00:00",
     "sortDate": 1772107200000,
     "source": "UN News"
-  },
-  {
-    "title": "Workers decry Whirlpool’s job cuts amid offshoring, praise of Trump’s tariffs",
-    "link": "https://www.theguardian.com/us-news/2026/feb/26/whirlpools-job-cuts-trumps-tariffs",
-    "pubDate": "26.02.2026 11:00:39",
-    "sortDate": 1772103639000,
-    "source": "The Guardian"
   },
   {
     "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
@@ -147,31 +175,17 @@
     "source": "The Guardian"
   },
   {
-    "title": "Minns government undermined own goal with NSW protest restrictions, constitutional challenge hears",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/26/nsw-pard-protest-restrictions-constitutional-challenge-ntwnfb",
-    "pubDate": "26.02.2026 06:52:43",
-    "sortDate": 1772088763000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Grace Tame says ‘spare me the condescension, old man’ after Albanese defends ‘difficult’ comment",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/26/grace-tame-suggests-anthony-albanese-labelling-her-difficult-is-misogynists-code-for-a-woman-who-wont-comply",
-    "pubDate": "26.02.2026 06:38:43",
-    "sortDate": 1772087923000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Wieambilla police shootings property listed for sale for $190,000",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/26/wieambilla-police-shootings-property-listed-for-sale-for-190000",
-    "pubDate": "26.02.2026 05:54:15",
-    "sortDate": 1772085255000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘A devastating force’: how recent storms turned to tragedies across the western Mediterranean",
     "link": "https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco",
     "pubDate": "26.02.2026 05:00:21",
     "sortDate": 1772082021000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East travel warnings expanded as tensions between US and Iran increase",
+    "link": "https://www.theguardian.com/world/2026/feb/26/us-iran-middle-east-travel-warnings",
+    "pubDate": "26.02.2026 02:23:29",
+    "sortDate": 1772072609000,
     "source": "The Guardian"
   },
   {
@@ -207,13 +221,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder",
     "pubDate": "25.02.2026 17:29:52",
     "sortDate": 1772040592000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US to offer passport services to citizens in illegal West Bank settlements",
-    "link": "https://www.theguardian.com/world/2026/feb/25/us-passport-services-citizens-israel-west-bank-palestine",
-    "pubDate": "25.02.2026 17:22:01",
-    "sortDate": 1772040121000,
     "source": "The Guardian"
   },
   {
@@ -506,13 +513,6 @@
   {
     "title": "Security Council LIVE: Sudan in focus amid genocide warnings in Darfur",
     "link": "https://news.un.org/feed/view/en/story/2026/02/1166999",
-    "pubDate": "19.02.2026 12:00:00",
-    "sortDate": 1771502400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Fears of ethnic cleansing in Gaza and the West Bank: UN rights report",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1166998",
     "pubDate": "19.02.2026 12:00:00",
     "sortDate": 1771502400000,
     "source": "UN News"
