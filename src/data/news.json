@@ -2,29 +2,36 @@
   {
     "title": "Bill Clinton testifies about ties to Jeffrey Epstein: ‘I saw nothing, and I did nothing wrong’ – live",
     "link": "https://www.theguardian.com/us-news/live/2026/feb/27/bill-clinton-jeffrey-epstein-donald-trump-us-politics-latest-news-updates",
-    "pubDate": "27.02.2026 21:00:50",
-    "sortDate": 1772226050000,
+    "pubDate": "27.02.2026 21:59:25",
+    "sortDate": 1772229565000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Departing CBS News producer claims political bias as Paramount poised to buy Warner Bros",
+    "link": "https://www.theguardian.com/media/2026/feb/27/cbs-news-political-bias-paramount-warner-bros",
+    "pubDate": "27.02.2026 21:58:13",
+    "sortDate": 1772229493000,
     "source": "The Guardian"
   },
   {
     "title": "‘Not a done deal’: California vows ‘vigorous’ review of Paramount-Warner Bros takeover",
     "link": "https://www.theguardian.com/us-news/2026/feb/27/california-paramount-warner-bros",
-    "pubDate": "27.02.2026 20:48:26",
-    "sortDate": 1772225306000,
+    "pubDate": "27.02.2026 21:52:17",
+    "sortDate": 1772229137000,
     "source": "The Guardian"
   },
   {
-    "title": "Bill Clinton says he had ‘no idea’ about Epstein’s crimes in House testimony",
-    "link": "https://www.theguardian.com/us-news/2026/feb/27/bill-clinton-testimony-jeffrey-epstein-investigation",
-    "pubDate": "27.02.2026 20:46:59",
-    "sortDate": 1772225219000,
+    "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI",
+    "link": "https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies",
+    "pubDate": "27.02.2026 21:47:14",
+    "sortDate": 1772228834000,
     "source": "The Guardian"
   },
   {
-    "title": "Mamdani’s meeting with Trump was a Trojan Horse triumph at the White House",
-    "link": "https://www.theguardian.com/us-news/2026/feb/27/mamdani-trump-white-house-meeting",
-    "pubDate": "27.02.2026 20:30:40",
-    "sortDate": 1772224240000,
+    "title": "Scouting America to reinstate ban on trans children to appease Pentagon",
+    "link": "https://www.theguardian.com/us-news/2026/feb/27/scouting-america-transgender-ban-pentagon",
+    "pubDate": "27.02.2026 21:38:20",
+    "sortDate": 1772228300000,
     "source": "The Guardian"
   },
   {
@@ -46,13 +53,6 @@
     "link": "https://www.theguardian.com/technology/2026/feb/27/suicide-forum-in-breach-of-online-safety-act-after-failing-to-block-uk-users",
     "pubDate": "27.02.2026 20:03:53",
     "sortDate": 1772222633000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US officials arrest more people over Minnesota anti-ICE church protest",
-    "link": "https://www.theguardian.com/us-news/2026/feb/27/minnesota-ice-church-protest-arrests",
-    "pubDate": "27.02.2026 20:02:23",
-    "sortDate": 1772222543000,
     "source": "The Guardian"
   },
   {
@@ -173,6 +173,27 @@
     "pubDate": "27.02.2026 13:32:19",
     "sortDate": 1772199139000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Guterres slams international failure to manage safe migration",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167056",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN unveils bold overhaul of strained humanitarian system",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167055",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Epstein scandal highlights ‘silencing’ of women, Danish breakthrough on HIV transmission, Belarus rights update",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167054",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
   },
   {
     "title": "Forgotten conflict in South Sudan at ‘a dangerous point’, Türk warns",
@@ -501,27 +522,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/02/1167004",
     "pubDate": "21.02.2026 12:00:00",
     "sortDate": 1771675200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: UN humanitarian chief visits South Sudan, shelter fire risks in Gaza, West Bank violence",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1167014",
-    "pubDate": "20.02.2026 12:00:00",
-    "sortDate": 1771588800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN report exposes torture, rape in Southeast Asia’s multi-billion-dollar scam centres",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1167012",
-    "pubDate": "20.02.2026 12:00:00",
-    "sortDate": 1771588800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Science-led governance of AI can help power sustainable development: Guterres",
-    "link": "https://news.un.org/feed/view/en/story/2026/02/1167011",
-    "pubDate": "20.02.2026 12:00:00",
-    "sortDate": 1771588800000,
     "source": "UN News"
   }
 ]
