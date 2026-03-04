@@ -1,9 +1,51 @@
 [
   {
-    "title": "Middle East crisis live: Israel launches ‘wave of strikes’ on Tehran as Iran prepares for Ali Khamenei’s funeral",
+    "title": "MIDDLE EAST LIVE: Conflict continues across region amid US, Israeli and Iranian strikes",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167076",
+    "pubDate": "04.03.2026 12:00:00",
+    "sortDate": 1772625600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East crisis live: Israel launches ‘wave of strikes’ on Tehran and threatens to assassinate new leader",
     "link": "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis",
-    "pubDate": "04.03.2026 10:14:27",
-    "sortDate": 1772619267000,
+    "pubDate": "04.03.2026 11:09:47",
+    "sortDate": 1772622587000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Spain tells of ‘surprise’ at Merz’s White House comments over Trump’s trade threats – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
+    "pubDate": "04.03.2026 11:06:34",
+    "sortDate": 1772622394000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Minister dismisses Trump’s claim Starmer is ‘no Churchill’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/mar/04/starmer-trump-iran-pmqs-immigration-uk-politics-live-news-updates",
+    "pubDate": "04.03.2026 11:05:08",
+    "sortDate": 1772622308000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Senate to vote on war powers resolution to prevent Trump from continuing Iran conflict",
+    "link": "https://www.theguardian.com/us-news/2026/mar/04/us-israeli-iran-war-senate-vote-congress-prevent-trump",
+    "pubDate": "04.03.2026 11:00:19",
+    "sortDate": 1772622019000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Donald Trump ‘really does not care’ if Iran play at World Cup 2026",
+    "link": "https://www.theguardian.com/football/2026/mar/04/donald-trump-really-does-not-care-if-iran-play-at-football-world-cup-2026",
+    "pubDate": "04.03.2026 10:28:49",
+    "sortDate": 1772620129000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "War in Middle East ‘could wipe out growth in UK living standards’",
+    "link": "https://www.theguardian.com/business/2026/mar/04/war-in-middle-east-could-wipe-out-growth-in-uk-living-standards",
+    "pubDate": "04.03.2026 10:22:35",
+    "sortDate": 1772619755000,
     "source": "The Guardian"
   },
   {
@@ -21,20 +63,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Minister dismisses Trump’s claim Starmer is ‘no Churchill’ – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/mar/04/starmer-trump-iran-pmqs-immigration-uk-politics-live-news-updates",
-    "pubDate": "04.03.2026 10:09:39",
-    "sortDate": 1772618979000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Spain’s Sánchez says ‘no to war’ after Trump’s threats over Nato spending and use of bases – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
-    "pubDate": "04.03.2026 10:07:44",
-    "sortDate": 1772618864000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK supermarket chain Iceland drops trademark dispute with Iceland",
     "link": "https://www.theguardian.com/business/2026/mar/04/uk-supermarket-chain-iceland-drops-trademark-dispute-with-iceland",
     "pubDate": "04.03.2026 09:50:12",
@@ -42,14 +70,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "War in Middle East ‘could wipe out growth in UK living standards’",
-    "link": "https://www.theguardian.com/business/2026/mar/04/war-in-middle-east-could-wipe-out-growth-in-uk-living-standards",
-    "pubDate": "04.03.2026 09:31:03",
-    "sortDate": 1772616663000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Attempt to destroy Iran’s nuclear programme could backfire and drive regime towards a bomb, experts warn",
+    "title": "Attacking Iran’s nuclear programme could drive it towards a bomb, experts warn",
     "link": "https://www.theguardian.com/world/2026/mar/04/us-israel-strikes-iran-nuclear-program-could-backfire",
     "pubDate": "04.03.2026 09:30:06",
     "sortDate": 1772616606000,
@@ -161,13 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "North Carolina: Roy Cooper and Michael Whatley win primaries to set up Senate contest",
-    "link": "https://www.theguardian.com/us-news/2026/mar/03/north-carolina-democratic-republican-primaries-senate",
-    "pubDate": "04.03.2026 02:12:48",
-    "sortDate": 1772590368000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pentagon names four of six US soldiers killed in Iranian strike on Kuwait base",
     "link": "https://www.theguardian.com/us-news/2026/mar/03/pentagon-us-soldiers-kuwait-strike",
     "pubDate": "04.03.2026 01:28:53",
@@ -193,13 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/04/china-two-sessions-2026-meeting-what-are-they-when-is-it-explainer",
     "pubDate": "03.03.2026 23:50:15",
     "sortDate": 1772581815000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Can’t win? Drop out: California Democrats plead with governor hopefuls as party fears Republican surge",
-    "link": "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom",
-    "pubDate": "03.03.2026 23:46:47",
-    "sortDate": 1772581607000,
     "source": "The Guardian"
   },
   {
@@ -231,6 +238,34 @@
     "source": "The Guardian"
   },
   {
+    "title": "How AI is already reshaping working conditions",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167075",
+    "pubDate": "03.03.2026 12:00:00",
+    "sortDate": 1772539200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The world is looking to you for clarity’, UN chief tells AI experts",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167074",
+    "pubDate": "03.03.2026 12:00:00",
+    "sortDate": 1772539200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Iran crisis: Schoolgirls killed, thousands displaced and aid compromised",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167071",
+    "pubDate": "03.03.2026 12:00:00",
+    "sortDate": 1772539200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE: Fourth day of escalating conflict between US, Israel and Iran",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167070",
+    "pubDate": "03.03.2026 12:00:00",
+    "sortDate": 1772539200000,
+    "source": "UN News"
+  },
+  {
     "title": "More generals purged as delegates gather for China’s Two Sessions event",
     "link": "https://www.theguardian.com/world/2026/mar/03/china-two-sessions-president-xi-economy-defence-technology",
     "pubDate": "03.03.2026 11:06:59",
@@ -245,11 +280,88 @@
     "source": "The Guardian"
   },
   {
+    "title": "Why medicinal plants matter on World Wildlife Day",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167068",
+    "pubDate": "02.03.2026 12:00:00",
+    "sortDate": 1772452800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Gaza crossings closed, fighting in Sudan continues, Afghanistan quake victims",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167069",
+    "pubDate": "02.03.2026 12:00:00",
+    "sortDate": 1772452800000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Melania Trump presides over historic session on children in conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167067",
+    "pubDate": "02.03.2026 12:00:00",
+    "sortDate": 1772452800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE: Strikes continue from US, Israel and Iran as UN urges restraint",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167065",
+    "pubDate": "02.03.2026 12:00:00",
+    "sortDate": 1772452800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Iran crisis: Nuclear watchdog urges restraint amid ongoing strikes",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167064",
+    "pubDate": "02.03.2026 12:00:00",
+    "sortDate": 1772452800000,
+    "source": "UN News"
+  },
+  {
     "title": "Afghanistan says it thwarted Pakistan airstrikes on Bagram airbase",
     "link": "https://www.theguardian.com/world/2026/mar/02/afghanistan-pakistan-airstrikes-bagram-airbase",
     "pubDate": "02.03.2026 04:44:37",
     "sortDate": 1772426677000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Deadly bombing of Iran primary school ‘a grave violation of humanitarian law’: UNESCO",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167063",
+    "pubDate": "01.03.2026 12:00:00",
+    "sortDate": 1772366400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Justice on the move: Mobile courts offer hope for communities in South Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167031",
+    "pubDate": "01.03.2026 12:00:00",
+    "sortDate": 1772366400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Iran strikes ‘squandered a chance for diplomacy’: Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167062",
+    "pubDate": "28.02.2026 12:00:00",
+    "sortDate": 1772280000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE: UN Security Council meeting in emergency session over Iran",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167060",
+    "pubDate": "28.02.2026 12:00:00",
+    "sortDate": 1772280000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Attacks on Iran and retaliatory strikes ‘undermine international peace and security’",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167059",
+    "pubDate": "28.02.2026 12:00:00",
+    "sortDate": 1772280000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘AI Kid of India’ urges young people to embrace technology",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167027",
+    "pubDate": "28.02.2026 12:00:00",
+    "sortDate": 1772280000000,
+    "source": "UN News"
   },
   {
     "title": "‘Adventurism has had its day’: speedboat shootout leaves Miami’s exiled Cubans bewildered",
@@ -301,6 +413,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "Eight years of captivity: Finding freedom and healing in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167029",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres slams international failure to manage safe migration",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167056",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN unveils bold overhaul of strained humanitarian system",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167055",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Epstein scandal highlights ‘silencing’ of women, Danish breakthrough on HIV transmission, Belarus rights update",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167054",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Forgotten conflict in South Sudan at ‘a dangerous point’, Türk warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167051",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fears grow for ordinary Afghans after further clashes with Pakistan",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167049",
+    "pubDate": "27.02.2026 12:00:00",
+    "sortDate": 1772193600000,
+    "source": "UN News"
+  },
+  {
     "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
     "link": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
     "pubDate": "27.02.2026 07:00:34",
@@ -308,10 +462,66 @@
     "source": "The Guardian"
   },
   {
+    "title": "‘The trauma will stay with me for life,’ says survivor of sexual violence in war-torn Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167047",
+    "pubDate": "26.02.2026 12:00:00",
+    "sortDate": 1772107200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167048",
+    "pubDate": "26.02.2026 12:00:00",
+    "sortDate": 1772107200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Humanitarian pressures grow as Cuba continues to struggle with energy shortages",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167046",
+    "pubDate": "26.02.2026 12:00:00",
+    "sortDate": 1772107200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Human Rights Council hears of ongoing risk of further genocidal violence in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167044",
+    "pubDate": "26.02.2026 12:00:00",
+    "sortDate": 1772107200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Palestine: UN rights chief highlights suffering, atrocity crimes ‘that remain unpunished’",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167043",
+    "pubDate": "26.02.2026 12:00:00",
+    "sortDate": 1772107200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN’s Türk urges dialogue after deadly clashes on Afghan-Pakistan border",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167040",
+    "pubDate": "26.02.2026 12:00:00",
+    "sortDate": 1772107200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN drug alert stops shipment that could have made 1.6 billion lethal fentanyl doses",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167039",
+    "pubDate": "26.02.2026 12:00:00",
+    "sortDate": 1772107200000,
+    "source": "UN News"
+  },
+  {
     "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
     "link": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
     "pubDate": "26.02.2026 08:00:23",
     "sortDate": 1772092823000,
     "source": "The Guardian"
+  },
+  {
+    "title": "South Sudan: Funding gaps threaten nearly 2 million displaced people",
+    "link": "https://news.un.org/feed/view/en/story/2026/02/1167038",
+    "pubDate": "25.02.2026 12:00:00",
+    "sortDate": 1772020800000,
+    "source": "UN News"
   }
 ]
