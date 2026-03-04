@@ -1,30 +1,114 @@
 [
   {
+    "title": "Jasmine Crockett concedes to James Talarico after he secures Democratic Senate nomination in Texas – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
+    "pubDate": "04.03.2026 16:34:34",
+    "sortDate": 1772642074000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour MP says she had no reason to suspect her husband may have broken law after his arrest on suspicion of spying for China – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/mar/04/starmer-trump-iran-pmqs-immigration-uk-politics-live-news-updates",
+    "pubDate": "04.03.2026 16:30:52",
+    "sortDate": 1772641852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Gavin Newsom likens Israel to ‘an apartheid state’ and decries war on Iran",
+    "link": "https://www.theguardian.com/us-news/2026/mar/04/gavin-newsom-israel-apartheid-state-iran-war",
+    "pubDate": "04.03.2026 16:30:36",
+    "sortDate": 1772641836000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Middle East crisis live: US submarine sank Iranian warship, Hegseth says; Israel launches fresh strikes on Tehran",
     "link": "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis",
-    "pubDate": "04.03.2026 15:10:58",
-    "sortDate": 1772637058000,
+    "pubDate": "04.03.2026 16:22:43",
+    "sortDate": 1772641363000,
     "source": "The Guardian"
   },
   {
     "title": "‘Any threat against member state is threat against the EU’, says commissioner in response to Trump comments – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
-    "pubDate": "04.03.2026 15:10:55",
-    "sortDate": 1772637055000,
+    "pubDate": "04.03.2026 16:22:00",
+    "sortDate": 1772641320000,
     "source": "The Guardian"
   },
   {
-    "title": "Labour MP Joani Reid asks for privacy after husband’s arrest on suspicion of spying for China – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/mar/04/starmer-trump-iran-pmqs-immigration-uk-politics-live-news-updates",
-    "pubDate": "04.03.2026 15:02:23",
-    "sortDate": 1772636543000,
+    "title": "Union tries to seize control of works council at Tesla’s German factory",
+    "link": "https://www.theguardian.com/business/2026/mar/04/union-tries-seize-control-works-council-tesla-german-factory",
+    "pubDate": "04.03.2026 16:18:02",
+    "sortDate": 1772641082000,
     "source": "The Guardian"
   },
   {
-    "title": "Pete Hegseth fails to say whose munition bombed Iranian girls school, saying US investigating – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
-    "pubDate": "04.03.2026 14:59:15",
-    "sortDate": 1772636355000,
+    "title": "South West Water admits criminal offence over Devon parasite outbreak",
+    "link": "https://www.theguardian.com/business/2026/mar/04/south-west-water-admits-criminal-offence-over-devon-parasite-outbreak",
+    "pubDate": "04.03.2026 16:12:00",
+    "sortDate": 1772640720000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "War in Middle East ‘could wipe out growth in UK living standards’",
+    "link": "https://www.theguardian.com/business/2026/mar/04/war-in-middle-east-could-wipe-out-growth-in-uk-living-standards",
+    "pubDate": "04.03.2026 15:55:10",
+    "sortDate": 1772639710000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pete Hegseth says Iranian regime is ‘toast’ as US expands military offensive",
+    "link": "https://www.theguardian.com/us-news/2026/mar/04/pete-hegseth-iran-us-israel-war",
+    "pubDate": "04.03.2026 15:51:17",
+    "sortDate": 1772639477000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK’s partial study visa ban ‘will drive people to small boats’, campaigners say",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/04/uks-study-visa-ban-for-four-countries-will-drive-more-people-to-use-small-boats",
+    "pubDate": "04.03.2026 15:48:51",
+    "sortDate": 1772639331000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Harry Maguire given 15-month suspended prison sentence after retrial in Greece",
+    "link": "https://www.theguardian.com/football/2026/mar/04/harry-maguire-manchester-united-suspended-prison-sentence-greece-non-serious-assault",
+    "pubDate": "04.03.2026 15:47:17",
+    "sortDate": 1772639237000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pete Hegseth says US is ‘investigating’ deadly strike on girls’ school in Iran",
+    "link": "https://www.theguardian.com/world/2026/mar/04/pete-hegseth-denies-responsibility-iran-school-strike",
+    "pubDate": "04.03.2026 15:41:59",
+    "sortDate": 1772638919000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Will Trump’s Middle East war also engulf Friedrich Merz?",
+    "link": "https://www.theguardian.com/world/2026/mar/04/will-trumps-middle-east-war-also-engulf-friedrich-merz",
+    "pubDate": "04.03.2026 15:40:34",
+    "sortDate": 1772638834000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "European stock markets rally after report of ‘secret outreach’ by Iran to try to end war",
+    "link": "https://www.theguardian.com/business/2026/mar/04/stock-market-fall-trump-hormuz-oil-prices",
+    "pubDate": "04.03.2026 15:28:40",
+    "sortDate": 1772638120000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israel strikes Tehran and Beirut as Iran vows ‘complete destruction’ in region",
+    "link": "https://www.theguardian.com/world/2026/mar/04/israel-fresh-strikes-tehran-beirut-iran-targets-us-bases-gulf",
+    "pubDate": "04.03.2026 15:28:23",
+    "sortDate": 1772638103000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Syngenta says it will stop making pesticide linked to Parkinson’s disease",
+    "link": "https://www.theguardian.com/environment/2026/mar/03/syngesta-pesticide-parkinsons",
+    "pubDate": "04.03.2026 15:18:05",
+    "sortDate": 1772637485000,
     "source": "The Guardian"
   },
   {
@@ -42,38 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Europe’s next-generation fighter jet project may collapse if row continues, says warplane maker",
-    "link": "https://www.theguardian.com/technology/2026/mar/04/europe-fighter-jet-collapse-france-germany-airbus-dassault-aviation",
-    "pubDate": "04.03.2026 14:54:27",
-    "sortDate": 1772636067000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "From petrol to groceries: how Middle East crisis is driving up prices",
-    "link": "https://www.theguardian.com/world/2026/mar/04/middle-east-crisis-petrol-groceries-rising-prices",
-    "pubDate": "04.03.2026 14:42:47",
-    "sortDate": 1772635367000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Small investors turn on James Watt after BrewDog co-founder admits ‘many mistakes’",
-    "link": "https://www.theguardian.com/business/2026/mar/04/small-investors-turn-on-james-watt-after-brewdog-founder-admits-many-mistakes",
-    "pubDate": "04.03.2026 14:35:20",
-    "sortDate": 1772634920000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Showdown over datacenter politics at heart of North Carolina primary",
     "link": "https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary",
     "pubDate": "04.03.2026 14:34:44",
     "sortDate": 1772634884000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hanging on to Trump’s latest words ‘is not the special relationship’, Starmer tells MPs",
-    "link": "https://www.theguardian.com/world/2026/mar/04/starmer-hanging-trump-special-relationship-iran",
-    "pubDate": "04.03.2026 14:17:17",
-    "sortDate": 1772633837000,
     "source": "The Guardian"
   },
   {
@@ -91,67 +147,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump administration’s bid to halt New York City congestion toll blocked in court",
-    "link": "https://www.theguardian.com/us-news/2026/mar/04/new-york-city-congestion-toll",
-    "pubDate": "04.03.2026 13:59:32",
-    "sortDate": 1772632772000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Israel flagged Hezbollah threat before launching air attacks, leaked memo shows",
-    "link": "https://www.theguardian.com/world/2026/mar/04/israel-flagged-hezbollah-threat-before-launching-air-attacks-leaked-memo-shows",
-    "pubDate": "04.03.2026 13:54:55",
-    "sortDate": 1772632495000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "60% of Welsh voters unaware of how new system will work in May elections",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/04/60-of-welsh-voters-unaware-of-how-new-system-will-work-in-may-elections",
-    "pubDate": "04.03.2026 13:33:17",
-    "sortDate": 1772631197000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Apartheid newsroom’: minority ethnic journalists still locked out of top jobs, report finds",
-    "link": "https://www.theguardian.com/media/2026/mar/04/journalism-minority-newsroom-jobs-report",
-    "pubDate": "04.03.2026 13:32:11",
-    "sortDate": 1772631131000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Workers at top 20 US low-wage firms rely on public assistance, report says",
-    "link": "https://www.theguardian.com/business/2026/mar/04/workers-medicaid-snap-low-pay",
-    "pubDate": "04.03.2026 13:00:20",
-    "sortDate": 1772629220000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK supermarket chain Iceland drops trademark dispute with Iceland",
-    "link": "https://www.theguardian.com/business/2026/mar/04/uk-supermarket-chain-iceland-drops-trademark-dispute-with-iceland",
-    "pubDate": "04.03.2026 12:11:01",
-    "sortDate": 1772626261000,
-    "source": "The Guardian"
-  },
-  {
     "title": "MIDDLE EAST LIVE: Conflict continues across region amid US, Israeli and Iranian strikes",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167076",
     "pubDate": "04.03.2026 12:00:00",
     "sortDate": 1772625600000,
     "source": "UN News"
-  },
-  {
-    "title": "European stock markets rally after report of ‘secret outreach’ by Iran to try to end war",
-    "link": "https://www.theguardian.com/business/2026/mar/04/stock-market-fall-trump-hormuz-oil-prices",
-    "pubDate": "04.03.2026 11:47:51",
-    "sortDate": 1772624871000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘No to war’: Sánchez doubles down after Trump threat to cut off trade with Spain",
-    "link": "https://www.theguardian.com/world/2026/mar/04/pedro-sanchez-donald-trump-threat-cut-off-trade-spain",
-    "pubDate": "04.03.2026 10:14:24",
-    "sortDate": 1772619264000,
-    "source": "The Guardian"
   },
   {
     "title": "Tim Wilson claims he has sold out of his bet against the share market for ‘modest profit’",
