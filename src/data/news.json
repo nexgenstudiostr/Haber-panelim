@@ -1,5 +1,54 @@
 [
   {
+    "title": "Middle East crisis live: Israel launches ‘wave of strikes’ on Tehran; nearly 150 reported missing after Iranian warship sunk",
+    "link": "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis",
+    "pubDate": "04.03.2026 12:29:22",
+    "sortDate": 1772627362000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer not prepared to join a war ‘without lawful basis and viable plan’, he tells PMQs – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/mar/04/starmer-trump-iran-pmqs-immigration-uk-politics-live-news-updates",
+    "pubDate": "04.03.2026 12:28:52",
+    "sortDate": 1772627332000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Talarico wins Texas Democratic primary as Republicans face runoff – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
+    "pubDate": "04.03.2026 12:24:59",
+    "sortDate": 1772627099000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Spain tells of ‘surprise’ at Merz’s White House comments over Trump’s trade threats – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
+    "pubDate": "04.03.2026 12:20:42",
+    "sortDate": 1772626842000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Partner of sitting Labour MP among three arrested on suspicion of spying for China",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/04/parliament-arrests-suspicion-spying-china",
+    "pubDate": "04.03.2026 12:19:28",
+    "sortDate": 1772626768000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK supermarket chain Iceland drops trademark dispute with Iceland",
+    "link": "https://www.theguardian.com/business/2026/mar/04/uk-supermarket-chain-iceland-drops-trademark-dispute-with-iceland",
+    "pubDate": "04.03.2026 12:11:01",
+    "sortDate": 1772626261000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mojtaba Khamenei, son of former supreme leader, tipped to become Iran’s next head of state",
+    "link": "https://www.theguardian.com/world/2026/mar/04/mojtaba-khamenei-son-of-former-supreme-leader-tipped-to-become-irans-next-head-of-state",
+    "pubDate": "04.03.2026 12:08:51",
+    "sortDate": 1772626131000,
+    "source": "The Guardian"
+  },
+  {
     "title": "MIDDLE EAST LIVE: Conflict continues across region amid US, Israeli and Iranian strikes",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167076",
     "pubDate": "04.03.2026 12:00:00",
@@ -7,24 +56,38 @@
     "source": "UN News"
   },
   {
-    "title": "Middle East crisis live: Israel launches ‘wave of strikes’ on Tehran and threatens to assassinate new leader",
-    "link": "https://www.theguardian.com/world/live/2026/mar/04/iran-war-live-updates-us-israel-latest-news-strait-of-hormuz-middle-east-crisis",
-    "pubDate": "04.03.2026 11:09:47",
-    "sortDate": 1772622587000,
+    "title": "European stock markets rally after report of ‘secret outreach’ by Iran to try to end war",
+    "link": "https://www.theguardian.com/business/2026/mar/04/stock-market-fall-trump-hormuz-oil-prices",
+    "pubDate": "04.03.2026 11:47:51",
+    "sortDate": 1772624871000,
     "source": "The Guardian"
   },
   {
-    "title": "Spain tells of ‘surprise’ at Merz’s White House comments over Trump’s trade threats – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/mar/04/europe-latest-news-updates-pedro-sanchez-spain-nato-eu",
-    "pubDate": "04.03.2026 11:06:34",
-    "sortDate": 1772622394000,
+    "title": "Head of Police Federation of England and Wales arrested on suspicion of corruption",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/04/police-federation-of-england-and-wales-chief-executive-mukund-krishna-arrested",
+    "pubDate": "04.03.2026 11:37:32",
+    "sortDate": 1772624252000,
     "source": "The Guardian"
   },
   {
-    "title": "Minister dismisses Trump’s claim Starmer is ‘no Churchill’ – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/mar/04/starmer-trump-iran-pmqs-immigration-uk-politics-live-news-updates",
-    "pubDate": "04.03.2026 11:05:08",
-    "sortDate": 1772622308000,
+    "title": "Israel carries out fresh strikes on Tehran and Beirut as Iran targets US bases in Gulf",
+    "link": "https://www.theguardian.com/world/2026/mar/04/israel-fresh-strikes-tehran-beirut-iran-targets-us-bases-gulf",
+    "pubDate": "04.03.2026 11:30:25",
+    "sortDate": 1772623825000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Senate to vote on resolution that would prevent Trump continuing Iran war | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/mar/04/first-thing-senate-vote-resolution-prevent-trump-iran-war",
+    "pubDate": "04.03.2026 11:29:42",
+    "sortDate": 1772623782000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Thought it was a collapsed drain’: golf course sinkhole exposes lost wine cellar",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/04/thought-it-was-a-collapsed-drain-golf-course-sinkhole-exposes-lost-wine-cellar",
+    "pubDate": "04.03.2026 11:25:45",
+    "sortDate": 1772623545000,
     "source": "The Guardian"
   },
   {
@@ -56,20 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ex-Nato commander defends Starmer after Trump’s ‘no Winston Churchill’ jibe",
-    "link": "https://www.theguardian.com/politics/2026/mar/04/former-nato-commander-defends-keir-starmer-donald-trump",
-    "pubDate": "04.03.2026 10:10:55",
-    "sortDate": 1772619055000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK supermarket chain Iceland drops trademark dispute with Iceland",
-    "link": "https://www.theguardian.com/business/2026/mar/04/uk-supermarket-chain-iceland-drops-trademark-dispute-with-iceland",
-    "pubDate": "04.03.2026 09:50:12",
-    "sortDate": 1772617812000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Attacking Iran’s nuclear programme could drive it towards a bomb, experts warn",
     "link": "https://www.theguardian.com/world/2026/mar/04/us-israel-strikes-iran-nuclear-program-could-backfire",
     "pubDate": "04.03.2026 09:30:06",
@@ -95,13 +144,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/mar/04/tim-wilson-claims-he-has-sold-out-of-his-bet-against-the-share-market-for-modest-profit",
     "pubDate": "04.03.2026 08:48:27",
     "sortDate": 1772614107000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "James Talarico wins Democratic primary for US Senate in Texas",
-    "link": "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results",
-    "pubDate": "04.03.2026 08:25:27",
-    "sortDate": 1772612727000,
     "source": "The Guardian"
   },
   {
@@ -133,31 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Middle East conflict offers economic lifeline to Russia’s flagging war machine",
-    "link": "https://www.theguardian.com/world/2026/mar/04/middle-east-conflict-offers-economic-lifeline-to-russias-flagging-war-machine",
-    "pubDate": "04.03.2026 06:00:42",
-    "sortDate": 1772604042000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Protect caterpillars as UK’s moth population plummets, urge charities",
-    "link": "https://www.theguardian.com/environment/2026/mar/04/caterpillars-spring-moth-population",
-    "pubDate": "04.03.2026 06:00:41",
-    "sortDate": 1772604041000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Plibersek accuses Mafs of platforming ‘coercive control’ after contestant wanted a woman ‘obedient’ like a dog",
     "link": "https://www.theguardian.com/australia-news/2026/mar/04/mafs-coercive-control-plibersek-ntwnfb",
     "pubDate": "04.03.2026 05:03:26",
     "sortDate": 1772600606000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Texas Senate seat fight heads to runoff after Republicans fail to secure required votes",
-    "link": "https://www.theguardian.com/us-news/2026/mar/03/texas-republicans-senate-john-cornyn-ken-paxton",
-    "pubDate": "04.03.2026 04:47:13",
-    "sortDate": 1772599633000,
     "source": "The Guardian"
   },
   {
@@ -179,27 +200,6 @@
     "link": "https://www.theguardian.com/world/live/2026/mar/03/us-israel-war-iran-live-updates-attacks-strikes-trump-netanyahu-lebanon-middle-east-latest-news",
     "pubDate": "04.03.2026 02:41:19",
     "sortDate": 1772592079000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pentagon names four of six US soldiers killed in Iranian strike on Kuwait base",
-    "link": "https://www.theguardian.com/us-news/2026/mar/03/pentagon-us-soldiers-kuwait-strike",
-    "pubDate": "04.03.2026 01:28:53",
-    "sortDate": 1772587733000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rubio tries to backtrack after Israel comments later contradicted by Trump trigger criticism – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
-    "pubDate": "04.03.2026 00:00:20",
-    "sortDate": 1772582420000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK puts emergency brake on study visas for four countries’ nationals",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/03/uk-puts-emergency-brake-on-study-visas-for-four-countries-nationals",
-    "pubDate": "03.03.2026 23:53:05",
-    "sortDate": 1772581985000,
     "source": "The Guardian"
   },
   {
