@@ -1,37 +1,51 @@
 [
   {
-    "title": "Australia news live: luxury car tax change could seal EU trade deal; flights from Dubai land in Sydney and Melbourne",
+    "title": "Australia news live: Labor tight-lipped on Australians on submarine that sank Iran warship; more stranded travellers return from Middle East",
     "link": "https://www.theguardian.com/australia-news/live/2026/mar/06/middle-east-flights-return-queensland-weather-nsw-budget-estimates-anthony-albanese-angus-taylor-labor-coalition-politics-updates-ntwnfb",
-    "pubDate": "05.03.2026 20:22:20",
-    "sortDate": 1772742140000,
+    "pubDate": "05.03.2026 21:23:41",
+    "sortDate": 1772745821000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Trump demands say in choosing Iran’s next supreme leader; Israel tells hundreds of thousands to flee Beirut",
     "link": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
-    "pubDate": "05.03.2026 20:20:07",
-    "sortDate": 1772742007000,
+    "pubDate": "05.03.2026 21:22:19",
+    "sortDate": 1772745739000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Markwayne Mullin, Maga ‘warrior’ and ICE defender, to replace Kristi Noem",
+    "link": "https://www.theguardian.com/us-news/2026/mar/05/markwayne-mullin-kristi-noem-dhs",
+    "pubDate": "05.03.2026 21:19:49",
+    "sortDate": 1772745589000,
     "source": "The Guardian"
   },
   {
     "title": "Trump fires Kristi Noem; replacement pick Markwayne Mullin says nomination is ‘pretty humbling’ – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
-    "pubDate": "05.03.2026 20:18:58",
-    "sortDate": 1772741938000,
+    "pubDate": "05.03.2026 21:12:50",
+    "sortDate": 1772745170000,
     "source": "The Guardian"
   },
   {
     "title": "Suspect apprehended after three women found dead in rural Utah",
     "link": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
-    "pubDate": "05.03.2026 20:13:58",
-    "sortDate": 1772741638000,
+    "pubDate": "05.03.2026 21:01:05",
+    "sortDate": 1772744465000,
     "source": "The Guardian"
   },
   {
-    "title": "New York and other US states sue Trump over ‘illegal and reckless’ tariffs",
-    "link": "https://www.theguardian.com/us-news/2026/mar/05/trump-administration-tariff-lawsuit",
-    "pubDate": "05.03.2026 20:10:16",
-    "sortDate": 1772741416000,
+    "title": "Trump fires homeland security secretary Kristi Noem",
+    "link": "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security",
+    "pubDate": "05.03.2026 20:47:08",
+    "sortDate": 1772743628000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump says he fired Anthropic ‘like dogs’ as negotiations with Pentagon reportedly restart",
+    "link": "https://www.theguardian.com/technology/2026/mar/05/trump-anthropic-ai-pentagon",
+    "pubDate": "05.03.2026 20:39:08",
+    "sortDate": 1772743148000,
     "source": "The Guardian"
   },
   {
@@ -49,13 +63,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump ousts DHS secretary Kristi Noem and replaces her with Republican senator",
-    "link": "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security",
-    "pubDate": "05.03.2026 19:52:11",
-    "sortDate": 1772740331000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Dismay as Hegseth urges Latin American allies to join ‘offense’ against cartels",
     "link": "https://www.theguardian.com/us-news/2026/mar/05/hegseth-latin-america-drug-cartels",
     "pubDate": "05.03.2026 19:50:26",
@@ -67,13 +74,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/05/eu-ban-meaty-names-vegetarian-vegan-food",
     "pubDate": "05.03.2026 19:44:04",
     "sortDate": 1772739844000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "RFK Jr urges medical schools to increase nutrition education training",
-    "link": "https://www.theguardian.com/us-news/2026/mar/05/rfk-medical-school-nutrition",
-    "pubDate": "05.03.2026 19:41:44",
-    "sortDate": 1772739704000,
     "source": "The Guardian"
   },
   {
@@ -126,7 +126,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Defence secretary accuses MPs of undermining UK’s relationship with Trump",
+    "title": "Defence secretary accuses Tory and Reform MPs of ‘unpatriotic’ behaviour",
     "link": "https://www.theguardian.com/politics/2026/mar/05/uk-defence-secretary-mp-relationship-trump",
     "pubDate": "05.03.2026 18:58:09",
     "sortDate": 1772737089000,
@@ -210,7 +210,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Penny Wong refuses to say if any Australian crew onboard US submarine that sank Iranian warship",
+    "title": "Defence sources say Australian crew onboard US submarine that sank Iranian warship",
     "link": "https://www.theguardian.com/australia-news/2026/mar/05/iran-warship-australian-crew-onboard-us-submarine-foreign-minister-refuses-to-say",
     "pubDate": "05.03.2026 10:00:04",
     "sortDate": 1772704804000,
