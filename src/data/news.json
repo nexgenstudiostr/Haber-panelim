@@ -1,16 +1,65 @@
 [
   {
-    "title": "Middle East crisis live: US temporarily lets India buy Russian oil to ease energy fears; Israeli military launches strikes on Beirut",
-    "link": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
-    "pubDate": "06.03.2026 01:27:31",
-    "sortDate": 1772760451000,
+    "title": "Australia news live: Victorian pharmacies to provide the pill without script; fire ants detected in Queensland rainforest",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/06/middle-east-flights-return-queensland-weather-nsw-budget-estimates-anthony-albanese-angus-taylor-labor-coalition-politics-updates-ntwnfb",
+    "pubDate": "06.03.2026 03:52:02",
+    "sortDate": 1772769122000,
     "source": "The Guardian"
   },
   {
-    "title": "News live: Albanese confirms three Australians on board US submarine that sank Iranian warship",
-    "link": "https://www.theguardian.com/australia-news/live/2026/mar/06/middle-east-flights-return-queensland-weather-nsw-budget-estimates-anthony-albanese-angus-taylor-labor-coalition-politics-updates-ntwnfb",
-    "pubDate": "06.03.2026 01:26:35",
-    "sortDate": 1772760395000,
+    "title": "Queensland and NT warned to prepare for major flooding as tropical lows bring deluge",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/06/far-north-queensland-severe-weather-tropical-low-flash-flood-warnings",
+    "pubDate": "06.03.2026 03:44:15",
+    "sortDate": 1772768655000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Maga warrior’ nominated by Trump to lead DHS said shooting of January 6 rioter Ashli Babbitt was justified – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
+    "pubDate": "06.03.2026 03:38:03",
+    "sortDate": 1772768283000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran war live updates: US temporarily lets India buy Russian oil amid energy fears; Israeli military launches strikes on Beirut",
+    "link": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
+    "pubDate": "06.03.2026 03:31:33",
+    "sortDate": 1772767893000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Porn websites begin blocking Australian users as deadline for age verification compliance looms",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/06/porn-websites-begin-blocking-australian-users-as-deadline-for-age-verification-compliance-looms",
+    "pubDate": "06.03.2026 03:03:23",
+    "sortDate": 1772766203000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Three Australians were on US submarine that sank Iranian warship, PM says",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/06/australians-onboard-us-submarine-sank-iran-warship",
+    "pubDate": "06.03.2026 02:37:42",
+    "sortDate": 1772764662000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Canadian backpacker Piper James died ‘as a result of drowning’ following dingo attack at K’gari, coroner says",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/06/piper-james-kgari-cause-of-death-drowning-dingo-attack-coroner",
+    "pubDate": "06.03.2026 02:30:12",
+    "sortDate": 1772764212000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Explosions heard across Tel Aviv  – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/mar/05/iran-war-latest-updates-canada-carney-trump-israel-tehran-strikes",
+    "pubDate": "06.03.2026 01:54:28",
+    "sortDate": 1772762068000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ukraine to help US and its allies counter Iranian drones in Middle East, says Zelenskyy",
+    "link": "https://www.theguardian.com/world/2026/mar/06/ukraine-zelenskyy-iran-war-help-us-israel-fight-drones",
+    "pubDate": "06.03.2026 01:36:33",
+    "sortDate": 1772760993000,
     "source": "The Guardian"
   },
   {
@@ -28,27 +77,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Democrats say ‘good riddance’ to Kristi Noem after Trump fires her; DHS replacement pick calls nomination ‘pretty humbling’ – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
-    "pubDate": "06.03.2026 00:45:14",
-    "sortDate": 1772757914000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Three Australians were onboard US submarine that sank Iranian warship, PM says",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/06/australians-onboard-us-submarine-sank-iran-warship",
-    "pubDate": "06.03.2026 00:30:36",
-    "sortDate": 1772757036000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Removing homeless encampment from local park breached human rights, Queensland supreme court rules",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/06/brisbane-homeless-encampment-park-council-removal-ruling-ntwnfb",
-    "pubDate": "06.03.2026 00:26:00",
-    "sortDate": 1772756760000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Man charged with aggravated murder in killings of three women in Utah",
     "link": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
     "pubDate": "06.03.2026 00:11:21",
@@ -63,13 +91,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Canadian backpacker Piper James died ‘as a result of drowning’ following dingo attack at K’gari, coroner says",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/06/piper-james-kgari-cause-of-death-drowning-dingo-attack-coroner",
-    "pubDate": "05.03.2026 23:58:02",
-    "sortDate": 1772755082000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Minneapolis killings and deportation outrage: Kristi Noem’s scandal-plagued DHS tenure",
     "link": "https://www.theguardian.com/us-news/2026/mar/05/kristi-noem-homeland-security-timeline",
     "pubDate": "05.03.2026 23:53:38",
@@ -77,24 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Kristi Noem confronts grim truth that everyone is expendable in Trump world",
-    "link": "https://www.theguardian.com/us-news/2026/mar/05/kristi-noem-fired",
-    "pubDate": "05.03.2026 23:48:38",
-    "sortDate": 1772754518000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Israel launches huge strikes against south Beirut after mass evacuation order",
     "link": "https://www.theguardian.com/world/2026/mar/05/israel-orders-people-evacuate-beirut-suburbs-lebanon-iran",
     "pubDate": "05.03.2026 23:45:02",
     "sortDate": 1772754302000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "One Nation senator for NSW still lived in Queensland four months after his appointment, expense reports show",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/06/one-nation-senator-for-nsw-still-lived-in-queensland-four-months-after-his-appointment-expense-reports-show",
-    "pubDate": "05.03.2026 23:30:46",
-    "sortDate": 1772753446000,
     "source": "The Guardian"
   },
   {
@@ -186,13 +193,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
     "pubDate": "05.03.2026 16:23:57",
     "sortDate": 1772727837000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nissan ‘says Sunderland plant could close’ if UK excluded from Made in Europe rules",
-    "link": "https://www.theguardian.com/business/2026/mar/05/nissan-sunderland-plant-could-close-if-uk-excluded-from-made-in-europe-rules-eu",
-    "pubDate": "05.03.2026 16:11:23",
-    "sortDate": 1772727083000,
     "source": "The Guardian"
   },
   {
