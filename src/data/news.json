@@ -1,23 +1,135 @@
 [
   {
-    "title": "DHS leadership change is not enough to reopen government and start funding department, says Hakeem Jeffries – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
-    "pubDate": "09.03.2026 13:37:04",
-    "sortDate": 1773063424000,
+    "title": "Andrew Malkinson accuser ‘wasn’t too sure it was the right man’, court told",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/09/andrew-malkinson-accuser-not-too-sure-right-man-court-told",
+    "pubDate": "09.03.2026 15:38:13",
+    "sortDate": 1773070693000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First minister pledges help with costs of ‘horrific’ fire next to Glasgow Central station",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/09/glasgow-central-station-closed-fire",
+    "pubDate": "09.03.2026 15:35:00",
+    "sortDate": 1773070500000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Israel resumes strikes across Tehran and Beirut as Turkey and Qatar intercept Iranian missiles",
+    "link": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
+    "pubDate": "09.03.2026 15:34:39",
+    "sortDate": 1773070479000,
     "source": "The Guardian"
   },
   {
     "title": "Starmer warns of bigger impact on economy the longer Iran war continues - UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/mar/09/keir-starmer-uk-gas-oil-prices-100-petrol-energy-inflation-latest-news-live-updates",
-    "pubDate": "09.03.2026 13:34:10",
-    "sortDate": 1773063250000,
+    "pubDate": "09.03.2026 15:32:19",
+    "sortDate": 1773070339000,
     "source": "The Guardian"
   },
   {
-    "title": "Pete Hegseth says ‘there will be more casualties’ in US war with Iran",
-    "link": "https://www.theguardian.com/us-news/2026/mar/09/pete-hegseth-us-war-with-iran-casualties",
-    "pubDate": "09.03.2026 13:33:12",
-    "sortDate": 1773063192000,
+    "title": "Trump vows not to sign any new legislation until SAVE America act is passed – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
+    "pubDate": "09.03.2026 15:32:16",
+    "sortDate": 1773070336000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Roman Abramovich ready to fight UK government over proceeds from £2.5bn Chelsea sale",
+    "link": "https://www.theguardian.com/world/2026/mar/09/roman-abramovich-ready-to-fight-uk-government-over-proceeds-from-chelsea-sale",
+    "pubDate": "09.03.2026 15:23:14",
+    "sortDate": 1773069794000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Texas lawmakers criticize ICE for detaining two teen mariachi musicians",
+    "link": "https://www.theguardian.com/us-news/2026/mar/09/texas-lawmakers-ice-detaining-teen-mariachi-musicians",
+    "pubDate": "09.03.2026 15:19:48",
+    "sortDate": 1773069588000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Throwing of explosive devices outside Mamdani residence was ‘act of Isis-inspired terrorism’, officials say",
+    "link": "https://www.theguardian.com/us-news/2026/mar/09/nyc-mamdani-explosive-device-terrorism",
+    "pubDate": "09.03.2026 15:18:51",
+    "sortDate": 1773069531000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Live Nation reaches surprise settlement with justice department in antitrust case",
+    "link": "https://www.theguardian.com/business/2026/mar/09/live-nation-settlement-antitrust-case",
+    "pubDate": "09.03.2026 15:01:58",
+    "sortDate": 1773068518000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Et tutu, Timothée? Backlash mounts over Chalamet snipes at opera and ballet",
+    "link": "https://www.theguardian.com/film/2026/mar/09/timothee-chalamet-backlash-opera-and-ballet",
+    "pubDate": "09.03.2026 14:58:50",
+    "sortDate": 1773068330000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Five members of Iranian women’s football team reportedly seeking to remain in Australia",
+    "link": "https://www.theguardian.com/football/2026/mar/09/iran-women-football-team-australia-asian-cup",
+    "pubDate": "09.03.2026 14:54:12",
+    "sortDate": 1773068052000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Revealed: UK’s multibillion AI drive is built on ‘phantom investments’",
+    "link": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+    "pubDate": "09.03.2026 14:40:08",
+    "sortDate": 1773067208000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Yorkshire Water receives fresh funding despite sewage fines and pay row",
+    "link": "https://www.theguardian.com/business/2026/mar/09/yorkshire-water-funding-fines-pay-private-equity-eqt",
+    "pubDate": "09.03.2026 14:27:09",
+    "sortDate": 1773066429000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran war drives oil prices above $100 a barrel for first time since 2022",
+    "link": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
+    "pubDate": "09.03.2026 14:18:48",
+    "sortDate": 1773065928000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pauline Hanson secured taxpayer-funded solar rebate despite calling for subsidies to large-scale renewables to end",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/09/pauline-hanson-renewables-solar-power-rebate",
+    "pubDate": "09.03.2026 14:00:52",
+    "sortDate": 1773064852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "After-hours work emails should mean Australians get a four-day work week, union tells government",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/10/four-day-work-week-australia-union-employment-standards-review",
+    "pubDate": "09.03.2026 14:00:52",
+    "sortDate": 1773064852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Richest super balances to be taxed at higher rates after Greens agree to back Labor plan",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/09/superannuation-higher-tax-reform-labor-greens",
+    "pubDate": "09.03.2026 14:00:50",
+    "sortDate": 1773064850000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Gisèle Pelicot and Nazanin Zaghari-Ratcliffe among Hay Festival 2026 speakers",
+    "link": "https://www.theguardian.com/books/2026/mar/09/gisele-pelicot-and-nazanin-zaghari-ratcliffe-among-hay-festival-2026-speakers",
+    "pubDate": "09.03.2026 13:55:17",
+    "sortDate": 1773064517000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Bitter result’ for Friedrich Merz as Greens win in German car heartland",
+    "link": "https://www.theguardian.com/world/2026/mar/09/bitter-result-friedrich-merz-greens-baden-wurttemberg-cem-ozdemir",
+    "pubDate": "09.03.2026 13:54:40",
+    "sortDate": 1773064480000,
     "source": "The Guardian"
   },
   {
@@ -25,20 +137,6 @@
     "link": "https://www.theguardian.com/artanddesign/2026/mar/09/venice-biennale-ukraine-exclude-russia",
     "pubDate": "09.03.2026 13:31:14",
     "sortDate": 1773063074000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "OpenAI delays ‘adult mode’ for ChatGPT to focus on work of higher priority",
-    "link": "https://www.theguardian.com/technology/2026/mar/09/openai-delays-adult-mode-for-chatgpt-to-focus-on-work-of-higher-priority",
-    "pubDate": "09.03.2026 13:29:11",
-    "sortDate": 1773062951000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Israel resumes strikes across Tehran and Beirut; finance ministers prepare to discuss surging oil prices",
-    "link": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
-    "pubDate": "09.03.2026 13:20:41",
-    "sortDate": 1773062441000,
     "source": "The Guardian"
   },
   {
@@ -56,20 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/mar/09/first-thing-ali-khamenei-son-mojtaba-chosen-iran-new-supreme-leader",
-    "pubDate": "09.03.2026 12:39:47",
-    "sortDate": 1773059987000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Travelers face long waits at some US airports amid DHS shutdown",
-    "link": "https://www.theguardian.com/us-news/2026/mar/09/airline-wait-times-dhs-shutdown",
-    "pubDate": "09.03.2026 12:30:51",
-    "sortDate": 1773059451000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Nearly 700,000 displaced in Lebanon as Middle East crisis escalates",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167098",
     "pubDate": "09.03.2026 12:00:00",
@@ -84,38 +168,10 @@
     "source": "UN News"
   },
   {
-    "title": "Nigel Farage invests £215,000 in Kwasi Kwarteng’s bitcoin firm",
-    "link": "https://www.theguardian.com/politics/2026/mar/09/nigel-farage-kwasi-kwarteng-bitcoin-reform-uk-crypto-stack-btc",
-    "pubDate": "09.03.2026 11:50:36",
-    "sortDate": 1773057036000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Glasgow Central station to stay closed for at least two days after fire and building collapse",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/09/glasgow-central-station-closed-fire",
-    "pubDate": "09.03.2026 11:29:55",
-    "sortDate": 1773055795000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK interest rate cuts unlikely this year amid Iran war – and a rise could be ahead",
-    "link": "https://www.theguardian.com/business/2026/mar/09/uk-interest-rate-cuts-iran-rise-bank-of-england-bond-yields",
-    "pubDate": "09.03.2026 11:20:10",
-    "sortDate": 1773055210000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Countries can rewild borders to deter invasions, says EU environment chief",
     "link": "https://www.theguardian.com/environment/2026/mar/09/countries-can-rewild-borders-to-deter-invasions-says-eu-environment-chief",
     "pubDate": "09.03.2026 11:17:36",
     "sortDate": 1773055056000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-    "link": "https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts",
-    "pubDate": "09.03.2026 11:08:11",
-    "sortDate": 1773054491000,
     "source": "The Guardian"
   },
   {
@@ -126,13 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Iran war drives oil prices above $100 a barrel for first time since 2022",
-    "link": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
-    "pubDate": "09.03.2026 08:38:28",
-    "sortDate": 1773045508000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Australia would be signed up to Iran war ‘by deception and stealth’ if military support sent, Shoebridge says",
     "link": "https://www.theguardian.com/australia-news/2026/mar/09/australia-iran-war-deception-greens-shoebridge",
     "pubDate": "09.03.2026 08:06:56",
@@ -140,59 +189,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Nationals select former army colonel to contest Farrer byelection – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/mar/09/northern-territory-queensland-floods-federal-politics-reactions-penny-wong-iran-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-    "pubDate": "09.03.2026 06:25:45",
-    "sortDate": 1773037545000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Alleged Bondi terror attack gunman Naveed Akram seeks order suppressing identities of family members",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/09/alleged-bondi-terror-attack-gunman-naveed-akram-gag-order-ntwnfb",
-    "pubDate": "09.03.2026 05:53:48",
-    "sortDate": 1773035628000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘A saltwater crocodile on the AFL oval’: worst flooding in decades inundates NT as residents urged to avoid water",
-    "link": "https://www.theguardian.com/environment/2026/mar/09/boil-water-and-look-out-for-crocodiles-nt-residents-evacuate-as-unusually-wet-week-brings-more-flooding",
-    "pubDate": "09.03.2026 05:53:25",
-    "sortDate": 1773035605000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "ASX closes after $90bn wiped from sharemarket amid spike in oil prices over Middle East crisis",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/09/asx-australian-shares-plunge-as-spike-in-oil-prices-over-middle-east-conflict-sparks-global-inflation-fears",
-    "pubDate": "09.03.2026 05:47:23",
-    "sortDate": 1773035243000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Belgium at risk of becoming ‘narco-state’, judge warns",
-    "link": "https://www.theguardian.com/world/2026/mar/09/belgium-at-risk-of-becoming-narco-state-judge-warns",
-    "pubDate": "09.03.2026 05:00:41",
-    "sortDate": 1773032441000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Gambling crackdown in Romania as councils can ban ‘toxic’ betting shops",
-    "link": "https://www.theguardian.com/society/2026/mar/09/romania-gambling-decree-allowing-betting-shop-slot-machine-bans",
-    "pubDate": "09.03.2026 05:00:39",
-    "sortDate": 1773032439000,
-    "source": "The Guardian"
-  },
-  {
     "title": "The half-abandoned Japanese island at the heart of tensions with China",
     "link": "https://www.theguardian.com/world/2026/mar/09/kasasa-island-japan-china-tension",
     "pubDate": "09.03.2026 00:54:43",
     "sortDate": 1773017683000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ukraine war briefing: drone experts will be in Middle East in coming days, says Zelenskyy",
-    "link": "https://www.theguardian.com/world/2026/mar/09/ukraine-war-briefing-drone-experts-will-be-in-middle-east-in-coming-days-says-zelenskyy",
-    "pubDate": "09.03.2026 00:45:28",
-    "sortDate": 1773017128000,
     "source": "The Guardian"
   },
   {
