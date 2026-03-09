@@ -1,9 +1,65 @@
 [
   {
+    "title": "Two teens charged over ‘Islamic State-inspired’ attack outside Mamdani home",
+    "link": "https://www.theguardian.com/us-news/2026/mar/09/nyc-mamdani-explosive-device-terrorism",
+    "pubDate": "09.03.2026 18:28:52",
+    "sortDate": 1773080932000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US and Israel launch strikes across Iran as crowds celebrate new supreme leader",
+    "link": "https://www.theguardian.com/world/2026/mar/09/us-israel-strikes-iran-supreme-leader",
+    "pubDate": "09.03.2026 18:25:31",
+    "sortDate": 1773080731000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Iranian missiles intercepted over Turkey and Qatar as Israel resumes strikes across Tehran and Beirut",
+    "link": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
+    "pubDate": "09.03.2026 18:04:20",
+    "sortDate": 1773079460000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "California gas prices rise above $5 a gallon amid US war with Iran",
+    "link": "https://www.theguardian.com/us-news/2026/mar/09/california-gas-prices-iran-war",
+    "pubDate": "09.03.2026 18:04:12",
+    "sortDate": 1773079452000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Seventh US service member killed in war with Iran identified",
+    "link": "https://www.theguardian.com/world/2026/mar/09/seventh-us-service-member-killed-iran-war",
+    "pubDate": "09.03.2026 18:01:25",
+    "sortDate": 1773079285000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "CBS News’ Scott MacFarlane leaves network: ‘I look forward to some independence’",
+    "link": "https://www.theguardian.com/media/2026/mar/09/cbs-news-scott-macfarlane-leaves-bari-weiss-network",
+    "pubDate": "09.03.2026 17:59:25",
+    "sortDate": 1773079165000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Trump says he won’t sign new legislation until Congress passes strict voter ID bill – live",
     "link": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
-    "pubDate": "09.03.2026 17:33:47",
-    "sortDate": 1773077627000,
+    "pubDate": "09.03.2026 17:59:05",
+    "sortDate": 1773079145000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ex-Mail on Sunday journalist denies ordering ‘blag’ of Sadie Frost’s medical information",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/09/katie-nicholl-journalist-denies-blag-sadie-frost-mail-on-sunday-prince-harry",
+    "pubDate": "09.03.2026 17:44:22",
+    "sortDate": 1773078262000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK inflation likely to rise because of Middle East war, says Rachel Reeves",
+    "link": "https://www.theguardian.com/politics/2026/mar/09/uk-inflation-likely-to-rise-because-of-middle-east-war-says-rachel-reeves",
+    "pubDate": "09.03.2026 17:42:32",
+    "sortDate": 1773078152000,
     "source": "The Guardian"
   },
   {
@@ -11,13 +67,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/09/mexican-cartels-guns-come-from-us-sheinbaum-trump",
     "pubDate": "09.03.2026 17:33:21",
     "sortDate": 1773077601000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Iranian missiles intercepted over Turkey and Qatar as Israel resumes strikes across Tehran and Beirut",
-    "link": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
-    "pubDate": "09.03.2026 17:33:05",
-    "sortDate": 1773077585000,
     "source": "The Guardian"
   },
   {
@@ -42,20 +91,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "At least eight people dead after spate of tornadoes across central US",
-    "link": "https://www.theguardian.com/us-news/2026/mar/09/tornadoes-central-us-deaths",
-    "pubDate": "09.03.2026 16:53:40",
-    "sortDate": 1773075220000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "California motel closes after two women found dead in same room days apart",
-    "link": "https://www.theguardian.com/us-news/2026/mar/09/california-motel-closed-deaths",
-    "pubDate": "09.03.2026 16:50:35",
-    "sortDate": 1773075035000,
-    "source": "The Guardian"
-  },
-  {
     "title": "G7 ready to take ‘necessary measures’ over economic impact of Iran war",
     "link": "https://www.theguardian.com/business/2026/mar/09/g7-release-emergency-reserves-oil-price-us-middle-east-war",
     "pubDate": "09.03.2026 16:48:36",
@@ -70,38 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "AI firm Anthropic sues US defense department over blacklisting",
-    "link": "https://www.theguardian.com/technology/2026/mar/09/anthropic-defense-department-lawsuit-ai",
-    "pubDate": "09.03.2026 16:26:00",
-    "sortDate": 1773073560000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Syrian who fled to UK charged with crimes against humanity over violent crackdown",
     "link": "https://www.theguardian.com/uk-news/2026/mar/09/syrian-charged-crimes-against-humanity-over-violent-crackdown",
     "pubDate": "09.03.2026 16:21:37",
     "sortDate": 1773073297000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump threatens not to sign any bills until Congress approves strict voter ID act",
-    "link": "https://www.theguardian.com/us-news/2026/mar/09/trump-threat-congress-save-america-act",
-    "pubDate": "09.03.2026 15:53:56",
-    "sortDate": 1773071636000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Starmer warns of bigger impact on economy the longer Iran war continues - as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/mar/09/keir-starmer-uk-gas-oil-prices-100-petrol-energy-inflation-latest-news-live-updates",
-    "pubDate": "09.03.2026 15:53:00",
-    "sortDate": 1773071580000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andrew Malkinson accuser ‘wasn’t too sure it was the right man’, court told",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/09/andrew-malkinson-accuser-not-too-sure-right-man-court-told",
-    "pubDate": "09.03.2026 15:38:13",
-    "sortDate": 1773070693000,
     "source": "The Guardian"
   },
   {
@@ -165,13 +172,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/09/video-shows-us-tomahawk-missile-hit-base-next-bombed-iranian-school",
     "pubDate": "09.03.2026 12:57:14",
     "sortDate": 1773061034000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader",
-    "link": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
-    "pubDate": "09.03.2026 09:07:31",
-    "sortDate": 1773047251000,
     "source": "The Guardian"
   },
   {
