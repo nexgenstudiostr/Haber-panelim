@@ -1,9 +1,58 @@
 [
   {
+    "title": "Australia news live: family members of alleged Bondi attacker seek suppression order over their names and address amid safety fears",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/09/northern-territory-queensland-floods-federal-politics-reactions-penny-wong-iran-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+    "pubDate": "09.03.2026 05:43:30",
+    "sortDate": 1773035010000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Middle East crisis live: Mojtaba Khamenei chosen as Iran’s new supreme leader; oil prices soar past $100 a barrel",
     "link": "https://www.theguardian.com/world/live/2026/mar/09/iran-war-live-updates-new-supreme-leader-mojtaba-khamenei-oil-prices-soar",
-    "pubDate": "09.03.2026 03:55:35",
-    "sortDate": 1773028535000,
+    "pubDate": "09.03.2026 05:40:27",
+    "sortDate": 1773034827000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Large fire near Glasgow Central station causes major rail disruption",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/08/glasgow-central-station-train-station-rail-disruption",
+    "pubDate": "09.03.2026 05:29:34",
+    "sortDate": 1773034174000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Alleged Bondi terror attack gunman Naveed Akram seeks order suppressing identities of family members",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/09/alleged-bondi-terror-attack-gunman-naveed-akram-gag-order-ntwnfb",
+    "pubDate": "09.03.2026 05:21:34",
+    "sortDate": 1773033694000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Belgium at risk of becoming ‘narco-state’, judge warns",
+    "link": "https://www.theguardian.com/world/2026/mar/09/belgium-at-risk-of-becoming-narco-state-judge-warns",
+    "pubDate": "09.03.2026 05:00:41",
+    "sortDate": 1773032441000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Gambling crackdown in Romania as councils can ban betting shops and slot machines",
+    "link": "https://www.theguardian.com/society/2026/mar/09/romania-gambling-decree-allowing-betting-shop-slot-machine-bans",
+    "pubDate": "09.03.2026 05:00:39",
+    "sortDate": 1773032439000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘A saltwater crocodile on the AFL oval’: worst flooding in decades inundates NT as residents urged to avoid water",
+    "link": "https://www.theguardian.com/environment/2026/mar/09/boil-water-and-look-out-for-crocodiles-nt-residents-evacuate-as-unusually-wet-week-brings-more-flooding",
+    "pubDate": "09.03.2026 04:36:40",
+    "sortDate": 1773031000000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader",
+    "link": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
+    "pubDate": "09.03.2026 04:29:23",
+    "sortDate": 1773030563000,
     "source": "The Guardian"
   },
   {
@@ -11,20 +60,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/mar/09/ex-state-liberal-mp-rory-amon-found-not-guilty-of-raping-teenage-boy-in-sydney-car-park-bathroom-ntwnfb",
     "pubDate": "09.03.2026 03:55:19",
     "sortDate": 1773028519000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: Bowen says Middle East crisis ‘cannot interrupt’ renewables as Coalition puts pressure on Labor over fuel supplies",
-    "link": "https://www.theguardian.com/australia-news/live/2026/mar/09/northern-territory-queensland-floods-federal-politics-reactions-penny-wong-iran-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-    "pubDate": "09.03.2026 03:53:47",
-    "sortDate": 1773028427000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘A saltwater crocodile on the AFL oval’: worst flooding in decades inundates the NT as residents urged to avoid water",
-    "link": "https://www.theguardian.com/environment/2026/mar/09/boil-water-and-look-out-for-crocodiles-nt-residents-evacuate-as-unusually-wet-week-brings-more-flooding",
-    "pubDate": "09.03.2026 03:26:56",
-    "sortDate": 1773026816000,
     "source": "The Guardian"
   },
   {
@@ -39,13 +74,6 @@
     "link": "https://www.theguardian.com/business/2026/mar/09/iran-war-drives-oil-price-above-100-a-barrel-for-first-time-since-2022",
     "pubDate": "09.03.2026 02:53:58",
     "sortDate": 1773024838000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "VPN apps rocket up download charts in Australia as porn websites begin blocking users",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/09/vpn-downloads-australia-porn-sites-blocking-users",
-    "pubDate": "09.03.2026 02:20:51",
-    "sortDate": 1773022851000,
     "source": "The Guardian"
   },
   {
@@ -70,6 +98,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Cancer death rate in Britain down by almost a third since 1980s",
+    "link": "https://www.theguardian.com/society/2026/mar/09/cancer-death-rate-fall-britain-report",
+    "pubDate": "09.03.2026 00:01:34",
+    "sortDate": 1773014494000,
+    "source": "The Guardian"
+  },
+  {
     "title": "NHS England pauses new referrals for masculinising or feminising hormone treatment in under-18s",
     "link": "https://www.theguardian.com/society/2026/mar/09/nhs-england-pauses-new-referrals-masculinising-feminising-hormone-treatment-under-18s",
     "pubDate": "09.03.2026 00:01:34",
@@ -84,22 +119,8 @@
     "source": "The Guardian"
   },
   {
-    "title": "Cancer death rate in Britain down by almost a third since 1980s",
-    "link": "https://www.theguardian.com/society/2026/mar/09/cancer-death-rate-fall-britain-report",
-    "pubDate": "09.03.2026 00:01:34",
-    "sortDate": 1773014494000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Quiz books are the answer to falling non-fiction sales, data shows",
     "link": "https://www.theguardian.com/books/2026/mar/09/quiz-books-non-fiction-sales-2025",
-    "pubDate": "09.03.2026 00:01:33",
-    "sortDate": 1773014493000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Britain’s job market ‘floundering’ as companies remain cautious about hiring",
-    "link": "https://www.theguardian.com/business/2026/mar/09/britain-job-market-floundering-companies-cautious-hiring",
     "pubDate": "09.03.2026 00:01:33",
     "sortDate": 1773014493000,
     "source": "The Guardian"
@@ -116,13 +137,6 @@
     "link": "https://www.theguardian.com/business/2026/mar/08/great-britain-has-only-two-days-of-gas-stored-as-iran-war-disrupts-supplies",
     "pubDate": "08.03.2026 21:33:07",
     "sortDate": 1773005587000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader",
-    "link": "https://www.theguardian.com/world/2026/mar/08/ali-khameneis-son-mojtaba-chosen-as-irans-new-supreme-leader",
-    "pubDate": "08.03.2026 21:20:49",
-    "sortDate": 1773004849000,
     "source": "The Guardian"
   },
   {
@@ -182,13 +196,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "German state election a test for chancellor Friedrich Merz",
-    "link": "https://www.theguardian.com/world/2026/mar/08/germany-state-election-test-chancellor-friedrich-merz",
-    "pubDate": "08.03.2026 12:52:32",
-    "sortDate": 1772974352000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘I am trying to live’: Haitians in Mexico seek community despite broken immigration systems",
     "link": "https://www.theguardian.com/world/2026/mar/08/haiti-immigrant-mexico-tapachula",
     "pubDate": "08.03.2026 12:00:19",
@@ -200,13 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/08/british-columbia-canada-daylight-saving-time",
     "pubDate": "08.03.2026 09:00:15",
     "sortDate": 1772960415000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Survivors of Ireland’s mother and baby homes start to have benefits cut in UK after accepting compensation",
-    "link": "https://www.theguardian.com/world/2026/mar/08/survivors-of-irelands-mother-and-baby-homes-face-benefit-cuts-in-uk-after-accepting-compensation",
-    "pubDate": "08.03.2026 06:00:13",
-    "sortDate": 1772949613000,
     "source": "The Guardian"
   },
   {
