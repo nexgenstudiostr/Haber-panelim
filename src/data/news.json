@@ -1,16 +1,93 @@
 [
   {
-    "title": "Cathay Pacific offers £20,000 Sydney to London flight amid disruption in Gulf",
-    "link": "https://www.theguardian.com/business/2026/mar/10/cathay-pacific-offers-20000-sydney-to-london-flight-amid-disruption-in-gulf",
-    "pubDate": "10.03.2026 13:39:18",
-    "sortDate": 1773149958000,
+    "title": "Georgia votes for successor to Marjorie Taylor Greene after Trump spat – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
+    "pubDate": "10.03.2026 14:39:26",
+    "sortDate": 1773153566000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Long lost George Michael film and live album set for release later this year",
+    "link": "https://www.theguardian.com/music/2026/mar/10/new-george-michael-movie-live-album",
+    "pubDate": "10.03.2026 14:36:09",
+    "sortDate": 1773153369000,
     "source": "The Guardian"
   },
   {
     "title": "Policies always ‘under review’, says Reeves when asked about planned fuel duty rise – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/mar/10/cost-of-living-middle-east-inflation-reeves-starmer-labour-lammy-courts-reform-uk-politics-live-news-updates",
-    "pubDate": "10.03.2026 13:37:26",
-    "sortDate": 1773149846000,
+    "pubDate": "10.03.2026 14:31:34",
+    "sortDate": 1773153094000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pete Hegseth warns of ‘most intense’ day of US strikes on Iran yet",
+    "link": "https://www.theguardian.com/world/2026/mar/10/hegseth-iran-intense-strikes-civilian-deaths",
+    "pubDate": "10.03.2026 14:30:20",
+    "sortDate": 1773153020000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nigel Farage accused of U-turn as he says UK should keep out of Iran war",
+    "link": "https://www.theguardian.com/politics/2026/mar/10/nigel-farage-u-turn-uk-iran-war",
+    "pubDate": "10.03.2026 14:27:01",
+    "sortDate": 1773152821000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Aramco warns of oil market ‘catastrophe’ unless strait of Hormuz reopens soon",
+    "link": "https://www.theguardian.com/business/2026/mar/10/aramco-warns-oil-market-catastrophe-strait-of-hormuz",
+    "pubDate": "10.03.2026 14:22:02",
+    "sortDate": 1773152522000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Hegseth says today will be the ‘most intense day of strikes’ in war against Iran",
+    "link": "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news",
+    "pubDate": "10.03.2026 14:21:55",
+    "sortDate": 1773152515000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ex-Syrian colonel appears in UK court on charges of crimes against humanity",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/10/ex-syrian-colonel-salem-al-salem-appears-uk-court-charges-crimes-against-humanity",
+    "pubDate": "10.03.2026 14:10:33",
+    "sortDate": 1773151833000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labor MPs quietly alarmed by Albanese government’s response to US-Israel strikes on Iran",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/10/albanese-government-response-iran-war-labor-mps",
+    "pubDate": "10.03.2026 14:00:07",
+    "sortDate": 1773151207000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "I’ll also be back as Conan: Arnold Schwarzenegger to make third Barbarian film 44 years after original",
+    "link": "https://www.theguardian.com/film/2026/mar/10/arnold-schwarzenegger-return-conan-the-barbarian-film",
+    "pubDate": "10.03.2026 13:54:06",
+    "sortDate": 1773150846000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New Mexico authorities launch search of ranch previously owned by Epstein",
+    "link": "https://www.theguardian.com/us-news/2026/mar/09/new-mexico-search-zorro-ranch-epstein",
+    "pubDate": "10.03.2026 13:47:19",
+    "sortDate": 1773150439000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Spain to formally pardon 53 women incarcerated by Franco regime",
+    "link": "https://www.theguardian.com/society/2026/mar/10/spain-formally-pardon-women-incarcerated-franco-regime",
+    "pubDate": "10.03.2026 13:46:01",
+    "sortDate": 1773150361000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cathay Pacific offers £20,000 Sydney to London flight amid disruption in Gulf",
+    "link": "https://www.theguardian.com/business/2026/mar/10/cathay-pacific-offers-20000-sydney-to-london-flight-amid-disruption-in-gulf",
+    "pubDate": "10.03.2026 13:39:18",
+    "sortDate": 1773149958000,
     "source": "The Guardian"
   },
   {
@@ -28,20 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Georgia votes for successor to Marjorie Taylor Greene after Trump spat – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
-    "pubDate": "10.03.2026 13:20:25",
-    "sortDate": 1773148825000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Hegseth says today will be the ‘most intense day of strikes’ in war against Iran",
-    "link": "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news",
-    "pubDate": "10.03.2026 13:16:20",
-    "sortDate": 1773148580000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Families welcome appointment of Donna Ockenden to Leeds maternity inquiry",
     "link": "https://www.theguardian.com/uk-news/2026/mar/10/donna-ockenden-appointment-leeds-maternity-inquiry",
     "pubDate": "10.03.2026 13:00:05",
@@ -49,45 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Thousands of lawyers urge Keir Starmer to rethink plans to cut jury trials",
-    "link": "https://www.theguardian.com/law/2026/mar/10/lawyers-urge-keir-starmer-rethink-plans-cut-jury-trials",
-    "pubDate": "10.03.2026 12:52:38",
-    "sortDate": 1773147158000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Joey Barton arrested on suspicion of attacking man near Liverpool golf club",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/10/joey-barton-arrested-on-suspicion-of-attacking-man-near-liverpool-golf-club",
-    "pubDate": "10.03.2026 12:50:33",
-    "sortDate": 1773147033000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Missouri drops murder charge against man who opened fire at Super Bowl rally",
-    "link": "https://www.theguardian.com/us-news/2026/mar/10/super-bowl-shooter-missouri-murder-charge-dropped",
-    "pubDate": "10.03.2026 12:49:52",
-    "sortDate": 1773146992000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Shots fired at US consulate in Canada as police investigate incident",
+    "title": "Police investigate after shots fired at US consulate in Canada",
     "link": "https://www.theguardian.com/world/2026/mar/10/shots-fired-canada-consulate-toronto",
     "pubDate": "10.03.2026 12:48:26",
     "sortDate": 1773146906000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump says Iran war is ‘very complete, pretty much’ as economic toll rises | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/mar/10/first-thing-trump-iran-war-very-complete-pretty-much-economic-toll",
-    "pubDate": "10.03.2026 12:32:01",
-    "sortDate": 1773145921000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Alexander Butterfield, Nixon aide who disclosed Watergate tapes, dies aged 99",
-    "link": "https://www.theguardian.com/us-news/2026/mar/10/alexander-butterfield-nixon-aide-dies",
-    "pubDate": "10.03.2026 12:17:33",
-    "sortDate": 1773145053000,
     "source": "The Guardian"
   },
   {
@@ -147,27 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Labor moves to block some temporary visa holders travelling to Australia amid Middle East war",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/10/labor-moves-to-block-some-temporary-visa-holders-traveling-to-australia-amid-middle-east-war",
-    "pubDate": "10.03.2026 07:22:54",
-    "sortDate": 1773127374000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Sounds familiar’: how the US-Israeli war in Iran parallels Russia’s invasion of Ukraine",
-    "link": "https://www.theguardian.com/world/2026/mar/10/how-the-us-israeli-war-in-iran-parallels-russia-invasion-of-ukraine",
-    "pubDate": "10.03.2026 06:00:11",
-    "sortDate": 1773122411000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Was Iran really building a nuclear weapon? – podcast",
-    "link": "https://www.theguardian.com/science/audio/2026/mar/10/was-iran-really-building-a-nuclear-weapon-podcast",
-    "pubDate": "10.03.2026 05:00:09",
-    "sortDate": 1773118809000,
-    "source": "The Guardian"
-  },
-  {
     "title": "New Zealand Covid response among world’s best but ‘scars’ remain, inquiry finds",
     "link": "https://www.theguardian.com/world/2026/mar/10/new-zealand-covid-response-inquiry-royal-commission-findings",
     "pubDate": "10.03.2026 02:43:56",
@@ -221,13 +228,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/09/ursula-von-der-leyen-eu-foreign-policy-more-realistic-interest-driven",
     "pubDate": "09.03.2026 16:59:19",
     "sortDate": 1773075559000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Roman Abramovich ready to fight UK government over proceeds from £2.5bn Chelsea sale",
-    "link": "https://www.theguardian.com/world/2026/mar/09/roman-abramovich-ready-to-fight-uk-government-over-proceeds-from-chelsea-sale",
-    "pubDate": "09.03.2026 15:23:14",
-    "sortDate": 1773069794000,
     "source": "The Guardian"
   },
   {
