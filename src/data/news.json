@@ -1,23 +1,37 @@
 [
   {
-    "title": "Federal judge blocks Trump’s justice department subpoenas of Fed chair Jerome Powell – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates",
-    "pubDate": "13.03.2026 20:14:12",
-    "sortDate": 1773432852000,
+    "title": "Catholic priest in Louisiana charged with child sexual abuse",
+    "link": "https://www.theguardian.com/us-news/2026/mar/13/catholic-priest-louisiana-charged",
+    "pubDate": "13.03.2026 21:13:06",
+    "sortDate": 1773436386000,
     "source": "The Guardian"
   },
   {
-    "title": "Charges filed against man accused of selling gun to Old Dominion shooter",
-    "link": "https://www.theguardian.com/us-news/2026/mar/13/old-dominion-arrest-gun-seller",
-    "pubDate": "13.03.2026 20:07:36",
-    "sortDate": 1773432456000,
+    "title": "Federal judge blocks Trump’s justice department subpoenas of Fed chair Jerome Powell – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates",
+    "pubDate": "13.03.2026 21:04:06",
+    "sortDate": 1773435846000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: More than 100 children killed by Israeli strikes in Lebanon, health ministry says",
     "link": "https://www.theguardian.com/world/live/2026/mar/13/iran-war-news-live-updates-us-israel-middle-east-crisis-latest",
-    "pubDate": "13.03.2026 19:57:08",
-    "sortDate": 1773431828000,
+    "pubDate": "13.03.2026 21:01:11",
+    "sortDate": 1773435671000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Judge blocks justice department from subpoenaing Fed chair Jerome Powell",
+    "link": "https://www.theguardian.com/business/2026/mar/13/justice-department-subpoeana-jerome-powell",
+    "pubDate": "13.03.2026 20:45:11",
+    "sortDate": 1773434711000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US airports ask for donations for unpaid TSA staff amid partial government shutdown",
+    "link": "https://www.theguardian.com/us-news/2026/mar/13/tsa-workers-pay-shutdown",
+    "pubDate": "13.03.2026 20:30:02",
+    "sortDate": 1773433802000,
     "source": "The Guardian"
   },
   {
@@ -25,20 +39,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/13/uruguayan-drug-trafficking-suspect-sebastian-marset-arrested-bolivia",
     "pubDate": "13.03.2026 18:37:31",
     "sortDate": 1773427051000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US Jewish communities warn increased security is needed after Michigan attack",
-    "link": "https://www.theguardian.com/us-news/2026/mar/13/jewish-community-fear-michigan-synagogue-attack",
-    "pubDate": "13.03.2026 18:36:30",
-    "sortDate": 1773426990000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Suspect in Michigan synagogue attack had lost family in Israeli strike on Lebanon",
-    "link": "https://www.theguardian.com/us-news/2026/mar/13/suspect-michigan-synagogue-attack-lost-family-lebanon",
-    "pubDate": "13.03.2026 18:33:36",
-    "sortDate": 1773426816000,
     "source": "The Guardian"
   },
   {
@@ -168,6 +168,34 @@
     "source": "The Guardian"
   },
   {
+    "title": "Myanmar at a ‘crossroads’: The world must not forsake civilians there, urges UN expert",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167132",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN chief launches major humanitarian appeal from war-torn Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167131",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: Women in Lebanon forced to give birth on roadside",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167129",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 13 March: Displacement and civilian casualties mount across region",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167127",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
     "title": "‘A minefield’: taoiseach prepares for St Patrick’s Day visit to Washington",
     "link": "https://www.theguardian.com/world/2026/mar/13/taoiseach-st-patricks-day-visit-washington-trump",
     "pubDate": "13.03.2026 10:56:03",
@@ -245,6 +273,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "Aid operations strained across Middle East: WFP seeks $200 million to sustain food assistance",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167121",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela’s repressive State apparatus ‘intact’ despite leadership change",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167126",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Deadly drone attacks in Sudan, violence against women in the spotlight, more clashes in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167125",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
+  },
+  {
+    "title": "With Middle East ‘pushed to breaking point’, UN chief urges ceasefire, return to diplomacy",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167124",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Russia deportation of Ukraine children is crime against humanity: independent probe",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167122",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Perfect storm’: Lebanon crisis deepens as civilians bear the brunt",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167120",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167118",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
+  },
+  {
     "title": "‘A few beatings won’t kill you’: judge rejects divorce request of woman abused by husband in Afghanistan",
     "link": "https://www.theguardian.com/global-development/2026/mar/12/a-few-beatings-wont-kill-you-judge-rejects-divorce-request-of-woman-abused-by-husband-in-afghanistan",
     "pubDate": "12.03.2026 10:00:11",
@@ -287,11 +364,144 @@
     "source": "The Guardian"
   },
   {
+    "title": "Security Council adopts Gulf-backed resolution condemning Iran attacks; Russia bid fails",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167119",
+    "pubDate": "11.03.2026 12:00:00",
+    "sortDate": 1773230400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN relief chief condemns '$1 billion-a-day' cost of war in Middle East",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167116",
+    "pubDate": "11.03.2026 12:00:00",
+    "sortDate": 1773230400000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 11 March: Civilian toll rises, regional disruption spreads as Security Council meets",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167113",
+    "pubDate": "11.03.2026 12:00:00",
+    "sortDate": 1773230400000,
+    "source": "UN News"
+  },
+  {
+    "title": "An ‘alarming’ two-thirds of children say cyberbullying has increased",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167111",
+    "pubDate": "10.03.2026 12:00:00",
+    "sortDate": 1773144000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Türk’s South Sudan ceasefire call, Ukraine strikes, Gaza food alert, Afghan returnees",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167112",
+    "pubDate": "10.03.2026 12:00:00",
+    "sortDate": 1773144000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘You are the foundation-shakers’: UN chief answers tough questions at townhall with women’s civil society groups",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167109",
+    "pubDate": "10.03.2026 12:00:00",
+    "sortDate": 1773144000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nicaragua: Rights experts uncover State corruption fuelling repression, spying on exiles",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167108",
+    "pubDate": "10.03.2026 12:00:00",
+    "sortDate": 1773144000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Toxic rain’ warning from oil depot strikes amid ongoing Middle East war",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167106",
+    "pubDate": "10.03.2026 12:00:00",
+    "sortDate": 1773144000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 10 March: Displacement, supply shocks and civilian toll rise",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167104",
+    "pubDate": "10.03.2026 12:00:00",
+    "sortDate": 1773144000000,
+    "source": "UN News"
+  },
+  {
+    "title": "At UN, Malala, Anne Hathaway call for action on women’s rights",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167114",
+    "pubDate": "09.03.2026 12:00:00",
+    "sortDate": 1773057600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN commission opens with focus on justice for women and girls",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167107",
+    "pubDate": "09.03.2026 12:00:00",
+    "sortDate": 1773057600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Humanitarian crisis ‘worsening’ in Afghanistan as war erupts in the Middle East",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167103",
+    "pubDate": "09.03.2026 12:00:00",
+    "sortDate": 1773057600000,
+    "source": "UN News"
+  },
+  {
+    "title": "New challenges bring increased risks in combating child sexual abuse, exploitation",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167102",
+    "pubDate": "09.03.2026 12:00:00",
+    "sortDate": 1773057600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No one should be a hibakusha’: Young Japanese activist’s mission to share atomic bomb survivor stories",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167101",
+    "pubDate": "09.03.2026 12:00:00",
+    "sortDate": 1773057600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Myanmar airstrikes worsen crisis, South Sudan fighting threatens Akobo, Afghan women shut out of justice",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167099",
+    "pubDate": "09.03.2026 12:00:00",
+    "sortDate": 1773057600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nearly 700,000 displaced in Lebanon as Middle East crisis escalates",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167098",
+    "pubDate": "09.03.2026 12:00:00",
+    "sortDate": 1773057600000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE: International Women’s Day and CSW70 at the United Nations",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167097",
+    "pubDate": "09.03.2026 12:00:00",
+    "sortDate": 1773057600000,
+    "source": "UN News"
+  },
+  {
     "title": "Ex-rapper Balendra Shah set to be Nepal PM after party’s landslide election win",
     "link": "https://www.theguardian.com/world/2026/mar/08/ex-rapper-balendra-shah-nepal-pm-landslide-election-win",
     "pubDate": "08.03.2026 13:47:22",
     "sortDate": 1772977642000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Radio Begum: A rare public space for women in Afghanistan",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167093",
+    "pubDate": "07.03.2026 12:00:00",
+    "sortDate": 1772884800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon ‘dragged back into turmoil’, UN envoy warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167096",
+    "pubDate": "07.03.2026 12:00:00",
+    "sortDate": 1772884800000,
+    "source": "UN News"
   },
   {
     "title": "US grants waiver to allow India to buy Russian oil amid Iran war",
