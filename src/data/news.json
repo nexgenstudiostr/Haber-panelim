@@ -1,5 +1,12 @@
 [
   {
+    "title": "MIDDLE EAST LIVE 16 March: UN scales up aid as crisis deepens into third week",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167137",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
     "title": "War-driven energy price spikes highlight value of renewables: UN climate chief",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167135",
     "pubDate": "16.03.2026 12:00:00",
@@ -7,10 +14,31 @@
     "source": "UN News"
   },
   {
-    "title": "Middle East crisis live: Trump increases pressure on allies over strait of Hormuz; Israel says it still has ‘thousands of targets’ in Iran",
+    "title": "Trump steps up pressure on European allies to help protect strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships",
+    "pubDate": "16.03.2026 07:53:44",
+    "sortDate": 1773647624000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Chris Minns and Jewish groups condemn ‘horrid rhetoric’ from DJ at opening night of Sydney Biennale",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/16/sydney-biennale-dj-haram-chris-minns-jewish-groups-response-ntwnfb",
+    "pubDate": "16.03.2026 07:50:57",
+    "sortDate": 1773647457000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Trump threatens ‘very bad’ future for Nato if allies fail to help secure strait of Hormuz",
     "link": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
-    "pubDate": "16.03.2026 06:04:51",
-    "sortDate": 1773641091000,
+    "pubDate": "16.03.2026 07:36:56",
+    "sortDate": 1773646616000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dozens of Australian petrol stations run out of fuel as panic-buying continues",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/16/dozens-of-australian-petrol-stations-run-out-of-fuel-as-panic-buying-continues",
+    "pubDate": "16.03.2026 07:08:27",
+    "sortDate": 1773644907000,
     "source": "The Guardian"
   },
   {
@@ -42,15 +70,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "Fewer Britons giving to charity, study says, with donations down by £1.4bn",
-    "link": "https://www.theguardian.com/society/2026/mar/16/fewer-britons-giving-charity-donations-down-14bn",
+    "title": "High levels of debt on essential UK bills are the ‘new normal’, warn campaigners",
+    "link": "https://www.theguardian.com/money/2026/mar/16/debt-high-levels-essential-bills-uk",
     "pubDate": "16.03.2026 06:00:09",
     "sortDate": 1773640809000,
     "source": "The Guardian"
   },
   {
-    "title": "High levels of debt on essential UK bills are the ‘new normal’, warn campaigners",
-    "link": "https://www.theguardian.com/money/2026/mar/16/debt-high-levels-essential-bills-uk",
+    "title": "Fewer Britons giving to charity, study says, with donations down by £1.4bn",
+    "link": "https://www.theguardian.com/society/2026/mar/16/fewer-britons-giving-charity-donations-down-14bn",
     "pubDate": "16.03.2026 06:00:09",
     "sortDate": 1773640809000,
     "source": "The Guardian"
@@ -77,24 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Nine-year-old Australian boy allegedly caught driving car at 1.30am on major highway",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/16/nine-year-old-boy-allegedly-driving-car-great-western-highway-australia-ntwnfb",
-    "pubDate": "16.03.2026 03:55:55",
-    "sortDate": 1773633355000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Free Palestine and ICE out: how this year’s Oscars got political",
     "link": "https://www.theguardian.com/film/2026/mar/15/how-oscars-2026-got-political-palestine-ice",
     "pubDate": "16.03.2026 03:55:40",
     "sortDate": 1773633340000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "ACM to brief staff after co-owner Antony Catalano charged with assault of a woman",
-    "link": "https://www.theguardian.com/media/2026/mar/16/australian-community-media-to-share-response-to-co-owners-alleged-violence-charge-with-staff-ntwnfb",
-    "pubDate": "16.03.2026 03:49:19",
-    "sortDate": 1773632959000,
     "source": "The Guardian"
   },
   {
@@ -126,6 +140,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Rachel McAdams pays tribute to late Diane Keaton at the Oscars: ‘A legend with no end’",
+    "link": "https://www.theguardian.com/film/2026/mar/16/rachel-mcadams-pays-tribute-to-late-diane-keaton-at-the-oscars-a-legend-with-no-end",
+    "pubDate": "16.03.2026 00:52:02",
+    "sortDate": 1773622322000,
+    "source": "The Guardian"
+  },
+  {
     "title": "UK plans to send minesweeping drones to help reopen strait of Hormuz",
     "link": "https://www.theguardian.com/world/2026/mar/15/uk-plans-minesweeping-drones-help-reopen-strait-hormuz",
     "pubDate": "15.03.2026 22:30:01",
@@ -154,13 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US not ready to seek deal to end war with Iran, Donald Trump says",
-    "link": "https://www.theguardian.com/world/2026/mar/15/us-israel-iran-war-donald-trump-ceasefire-deal-new-attacks",
-    "pubDate": "15.03.2026 18:23:44",
-    "sortDate": 1773599024000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Row over university fees shows UK’s ‘reset’ with EU may not be so simple",
     "link": "https://www.theguardian.com/politics/2026/mar/15/row-over-university-fees-uk-reset-with-eu-not-so-simple",
     "pubDate": "15.03.2026 17:11:36",
@@ -186,13 +200,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/15/france-votes-local-elections-presidential-indicator",
     "pubDate": "15.03.2026 16:34:20",
     "sortDate": 1773592460000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Row over tuition fees cut for European students threatens Starmer’s EU reset",
-    "link": "https://www.theguardian.com/politics/2026/mar/15/row-tuition-fees-cut-european-students-threatens-starmer-eu-reset",
-    "pubDate": "15.03.2026 15:00:27",
-    "sortDate": 1773586827000,
     "source": "The Guardian"
   },
   {
@@ -492,13 +499,6 @@
   {
     "title": "‘No one should be a hibakusha’: Young Japanese activist’s mission to share atomic bomb survivor stories",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167101",
-    "pubDate": "09.03.2026 12:00:00",
-    "sortDate": 1773057600000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Myanmar airstrikes worsen crisis, South Sudan fighting threatens Akobo, Afghan women shut out of justice",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167099",
     "pubDate": "09.03.2026 12:00:00",
     "sortDate": 1773057600000,
     "source": "UN News"
