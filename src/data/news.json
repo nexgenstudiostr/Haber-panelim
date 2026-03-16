@@ -1,37 +1,121 @@
 [
   {
-    "title": "Gulf states may be covertly encouraging attacks by US, Iran’s foreign minister says",
+    "title": "‘Videos are terrifying’: Students describe fear spreading on social media after two die of meningitis in Canterbury",
+    "link": "https://www.theguardian.com/society/2026/mar/16/students-fear-spreading-online-meningitis-outbreak-canterbury",
+    "pubDate": "16.03.2026 19:44:23",
+    "sortDate": 1773690263000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cuba’s electrical grid collapses amid US oil blockade",
+    "link": "https://www.theguardian.com/world/2026/mar/16/cuba-electrical-grid-collapses-amid-us-oil-blockade",
+    "pubDate": "16.03.2026 19:41:29",
+    "sortDate": 1773690089000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU calls for urgent reboot in talks with UK to stop reset deal failing",
+    "link": "https://www.theguardian.com/world/2026/mar/16/eu-urgent-reboot-uk-talks-stop-reset-deal-failing",
+    "pubDate": "16.03.2026 19:40:07",
+    "sortDate": 1773690007000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: Chris Bowen says petrol reserves won’t ease shortages straight away; RBA tipped to hike rates",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/17/bowen-rba-interest-rates-decision-cost-of-living-inflation-fuel-price-shortages-petrol-jim-chalmers-economy-war-iran-anthony-albanese-ntwnfb",
+    "pubDate": "16.03.2026 19:38:33",
+    "sortDate": 1773689913000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump chief of staff Susie Wiles diagnosed with breast cancer",
+    "link": "https://www.theguardian.com/us-news/2026/mar/16/trump-susie-wiles-breast-cancer",
+    "pubDate": "16.03.2026 19:37:01",
+    "sortDate": 1773689821000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump complains about allies and claims US destroyed more than 30 mine-laying ships in strait of Hormuz – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+    "pubDate": "16.03.2026 19:33:56",
+    "sortDate": 1773689636000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/mar/16/europe-donald-trump-strait-hormuz-iran",
+    "pubDate": "16.03.2026 19:30:43",
+    "sortDate": 1773689443000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer distances UK from Iran war as EU leaders rule out sending warships",
+    "link": "https://www.theguardian.com/world/2026/mar/16/starmer-distances-uk-from-iran-war-as-eu-leaders-rule-out-sending-warships",
+    "pubDate": "16.03.2026 19:29:20",
+    "sortDate": 1773689360000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Colorado funeral home owner given 18-year sentence in decaying bodies case",
+    "link": "https://www.theguardian.com/us-news/2026/mar/16/colorado-funeral-home-carie-hallford",
+    "pubDate": "16.03.2026 19:21:14",
+    "sortDate": 1773688874000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meningitis confirmed at University of Kent and three schools in outbreak that has killed two young people",
+    "link": "https://www.theguardian.com/society/2026/mar/16/school-student-second-person-die-kent-meningitis-outbreak-says-mp",
+    "pubDate": "16.03.2026 19:21:09",
+    "sortDate": 1773688869000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Dangerously hot conditions’: millions in US west prepare for extreme heatwave",
+    "link": "https://www.theguardian.com/us-news/2026/mar/16/west-coast-extreme-heatwave",
+    "pubDate": "16.03.2026 19:20:22",
+    "sortDate": 1773688822000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: European countries resist Trump’s demand for help to clear the strait of Hormuz",
+    "link": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
+    "pubDate": "16.03.2026 19:19:45",
+    "sortDate": 1773688785000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran war cannot be ’windfall’ for Putin, says Starmer, as Zelenskyy arrives in UK",
+    "link": "https://www.theguardian.com/politics/2026/mar/16/iran-war-cannot-be-windfall-for-putin-says-starmer-as-zelenskyy-arrives-in-uk",
+    "pubDate": "16.03.2026 19:14:17",
+    "sortDate": 1773688457000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump backs FCC chair’s threat to pull licenses of news outlets over Iran war coverage",
+    "link": "https://www.theguardian.com/us-news/2026/mar/16/trump-fcc-chair-broadcast-license-threat-iran-war",
+    "pubDate": "16.03.2026 18:57:33",
+    "sortDate": 1773687453000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sri Lanka brings in four-day week to eke out stocks of oil and gas hit by Iran war",
+    "link": "https://www.theguardian.com/world/2026/mar/16/sri-lanka-four-day-week-oil-and-gas-iran-war",
+    "pubDate": "16.03.2026 18:52:04",
+    "sortDate": 1773687124000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Gulf states may be covertly encouraging attacks by US, Iran foreign minister says",
     "link": "https://www.theguardian.com/world/2026/mar/16/gulf-states-may-be-covertly-encouraging-attacks-by-us-irans-foreign-minister-says",
     "pubDate": "16.03.2026 18:38:35",
     "sortDate": 1773686315000,
     "source": "The Guardian"
   },
   {
-    "title": "Israel’s planned expansion of Lebanon ground campaign fuels fears of prolonged occupation",
+    "title": "Israel’s plan to expand Lebanon ground campaign fuels fears of prolonged occupation",
     "link": "https://www.theguardian.com/world/2026/mar/16/israel-expansion-lebanon-ground-campaign-fears-prolonged-occupation",
     "pubDate": "16.03.2026 18:31:52",
     "sortDate": 1773685912000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/mar/16/europe-donald-trump-strait-hormuz-iran",
-    "pubDate": "16.03.2026 18:26:43",
-    "sortDate": 1773685603000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump complains about allies and claims US destroyed more than 30 mine-laying ships in strait of Hormuz – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
-    "pubDate": "16.03.2026 18:24:28",
-    "sortDate": 1773685468000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: European countries resist Trump’s demand for help to clear the strait of Hormuz",
-    "link": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
-    "pubDate": "16.03.2026 18:22:27",
-    "sortDate": 1773685347000,
     "source": "The Guardian"
   },
   {
@@ -39,20 +123,6 @@
     "link": "https://www.theguardian.com/politics/live/2026/mar/16/keir-starmer-donald-trump-iran-nato-oil-cost-of-living-latest-news-updates",
     "pubDate": "16.03.2026 18:19:29",
     "sortDate": 1773685169000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tucker Carlson expresses fear that he may face federal charges for talking to Iranians",
-    "link": "https://www.theguardian.com/us-news/2026/mar/16/tucker-carlson-iran-comments-doj",
-    "pubDate": "16.03.2026 18:10:36",
-    "sortDate": 1773684636000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s threats to Nato reveal glaring absence of any strategy on Iran",
-    "link": "https://www.theguardian.com/world/2026/mar/16/donald-trump-nato-threats-glaring-absence-iran-strategy",
-    "pubDate": "16.03.2026 18:04:01",
-    "sortDate": 1773684241000,
     "source": "The Guardian"
   },
   {
@@ -70,34 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "BBC asks US court to throw out Trump’s $10bn lawsuit and avoid ‘chilling effect’",
-    "link": "https://www.theguardian.com/media/2026/mar/16/bbc-us-court-throw-out-donald-trump-10bn-lawsuit-chilling-effect",
-    "pubDate": "16.03.2026 17:22:17",
-    "sortDate": 1773681737000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "The Taylor Swift effect: US vinyl sales top $1bn for the first time since 1983",
-    "link": "https://www.theguardian.com/music/2026/mar/16/vinyl-record-sales-us-taylor-swift",
-    "pubDate": "16.03.2026 17:11:31",
-    "sortDate": 1773681091000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Realtime pollution alerts needed on Windermere, campaigners say after boy nearly dies",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/16/realtime-pollution-alerts-windermere-campaigners-say-boy-nearly-dies",
-    "pubDate": "16.03.2026 16:00:23",
-    "sortDate": 1773676823000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tate Modern Turbine Hall to showcase David Hockney opera sets",
-    "link": "https://www.theguardian.com/artanddesign/2026/mar/16/tate-modern-turbine-hall-david-hockney-opera-sets",
-    "pubDate": "16.03.2026 15:52:31",
-    "sortDate": 1773676351000,
-    "source": "The Guardian"
-  },
-  {
     "title": "China ‘still communicating’ with US over Trump visit despite talk of delay",
     "link": "https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz",
     "pubDate": "16.03.2026 15:25:40",
@@ -105,24 +147,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "US judge dismisses $100,000 suit over spiciness of New York taqueria’s sauce",
-    "link": "https://www.theguardian.com/us-news/2026/mar/16/judge-dismisses-lawsuit-new-york-taqueria-sauce",
-    "pubDate": "16.03.2026 15:16:21",
-    "sortDate": 1773674181000,
-    "source": "The Guardian"
-  },
-  {
     "title": "European takeover battle hots up with UniCredit’s ‘unfriendly attack’ on Commerzbank",
     "link": "https://www.theguardian.com/business/2026/mar/16/european-banking-takeover-battle-unicredit-commerzbank",
     "pubDate": "16.03.2026 14:34:18",
     "sortDate": 1773671658000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump draws backlash for comment on Iran war: ‘Maybe we shouldn’t even be there’",
-    "link": "https://www.theguardian.com/world/2026/mar/16/trump-backlash-iran-war",
-    "pubDate": "16.03.2026 14:28:44",
-    "sortDate": 1773671324000,
     "source": "The Guardian"
   },
   {
@@ -145,6 +173,20 @@
     "pubDate": "16.03.2026 12:03:00",
     "sortDate": 1773662580000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Deadly drone strikes in Sudan, families killed in West Bank, Ukraine casualties update",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167142",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres urges action against ‘rising tide of anti-Muslim hatred’",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167141",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
   },
   {
     "title": "‘Glimmer of hope’ in Haiti amid shifting gang frontlines",
@@ -189,31 +231,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Margareta Magnusson, Swedish ‘death cleaning’ author, dies age 92",
-    "link": "https://www.theguardian.com/books/2026/mar/16/margareta-magnusson-swedish-death-cleaning-author-dies-age-92",
-    "pubDate": "16.03.2026 10:13:35",
-    "sortDate": 1773656015000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump steps up pressure on European allies to help protect strait of Hormuz",
     "link": "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships",
     "pubDate": "16.03.2026 10:07:23",
     "sortDate": 1773655643000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Chris Minns and Jewish groups condemn ‘horrid rhetoric’ from DJ at opening night of Sydney Biennale",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/16/sydney-biennale-dj-haram-chris-minns-jewish-groups-response-ntwnfb",
-    "pubDate": "16.03.2026 07:50:57",
-    "sortDate": 1773647457000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mr Nobody Against Putin wins the best documentary Oscar",
-    "link": "https://www.theguardian.com/film/2026/mar/16/mr-nobody-against-putin-wins-the-best-documentary-oscar",
-    "pubDate": "16.03.2026 01:19:01",
-    "sortDate": 1773623941000,
     "source": "The Guardian"
   },
   {
@@ -277,13 +298,6 @@
     "link": "https://www.theguardian.com/technology/2026/mar/13/apple-china-app-store",
     "pubDate": "13.03.2026 16:37:13",
     "sortDate": 1773419833000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cuban president confirms talks with Trump officials amid US blockade",
-    "link": "https://www.theguardian.com/world/2026/mar/13/cuba-us-talks-miguel-diaz-canel-trump",
-    "pubDate": "13.03.2026 16:18:35",
-    "sortDate": 1773418715000,
     "source": "The Guardian"
   },
   {
@@ -485,20 +499,6 @@
   {
     "title": "At UN, Malala, Anne Hathaway call for action on women’s rights",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167114",
-    "pubDate": "09.03.2026 12:00:00",
-    "sortDate": 1773057600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN commission opens with focus on justice for women and girls",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167107",
-    "pubDate": "09.03.2026 12:00:00",
-    "sortDate": 1773057600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Humanitarian crisis ‘worsening’ in Afghanistan as war erupts in the Middle East",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167103",
     "pubDate": "09.03.2026 12:00:00",
     "sortDate": 1773057600000,
     "source": "UN News"
