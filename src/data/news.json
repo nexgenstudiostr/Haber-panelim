@@ -1,16 +1,30 @@
 [
   {
-    "title": "Middle East crisis live: Israel urges evacuation in south Lebanon ahead of attack; Trump seeks to delay summit with China’s Xi",
+    "title": "Middle East crisis live: Israel urges evacuation in south Lebanon ahead of attack; strikes on US embassy in Iraq",
     "link": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
-    "pubDate": "17.03.2026 06:36:11",
-    "sortDate": 1773729371000,
+    "pubDate": "17.03.2026 07:29:36",
+    "sortDate": 1773732576000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia news live: Michele Bullock says higher petrol prices ‘not the reason’ for RBA’s decision to hike cash rate",
+    "title": "‘If we have to change tack, we will’: RBA hikes rates but not aiming to put Australia into recession, Bullock says",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/17/rba-interest-rate-australia-increase-fuel-petrol-prices",
+    "pubDate": "17.03.2026 07:04:05",
+    "sortDate": 1773731045000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tuesday briefing: How the conflict in Iran shattered the Gulf state image of peace and luxury",
+    "link": "https://www.theguardian.com/world/2026/mar/17/first-edition-iran-dubai-uae-qatar",
+    "pubDate": "17.03.2026 06:55:48",
+    "sortDate": 1773730548000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Central bank increases cash rate amid global energy shock – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/mar/17/bowen-rba-interest-rates-decision-cost-of-living-inflation-fuel-price-shortages-petrol-jim-chalmers-economy-war-iran-anthony-albanese-ntwnfb",
-    "pubDate": "17.03.2026 06:21:02",
-    "sortDate": 1773728462000,
+    "pubDate": "17.03.2026 06:54:26",
+    "sortDate": 1773730466000,
     "source": "The Guardian"
   },
   {
@@ -42,7 +56,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Afghanistan accuses Pakistan of deadly strike on Kabul hospital",
+    "title": "Afghanistan says 400 killed in strike by Pakistan on Kabul hospital",
     "link": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed",
     "pubDate": "17.03.2026 05:22:22",
     "sortDate": 1773724942000,
@@ -67,13 +81,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/mar/17/queensland-native-title-claims-government-backflip-ntwnfb",
     "pubDate": "17.03.2026 04:57:38",
     "sortDate": 1773723458000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "RBA interest rates: Reserve Bank raises official cash rate to 4.1% in blow to mortgage holders",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/17/rba-interest-rate-australia-increase-fuel-petrol-prices",
-    "pubDate": "17.03.2026 04:06:03",
-    "sortDate": 1773720363000,
     "source": "The Guardian"
   },
   {
@@ -175,13 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "European countries reject Trump’s call for help to reopen strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/mar/16/europe-donald-trump-strait-hormuz-iran",
-    "pubDate": "16.03.2026 19:30:43",
-    "sortDate": 1773689443000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Starmer distances UK from Iran war as EU leaders rule out sending warships",
     "link": "https://www.theguardian.com/world/2026/mar/16/starmer-distances-uk-from-iran-war-as-eu-leaders-rule-out-sending-warships",
     "pubDate": "16.03.2026 19:29:20",
@@ -210,62 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167143",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deepfakes, voice cloning and weaponised AI: Global wake-up call to organised fraud",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167144",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Deadly drone strikes in Sudan, families killed in West Bank, Ukraine casualties update",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167142",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres urges action against ‘rising tide of anti-Muslim hatred’",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167141",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Glimmer of hope’ in Haiti amid shifting gang frontlines",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167139",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war’s ‘spiral of conflict’ drives mounting civilian toll",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167138",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 16 March: UN scales up aid as crisis deepens into third week",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167137",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "War-driven energy price spikes highlight value of renewables: UN climate chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167135",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
     "title": "Pakistan targets militant hideouts in Afghanistan as conflict continues",
     "link": "https://www.theguardian.com/world/2026/mar/15/pakistan-targets-militant-hideouts-afghanistan-conflict",
     "pubDate": "15.03.2026 17:08:36",
@@ -280,13 +224,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis: UN health agency releases emergency funds for Lebanon, Iraq, Syria",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167136",
-    "pubDate": "15.03.2026 12:00:00",
-    "sortDate": 1773576000000,
-    "source": "UN News"
-  },
-  {
     "title": "Nigeria’s online content creator market has boomed. Can the skit-makers and streamers make it pay?",
     "link": "https://www.theguardian.com/media/2026/mar/15/nigerias-online-content-creator-market-has-boomed-can-the-skit-makers-and-streamers-make-it-pay",
     "pubDate": "15.03.2026 11:00:23",
@@ -299,13 +236,6 @@
     "pubDate": "14.03.2026 16:42:19",
     "sortDate": 1773506539000,
     "source": "The Guardian"
-  },
-  {
-    "title": "In Beirut, Guterres demands end to Middle East war: Civilians ‘deserve to live without fear’",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167134",
-    "pubDate": "14.03.2026 12:00:00",
-    "sortDate": 1773489600000,
-    "source": "UN News"
   },
   {
     "title": "Bolivia arrests alleged drug kingpin accused of putting hit on Paraguayan prosecutor",
@@ -336,41 +266,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "World News in Brief: Attacks on synagogues, Syria’s continuing rights violations, shocking abuse of women during childbirth",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167133",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Myanmar at a ‘crossroads’: The world must not forsake civilians there, urges UN expert",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167132",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief launches major humanitarian appeal from war-torn Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167131",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war: Women in Lebanon forced to give birth on roadside",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167129",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 13 March: Displacement and civilian casualties mount across region",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167127",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
-  },
-  {
     "title": "The kill line v Chinamaxxing: a window into how China and the US see each other",
     "link": "https://www.theguardian.com/world/ng-interactive/2026/mar/13/chinamaxxing-social-media-trend-gen-z-china-us",
     "pubDate": "13.03.2026 02:42:20",
@@ -392,55 +287,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Aid operations strained across Middle East: WFP seeks $200 million to sustain food assistance",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167121",
-    "pubDate": "12.03.2026 12:00:00",
-    "sortDate": 1773316800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela’s repressive State apparatus ‘intact’ despite leadership change",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167126",
-    "pubDate": "12.03.2026 12:00:00",
-    "sortDate": 1773316800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Deadly drone attacks in Sudan, violence against women in the spotlight, more clashes in DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167125",
-    "pubDate": "12.03.2026 12:00:00",
-    "sortDate": 1773316800000,
-    "source": "UN News"
-  },
-  {
-    "title": "With Middle East ‘pushed to breaking point’, UN chief urges ceasefire, return to diplomacy",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167124",
-    "pubDate": "12.03.2026 12:00:00",
-    "sortDate": 1773316800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Russia deportation of Ukraine children is crime against humanity: independent probe",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167122",
-    "pubDate": "12.03.2026 12:00:00",
-    "sortDate": 1773316800000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Perfect storm’: Lebanon crisis deepens as civilians bear the brunt",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167120",
-    "pubDate": "12.03.2026 12:00:00",
-    "sortDate": 1773316800000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 12 March: Shipping attacks, rising oil prices and widening humanitarian crisis",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167118",
-    "pubDate": "12.03.2026 12:00:00",
-    "sortDate": 1773316800000,
-    "source": "UN News"
-  },
-  {
     "title": "‘A few beatings won’t kill you’: judge rejects divorce request of woman abused by husband in Afghanistan",
     "link": "https://www.theguardian.com/global-development/2026/mar/12/a-few-beatings-wont-kill-you-judge-rejects-divorce-request-of-woman-abused-by-husband-in-afghanistan",
     "pubDate": "12.03.2026 10:00:11",
@@ -453,62 +299,6 @@
     "pubDate": "12.03.2026 05:00:11",
     "sortDate": 1773291611000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Security Council adopts Gulf-backed resolution condemning Iran attacks; Russia bid fails",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167119",
-    "pubDate": "11.03.2026 12:00:00",
-    "sortDate": 1773230400000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN relief chief condemns '$1 billion-a-day' cost of war in Middle East",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167116",
-    "pubDate": "11.03.2026 12:00:00",
-    "sortDate": 1773230400000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 11 March: Civilian toll rises, regional disruption spreads as Security Council meets",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167113",
-    "pubDate": "11.03.2026 12:00:00",
-    "sortDate": 1773230400000,
-    "source": "UN News"
-  },
-  {
-    "title": "An ‘alarming’ two-thirds of children say cyberbullying has increased",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167111",
-    "pubDate": "10.03.2026 12:00:00",
-    "sortDate": 1773144000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Türk’s South Sudan ceasefire call, Ukraine strikes, Gaza food alert, Afghan returnees",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167112",
-    "pubDate": "10.03.2026 12:00:00",
-    "sortDate": 1773144000000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘You are the foundation-shakers’: UN chief answers tough questions at townhall with women’s civil society groups",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167109",
-    "pubDate": "10.03.2026 12:00:00",
-    "sortDate": 1773144000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nicaragua: Rights experts uncover State corruption fuelling repression, spying on exiles",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167108",
-    "pubDate": "10.03.2026 12:00:00",
-    "sortDate": 1773144000000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Toxic rain’ warning from oil depot strikes amid ongoing Middle East war",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167106",
-    "pubDate": "10.03.2026 12:00:00",
-    "sortDate": 1773144000000,
-    "source": "UN News"
   },
   {
     "title": "Ex-rapper Balendra Shah set to be Nepal PM after party’s landslide election win",
