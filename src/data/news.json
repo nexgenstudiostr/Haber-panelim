@@ -1,23 +1,79 @@
 [
   {
-    "title": "Supreme court will hear arguments in challenge to legal protections for Haitian and Syrian immigrants – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
-    "pubDate": "16.03.2026 23:13:44",
-    "sortDate": 1773702824000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: regulator summons fuel giants over prices; RBA interest rates meeting today",
-    "link": "https://www.theguardian.com/australia-news/live/2026/mar/17/bowen-rba-interest-rates-decision-cost-of-living-inflation-fuel-price-shortages-petrol-jim-chalmers-economy-war-iran-anthony-albanese-ntwnfb",
-    "pubDate": "16.03.2026 23:11:10",
-    "sortDate": 1773702670000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Trump vents frustration with allies over strait of Hormuz; Iran denies report of direct contact with US",
+    "title": "Middle East crisis live: Trump vents frustration with allies over strait of Hormuz; UAE reopens its airspace",
     "link": "https://www.theguardian.com/world/live/2026/mar/16/iran-war-live-updates-news-oil-trump-hormuz-dubai-airport-israel-targets",
-    "pubDate": "16.03.2026 23:00:31",
-    "sortDate": 1773702031000,
+    "pubDate": "17.03.2026 01:26:21",
+    "sortDate": 1773710781000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "All living former US presidents deny Trump’s claim one of them privately backed his war on Iran – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+    "pubDate": "17.03.2026 01:24:27",
+    "sortDate": 1773710667000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "News live: Angus Taylor says fuel crisis means Australia should ‘drill more’ for oil and gas; households gloomy on economic outlook ahead of RBA decision",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/17/bowen-rba-interest-rates-decision-cost-of-living-inflation-fuel-price-shortages-petrol-jim-chalmers-economy-war-iran-anthony-albanese-ntwnfb",
+    "pubDate": "17.03.2026 01:21:23",
+    "sortDate": 1773710483000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Afghanistan accuses Pakistan of deadly strike on Kabul hospital",
+    "link": "https://www.theguardian.com/world/2026/mar/16/afghanistan-accuses-pakistan-of-kabul-hospital-strike-killed",
+    "pubDate": "17.03.2026 01:08:53",
+    "sortDate": 1773709733000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cheese from largest US raw milk distributor linked to E coli outbreak",
+    "link": "https://www.theguardian.com/us-news/2026/mar/16/cheese-raw-milk-e-coli-outbreak",
+    "pubDate": "17.03.2026 00:41:32",
+    "sortDate": 1773708092000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Judge orders ICE to release Minneapolis man after 50 days of unlawful detention",
+    "link": "https://www.theguardian.com/us-news/2026/mar/13/judge-minneapolis-detention-order",
+    "pubDate": "17.03.2026 00:05:30",
+    "sortDate": 1773705930000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Leqaa Kordia, a pro-Palestinian activist, released after a year in ICE custody",
+    "link": "https://www.theguardian.com/us-news/2026/mar/16/leqaa-kordia-released-ice-custody",
+    "pubDate": "17.03.2026 00:05:12",
+    "sortDate": 1773705912000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Train delays: compensation claims to be easier under Great British Railways",
+    "link": "https://www.theguardian.com/business/2026/mar/17/train-delays-compensation-claims-great-british-railways",
+    "pubDate": "17.03.2026 00:01:33",
+    "sortDate": 1773705693000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war",
+    "link": "https://www.theguardian.com/us-news/2026/mar/16/trump-china-summit-iran-war",
+    "pubDate": "16.03.2026 23:52:13",
+    "sortDate": 1773705133000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cannabis is not an effective treatment for common mental health conditions, says review",
+    "link": "https://www.theguardian.com/society/2026/mar/16/cannabis-inot-effective-treatment-for-common-mental-health-conditions-review",
+    "pubDate": "16.03.2026 23:30:32",
+    "sortDate": 1773703832000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Child abuse material ‘systemic’ on Elon Musk’s X amid Grok scandal, Australian online safety regulator warned",
+    "link": "https://www.theguardian.com/technology/2026/mar/17/x-csam-child-abuse-material-grok-australian-online-safety-regulator-ntwnfb",
+    "pubDate": "16.03.2026 23:30:30",
+    "sortDate": 1773703830000,
     "source": "The Guardian"
   },
   {
@@ -35,31 +91,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Texas lawmakers spar over DHS funding as long lines loom at US airports",
-    "link": "https://www.theguardian.com/us-news/2026/mar/16/dhs-shutdown-funding-debate-airport-delays-texas",
-    "pubDate": "16.03.2026 21:57:09",
-    "sortDate": 1773698229000,
-    "source": "The Guardian"
-  },
-  {
     "title": "At least 200 American troops wounded in Iran war, US military says",
     "link": "https://www.theguardian.com/us-news/2026/mar/16/us-troops-iran-war",
     "pubDate": "16.03.2026 21:31:48",
     "sortDate": 1773696708000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Supreme court to consider Trump push to end protection status for Haitians and Syrians",
-    "link": "https://www.theguardian.com/us-news/2026/mar/16/supreme-court-haiti-syria-protection-status-case",
-    "pubDate": "16.03.2026 21:10:40",
-    "sortDate": 1773695440000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "California highway patrol officer charged with murder over crash that killed four",
-    "link": "https://www.theguardian.com/us-news/2026/mar/16/california-highway-patrol-officer-murder-charge",
-    "pubDate": "16.03.2026 21:09:29",
-    "sortDate": 1773695369000,
     "source": "The Guardian"
   },
   {
@@ -119,24 +154,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Iran war cannot be ’windfall’ for Putin, says Starmer, as Zelenskyy arrives in UK",
-    "link": "https://www.theguardian.com/politics/2026/mar/16/iran-war-cannot-be-windfall-for-putin-says-starmer-as-zelenskyy-arrives-in-uk",
-    "pubDate": "16.03.2026 19:14:17",
-    "sortDate": 1773688457000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Sri Lanka brings in four-day week to eke out stocks of oil and gas hit by Iran war",
     "link": "https://www.theguardian.com/world/2026/mar/16/sri-lanka-four-day-week-oil-and-gas-iran-war",
     "pubDate": "16.03.2026 18:52:04",
     "sortDate": 1773687124000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump says he is ‘not happy’ with UK as he criticises Starmer for being overly reliant on advisers – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/mar/16/keir-starmer-donald-trump-iran-nato-oil-cost-of-living-latest-news-updates",
-    "pubDate": "16.03.2026 18:19:29",
-    "sortDate": 1773685169000,
     "source": "The Guardian"
   },
   {
@@ -186,13 +207,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/mar/16/fifth-iranian-football-player-leaves-australia-after-initially-accepting-offer-of-asylum",
     "pubDate": "16.03.2026 10:30:40",
     "sortDate": 1773657040000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump steps up pressure on European allies to help protect strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/mar/16/strait-of-hormuz-australia-japan-no-ships",
-    "pubDate": "16.03.2026 10:07:23",
-    "sortDate": 1773655643000,
     "source": "The Guardian"
   },
   {
@@ -287,13 +301,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Asia scrambles to confront energy crisis unleashed by Iran war – with no end in sight",
-    "link": "https://www.theguardian.com/world/2026/mar/12/asia-energy-crisis-iran-war",
-    "pubDate": "12.03.2026 03:40:56",
-    "sortDate": 1773286856000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Ex-rapper Balendra Shah set to be Nepal PM after party’s landslide election win",
     "link": "https://www.theguardian.com/world/2026/mar/08/ex-rapper-balendra-shah-nepal-pm-landslide-election-win",
     "pubDate": "08.03.2026 13:47:22",
@@ -305,13 +312,6 @@
     "link": "https://www.theguardian.com/us-news/2026/mar/05/us-waiver-india-russian-oil",
     "pubDate": "06.03.2026 09:28:32",
     "sortDate": 1772789312000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sri Lanka evacuates crew from Iranian navy vessel days after warship was destroyed by US",
-    "link": "https://www.theguardian.com/world/2026/mar/05/iran-ship-sri-lanka-port-after-us-sinking-of-frigate",
-    "pubDate": "05.03.2026 19:08:02",
-    "sortDate": 1772737682000,
     "source": "The Guardian"
   }
 ]
