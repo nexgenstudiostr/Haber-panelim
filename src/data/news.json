@@ -1,9 +1,30 @@
 [
   {
+    "title": "House oversight committee subpoenas Pam Bondi over her handling of Epstein investigation – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
+    "pubDate": "17.03.2026 22:08:29",
+    "sortDate": 1773785309000,
+    "source": "The Guardian"
+  },
+  {
     "title": "News live: Turnbull says Trump’s ‘lashing out’ at US allies including Australia shows he ‘does not respect smaller countries’",
     "link": "https://www.theguardian.com/australia-news/live/2026/mar/18/australia-news-live-trump-iran-nato-hormuz-interest-rates-rba-cost-of-living-jim-chalmers-economy-fuel-price-crisis-ntwnfb",
-    "pubDate": "17.03.2026 21:16:28",
-    "sortDate": 1773782188000,
+    "pubDate": "17.03.2026 21:53:27",
+    "sortDate": 1773784407000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Iranian state media confirms security chief Ali Larijani has been killed",
+    "link": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
+    "pubDate": "17.03.2026 21:45:42",
+    "sortDate": 1773783942000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran’s national security council confirms death of its chief, Ali Larijani",
+    "link": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says",
+    "pubDate": "17.03.2026 21:35:07",
+    "sortDate": 1773783307000,
     "source": "The Guardian"
   },
   {
@@ -18,13 +39,6 @@
     "link": "https://www.theguardian.com/society/2026/mar/17/liberal-party-pauline-hanson-one-nation-divisive-rhetoric-culture-wars-ntwnfb",
     "pubDate": "17.03.2026 21:01:27",
     "sortDate": 1773781287000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Iranian state media confirms security chief Ali Larijani has been killed",
-    "link": "https://www.theguardian.com/world/live/2026/mar/17/iran-war-live-updates-news-israel-trump-strikes-us-embassy-baghdad-strait-of-hormuz-middle-east-latest",
-    "pubDate": "17.03.2026 21:01:18",
-    "sortDate": 1773781278000,
     "source": "The Guardian"
   },
   {
@@ -53,13 +67,6 @@
     "link": "https://www.theguardian.com/us-news/2026/mar/17/save-act-senate-voting-bill",
     "pubDate": "17.03.2026 20:39:51",
     "sortDate": 1773779991000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "House oversight committee subpoenas Pam Bondi over her handling of Epstein investigation – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-    "pubDate": "17.03.2026 20:39:36",
-    "sortDate": 1773779976000,
     "source": "The Guardian"
   },
   {
@@ -123,13 +130,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/17/colombian-president-ecuador-bodies",
     "pubDate": "17.03.2026 18:51:24",
     "sortDate": 1773773484000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pivotal Iranian leader Ali Larijani killed in airstrike, Israel says",
-    "link": "https://www.theguardian.com/world/2026/mar/17/irans-security-chief-ali-larijani-killed-in-airstrike-israel-says",
-    "pubDate": "17.03.2026 18:39:45",
-    "sortDate": 1773772785000,
     "source": "The Guardian"
   },
   {
@@ -201,6 +201,13 @@
     "pubDate": "17.03.2026 13:00:47",
     "sortDate": 1773752447000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘No matter what’, UN Women vows to stay in Afghanistan, amid deepening rights crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167152",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
   },
   {
     "title": "World News in Brief: West Bank displacement, Cuba fuel crisis, Sexual abuse safeguards, New ‘humancentric’ AI Advocate",
@@ -515,13 +522,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167113",
     "pubDate": "11.03.2026 12:00:00",
     "sortDate": 1773230400000,
-    "source": "UN News"
-  },
-  {
-    "title": "An ‘alarming’ two-thirds of children say cyberbullying has increased",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167111",
-    "pubDate": "10.03.2026 12:00:00",
-    "sortDate": 1773144000000,
     "source": "UN News"
   }
 ]
