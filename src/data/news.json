@@ -1,23 +1,51 @@
 [
   {
-    "title": "Middle East crisis live: Israel strike on Iranian gas field reportedly coordinated with US; Iran’s president warns of ‘uncontrollable consequences’ for further attacks",
-    "link": "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes",
-    "pubDate": "18.03.2026 21:15:06",
-    "sortDate": 1773868506000,
+    "title": "Australia news live: Allan dismisses leadership whispers as gossip ‘from a few scallywags’; Cyclone Narelle builds to category four storm",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb",
+    "pubDate": "18.03.2026 22:14:26",
+    "sortDate": 1773872066000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia news live: Cyclone Narelle builds to category four storm as it nears Queensland coast; Iranian footballers arrive home",
-    "link": "https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb",
-    "pubDate": "18.03.2026 21:08:41",
-    "sortDate": 1773868121000,
+    "title": "Lawmakers and community leaders react to ‘indefensible’ César Chávez sexual abuse allegations",
+    "link": "https://www.theguardian.com/us-news/2026/mar/18/cesar-chavez-sexual-abuse-allegations",
+    "pubDate": "18.03.2026 22:12:28",
+    "sortDate": 1773871948000,
     "source": "The Guardian"
   },
   {
     "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
     "link": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
-    "pubDate": "18.03.2026 20:56:17",
-    "sortDate": 1773867377000,
+    "pubDate": "18.03.2026 22:10:38",
+    "sortDate": 1773871838000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Israel strike on Iranian gas field reportedly coordinated with US; Iran’s president warns of ‘uncontrollable consequences’ for further attacks",
+    "link": "https://www.theguardian.com/world/live/2026/mar/18/iran-war-live-updates-oil-prices-hormuz-trump-larijani-key-leader-killed-israel-strikes",
+    "pubDate": "18.03.2026 22:03:43",
+    "sortDate": 1773871423000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nancy Mace draws White House ire over independent Middle East rescue efforts",
+    "link": "https://www.theguardian.com/world/2026/mar/18/nancy-mace-rescue-efforts-americans-middle-east",
+    "pubDate": "18.03.2026 22:01:56",
+    "sortDate": 1773871316000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "BBC World Service to get extra £11m a year in deal ending funding uncertainty",
+    "link": "https://www.theguardian.com/media/2026/mar/18/bbc-world-service-extra-funding-foreign-office",
+    "pubDate": "18.03.2026 22:00:50",
+    "sortDate": 1773871250000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Google co-founder spends $45m in fight against California billionaire tax",
+    "link": "https://www.theguardian.com/us-news/2026/mar/18/google-sergey-brin-california-billionaire-tax",
+    "pubDate": "18.03.2026 21:43:53",
+    "sortDate": 1773870233000,
     "source": "The Guardian"
   },
   {
@@ -56,38 +84,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Israel strikes Iran’s South Pars gas field hours after forces kill intelligence minister",
+    "title": "Israel strikes Iran’s South Pars gasfield hours after forces kill intelligence minister",
     "link": "https://www.theguardian.com/world/2026/mar/18/iran-intelligence-minister-esmail-khatib-killed-israel-claims",
     "pubDate": "18.03.2026 19:25:39",
     "sortDate": 1773861939000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Gerry Adams tells high court he was stunned by 1996 Docklands bombing",
-    "link": "https://www.theguardian.com/politics/2026/mar/18/gerry-adams-tells-high-court-he-was-stunned-by-1996-docklands-bombing",
-    "pubDate": "18.03.2026 19:10:30",
-    "sortDate": 1773861030000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tulsi Gabbard tells Senate panel US strikes on Iran are strategic success",
-    "link": "https://www.theguardian.com/world/2026/mar/18/tulsi-gabbard-iran-war-senate-hearing",
-    "pubDate": "18.03.2026 19:06:54",
-    "sortDate": 1773860814000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US financial regulator issues long-awaited cryptocurrency guidance",
-    "link": "https://www.theguardian.com/technology/2026/mar/18/sec-cryptocurrencies-securities-rules",
-    "pubDate": "18.03.2026 19:03:02",
-    "sortDate": 1773860582000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s DHS pick, Markwayne Mullin, stokes fears of more Fema cuts",
-    "link": "https://www.theguardian.com/us-news/2026/mar/18/trump-dhs-markwayne-mullin-fema",
-    "pubDate": "18.03.2026 18:59:49",
-    "sortDate": 1773860389000,
     "source": "The Guardian"
   },
   {
@@ -201,6 +201,13 @@
     "pubDate": "18.03.2026 13:39:58",
     "sortDate": 1773841198000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Humanitarian needs in Gaza deepen as aid access remains constrained",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167159",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
   },
   {
     "title": "World News in Brief: Yemen appeal, Middle East war roils Somalia, needs grow in Colombia",
@@ -513,13 +520,6 @@
   {
     "title": "Russia deportation of Ukraine children is crime against humanity: independent probe",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167122",
-    "pubDate": "12.03.2026 12:00:00",
-    "sortDate": 1773316800000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Perfect storm’: Lebanon crisis deepens as civilians bear the brunt",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167120",
     "pubDate": "12.03.2026 12:00:00",
     "sortDate": 1773316800000,
     "source": "UN News"
