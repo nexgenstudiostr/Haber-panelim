@@ -1,9 +1,30 @@
 [
   {
-    "title": "Australia news live: Tropical Cyclone Narelle dips below category-five strength hours before hitting Queensland coast",
+    "title": "Australia news live: Tropical Cyclone Narelle poised to hit Queensland coast within hours with wind gusts up to 270km/h",
     "link": "https://www.theguardian.com/australia-news/live/2026/mar/20/australia-news-live-tropical-cyclone-narelle-queensland-floods-storm-coen-crisafulli-albanese-cost-of-living-tax-budget-chalmers-gas-fuel-crisis-ntwnfb",
-    "pubDate": "19.03.2026 19:31:28",
-    "sortDate": 1773948688000,
+    "pubDate": "19.03.2026 20:19:52",
+    "sortDate": 1773951592000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Netanyahu says Israel acted alone in Iran gasfield strike and denies ‘dragging’ US into war",
+    "link": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news",
+    "pubDate": "19.03.2026 20:12:09",
+    "sortDate": 1773951129000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
+    "pubDate": "19.03.2026 20:02:06",
+    "sortDate": 1773950526000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US states sue Trump EPA over decision to repeal bedrock climate finding",
+    "link": "https://www.theguardian.com/environment/2026/mar/19/us-states-trump-climate-crisis-endangerment-finding",
+    "pubDate": "19.03.2026 19:54:04",
+    "sortDate": 1773950044000,
     "source": "The Guardian"
   },
   {
@@ -11,20 +32,6 @@
     "link": "https://www.theguardian.com/politics/2026/mar/19/nigel-farage-condemned-over-call-to-ban-public-prayer-for-muslims-in-the-uk",
     "pubDate": "19.03.2026 19:28:44",
     "sortDate": 1773948524000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
-    "pubDate": "19.03.2026 19:28:28",
-    "sortDate": 1773948508000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Netanyahu says Israel acted alone in Iran gasfield strike and denies ‘dragging’ US into war",
-    "link": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news",
-    "pubDate": "19.03.2026 19:27:45",
-    "sortDate": 1773948465000,
     "source": "The Guardian"
   },
   {
@@ -105,13 +112,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "California moves to rename Cesar Chavez Day after recent sexual abuse allegations",
-    "link": "https://www.theguardian.com/us-news/2026/mar/19/california-rename-cesar-chavez-day",
-    "pubDate": "19.03.2026 17:39:27",
-    "sortDate": 1773941967000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Indian film board blocks release of Oscar-nominated Gaza drama The Voice of Hind Rajab",
     "link": "https://www.theguardian.com/film/2026/mar/19/indian-film-board-blocks-release-of-oscar-nominated-gaza-drama-the-voice-of-hind-rajab",
     "pubDate": "19.03.2026 17:24:36",
@@ -161,6 +161,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "WA police investigate flyers targeting LGBTIQ+ community distributed to homes",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/19/wa-police-investigate-flyers-targeting-lgbtiq-community-distributed-to-homes",
+    "pubDate": "19.03.2026 14:00:54",
+    "sortDate": 1773928854000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Bernardi vows to pay for flights taken with Hanson on Rinehart’s plane amid confusion about SA’s donations ban",
     "link": "https://www.theguardian.com/australia-news/2026/mar/19/cory-bernardi-pay-flights-pauline-hanson-gina-rineharts-plane-sa-donations-ban-ntwnfb",
     "pubDate": "19.03.2026 14:00:53",
@@ -175,6 +182,27 @@
     "source": "The Guardian"
   },
   {
+    "title": "More than 500 reports of possible petrol price-gouging made to ACCC since start of Iran war",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/19/more-than-500-reports-of-possible-petrol-price-gouging-made-to-accc-since-start-of-iran-war",
+    "pubDate": "19.03.2026 14:00:52",
+    "sortDate": 1773928852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East war: ‘Force of the law’ must prevail over the law of force, urges Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167165",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 19 March: Civilians bear the brunt as strikes and displacement rise",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167161",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
     "title": "West Point analysis warns that strait of Hormuz blockade will strangle US defense industry",
     "link": "https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs",
     "pubDate": "19.03.2026 11:00:07",
@@ -186,20 +214,6 @@
     "link": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row",
     "pubDate": "19.03.2026 10:00:05",
     "sortDate": 1773914405000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Eerily silent’: Cape York residents batten down the hatches ahead of Tropical Cyclone Narelle’s arrival",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/19/cape-york-residents-severe-tropical-cyclone-narelle-queensland",
-    "pubDate": "19.03.2026 07:16:15",
-    "sortDate": 1773904575000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Malinauskas steps up One Nation attack ahead of SA election – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/mar/19/australia-news-live-jim-chalmers-tax-inflation-budget-cost-of-living-war-fuel-crisis-shortage-inflation-cyclone-narelle-queensland-ntwnfb",
-    "pubDate": "19.03.2026 06:36:05",
-    "sortDate": 1773902165000,
     "source": "The Guardian"
   },
   {
@@ -266,6 +280,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN mourns constitutional lawyer-turned top crisis diplomat, Nicholas Haysom",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167160",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Humanitarian needs in Gaza deepen as aid access remains constrained",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167159",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Yemen appeal, Middle East war roils Somalia, needs grow in Colombia",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167157",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war risks undermining Syria’s fragile recovery, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167155",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 18 March: Lebanon displacement tops one million as nuclear safety concerns raised",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167154",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
     "title": "Canada wants to build up its long-neglected Arctic. The hard question is how",
     "link": "https://www.theguardian.com/world/2026/mar/18/canada-arctic-development-carney",
     "pubDate": "18.03.2026 11:00:39",
@@ -308,10 +357,171 @@
     "source": "The Guardian"
   },
   {
+    "title": "Nearly 5 million children are still dying annually before their fifth birthday: Here’s why",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167151",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No matter what’, UN Women vows to stay in Afghanistan, amid deepening rights crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167152",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: West Bank displacement, Cuba fuel crisis, sexual abuse safeguards, new ‘humancentric’ AI advocate",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167150",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan: UN condemns deadly attack on rehab centre in Kabul",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167148",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war risks pushing 45 million more people into acute hunger",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167147",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 17 March: Crisis impact ripples across region",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167146",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
     "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
     "link": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
     "pubDate": "17.03.2026 11:28:01",
     "sortDate": 1773746881000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167143",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deepfakes, voice cloning and weaponised AI: Global wake-up call to organised fraud",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167144",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Deadly drone strikes in Sudan, families killed in West Bank, Ukraine casualties update",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167142",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres urges action against ‘rising tide of anti-Muslim hatred’",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167141",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Glimmer of hope’ in Haiti amid shifting gang frontlines",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167139",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war’s ‘spiral of conflict’ drives mounting civilian toll",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167138",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 16 March: UN scales up aid as crisis deepens into third week",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167137",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "War-driven energy price spikes highlight value of renewables: UN climate chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167135",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East crisis: UN health agency releases emergency funds for Lebanon, Iraq, Syria",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167136",
+    "pubDate": "15.03.2026 12:00:00",
+    "sortDate": 1773576000000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Beirut, Guterres demands end to Middle East war: Civilians ‘deserve to live without fear’",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167134",
+    "pubDate": "14.03.2026 12:00:00",
+    "sortDate": 1773489600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Attacks on synagogues, Syria’s continuing rights violations, shocking abuse of women during childbirth",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167133",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Myanmar at a ‘crossroads’: The world must not forsake civilians there, urges UN expert",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167132",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN chief launches major humanitarian appeal from war-torn Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167131",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: Women in Lebanon forced to give birth on roadside",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167129",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 13 March: Displacement and civilian casualties mount across region",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167127",
+    "pubDate": "13.03.2026 12:00:00",
+    "sortDate": 1773403200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Aid operations strained across Middle East: WFP seeks $200 million to sustain food assistance",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167121",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela’s repressive State apparatus ‘intact’ despite leadership change",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167126",
+    "pubDate": "12.03.2026 12:00:00",
+    "sortDate": 1773316800000,
+    "source": "UN News"
   }
 ]
