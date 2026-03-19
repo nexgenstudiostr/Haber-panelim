@@ -1,51 +1,93 @@
 [
   {
-    "title": "Badenoch offers new explanation for Tory attack on Muslim event, saying party objecting to gender segregation – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/mar/19/labour-eu-iran-covid-local-elections-meningitis-latest-news-updates",
-    "pubDate": "19.03.2026 15:30:26",
-    "sortDate": 1773934226000,
+    "title": "Historic March heatwave pushes south-west US toward triple digits",
+    "link": "https://www.theguardian.com/us-news/2026/mar/19/march-heatwave-weather-us",
+    "pubDate": "19.03.2026 16:49:18",
+    "sortDate": 1773938958000,
     "source": "The Guardian"
   },
   {
-    "title": "No breakthrough on Hungary’s veto of EU’s €90bn loan to Ukraine – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/mar/19/europe-ukraine-russian-eu-loan-orban-hungary-tariffs-iran-nato-latest-news-updates",
-    "pubDate": "19.03.2026 15:29:43",
-    "sortDate": 1773934183000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Essex police pause facial recognition camera use after study finds racial bias",
-    "link": "https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias",
-    "pubDate": "19.03.2026 15:26:54",
-    "sortDate": 1773934014000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bank of England expected to raise UK interest rates twice this year to fight inflation shock from Middle East crisis – business live",
-    "link": "https://www.theguardian.com/business/live/2026/mar/19/bank-of-england-interest-rates-decision-hold-inflation-oil-gas-iran-wage-growth-slows-latest-news-updates",
-    "pubDate": "19.03.2026 15:24:54",
-    "sortDate": 1773933894000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Senate committee approves Trump nominee Markwayne Mullin to lead DHS, heads for full vote – live",
+    "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
-    "pubDate": "19.03.2026 15:21:14",
-    "sortDate": 1773933674000,
+    "pubDate": "19.03.2026 16:49:13",
+    "sortDate": 1773938953000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meningitis vaccine eligibility expanded after Kent outbreak rises to 27",
+    "link": "https://www.theguardian.com/society/2026/mar/19/number-meningitis-cases-linked-kent-outbreak-rises",
+    "pubDate": "19.03.2026 16:46:48",
+    "sortDate": 1773938808000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Bank of England tipped to raise UK interest rates twice this year to fight inflation shock from Middle East crisis, as oil and gas prices rise – as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/mar/19/bank-of-england-interest-rates-decision-hold-inflation-oil-gas-iran-wage-growth-slows-latest-news-updates",
+    "pubDate": "19.03.2026 16:44:42",
+    "sortDate": 1773938682000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Israeli officials push back on US claim that Trump knew nothing about gasfield attack",
     "link": "https://www.theguardian.com/world/live/2026/mar/19/iran-war-live-updates-oil-prices-gas-field-strikes-pentagon-more-funds-trump-news",
-    "pubDate": "19.03.2026 15:19:05",
-    "sortDate": 1773933545000,
+    "pubDate": "19.03.2026 16:42:41",
+    "sortDate": 1773938561000,
     "source": "The Guardian"
   },
   {
-    "title": "NHS was ‘on brink of collapse’ during pandemic, Covid inquiry finds",
-    "link": "https://www.theguardian.com/society/2026/mar/19/superhuman-healthcare-workers-saved-nhs-from-collapse-covid-inquiry-concludes",
-    "pubDate": "19.03.2026 15:12:34",
-    "sortDate": 1773933154000,
+    "title": "Farage backs Tory attack on Muslim iftar event, saying public prayer ‘was a shock’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/mar/19/labour-eu-iran-covid-local-elections-meningitis-latest-news-updates",
+    "pubDate": "19.03.2026 16:37:28",
+    "sortDate": 1773938248000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nigel Farage stops accepting Cameo requests after revelations about his use of platform",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/19/nigel-farage-stops-using-cameo",
+    "pubDate": "19.03.2026 16:27:13",
+    "sortDate": 1773937633000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New bill would bar ICE raids near World Cup matches in US host cities",
+    "link": "https://www.theguardian.com/football/2026/mar/19/bill-ban-world-cup-ice-raids-us",
+    "pubDate": "19.03.2026 16:26:35",
+    "sortDate": 1773937595000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No breakthrough on Hungary’s veto of EU’s €90bn loan to Ukraine – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/mar/19/europe-ukraine-russian-eu-loan-orban-hungary-tariffs-iran-nato-latest-news-updates",
+    "pubDate": "19.03.2026 16:17:36",
+    "sortDate": 1773937056000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "King opens world’s longest managed coastal walk – but much of it is still closed off",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/mar/19/worlds-longest-managed-coastal-walk-much-still-closed",
+    "pubDate": "19.03.2026 16:09:52",
+    "sortDate": 1773936592000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Viktor Orbán refuses to agree to €90bn loan for Ukraine as EU leaders accuse him of betrayal",
+    "link": "https://www.theguardian.com/world/2026/mar/19/hungary-orban-ukraine-loan-veto-eu-summit-europe",
+    "pubDate": "19.03.2026 16:06:33",
+    "sortDate": 1773936393000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Denmark reportedly flew blood bags to Greenland in preparation for a US attack",
+    "link": "https://www.theguardian.com/world/2026/mar/19/denmark-prepared-for-us-attack-donald-trump-greenland",
+    "pubDate": "19.03.2026 16:00:27",
+    "sortDate": 1773936027000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Oman claims Israel pushed US into Iran war when deal was possible",
+    "link": "https://www.theguardian.com/world/2026/mar/19/us-lost-control-of-its-own-foreign-policy-oman-foreign-minister",
+    "pubDate": "19.03.2026 15:50:13",
+    "sortDate": 1773935413000,
     "source": "The Guardian"
   },
   {
@@ -53,13 +95,6 @@
     "link": "https://www.theguardian.com/us-news/2026/mar/19/pete-hegseth-iran-war",
     "pubDate": "19.03.2026 15:02:07",
     "sortDate": 1773932527000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘She didn’t want that pain’: Paola Marra’s brother despairs of Lords block on assisted dying bill",
-    "link": "https://www.theguardian.com/society/2026/mar/19/paola-marra-brother-dignitas-assisted-dying-bill",
-    "pubDate": "19.03.2026 15:00:53",
-    "sortDate": 1773932453000,
     "source": "The Guardian"
   },
   {
@@ -102,34 +137,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/mar/19/uk-schoolgirl-stranded-denmark-dual-national-rules",
     "pubDate": "19.03.2026 13:31:29",
     "sortDate": 1773927089000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Europe’s biggest airlines say fuel price spike caused by Iran war will drive up fares",
-    "link": "https://www.theguardian.com/business/2026/mar/19/europe-biggest-airlines-say-fuel-price-spike-caused-by-iran-war-will-drive-up-fares",
-    "pubDate": "19.03.2026 13:04:21",
-    "sortDate": 1773925461000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "St Patrick’s Day float referencing Epstein files draws condemnation in Ireland",
-    "link": "https://www.theguardian.com/world/2026/mar/19/st-patricks-day-float-mimicked-sexual-assault-epstein-andrew-condemned",
-    "pubDate": "19.03.2026 12:26:51",
-    "sortDate": 1773923211000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "PwC partners who fail to embrace AI have no future at firm, US CEO warns",
-    "link": "https://www.theguardian.com/business/2026/mar/19/pwc-pricewaterhousecoopers-partners-ai-artificial-intelligence-paul-griggs",
-    "pubDate": "19.03.2026 12:04:06",
-    "sortDate": 1773921846000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Buzz kill: US breweries shutter as fanfare over craft beers appears to fade",
-    "link": "https://www.theguardian.com/food/2026/mar/19/us-beer-breweries-closing",
-    "pubDate": "19.03.2026 12:00:07",
-    "sortDate": 1773921607000,
     "source": "The Guardian"
   },
   {
@@ -207,13 +214,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/18/iran-intelligence-minister-esmail-khatib-killed-israel-claims",
     "pubDate": "18.03.2026 19:25:39",
     "sortDate": 1773861939000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK says it remains in talks over escorting ships through strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/mar/18/uk-says-it-remains-in-talks-over-escorting-ships-through-strait-of-hormuz",
-    "pubDate": "18.03.2026 18:52:33",
-    "sortDate": 1773859953000,
     "source": "The Guardian"
   },
   {
