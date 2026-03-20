@@ -1,9 +1,37 @@
 [
   {
-    "title": "Australia news live: more than 100 NSW service stations without diesel, premier says",
+    "title": "Uber to increase fares – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/mar/20/australia-news-live-tropical-cyclone-narelle-queensland-floods-storm-coen-crisafulli-albanese-cost-of-living-tax-budget-chalmers-gas-fuel-crisis-ntwnfb",
-    "pubDate": "20.03.2026 05:34:46",
-    "sortDate": 1773984886000,
+    "pubDate": "20.03.2026 06:22:09",
+    "sortDate": 1773987729000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Work from home and slow down on the road: world’s energy watchdog advises emergency measures as oil prices rise",
+    "link": "https://www.theguardian.com/business/2026/mar/20/oil-price-energy-watchdog-iea-emergency-measures-work-from-home-slow-down-on-the-road",
+    "pubDate": "20.03.2026 06:20:40",
+    "sortDate": 1773987640000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "More than 70 UK councils failed to issue single fine for littering last year",
+    "link": "https://www.theguardian.com/environment/2026/mar/20/uk-councils-littering-fines-data-clean-up-britain-campaign",
+    "pubDate": "20.03.2026 06:00:12",
+    "sortDate": 1773986412000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "People in North Yorkshire town found to have ‘alarming’ levels of toxic Pfas chemicals in blood",
+    "link": "https://www.theguardian.com/environment/2026/mar/20/bentham-north-yorkshire-pfas-toxic-forever-chemicals-blood",
+    "pubDate": "20.03.2026 06:00:11",
+    "sortDate": 1773986411000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "High charges, poor service: NCP hits the skids as drivers change habits",
+    "link": "https://www.theguardian.com/business/2026/mar/20/ncp-car-park-operator-high-charges-administration-debt",
+    "pubDate": "20.03.2026 06:00:11",
+    "sortDate": 1773986411000,
     "source": "The Guardian"
   },
   {
@@ -70,13 +98,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Tropical Cyclone Narelle hits far north Queensland as 250km/h winds tear off roofs and fell trees",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/20/tropical-cyclone-narelle-poised-to-hit-far-north-queensland-as-high-end-category-four-storm",
-    "pubDate": "20.03.2026 02:09:17",
-    "sortDate": 1773972557000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Japanese prime minister explains to Trump that her country cannot join his Iran war – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
     "pubDate": "20.03.2026 01:59:49",
@@ -130,27 +151,6 @@
     "link": "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas",
     "pubDate": "20.03.2026 00:02:00",
     "sortDate": 1773964920000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Natural History Museum tops UK attraction list with record visitors",
-    "link": "https://www.theguardian.com/culture/2026/mar/20/natural-history-museum-tops-uk-attraction-list-with-record-visitors",
-    "pubDate": "20.03.2026 00:01:04",
-    "sortDate": 1773964864000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Shrinkflation takes a bite out of Easter eggs as shoppers pay more for less",
-    "link": "https://www.theguardian.com/business/2026/mar/20/shrinkflation-takes-a-bite-out-of-easter-eggs-as-shoppers-pay-more-for-less",
-    "pubDate": "20.03.2026 00:01:04",
-    "sortDate": 1773964864000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rightwing narrative fuelling false belief UK public oppose net zero, study finds",
-    "link": "https://www.theguardian.com/environment/2026/mar/20/uk-public-support-net-zero-rightwing-media-rories-reform-analysis",
-    "pubDate": "20.03.2026 00:01:04",
-    "sortDate": 1773964864000,
     "source": "The Guardian"
   },
   {
@@ -224,41 +224,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "World News in Brief: Rafah crossing reopens, gender inequality worsens global water crisis, rights defenders in Colombia",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167169",
-    "pubDate": "19.03.2026 12:00:00",
-    "sortDate": 1773921600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war shockwaves ripple through Asia-Pacific fuel and supply chains",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167167",
-    "pubDate": "19.03.2026 12:00:00",
-    "sortDate": 1773921600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Amid deepening crisis in Palestine, girls face rising risks and a mounting mental health emergency",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167166",
-    "pubDate": "19.03.2026 12:00:00",
-    "sortDate": 1773921600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war: ‘Force of the law’ must prevail over the law of force, urges Guterres",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167165",
-    "pubDate": "19.03.2026 12:00:00",
-    "sortDate": 1773921600000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 19 March: Civilians bear the brunt as strikes and displacement rise",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167161",
-    "pubDate": "19.03.2026 12:00:00",
-    "sortDate": 1773921600000,
-    "source": "UN News"
-  },
-  {
     "title": "West Point analysis warns that strait of Hormuz blockade will strangle US defense industry",
     "link": "https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs",
     "pubDate": "19.03.2026 11:00:07",
@@ -315,41 +280,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "UN mourns constitutional lawyer-turned top crisis diplomat, Nicholas Haysom",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167160",
-    "pubDate": "18.03.2026 12:00:00",
-    "sortDate": 1773835200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Humanitarian needs in Gaza deepen as aid access remains constrained",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167159",
-    "pubDate": "18.03.2026 12:00:00",
-    "sortDate": 1773835200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Yemen appeal, Middle East war roils Somalia, needs grow in Colombia",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167157",
-    "pubDate": "18.03.2026 12:00:00",
-    "sortDate": 1773835200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war risks undermining Syria’s fragile recovery, Security Council hears",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167155",
-    "pubDate": "18.03.2026 12:00:00",
-    "sortDate": 1773835200000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 18 March: Lebanon displacement tops one million as nuclear safety concerns raised",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167154",
-    "pubDate": "18.03.2026 12:00:00",
-    "sortDate": 1773835200000,
-    "source": "UN News"
-  },
-  {
     "title": "Canada wants to build up its long-neglected Arctic. The hard question is how",
     "link": "https://www.theguardian.com/world/2026/mar/18/canada-arctic-development-carney",
     "pubDate": "18.03.2026 11:00:39",
@@ -378,150 +308,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Nearly 5 million children are still dying annually before their fifth birthday: Here’s why",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167151",
-    "pubDate": "17.03.2026 12:00:00",
-    "sortDate": 1773748800000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘No matter what’, UN Women vows to stay in Afghanistan, amid deepening rights crisis",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167152",
-    "pubDate": "17.03.2026 12:00:00",
-    "sortDate": 1773748800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: West Bank displacement, Cuba fuel crisis, sexual abuse safeguards, new ‘humancentric’ AI advocate",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167150",
-    "pubDate": "17.03.2026 12:00:00",
-    "sortDate": 1773748800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Afghanistan: UN condemns deadly attack on rehab centre in Kabul",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167148",
-    "pubDate": "17.03.2026 12:00:00",
-    "sortDate": 1773748800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war risks pushing 45 million more people into acute hunger",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167147",
-    "pubDate": "17.03.2026 12:00:00",
-    "sortDate": 1773748800000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 17 March: Crisis impact ripples across region",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167146",
-    "pubDate": "17.03.2026 12:00:00",
-    "sortDate": 1773748800000,
-    "source": "UN News"
-  },
-  {
     "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
     "link": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
     "pubDate": "17.03.2026 11:28:01",
     "sortDate": 1773746881000,
     "source": "The Guardian"
-  },
-  {
-    "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167143",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deepfakes, voice cloning and weaponised AI: Global wake-up call to organised fraud",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167144",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Deadly drone strikes in Sudan, families killed in West Bank, Ukraine casualties update",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167142",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres urges action against ‘rising tide of anti-Muslim hatred’",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167141",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Glimmer of hope’ in Haiti amid shifting gang frontlines",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167139",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war’s ‘spiral of conflict’ drives mounting civilian toll",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167138",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 16 March: UN scales up aid as crisis deepens into third week",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167137",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "War-driven energy price spikes highlight value of renewables: UN climate chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167135",
-    "pubDate": "16.03.2026 12:00:00",
-    "sortDate": 1773662400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East crisis: UN health agency releases emergency funds for Lebanon, Iraq, Syria",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167136",
-    "pubDate": "15.03.2026 12:00:00",
-    "sortDate": 1773576000000,
-    "source": "UN News"
-  },
-  {
-    "title": "In Beirut, Guterres demands end to Middle East war: Civilians ‘deserve to live without fear’",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167134",
-    "pubDate": "14.03.2026 12:00:00",
-    "sortDate": 1773489600000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Attacks on synagogues, Syria’s continuing rights violations, shocking abuse of women during childbirth",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167133",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Myanmar at a ‘crossroads’: The world must not forsake civilians there, urges UN expert",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167132",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief launches major humanitarian appeal from war-torn Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167131",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war: Women in Lebanon forced to give birth on roadside",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167129",
-    "pubDate": "13.03.2026 12:00:00",
-    "sortDate": 1773403200000,
-    "source": "UN News"
   }
 ]
