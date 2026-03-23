@@ -1,16 +1,58 @@
 [
   {
-    "title": "Arson attack on London volunteer ambulances being treated as antisemitic hate crime, police say",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb",
-    "pubDate": "23.03.2026 08:39:28",
-    "sortDate": 1774255168000,
+    "title": "UK mortgage interest rates will rise four times this year to 4.75%, markets predict",
+    "link": "https://www.theguardian.com/business/2026/mar/23/uk-mortgage-interest-rates-markets-bank-of-england-iran-war",
+    "pubDate": "23.03.2026 10:34:52",
+    "sortDate": 1774262092000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer says ministers will consider ‘every lever possible’ to tackle cost of living – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/mar/23/keir-starmer-donald-trump-strait-of-hormuz-shabana-mahood-john-healey-labour-conservatives-kemi-badenoch-cobra-uk-politics-latest-updates-news",
+    "pubDate": "23.03.2026 10:34:05",
+    "sortDate": 1774262045000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ABC journalists to strike for first time in 20 years with widespread news disruption expected",
+    "link": "https://www.theguardian.com/media/2026/mar/23/abc-staff-strike-first-time-20-years",
+    "pubDate": "23.03.2026 10:17:43",
+    "sortDate": 1774261063000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Iran threatens to lay mines across entire Gulf if coasts are attacked as Israel warns war could continue for weeks",
     "link": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-    "pubDate": "23.03.2026 08:33:02",
-    "sortDate": 1774254782000,
+    "pubDate": "23.03.2026 10:13:06",
+    "sortDate": 1774260786000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pro-EU liberals see narrow win in Slovenia as key Italian referendum enters final hours – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news",
+    "pubDate": "23.03.2026 10:07:12",
+    "sortDate": 1774260432000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
+    "pubDate": "23.03.2026 09:53:26",
+    "sortDate": 1774259606000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ambulance arson attack in London being treated as antisemitic hate crime",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb",
+    "pubDate": "23.03.2026 09:37:05",
+    "sortDate": 1774258625000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Long-awaited trial into Greece’s deadliest train crash begins",
+    "link": "https://www.theguardian.com/world/2026/mar/23/greece-deadliest-train-crash-trial-tempe-crime-hellenic-railways-ferrovie-dello-stato",
+    "pubDate": "23.03.2026 08:38:06",
+    "sortDate": 1774255086000,
     "source": "The Guardian"
   },
   {
@@ -21,31 +63,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
-    "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
-    "pubDate": "23.03.2026 08:01:22",
-    "sortDate": 1774252882000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Predatory feral ferrets removed from an island for the first time ever",
     "link": "https://www.theguardian.com/environment/2026/mar/23/predatory-feral-ferrets-removed-from-island-first-time-rathlin-island-northern-ireland",
     "pubDate": "23.03.2026 08:00:45",
     "sortDate": 1774252845000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Small swings, high drama: why UK polls are less volatile than they seem – in charts",
-    "link": "https://www.theguardian.com/politics/2026/mar/23/uk-polls-less-volatile-than-they-seem-charts",
-    "pubDate": "23.03.2026 07:00:43",
-    "sortDate": 1774249243000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Anyone but Labour’ or ‘anyone but Reform’? Clash of animosities likely to define May local elections",
-    "link": "https://www.theguardian.com/politics/2026/mar/23/anyone-but-labour-or-anyone-but-reform-clash-of-animosities-likely-to-define-may-local-elections",
-    "pubDate": "23.03.2026 07:00:43",
-    "sortDate": 1774249243000,
     "source": "The Guardian"
   },
   {
@@ -81,13 +102,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/mar/23/ex-tropical-cyclone-narelle-northern-territory-perth-western-australia-cross-continent",
     "pubDate": "23.03.2026 05:49:40",
     "sortDate": 1774244980000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Iran war energy crisis equal to 70s twin oil shocks and fallout from Ukraine war, says IEA chief",
-    "link": "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea",
-    "pubDate": "23.03.2026 05:04:11",
-    "sortDate": 1774242251000,
     "source": "The Guardian"
   },
   {
@@ -165,20 +179,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel",
     "pubDate": "22.03.2026 11:29:13",
     "sortDate": 1774178953000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mayoral races in balance as voting opens in last round of French local elections",
-    "link": "https://www.theguardian.com/world/2026/mar/22/france-second-round-local-elections-voting-mayoral-races-paris-marseille",
-    "pubDate": "22.03.2026 07:00:14",
-    "sortDate": 1774162814000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Meloni v the judges: high stakes for Italian PM in vote on judiciary overhaul",
-    "link": "https://www.theguardian.com/world/2026/mar/22/italy-referendum-judiciary-overhaul-giorgia-meloni",
-    "pubDate": "22.03.2026 05:00:11",
-    "sortDate": 1774155611000,
     "source": "The Guardian"
   },
   {
