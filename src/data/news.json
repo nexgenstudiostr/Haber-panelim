@@ -1,44 +1,114 @@
 [
   {
-    "title": "Middle East crisis live: Trump postpones military strikes on Iranian power plants for a five day period",
-    "link": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-    "pubDate": "23.03.2026 14:04:51",
-    "sortDate": 1774274691000,
+    "title": "Actor Alan Ritchson filmed allegedly assaulting neighbor in front of his kids",
+    "link": "https://www.theguardian.com/film/2026/mar/23/actor-alan-ritchson-alleged-neighbor-assault-video",
+    "pubDate": "23.03.2026 15:40:03",
+    "sortDate": 1774280403000,
     "source": "The Guardian"
   },
   {
-    "title": "Orbán orders probe into ‘wiretapping’ of his foreign minister amid claims of Russia links – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news",
-    "pubDate": "23.03.2026 14:04:47",
-    "sortDate": 1774274687000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Counter-terror police investigating after ‘horrific antisemitic attack’ on Jewish community ambulances – latest updates",
-    "link": "https://www.theguardian.com/uk-news/live/2026/mar/23/jewish-community-ambulances-arson-fire-attack-antisemitism-north-london-latest-news-updates",
-    "pubDate": "23.03.2026 14:03:40",
-    "sortDate": 1774274620000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hawaii assesses damage left by worst flooding in more than 20 years",
-    "link": "https://www.theguardian.com/us-news/2026/mar/23/hawaii-flooding-oahu-maui",
-    "pubDate": "23.03.2026 14:03:26",
-    "sortDate": 1774274606000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fentanyl found in packaging of Barbie dolls sold at Missouri discount store",
-    "link": "https://www.theguardian.com/us-news/2026/mar/23/fentanyl-barbie-doll-packaging-missouri-store",
-    "pubDate": "23.03.2026 14:03:11",
-    "sortDate": 1774274591000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "No 10 refuses to comment on Trump posting TV sketch mocking Starmer on social media – UK politics live",
+    "title": "Keir Starmer faces questions from Commons liaison committee – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/mar/23/keir-starmer-donald-trump-strait-of-hormuz-shabana-mahood-john-healey-labour-conservatives-kemi-badenoch-cobra-uk-politics-latest-updates-news",
-    "pubDate": "23.03.2026 14:02:01",
-    "sortDate": 1774274521000,
+    "pubDate": "23.03.2026 15:38:28",
+    "sortDate": 1774280308000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Polls point to Meloni narrowly losing referendum on flagship judicial reforms – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/mar/23/local-eu-elections-slovenia-italy-france-latest-updates-news",
+    "pubDate": "23.03.2026 15:36:03",
+    "sortDate": 1774280163000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Leonid Radvinsky, owner of OnlyFans, dies aged 43",
+    "link": "https://www.theguardian.com/technology/2026/mar/23/leonid-radvinsky-onlyfans-owner-death",
+    "pubDate": "23.03.2026 15:28:11",
+    "sortDate": 1774279691000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Trump says both Iran and US ‘want to make a deal’ and claims they will talk today",
+    "link": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
+    "pubDate": "23.03.2026 15:27:36",
+    "sortDate": 1774279656000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "TSA lines stretch for hours as Trump deploys ICE agents to US airports",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/us-airports-latest-tsa-ice",
+    "pubDate": "23.03.2026 15:25:06",
+    "sortDate": 1774279506000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "LaGuardia closed after deadly collision; Trump’s deployment of ICE agents at US airports begins – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/23/new-york-laguardia-airport-plane-vehicle-crash-air-canada-updates",
+    "pubDate": "23.03.2026 15:19:50",
+    "sortDate": 1774279190000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Counter-terror police investigating after ‘horrific antisemitic attack’ on Jewish charity’s ambulances – latest updates",
+    "link": "https://www.theguardian.com/uk-news/live/2026/mar/23/jewish-community-ambulances-arson-fire-attack-antisemitism-north-london-latest-news-updates",
+    "pubDate": "23.03.2026 15:19:02",
+    "sortDate": 1774279142000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘An attack on the heart of this community’: Golders Green arson leaves Jews feeling besieged",
+    "link": "https://www.theguardian.com/news/2026/mar/23/golders-green-arson-attack-jews-besieged-antisemitism",
+    "pubDate": "23.03.2026 15:11:10",
+    "sortDate": 1774278670000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
+    "pubDate": "23.03.2026 15:11:03",
+    "sortDate": 1774278663000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US supreme court hears arguments in mail-in ballots case ahead of midterms",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/supreme-court-mail-in-ballots-case",
+    "pubDate": "23.03.2026 15:04:18",
+    "sortDate": 1774278258000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Europe’s ‘staggering’ clean power gains undermined by failure to phase out fuel-burning machines",
+    "link": "https://www.theguardian.com/environment/2026/mar/23/europe-clean-energy-gains-failure-phase-out-fuel-burning",
+    "pubDate": "23.03.2026 15:00:53",
+    "sortDate": 1774278053000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shooting restricted for six British wild birds to halt population decline",
+    "link": "https://www.theguardian.com/environment/2026/mar/23/shooting-restricted-six-british-wild-birds-halt-population-decline",
+    "pubDate": "23.03.2026 15:00:53",
+    "sortDate": 1774278053000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EasyJet bookings fall because of Iran war as boss warns of air fare rises",
+    "link": "https://www.theguardian.com/business/2026/mar/23/easyjet-bookings-fall-iran-war-air-fare-rises-fuel-costs",
+    "pubDate": "23.03.2026 14:57:06",
+    "sortDate": 1774277826000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French local election results give unexpected lift to centrist parties",
+    "link": "https://www.theguardian.com/world/2026/mar/23/france-local-election-results-unexpected-lift-centrist-parties",
+    "pubDate": "23.03.2026 14:40:48",
+    "sortDate": 1774276848000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran war energy crisis equal to 70s twin oil shocks and Ukraine invasion fallout, says IEA chief | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/first-thing-iran-war-energy-crisis-equal-70s-oil-shocks-ukraine-invasion-fallout-iea-chief-says",
+    "pubDate": "23.03.2026 14:16:32",
+    "sortDate": 1774275392000,
     "source": "The Guardian"
   },
   {
@@ -56,52 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "LaGuardia closed after deadly collision; Trump’s deployment of ICE agents at US airports begins – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/23/new-york-laguardia-airport-plane-vehicle-crash-air-canada-updates",
-    "pubDate": "23.03.2026 13:56:35",
-    "sortDate": 1774274195000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Huw Edwards says Channel 5 drama ‘hardly likely to convey reality’",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/mar/23/huw-edwards-says-channel-5-drama-hardly-likely-convey-reality",
-    "pubDate": "23.03.2026 13:54:53",
-    "sortDate": 1774274093000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Chaos on first day of Greece train crash trial as relatives shout ‘shame on you’",
     "link": "https://www.theguardian.com/world/2026/mar/23/greece-deadliest-train-crash-trial-tempe-crime-hellenic-railways-ferrovie-dello-stato",
     "pubDate": "23.03.2026 13:54:13",
     "sortDate": 1774274053000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York",
-    "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
-    "pubDate": "23.03.2026 13:52:07",
-    "sortDate": 1774273927000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK mortgage interest rates expected to rise despite Trump’s Iran pause",
-    "link": "https://www.theguardian.com/business/2026/mar/23/uk-mortgage-interest-rates-markets-bank-of-england-iran-war",
-    "pubDate": "23.03.2026 13:48:05",
-    "sortDate": 1774273685000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "ICE agents will be deployed to US airports on Monday to ease long lines",
-    "link": "https://www.theguardian.com/us-news/2026/mar/22/ice-agents-us-airports",
-    "pubDate": "23.03.2026 13:35:00",
-    "sortDate": 1774272900000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "World’s broadcasters urge EU to tighten rules for big tech in smart TV battle",
-    "link": "https://www.theguardian.com/business/2026/mar/23/broadcasters-eu-big-tech-smart-tv-google-amazon-apple-samsung",
-    "pubDate": "23.03.2026 13:31:06",
-    "sortDate": 1774272666000,
     "source": "The Guardian"
   },
   {
@@ -112,18 +140,32 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Absolute moral rigour’: new Paris mayor Emmanuel Grégoire’s ideals face stern test",
-    "link": "https://www.theguardian.com/world/2026/mar/23/emmanuel-gregoire-new-paris-mayor",
-    "pubDate": "23.03.2026 11:48:06",
-    "sortDate": 1774266486000,
-    "source": "The Guardian"
+    "title": "War in the Middle East: Cultural treasures damaged, with more at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167181",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
   },
   {
-    "title": "Trump whistleblower Alex Vindman: ‘Sitting on the sidelines was not an option’",
-    "link": "https://www.theguardian.com/us-news/2026/mar/23/trump-whistleblower-alex-vindman-us-senator",
-    "pubDate": "23.03.2026 11:00:47",
-    "sortDate": 1774263647000,
-    "source": "The Guardian"
+    "title": "MIDDLE EAST LIVE 23 March: Civilians bear brunt of ongoing war",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167180",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "A city opens its doors to the world: New York and the United Nations",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1166873",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN weather agency warns of record ‘climate imbalance’ as planetary warming accelerates",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167178",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
   },
   {
     "title": "ABC journalists to strike for first time in 20 years with widespread news disruption expected",
@@ -144,13 +186,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/mar/23/petrol-stations-australia-fuel-crisis",
     "pubDate": "23.03.2026 06:32:04",
     "sortDate": 1774247524000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Socialist Emmanuel Grégoire elected Paris mayor, as National Rally fails to take key cities",
-    "link": "https://www.theguardian.com/world/2026/mar/22/paris-mayoral-race-socialist-emmanuel-gregoire-projected-to-win",
-    "pubDate": "23.03.2026 03:57:14",
-    "sortDate": 1774238234000,
     "source": "The Guardian"
   },
   {
@@ -182,11 +217,39 @@
     "source": "The Guardian"
   },
   {
+    "title": "How Kyrgyzstan built a system to support domestic violence survivors",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167177",
+    "pubDate": "22.03.2026 12:00:00",
+    "sortDate": 1774180800000,
+    "source": "UN News"
+  },
+  {
     "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
     "link": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
     "pubDate": "21.03.2026 23:15:04",
     "sortDate": 1774134904000,
     "source": "The Guardian"
+  },
+  {
+    "title": "WHO verifies deadly hospital attack in war-torn Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167176",
+    "pubDate": "21.03.2026 12:00:00",
+    "sortDate": 1774094400000,
+    "source": "UN News"
+  },
+  {
+    "title": "War in the Middle East: Iran nuclear facility hit as equivalent of ‘one classroom of children’ killed, wounded daily in Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167175",
+    "pubDate": "21.03.2026 12:00:00",
+    "sortDate": 1774094400000,
+    "source": "UN News"
+  },
+  {
+    "title": "When justice fails: Why women can’t get protection from AI deepfake abuse",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167174",
+    "pubDate": "21.03.2026 12:00:00",
+    "sortDate": 1774094400000,
+    "source": "UN News"
   },
   {
     "title": "At least 14 people killed in fire at South Korean car parts factory",
@@ -222,6 +285,34 @@
     "pubDate": "20.03.2026 17:41:47",
     "sortDate": 1774028507000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Forests are more than a resource: How Belarus protects its vital ecosystem",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167173",
+    "pubDate": "20.03.2026 12:00:00",
+    "sortDate": 1774008000000,
+    "source": "UN News"
+  },
+  {
+    "title": "The UN housing development which challenged 1940s’ segregated United States",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167168",
+    "pubDate": "20.03.2026 12:00:00",
+    "sortDate": 1774008000000,
+    "source": "UN News"
+  },
+  {
+    "title": "A former refugee takes on a world in flight",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167171",
+    "pubDate": "20.03.2026 12:00:00",
+    "sortDate": 1774008000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 20 March: Energy shocks deepen as strikes hit infrastructure",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167172",
+    "pubDate": "20.03.2026 12:00:00",
+    "sortDate": 1774008000000,
+    "source": "UN News"
   },
   {
     "title": "Weather tracker: Unseasonal storms hit parts of Pakistan and India",
@@ -266,13 +357,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Seven-year-old Canadian girl with autism and mother detained by ICE in Texas",
-    "link": "https://www.theguardian.com/us-news/2026/mar/20/seven-year-old-canadian-girl-with-autism-and-mother-detained-by-ice-in-texas",
-    "pubDate": "20.03.2026 00:02:00",
-    "sortDate": 1773964920000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
     "link": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
     "pubDate": "19.03.2026 18:46:36",
@@ -285,6 +369,41 @@
     "pubDate": "19.03.2026 17:24:36",
     "sortDate": 1773941076000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Rafah crossing reopens, gender inequality worsens global water crisis, rights defenders in Colombia",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167169",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war shockwaves ripple through Asia-Pacific fuel and supply chains",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167167",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Amid deepening crisis in Palestine, girls face rising risks and a mounting mental health emergency",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167166",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: ‘Force of the law’ must prevail over the law of force, urges Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167165",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 19 March: Civilians bear the brunt as strikes and displacement rise",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167161",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
   },
   {
     "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
@@ -313,5 +432,96 @@
     "pubDate": "18.03.2026 16:40:30",
     "sortDate": 1773852030000,
     "source": "The Guardian"
+  },
+  {
+    "title": "UN mourns constitutional lawyer-turned top crisis diplomat, Nicholas Haysom",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167160",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Humanitarian needs in Gaza deepen as aid access remains constrained",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167159",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Yemen appeal, Middle East war roils Somalia, needs grow in Colombia",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167157",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war risks undermining Syria’s fragile recovery, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167155",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 18 March: Lebanon displacement tops one million as nuclear safety concerns raised",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167154",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nearly 5 million children are still dying annually before their fifth birthday: Here’s why",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167151",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No matter what’, UN Women vows to stay in Afghanistan, amid deepening rights crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167152",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: West Bank displacement, Cuba fuel crisis, sexual abuse safeguards, new ‘humancentric’ AI advocate",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167150",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan: UN condemns deadly attack on rehab centre in Kabul",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167148",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war risks pushing 45 million more people into acute hunger",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167147",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 17 March: Crisis impact ripples across region",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167146",
+    "pubDate": "17.03.2026 12:00:00",
+    "sortDate": 1773748800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Hope’ for Haiti’s political future as some 300 groups reportedly register for upcoming elections",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167143",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deepfakes, voice cloning and weaponised AI: Global wake-up call to organised fraud",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167144",
+    "pubDate": "16.03.2026 12:00:00",
+    "sortDate": 1773662400000,
+    "source": "UN News"
   }
 ]
