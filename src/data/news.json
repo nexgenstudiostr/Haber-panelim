@@ -1,16 +1,37 @@
 [
   {
+    "title": "MIDDLE EAST LIVE 24 March: West Bank attacks in focus",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167187",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
     "title": "UK vets face crackdown over fees as pet owners ‘left in the dark’ on bills",
     "link": "https://www.theguardian.com/business/2026/mar/24/uk-vets-fees-pet-owners-bills-price-lists-prescription-fees",
-    "pubDate": "24.03.2026 08:31:12",
-    "sortDate": 1774341072000,
+    "pubDate": "24.03.2026 09:43:23",
+    "sortDate": 1774345403000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No fuel shortage in Britain, says minister, as Reeves prepares to set out economic response to Iran war – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/mar/24/rachel-reeves-uk-economy-keir-starmer-iran-war-uk-politics-latest-news-updates",
+    "pubDate": "24.03.2026 09:43:21",
+    "sortDate": 1774345401000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "More North Sea drilling will put UK at mercy of fossil fuel markets, ministers say",
+    "link": "https://www.theguardian.com/environment/2026/mar/24/north-sea-drilling-concerns-uk-fossil-fuel-markets-ed-miliband",
+    "pubDate": "24.03.2026 09:32:13",
+    "sortDate": 1774344733000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Iran dismisses Trump claim of talks; von der Leyen says global energy situation is ‘critical’",
     "link": "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes",
-    "pubDate": "24.03.2026 08:30:56",
-    "sortDate": 1774341056000,
+    "pubDate": "24.03.2026 09:28:48",
+    "sortDate": 1774344528000,
     "source": "The Guardian"
   },
   {
@@ -84,20 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Eel fisher takes on authorities at Belfast court over pollution in UK’s largest lake",
-    "link": "https://www.theguardian.com/environment/2026/mar/24/eel-fisher-authorities-belfast-court-pollution-lake-lough-neagh-declan-conlon",
-    "pubDate": "24.03.2026 06:00:10",
-    "sortDate": 1774332010000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Quadruple amputee cornhole player arrested for alleged murder, Maryland police say",
-    "link": "https://www.theguardian.com/us-news/2026/mar/24/quadruple-amputee-cornhole-player-arrested-alleged-murder-ntwnfb",
-    "pubDate": "24.03.2026 05:53:26",
-    "sortDate": 1774331606000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Victoria teachers strike: warning of further action as 35,000 rally and hundreds of schools cancel classes",
     "link": "https://www.theguardian.com/australia-news/2026/mar/24/victoria-teachers-strike-aeu-education-union-public-schools-closed-classes-cancelled",
     "pubDate": "24.03.2026 05:04:56",
@@ -107,13 +114,6 @@
   {
     "title": "Irish metals refinery is in supply chain that feeds Russian war machine, records suggest",
     "link": "https://www.theguardian.com/world/2026/mar/24/irish-metals-refinery-is-in-supply-chain-that-feeds-russian-war-machine-records-suggest",
-    "pubDate": "24.03.2026 05:00:11",
-    "sortDate": 1774328411000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Punk masks, Walkmans and Choppers: Museum of Youth Culture to open in London",
-    "link": "https://www.theguardian.com/culture/2026/mar/24/punk-masks-walkmans-and-choppers-museum-of-youth-culture-to-open-in-london",
     "pubDate": "24.03.2026 05:00:11",
     "sortDate": 1774328411000,
     "source": "The Guardian"
@@ -228,6 +228,13 @@
     "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
     "pubDate": "23.03.2026 23:32:32",
     "sortDate": 1774308752000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hawaii assesses damage left by worst flooding in more than 20 years",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/hawaii-flooding-oahu-maui",
+    "pubDate": "23.03.2026 22:04:03",
+    "sortDate": 1774303443000,
     "source": "The Guardian"
   },
   {
@@ -513,13 +520,6 @@
   {
     "title": "World News in Brief: West Bank displacement, Cuba fuel crisis, sexual abuse safeguards, new ‘humancentric’ AI advocate",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167150",
-    "pubDate": "17.03.2026 12:00:00",
-    "sortDate": 1773748800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Afghanistan: UN condemns deadly attack on rehab centre in Kabul",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167148",
     "pubDate": "17.03.2026 12:00:00",
     "sortDate": 1773748800000,
     "source": "UN News"
