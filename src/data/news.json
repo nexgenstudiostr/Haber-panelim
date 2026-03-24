@@ -1,37 +1,72 @@
 [
   {
-    "title": "Danish exit polls point to win for Frederiksen’s Social Democrats, but without a majority – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/mar/24/denmark-election-mette-frederiksen-europe-latest-news-updates",
-    "pubDate": "24.03.2026 22:13:12",
-    "sortDate": 1774390392000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia politics live: Labor says ‘way too soon’ to talk about fuel rationing and government not considering $40 cap on refills",
-    "link": "https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb",
-    "pubDate": "24.03.2026 22:12:51",
-    "sortDate": 1774390371000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Trump claims Iran has agreed ‘never’ to have a nuclear weapon as he reportedly approves sending more troops to region",
-    "link": "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes",
-    "pubDate": "24.03.2026 22:07:26",
-    "sortDate": 1774390046000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Markwayne Mullin sworn in as homeland security secretary; Trump suggests he won’t be happy with any DHS funding deal – live",
     "link": "https://www.theguardian.com/us-news/live/2026/mar/24/us-politics-latest-news-donald-trump-ice-airport-midterms-donald-trump-marco-rubio",
-    "pubDate": "24.03.2026 21:49:19",
-    "sortDate": 1774388959000,
+    "pubDate": "24.03.2026 23:18:28",
+    "sortDate": 1774394308000,
     "source": "The Guardian"
   },
   {
-    "title": "Is this Australia’s moment to embrace renewables? Ask Adam Morton your questions now",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/25/is-this-australias-moment-to-embrace-renewables-ask-adam-morton-your-questions-now",
-    "pubDate": "24.03.2026 21:31:12",
-    "sortDate": 1774387872000,
+    "title": "Australia politics live: NSW to compel oil companies to explain where extra petrol being sent; Victoria announces three hours of free power a day",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb",
+    "pubDate": "24.03.2026 23:16:53",
+    "sortDate": 1774394213000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meta ordered to pay $375m after being found liable in child exploitation case",
+    "link": "https://www.theguardian.com/technology/2026/mar/24/meta-new-mexico-jury",
+    "pubDate": "24.03.2026 23:16:40",
+    "sortDate": 1774394200000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man who talked down hospital bomber says would-be attacker asked for a cuddle",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/24/man-who-talked-down-hospital-bomber-says-would-be-attacker-asked-for-a-cuddle",
+    "pubDate": "24.03.2026 23:13:09",
+    "sortDate": 1774393989000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Israeli military issues new evacuation warning for Beirut; Trump reportedly approves sending more troops",
+    "link": "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes",
+    "pubDate": "24.03.2026 23:12:27",
+    "sortDate": 1774393947000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Danish exit polls point to win for Frederiksen’s Social Democrats, but without a majority – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/mar/24/denmark-election-mette-frederiksen-europe-latest-news-updates",
+    "pubDate": "24.03.2026 23:11:46",
+    "sortDate": 1774393906000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Philadelphia airport sets world record for longest line of cheesesteaks",
+    "link": "https://www.theguardian.com/us-news/2026/mar/24/philadelphia-airport-world-record-cheesesteaks",
+    "pubDate": "24.03.2026 23:08:28",
+    "sortDate": 1774393708000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mette Frederiksen’s leftwing bloc fails to win majority in Danish election, early results suggest",
+    "link": "https://www.theguardian.com/world/2026/mar/24/mette-frederiksen-leftwing-bloc-fails-win-majority-denmark-election-exit-poll",
+    "pubDate": "24.03.2026 23:03:57",
+    "sortDate": 1774393437000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New York Times accuses Pentagon of defying judge’s press access order",
+    "link": "https://www.theguardian.com/media/2026/mar/24/pentagon-correspondents-press-restrictions",
+    "pubDate": "24.03.2026 23:02:46",
+    "sortDate": 1774393366000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two more people arrested over alleged Sydney kidnapping and murder of Chris Baghsarian",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/25/two-more-people-arrested-over-alleged-sydney-kidnapping-and-of-chris-baghsarian-ntwnfb",
+    "pubDate": "24.03.2026 22:24:21",
+    "sortDate": 1774391061000,
     "source": "The Guardian"
   },
   {
@@ -63,31 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mullin sworn in as DHS secretary as Republicans pitch new funding offer",
-    "link": "https://www.theguardian.com/us-news/2026/mar/24/dhs-deal-ice-excluded",
-    "pubDate": "24.03.2026 20:15:35",
-    "sortDate": 1774383335000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Starmer’s government increasing spending on foreign trips, figures show",
     "link": "https://www.theguardian.com/politics/2026/mar/24/starmer-government-foreign-trip-spend-increasing-figures-show",
     "pubDate": "24.03.2026 19:46:25",
     "sortDate": 1774381585000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s rehashed 15-point Iran plan unlikely to appease Tehran",
-    "link": "https://www.theguardian.com/world/2026/mar/24/trumps-rehashed-15-point-iran-plan-unlikely-to-appease-tehran",
-    "pubDate": "24.03.2026 19:45:19",
-    "sortDate": 1774381519000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mette Frederiksen’s leftwing bloc fails to win majority in Danish election, exit polls suggest",
-    "link": "https://www.theguardian.com/world/2026/mar/24/mette-frederiksen-leftwing-bloc-fails-win-majority-denmark-election-exit-poll",
-    "pubDate": "24.03.2026 19:40:24",
-    "sortDate": 1774381224000,
     "source": "The Guardian"
   },
   {
@@ -126,13 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Baltimore sues Elon Musk’s AI company over Grok’s fake nude images",
-    "link": "https://www.theguardian.com/technology/2026/mar/24/elon-musk-grok-ai-lawsuit-baltimore",
-    "pubDate": "24.03.2026 18:57:05",
-    "sortDate": 1774378625000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Taliban release US academic held in detention for more than a year",
     "link": "https://www.theguardian.com/world/2026/mar/24/taliban-us-academic-dennis-coyle",
     "pubDate": "24.03.2026 18:42:23",
@@ -158,13 +165,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/24/netanyahu-vows-further-strikes-iran-lebanon-missile-hits-tel-aviv-middle-east-crisis",
     "pubDate": "24.03.2026 18:02:00",
     "sortDate": 1774375320000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK politics: Reform UK suspends mayoral candidate after he described Jewish security group as ‘cosplayers’ – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/mar/24/rachel-reeves-uk-economy-keir-starmer-iran-war-uk-politics-latest-news-updates",
-    "pubDate": "24.03.2026 17:30:28",
-    "sortDate": 1774373428000,
     "source": "The Guardian"
   },
   {
