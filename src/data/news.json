@@ -1,23 +1,114 @@
 [
   {
-    "title": "Australia politics live: NSW opposition calls for fuel price limits and free Easter public transport; AI firms face fines over explicit chatbots",
-    "link": "https://www.theguardian.com/australia-news/live/2026/mar/24/australia-politics-live-fuel-crisis-cost-of-living-petrol-diesel-rationing-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
-    "pubDate": "23.03.2026 23:18:35",
-    "sortDate": 1774307915000,
+    "title": "Middle East crisis live: Iran dismisses Trump claim of talks; von der Leyen says global energy situation is ‘critical’",
+    "link": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
+    "pubDate": "24.03.2026 01:23:56",
+    "sortDate": 1774315436000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Trump says Iran and US ‘want to make a deal’ but Tehran says claims of talks are ‘fake news’",
-    "link": "https://www.theguardian.com/world/live/2026/mar/23/middle-east-crisis-live-iea-chief-says-iran-war-energy-crunch-worse-than-1970s-oil-crises-and-ukraine-war-combined",
-    "pubDate": "23.03.2026 22:59:25",
-    "sortDate": 1774306765000,
+    "title": "Australia politics live: PM says new trade deal with EU means cheaper wine, biscuits and pasta; war sends consumer confidence to record low",
+    "link": "https://www.theguardian.com/australia-news/live/2026/mar/24/australia-politics-live-fuel-crisis-cost-of-living-petrol-diesel-rationing-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
+    "pubDate": "24.03.2026 01:23:47",
+    "sortDate": 1774315427000,
     "source": "The Guardian"
   },
   {
     "title": "Senate minority leader rejects Trump’s ultimatum over strict voter ID law amid DHS shutdown – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/mar/23/new-york-laguardia-airport-plane-vehicle-crash-air-canada-updates",
-    "pubDate": "23.03.2026 22:50:15",
-    "sortDate": 1774306215000,
+    "pubDate": "24.03.2026 01:23:36",
+    "sortDate": 1774315416000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia",
+    "pubDate": "24.03.2026 01:09:29",
+    "sortDate": 1774314569000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Senate confirms Trump loyalist Markwayne Mullin as homeland security secretary",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/senate-markwayne-mullin-confirmed",
+    "pubDate": "24.03.2026 00:51:13",
+    "sortDate": 1774313473000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Eight arrested for ‘brutal’ attack on capybara in Brazil",
+    "link": "https://www.theguardian.com/world/2026/mar/24/brutal-attack-capybara-brazil-eight-arrested",
+    "pubDate": "24.03.2026 00:45:43",
+    "sortDate": 1774313143000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "At least 34 dead as Colombian military plane crashes",
+    "link": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash",
+    "pubDate": "24.03.2026 00:41:17",
+    "sortDate": 1774312877000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Teachers in Victoria strike for first time in 13 years, with classes cancelled at about 500 public schools",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/24/victoria-teachers-strike-aeu-education-union-public-schools-closed-classes-cancelled",
+    "pubDate": "24.03.2026 00:28:27",
+    "sortDate": 1774312107000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘We consider every mile we drive’: how fuel shortages are affecting readers worldwide",
+    "link": "https://www.theguardian.com/world/2026/mar/24/iran-war-fuel-shortages-affecting-readers-worldwide",
+    "pubDate": "24.03.2026 00:17:30",
+    "sortDate": 1774311450000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s ‘very good’ talks with Iran buy him time with oil and energy markets",
+    "link": "https://www.theguardian.com/world/2026/mar/24/trumps-very-good-talks-with-iran-buy-him-time-with-oil-and-energy-markets",
+    "pubDate": "24.03.2026 00:01:04",
+    "sortDate": 1774310464000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ministers delay new rules for low-carbon housing in England",
+    "link": "https://www.theguardian.com/environment/2026/mar/24/ministers-delay-new-rules-for-low-carbon-housing-in-england",
+    "pubDate": "24.03.2026 00:01:04",
+    "sortDate": 1774310464000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "English and Welsh winemakers report sharp rise in production in 2025",
+    "link": "https://www.theguardian.com/business/2026/mar/24/english-and-welsh-winemakers-report-sharp-rise-in-production-in-2025",
+    "pubDate": "24.03.2026 00:01:04",
+    "sortDate": 1774310464000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘It’s got real sass!’ Irvine Welsh chooses new life for Trainspotting as a stage musical",
+    "link": "https://www.theguardian.com/stage/2026/mar/24/irvine-welsh-trainspotting-the-musical-theatre-royal-haymarket",
+    "pubDate": "24.03.2026 00:01:03",
+    "sortDate": 1774310463000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ministers rebuff trade body’s call to boost North Sea oil and gas production",
+    "link": "https://www.theguardian.com/business/2026/mar/24/ministers-rebuff-call-north-sea-oil-gas-production-offshore-energies-uk",
+    "pubDate": "24.03.2026 00:01:03",
+    "sortDate": 1774310463000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "California sues Trump energy department over revival of controversial oil pipeline",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/california-trump-energy-department-oil-pipeline",
+    "pubDate": "23.03.2026 23:53:28",
+    "sortDate": 1774310008000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
+    "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
+    "pubDate": "23.03.2026 23:32:32",
+    "sortDate": 1774308752000,
     "source": "The Guardian"
   },
   {
@@ -35,20 +126,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "What to know about the third No Kings protests happening in March",
-    "link": "https://www.theguardian.com/us-news/2026/jan/28/third-no-kings-protest-march-minnesota-ice",
-    "pubDate": "23.03.2026 21:25:02",
-    "sortDate": 1774301102000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Maryland park closed after string of explosive devices found",
-    "link": "https://www.theguardian.com/us-news/2026/mar/23/maryland-fort-washington-park-explosives-found",
-    "pubDate": "23.03.2026 20:56:23",
-    "sortDate": 1774299383000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Surprise US talks with Iran’s fractured leadership offer uncertain path out of conflict",
     "link": "https://www.theguardian.com/world/2026/mar/23/surprise-us-talks-with-irans-fractured-leadership-offer-uncertain-path-out-of-conflict",
     "pubDate": "23.03.2026 19:55:37",
@@ -63,52 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Security agencies investigate claim Iran-linked group behind London ambulance arson",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/23/jewish-volunteer-ambulances-fire-golders-green-suspected-arson-antisemitic-ntwnfb",
-    "pubDate": "23.03.2026 19:22:44",
-    "sortDate": 1774293764000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Counter-terror police investigating after ‘horrific antisemitic attack’ on Jewish charity’s ambulances – as it happened",
-    "link": "https://www.theguardian.com/uk-news/live/2026/mar/23/jewish-community-ambulances-arson-fire-attack-antisemitism-north-london-latest-news-updates",
-    "pubDate": "23.03.2026 19:19:31",
-    "sortDate": 1774293571000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump claims ‘productive’ talks with Iran but Tehran denies contact",
     "link": "https://www.theguardian.com/world/2026/mar/23/trump-extends-iran-deadline-five-days-energy-infrastructure",
     "pubDate": "23.03.2026 19:00:14",
     "sortDate": 1774292414000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
-    "link": "https://www.theguardian.com/us-news/2026/mar/23/canadian-flight-attendant-survives-new-york-plane-crash-laguardia",
-    "pubDate": "23.03.2026 18:58:04",
-    "sortDate": 1774292284000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Keir Starmer signals winter support for household bills amid energy price shock",
-    "link": "https://www.theguardian.com/politics/2026/mar/23/starmer-support-household-bills-next-winter-energy-price-shock",
-    "pubDate": "23.03.2026 18:29:29",
-    "sortDate": 1774290569000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ministers tell HS2 to consider slower train speeds to cut costs",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/23/ministers-tell-hs2-to-consider-slower-train-speeds-to-cut-costs",
-    "pubDate": "23.03.2026 18:04:40",
-    "sortDate": 1774289080000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Scores feared dead as Colombian military plane crashes",
-    "link": "https://www.theguardian.com/world/2026/mar/23/colombia-military-plane-crash",
-    "pubDate": "23.03.2026 18:02:51",
-    "sortDate": 1774288971000,
     "source": "The Guardian"
   },
   {
@@ -147,31 +182,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Is Iran really able to strike London, and is the UK prepared for an attack?",
-    "link": "https://www.theguardian.com/world/2026/mar/23/is-iran-able-strike-london-is-uk-prepared",
-    "pubDate": "23.03.2026 17:04:36",
-    "sortDate": 1774285476000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
-    "link": "https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights",
-    "pubDate": "23.03.2026 15:11:03",
-    "sortDate": 1774278663000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Europe’s ‘staggering’ clean power gains undermined by failure to phase out fuel-burning machines",
     "link": "https://www.theguardian.com/environment/2026/mar/23/europe-clean-energy-gains-failure-phase-out-fuel-burning",
     "pubDate": "23.03.2026 15:00:53",
     "sortDate": 1774278053000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Queensland government criticised over ‘absurd’ decision to appoint former police officer to Legal Aid board",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/23/queensland-government-darren-robinsoncriticised-over-absurd-and-controversial-decision-to-appoint-former-police-officer-to-legal-aid-board-ntwnfb",
-    "pubDate": "23.03.2026 14:00:52",
-    "sortDate": 1774274452000,
     "source": "The Guardian"
   },
   {
@@ -182,17 +196,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "ABC journalists to strike for first time in 20 years with widespread news disruption expected",
-    "link": "https://www.theguardian.com/media/2026/mar/23/abc-staff-strike-first-time-20-years",
-    "pubDate": "23.03.2026 10:17:43",
-    "sortDate": 1774261063000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "SA premier warns One Nation poses threat to federal Labor as Marles says party only ‘about stunts and the vibe’",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/23/sa-election-pauline-hanson-one-nation-party-only-about-stunts-vibe-marles-ntwnfb",
-    "pubDate": "23.03.2026 06:34:10",
-    "sortDate": 1774247650000,
+    "title": "Queensland government criticised over ‘absurd’ decision to appoint former police officer to Legal Aid board",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/23/queensland-government-darren-robinsoncriticised-over-absurd-and-controversial-decision-to-appoint-former-police-officer-to-legal-aid-board-ntwnfb",
+    "pubDate": "23.03.2026 14:00:52",
+    "sortDate": 1774274452000,
     "source": "The Guardian"
   },
   {
@@ -228,13 +235,6 @@
     "link": "https://www.theguardian.com/us-news/2026/mar/20/canadian-mother-daughter-ice-detention",
     "pubDate": "20.03.2026 18:04:51",
     "sortDate": 1774029891000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Gabbard testimony on Puerto Rico voting machines raises questions about role of Venezuela conspiracy theory",
-    "link": "https://www.theguardian.com/us-news/2026/mar/20/puerto-rico-voting-machines-trump-2020-election-loss-venezuela",
-    "pubDate": "20.03.2026 17:50:56",
-    "sortDate": 1774029056000,
     "source": "The Guardian"
   },
   {
