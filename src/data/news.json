@@ -1,16 +1,65 @@
 [
   {
-    "title": "Australia news live: national cabinet to meet next week on fuel as 500 service stations report shortages; Melissa McIntosh ejected from question time",
+    "title": "Australia news live: Chalmers says Treasury fuel price modelling looks ‘pretty conservative now’; national cabinet to meet again next week on fuel crisis",
     "link": "https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb",
-    "pubDate": "25.03.2026 04:00:31",
-    "sortDate": 1774411231000,
+    "pubDate": "25.03.2026 05:38:36",
+    "sortDate": 1774417116000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Fire at Kuwait airport after drone attack; elite US airborne division reportedly headed to region",
+    "title": "Middle East crisis live: Iran launches strikes on US bases in Gulf; oil prices drop after Trump ‘peace plan’ report",
+    "link": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
+    "pubDate": "25.03.2026 05:37:46",
+    "sortDate": 1774417066000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Philippines declares ‘national energy emergency’ and boosts coal power as Iran war grinds on",
+    "link": "https://www.theguardian.com/world/2026/mar/25/philippines-declares-national-energy-emergency-iran-war",
+    "pubDate": "25.03.2026 05:26:10",
+    "sortDate": 1774416370000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US set to send airborne troops to Middle East as Trump claims talks with Iran taking place",
+    "link": "https://www.theguardian.com/world/2026/mar/24/middle-east-violence-trump-claims-very-good-talks-iran",
+    "pubDate": "25.03.2026 05:02:13",
+    "sortDate": 1774414933000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No Israel prosecutions for killing Palestinian civilians in occupied West Bank since start of decade",
+    "link": "https://www.theguardian.com/world/2026/mar/25/no-israel-prosecutions-for-killing-palestinian-civilians-in-occupied-west-bank-since-start-of-decade",
+    "pubDate": "25.03.2026 05:00:03",
+    "sortDate": 1774414803000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ABC strike: national broadcaster switches to BBC programming as staff walk off the job for 24 hours",
+    "link": "https://www.theguardian.com/media/2026/mar/25/abc-staff-strike",
+    "pubDate": "25.03.2026 04:32:32",
+    "sortDate": 1774413152000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fire at Kuwait airport after drone attack – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/mar/24/iran-war-live-updates-trump-ursula-von-der-leyen-oil-prices-energy-crisis-israel-strikes",
-    "pubDate": "25.03.2026 03:58:29",
-    "sortDate": 1774411109000,
+    "pubDate": "25.03.2026 04:18:38",
+    "sortDate": 1774412318000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sydney teenager charged with terror offences allegedly accessed ‘guides’ to mass casualty attacks, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/25/sydney-teenager-charged-with-terror-offences-after-allegedly-posting-threats-of-extremist-violence",
+    "pubDate": "25.03.2026 04:12:30",
+    "sortDate": 1774411950000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia backs Lebanon’s sovereignty and opposes occupation, Penny Wong tells Israel",
+    "link": "https://www.theguardian.com/australia-news/2026/mar/25/penny-wong-tells-israel-australia-backs-lebanons-sovereignty-and-opposes-occupation",
+    "pubDate": "25.03.2026 04:07:11",
+    "sortDate": 1774411631000,
     "source": "The Guardian"
   },
   {
@@ -35,13 +84,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "ABC switches to BBC programming as staff walk off the job for 24-hour strike",
-    "link": "https://www.theguardian.com/media/2026/mar/25/abc-staff-strike",
-    "pubDate": "25.03.2026 01:54:47",
-    "sortDate": 1774403687000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Court blocks California effort to stop Republican sheriff’s ballot recount",
     "link": "https://www.theguardian.com/us-news/2026/mar/24/california-attorney-general-rob-bonta-ballot-recounting",
     "pubDate": "25.03.2026 01:49:16",
@@ -60,13 +102,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/25/new-zealand-maori-electorates-explained",
     "pubDate": "25.03.2026 00:56:52",
     "sortDate": 1774400212000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Philippines declares ‘national energy emergency’ and boosts coal power as Iran war grinds on",
-    "link": "https://www.theguardian.com/world/2026/mar/25/philippines-declares-national-energy-emergency-iran-war",
-    "pubDate": "25.03.2026 00:25:28",
-    "sortDate": 1774398328000,
     "source": "The Guardian"
   },
   {
@@ -126,13 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Sydney teenager charged with terror offences after allegedly posting threats of extremist violence",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/25/sydney-teenager-charged-with-terror-offences-after-allegedly-posting-threats-of-extremist-violence",
-    "pubDate": "24.03.2026 20:46:18",
-    "sortDate": 1774385178000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Canadian woman held with daughter by ICE warns all immigrants to ‘lie low’",
     "link": "https://www.theguardian.com/us-news/2026/mar/24/canadian-mother-detention-warns-immigrants",
     "pubDate": "24.03.2026 20:20:08",
@@ -154,31 +182,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK offers to host international summit on reopening strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/mar/24/uk-offers-to-host-international-security-summit-on-reopening-strait-of-hormuz",
-    "pubDate": "24.03.2026 19:18:52",
-    "sortDate": 1774379932000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tangled trail probably leads from Golders Green ambulance attack to Tehran",
-    "link": "https://www.theguardian.com/world/2026/mar/24/a-tangled-web-leads-from-golders-green-ambulance-attack-to-tehran",
-    "pubDate": "24.03.2026 19:08:00",
-    "sortDate": 1774379280000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Jailed Bolsonaro granted ‘humanitarian house arrest’ amid failing health",
     "link": "https://www.theguardian.com/world/2026/mar/24/brazil-jair-bolsonaro-house-arrest-health",
     "pubDate": "24.03.2026 19:03:16",
     "sortDate": 1774378996000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US set to send airborne troops to Middle East as Trump claims talks with Iran taking place",
-    "link": "https://www.theguardian.com/world/2026/mar/24/middle-east-violence-trump-claims-very-good-talks-iran",
-    "pubDate": "24.03.2026 18:59:32",
-    "sortDate": 1774378772000,
     "source": "The Guardian"
   },
   {
@@ -200,13 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/24/humpback-whale-stranded-german-coast",
     "pubDate": "24.03.2026 15:42:59",
     "sortDate": 1774366979000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Guardian Essential poll: only a quarter of Australians approve of US-Israel war on Iran",
-    "link": "https://www.theguardian.com/australia-news/2026/mar/25/guardian-essential-poll-only-a-quarter-of-australians-approve-of-us-israel-war-on-iran",
-    "pubDate": "24.03.2026 14:00:41",
-    "sortDate": 1774360841000,
     "source": "The Guardian"
   },
   {
