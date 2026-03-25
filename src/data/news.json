@@ -1,16 +1,44 @@
 [
   {
-    "title": "Review of foreign financial interference in UK politics to be published, with ban on crypto donations expected – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/mar/25/rycroft-review-foreign-financial-interference-keir-starmer-kemi-badenoch-pmqs-latest-news-updates",
-    "pubDate": "25.03.2026 09:28:31",
-    "sortDate": 1774430911000,
+    "title": "Ex-Tory minister Crispin Blunt pleads guilty to possession of drugs including crystal meth",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/25/ex-tory-minister-crispin-blunt-pleads-guilty-possession-drugs",
+    "pubDate": "25.03.2026 10:31:44",
+    "sortDate": 1774434704000,
     "source": "The Guardian"
   },
   {
-    "title": "Mette Frederiksen keen to remain as Denmark’s PM despite losing ground in election – Europe live",
+    "title": "Denmark’s Frederiksen resigns as search for new majority begins after close elections – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/mar/25/denmark-election-results-mette-frederiksen-europe-latest-news-updates",
-    "pubDate": "25.03.2026 09:27:32",
-    "sortDate": 1774430852000,
+    "pubDate": "25.03.2026 10:25:55",
+    "sortDate": 1774434355000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Iran’s military mocks Trump’s claims of ceasefire talks, strikes Gulf states overnight",
+    "link": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
+    "pubDate": "25.03.2026 10:23:59",
+    "sortDate": 1774434239000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Stocks rise and oil dips on hopes of 15-point Iran peace plan",
+    "link": "https://www.theguardian.com/business/2026/mar/25/stocks-rise-oil-dips-iran-peace-plan-market-optimism",
+    "pubDate": "25.03.2026 10:20:04",
+    "sortDate": 1774434004000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Review of foreign financial interference in UK politics to be published, with ban on crypto donations expected – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/mar/25/rycroft-review-foreign-financial-interference-keir-starmer-kemi-badenoch-pmqs-latest-news-updates",
+    "pubDate": "25.03.2026 10:17:00",
+    "sortDate": 1774433820000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hundreds of UK teenagers to trial six-week social media curbs for major study",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/25/hundreds-of-uk-teenagers-to-trial-six-week-social-media-curbs-for-major-study",
+    "pubDate": "25.03.2026 10:08:08",
+    "sortDate": 1774433288000,
     "source": "The Guardian"
   },
   {
@@ -25,20 +53,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/25/massive-betrayal-iranian-nationals-with-valid-tourist-visas-blocked-from-entering-australia-for-six-months",
     "pubDate": "25.03.2026 09:23:21",
     "sortDate": 1774430601000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Iran’s military mocks Trump’s claims of ceasefire talks, strikes Gulf states overnight",
-    "link": "https://www.theguardian.com/world/live/2026/mar/25/middle-east-crisis-live-iran-war-oil-prices-more-us-troops-reportedly-deployed-donald-trump-attacks-on-lebanon",
-    "pubDate": "25.03.2026 09:10:03",
-    "sortDate": 1774429803000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Stocks rise and oil dips on hopes of 15-point Iran peace plan",
-    "link": "https://www.theguardian.com/business/2026/mar/25/stocks-rise-oil-dips-iran-peace-plan-market-optimism",
-    "pubDate": "25.03.2026 09:08:32",
-    "sortDate": 1774429712000,
     "source": "The Guardian"
   },
   {
@@ -70,13 +84,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "NHS took two days to raise alarm about Kent meningitis outbreak, says report",
-    "link": "https://www.theguardian.com/society/2026/mar/25/nhs-took-two-days-raise-alarm-kent-meningitis-outbreak",
-    "pubDate": "25.03.2026 08:01:17",
-    "sortDate": 1774425677000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Queensland government scraps emissions target for Brisbane Olympics – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/mar/25/politics-federal-queensland-nsw-parliament-tony-burke-jim-chalmers-middle-east-fuel-crisis-ntwnfb",
     "pubDate": "25.03.2026 07:44:52",
@@ -88,13 +95,6 @@
     "link": "https://www.theguardian.com/media/2026/mar/25/day-abc-staff-strike-aunty-looking-different",
     "pubDate": "25.03.2026 07:39:16",
     "sortDate": 1774424356000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK inflation held at 3% before global energy price hit from Iran war",
-    "link": "https://www.theguardian.com/business/2026/mar/25/uk-inflation-rate-energy-price-jump-iran-war",
-    "pubDate": "25.03.2026 07:00:41",
-    "sortDate": 1774422041000,
     "source": "The Guardian"
   },
   {
@@ -238,6 +238,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "Gaza: Commitment to US-backed plan crucial to recovery, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167194",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Airstrikes continue in Ukraine, refugees return to DR Congo, emergency aid for the ‘Dry Corridor’",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167193",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Truly transformative’ new diagnostic tools can help end tuberculosis",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167190",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Hospital strike highlights surge in drone attacks on civilians",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167189",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haitian gangs expand reach as police are accused of ‘summary executions’",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167188",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 24 March: West Bank attacks and Lebanon in focus as Security Council meets",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167187",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
     "title": "Albanese urged to help Australians struggling with fuel crisis, as NZ offers first-of-its-kind cash relief",
     "link": "https://www.theguardian.com/world/2026/mar/24/albanese-urged-to-help-australians-struggling-with-fuel-crisis-as-nz-offers-first-of-its-kind-cash-relief",
     "pubDate": "24.03.2026 08:28:06",
@@ -273,6 +315,69 @@
     "source": "The Guardian"
   },
   {
+    "title": "Ukraine violence ‘worse than ever’, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167186",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Ukraine in spotlight as Russian strikes surge",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167185",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN calls for solidarity and political will to stamp out racial discrimination",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167183",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Dire fertiliser shortage a lurking threat due to Hormuz crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167182",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "War in the Middle East: Cultural treasures damaged, with more at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167181",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 23 March: Civilians bear brunt of ongoing war",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167180",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "A city opens its doors to the world: New York and the United Nations",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1166873",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN weather agency warns of record ‘climate imbalance’ as planetary warming accelerates",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167178",
+    "pubDate": "23.03.2026 12:00:00",
+    "sortDate": 1774267200000,
+    "source": "UN News"
+  },
+  {
+    "title": "How Kyrgyzstan built a system to support domestic violence survivors",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167177",
+    "pubDate": "22.03.2026 12:00:00",
+    "sortDate": 1774180800000,
+    "source": "UN News"
+  },
+  {
     "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
     "link": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
     "pubDate": "21.03.2026 23:15:04",
@@ -280,11 +385,60 @@
     "source": "The Guardian"
   },
   {
+    "title": "WHO verifies deadly hospital attack in war-torn Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167176",
+    "pubDate": "21.03.2026 12:00:00",
+    "sortDate": 1774094400000,
+    "source": "UN News"
+  },
+  {
+    "title": "War in the Middle East: Iran nuclear facility hit as equivalent of ‘one classroom of children’ killed, wounded daily in Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167175",
+    "pubDate": "21.03.2026 12:00:00",
+    "sortDate": 1774094400000,
+    "source": "UN News"
+  },
+  {
+    "title": "When justice fails: Why women can’t get protection from AI deepfake abuse",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167174",
+    "pubDate": "21.03.2026 12:00:00",
+    "sortDate": 1774094400000,
+    "source": "UN News"
+  },
+  {
     "title": "‘This is the saddest moment’: families search for loved ones on Eid after Kabul hospital strike",
     "link": "https://www.theguardian.com/world/2026/mar/21/kabul-hospital-strike-eid-pakistan-taliban-families-search-for-victims",
     "pubDate": "21.03.2026 08:00:47",
     "sortDate": 1774080047000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Forests are more than a resource: How Belarus protects its vital ecosystem",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167173",
+    "pubDate": "20.03.2026 12:00:00",
+    "sortDate": 1774008000000,
+    "source": "UN News"
+  },
+  {
+    "title": "The UN housing development which challenged 1940s’ segregated United States",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167168",
+    "pubDate": "20.03.2026 12:00:00",
+    "sortDate": 1774008000000,
+    "source": "UN News"
+  },
+  {
+    "title": "A former refugee takes on a world in flight",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167171",
+    "pubDate": "20.03.2026 12:00:00",
+    "sortDate": 1774008000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 20 March: Energy shocks deepen as strikes hit infrastructure",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167172",
+    "pubDate": "20.03.2026 12:00:00",
+    "sortDate": 1774008000000,
+    "source": "UN News"
   },
   {
     "title": "Weather tracker: Unseasonal storms hit parts of Pakistan and India",
@@ -313,5 +467,61 @@
     "pubDate": "19.03.2026 17:24:36",
     "sortDate": 1773941076000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Rafah crossing reopens, gender inequality worsens global water crisis, rights defenders in Colombia",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167169",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war shockwaves ripple through Asia-Pacific fuel and supply chains",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167167",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Amid deepening crisis in Palestine, girls face rising risks and a mounting mental health emergency",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167166",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: ‘Force of the law’ must prevail over the law of force, urges Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167165",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 19 March: Civilians bear the brunt as strikes and displacement rise",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167161",
+    "pubDate": "19.03.2026 12:00:00",
+    "sortDate": 1773921600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN mourns constitutional lawyer-turned top crisis diplomat, Nicholas Haysom",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167160",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Humanitarian needs in Gaza deepen as aid access remains constrained",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167159",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Yemen appeal, Middle East war roils Somalia, needs grow in Colombia",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167157",
+    "pubDate": "18.03.2026 12:00:00",
+    "sortDate": 1773835200000,
+    "source": "UN News"
   }
 ]
