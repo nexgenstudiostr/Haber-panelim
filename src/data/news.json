@@ -1,30 +1,93 @@
 [
   {
+    "title": "‘No precedent’ for seafarers caught in war zone in post-WW2 era",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167224",
+    "pubDate": "31.03.2026 12:00:00",
+    "sortDate": 1774958400000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE: Vital food aid blocked, aid agencies warn over Sudan fallout",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167225",
+    "pubDate": "31.03.2026 12:00:00",
+    "sortDate": 1774958400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East crisis live: Countries ‘like UK’ should go to strait of Hormuz and ‘just take fuel’, says Trump",
+    "link": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
+    "pubDate": "31.03.2026 11:24:26",
+    "sortDate": 1774956266000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Italy denies use of Sicily airbase to US aircraft carrying weapons for Iran war – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/mar/31/europe-ukraine-bucha-eu-russia-hungary-iran-denmark-latest-news-updates",
+    "pubDate": "31.03.2026 11:24:25",
+    "sortDate": 1774956265000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Airport congestion eases as TSA workers receive backpay but record DHS shutdown drags on – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/mar/31/donald-trump-iran-shutdown-dhs-tsa-ice-immigration-kennedy-center-latest-news-updates",
+    "pubDate": "31.03.2026 11:19:23",
+    "sortDate": 1774955963000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Minister confirms support package may be offered as energy prices forecast to rise in July – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/mar/31/doctors-strike-starmer-bma-nhs-labour-conservatives-reform-farage-latest-news-updates",
-    "pubDate": "31.03.2026 09:52:20",
-    "sortDate": 1774950740000,
+    "pubDate": "31.03.2026 11:16:33",
+    "sortDate": 1774955793000,
     "source": "The Guardian"
   },
   {
-    "title": "Palantir’s UK boss criticises ‘ideological’ groups as ministers move to scrap NHS contract",
-    "link": "https://www.theguardian.com/technology/2026/mar/31/palantir-uk-boss-louis-mosley-ministers-nhs-contract",
-    "pubDate": "31.03.2026 09:52:03",
-    "sortDate": 1774950723000,
+    "title": "Scott Mills was questioned by police in 2018 over allegations of sexual offences against boy under 16",
+    "link": "https://www.theguardian.com/media/2026/mar/31/scott-mills-sacked-questioned-police-sexual-offence-allegations-2016-bbc-radio-2",
+    "pubDate": "31.03.2026 10:47:21",
+    "sortDate": 1774954041000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Iran strikes tanker in Dubai; Israel prepared to keep up attacks ‘for weeks’",
-    "link": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
-    "pubDate": "31.03.2026 09:33:47",
-    "sortDate": 1774949627000,
+    "title": "US average fuel price passes $4 a gallon for first time in four years amid Iran war",
+    "link": "https://www.theguardian.com/business/2026/mar/31/us-average-fuel-prices-iran-war",
+    "pubDate": "31.03.2026 10:40:58",
+    "sortDate": 1774953658000,
     "source": "The Guardian"
   },
   {
-    "title": "EU ministers arrive in Ukraine to mark Bucha massacre anniversary – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/mar/31/europe-ukraine-bucha-eu-russia-hungary-iran-denmark-latest-news-updates",
-    "pubDate": "31.03.2026 09:10:55",
-    "sortDate": 1774948255000,
+    "title": "Marmite maker Unilever nears deal to combine food arm with US condiment giant",
+    "link": "https://www.theguardian.com/business/2026/mar/31/marmite-maker-unilever-nears-deal-to-combine-food-arm-with-us-condiment-giant",
+    "pubDate": "31.03.2026 10:40:09",
+    "sortDate": 1774953609000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kuwaiti tanker hit by Iranian drone attack in Dubai port",
+    "link": "https://www.theguardian.com/world/2026/mar/31/kuwaiti-tanker-hit-by-iranian-attack-in-dubai-port-raising-oil-spill-fears",
+    "pubDate": "31.03.2026 10:30:19",
+    "sortDate": 1774953019000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Gunmen force delivery driver to take suspected bomb to County Armagh police station",
+    "link": "https://www.theguardian.com/uk-news/2026/mar/31/lurgan-county-armagh-gunmen-delivery-driver-suspected-bomb",
+    "pubDate": "31.03.2026 10:26:26",
+    "sortDate": 1774952786000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First Thing: Kuwaiti tanker hit by Iranian drone attack in Dubai port",
+    "link": "https://www.theguardian.com/us-news/2026/mar/31/first-thing-kuwaiti-tanker-hit-by-iranian-drone-attack-in-dubai-port",
+    "pubDate": "31.03.2026 10:20:36",
+    "sortDate": 1774952436000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nigel Farage to snub US conservative conference brought to UK by Liz Truss",
+    "link": "https://www.theguardian.com/politics/2026/mar/31/nigel-farage-snub-us-conservative-conference-cpac-uk-liz-truss",
+    "pubDate": "31.03.2026 10:11:02",
+    "sortDate": 1774951862000,
     "source": "The Guardian"
   },
   {
@@ -32,27 +95,6 @@
     "link": "https://www.theguardian.com/us-news/2026/mar/31/new-mexico-dog-bear",
     "pubDate": "31.03.2026 09:00:37",
     "sortDate": 1774947637000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK aviation regulator rejects Heathrow’s plans to significantly raise landing fees",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/31/uk-aviation-regulator-caa-rejects-heathrow-plans-raise-landing-fees",
-    "pubDate": "31.03.2026 08:51:33",
-    "sortDate": 1774947093000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Scott Mills was questioned by police in 2018 over sexual offence allegations",
-    "link": "https://www.theguardian.com/media/2026/mar/31/scott-mills-sacked-questioned-police-sexual-offence-allegations-2016-bbc-radio-2",
-    "pubDate": "31.03.2026 08:49:38",
-    "sortDate": 1774946978000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Grooming gangs inquiry to examine role of ethnicity, culture and religion",
-    "link": "https://www.theguardian.com/uk-news/2026/mar/31/grooming-gangs-inquiry-examine-role-ethnicity-culture-religion",
-    "pubDate": "31.03.2026 08:17:56",
-    "sortDate": 1774945076000,
     "source": "The Guardian"
   },
   {
@@ -98,13 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Kuwaiti tanker hit by Iranian drone attack in Dubai port",
-    "link": "https://www.theguardian.com/world/2026/mar/31/kuwaiti-tanker-hit-by-iranian-attack-in-dubai-port-raising-oil-spill-fears",
-    "pubDate": "31.03.2026 04:11:23",
-    "sortDate": 1774930283000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US-based dissident artist put on trial in China over satirical Mao sculptures, says rights group",
     "link": "https://www.theguardian.com/world/2026/mar/31/dissident-artist-gao-zhen-tried-china-satirical-mao-sculptures-rights-group",
     "pubDate": "31.03.2026 04:07:23",
@@ -126,24 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "White House blames Democrats for record-breaking DHS shutdown after House Republicans reject Senate’s compromise bill – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/mar/30/donald-trump-shutdown-ice-dhs-tsa-airports-iran-jd-vance-latest-news-updates",
-    "pubDate": "31.03.2026 02:06:12",
-    "sortDate": 1774922772000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Ukraine war briefing: allies asked Kyiv about reducing attacks on Russian energy sector, Zelenskyy says",
     "link": "https://www.theguardian.com/world/2026/mar/31/ukraine-war-briefing-allies-asked-kyiv-about-reducing-attacks-on-russian-energy-sector-zelenskyy-says",
     "pubDate": "31.03.2026 01:32:00",
     "sortDate": 1774920720000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ron DeSantis signs bill renaming Palm Beach airport after Donald Trump",
-    "link": "https://www.theguardian.com/us-news/2026/mar/30/donald-trump-palm-beach-airport-ron-desantis",
-    "pubDate": "31.03.2026 01:26:30",
-    "sortDate": 1774920390000,
     "source": "The Guardian"
   },
   {
@@ -158,13 +179,6 @@
     "link": "https://www.theguardian.com/world/2026/mar/31/vanuatu-indigenous-leaders-lelepa-cruise-resort",
     "pubDate": "31.03.2026 00:40:18",
     "sortDate": 1774917618000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "California to impose new AI regulations in defiance of Trump call",
-    "link": "https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump",
-    "pubDate": "30.03.2026 23:59:34",
-    "sortDate": 1774915174000,
     "source": "The Guardian"
   },
   {
@@ -252,6 +266,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167223",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
+  },
+  {
+    "title": "The image from Gaza that still haunts me: Palestine relief agency chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167220",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN condemns killing of two more peacekeepers in Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167222",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Ukraine drone attacks, Afghan rights, Zero-Waste Day",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167221",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Developing countries are being priced out, in struggle for affordable finance",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167219",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sea mines clearance: A new dimension of difficulty",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167216",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 30 March: UN peacekeepers killed amid Israel-Hezbollah clashes",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167215",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
+  },
+  {
     "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
     "link": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia",
     "pubDate": "30.03.2026 09:31:31",
@@ -273,11 +336,32 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN peacekeeper killed, another seriously injured, in southern Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167214",
+    "pubDate": "29.03.2026 12:00:00",
+    "sortDate": 1774785600000,
+    "source": "UN News"
+  },
+  {
     "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
     "link": "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions",
     "pubDate": "29.03.2026 04:00:46",
     "sortDate": 1774756846000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167213",
+    "pubDate": "28.03.2026 12:00:00",
+    "sortDate": 1774699200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Kidnapped and tortured on an infamous migration route to Saudi Arabia",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167212",
+    "pubDate": "28.03.2026 12:00:00",
+    "sortDate": 1774699200000,
+    "source": "UN News"
   },
   {
     "title": "KP Sharma Oli: Nepal’s former prime minister arrested over alleged role in deadly protest crackdown",
@@ -287,6 +371,34 @@
     "source": "The Guardian"
   },
   {
+    "title": "Syria: UN Commission documents grave violations in July 2025 escalation in Sweida",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167210",
+    "pubDate": "27.03.2026 12:00:00",
+    "sortDate": 1774612800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Myanmar: WFP reports fragile recovery one year after deadly earthquake",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167209",
+    "pubDate": "27.03.2026 12:00:00",
+    "sortDate": 1774612800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: Attacks on vital healthcare, evacuation strike fears",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167208",
+    "pubDate": "27.03.2026 12:00:00",
+    "sortDate": 1774612800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167207",
+    "pubDate": "27.03.2026 12:00:00",
+    "sortDate": 1774612800000,
+    "source": "UN News"
+  },
+  {
     "title": "Nepal’s PM-to-be uses rap to call for unity in first post-election message",
     "link": "https://www.theguardian.com/world/2026/mar/26/nepal-pm-balendra-shah-rap",
     "pubDate": "26.03.2026 17:43:52",
@@ -294,11 +406,109 @@
     "source": "The Guardian"
   },
   {
+    "title": "Persian Gulf crisis impacting food security, FAO warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167205",
+    "pubDate": "26.03.2026 12:00:00",
+    "sortDate": 1774526400000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: violence intensifies as UN mission pledges continued support",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167204",
+    "pubDate": "26.03.2026 12:00:00",
+    "sortDate": 1774526400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief, Cuba blockade hits healthcare, Haiti’s ‘vortex of violence’, deadly Djibouti shipwreck",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167203",
+    "pubDate": "26.03.2026 12:00:00",
+    "sortDate": 1774526400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: danger is only increasing, warns UN human rights office",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167201",
+    "pubDate": "26.03.2026 12:00:00",
+    "sortDate": 1774526400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: 273 million out of school, deadly attacks on Ukraine, migratory species in danger",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167200",
+    "pubDate": "25.03.2026 12:00:00",
+    "sortDate": 1774440000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN resolution urges reparations for slavery’s ‘historical wrongs’",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167199",
+    "pubDate": "25.03.2026 12:00:00",
+    "sortDate": 1774440000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN chief calls for immediate release of 118 detained UN staff",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167197",
+    "pubDate": "25.03.2026 12:00:00",
+    "sortDate": 1774440000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gulf war ‘out of control’, Guterres warns, as UN appoints envoy to push for peace",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167198",
+    "pubDate": "25.03.2026 12:00:00",
+    "sortDate": 1774440000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 25 March: All eyes on Strait of Hormuz; war is ‘out of control’, UN chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167195",
+    "pubDate": "25.03.2026 12:00:00",
+    "sortDate": 1774440000000,
+    "source": "UN News"
+  },
+  {
     "title": "Taliban release US academic held in detention for more than a year",
     "link": "https://www.theguardian.com/world/2026/mar/24/taliban-us-academic-dennis-coyle",
     "pubDate": "24.03.2026 18:42:23",
     "sortDate": 1774377743000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Gaza: Commitment to US-backed plan crucial to recovery, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167194",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Airstrikes continue in Ukraine, refugees return to DR Congo, emergency aid for the ‘Dry Corridor’",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167193",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Truly transformative’ new diagnostic tools can help end tuberculosis",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167190",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Hospital strike highlights surge in drone attacks on civilians",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167189",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haitian gangs expand reach as police are accused of ‘summary executions’",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167188",
+    "pubDate": "24.03.2026 12:00:00",
+    "sortDate": 1774353600000,
+    "source": "UN News"
   },
   {
     "title": "‘We consider every mile we drive’: how fuel shortages are affecting readers worldwide",
