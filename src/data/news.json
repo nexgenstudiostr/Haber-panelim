@@ -1,5 +1,54 @@
 [
   {
+    "title": "Nasa’s Artemis II rocket lifts off for historic moon mission",
+    "link": "https://www.theguardian.com/science/2026/apr/01/nasa-rocket-moon-launch-artemis-ii",
+    "pubDate": "01.04.2026 23:25:08",
+    "sortDate": 1775085908000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Iran’s president says his country has no ‘enmity’ for American people ahead of Trump’s address",
+    "link": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship",
+    "pubDate": "01.04.2026 23:23:05",
+    "sortDate": 1775085785000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Artemis II live updates: Nasa’s crewed rocket lifts off to begin 10-day lunar journey",
+    "link": "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates",
+    "pubDate": "01.04.2026 23:22:08",
+    "sortDate": 1775085728000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Magnitude 7.8 earthquake strikes in Indonesia, sparking tsunami alert",
+    "link": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
+    "pubDate": "01.04.2026 23:16:53",
+    "sortDate": 1775085413000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "News live: Angus Taylor says PM’s national address ‘could have been a social media post’; Australia to attend UK summit on strait of Hormuz",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
+    "pubDate": "01.04.2026 23:10:36",
+    "sortDate": 1775085036000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Uncertain times’: Albanese warns months ahead ‘may not be easy’ in rare address to nation about Middle East crisis",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/01/albanese-prime-minister-address-nation-middle-east-crisis",
+    "pubDate": "01.04.2026 23:06:22",
+    "sortDate": 1775084782000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Top Senate Democrat says ‘House Republicans caved’ as deal to fund DHS moves forward – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates",
+    "pubDate": "01.04.2026 22:37:52",
+    "sortDate": 1775083072000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Britain to host 35 countries for strait of Hormuz talks, says Starmer",
     "link": "https://www.theguardian.com/world/2026/apr/01/hormuz-strait-talks-britain-starmer",
     "pubDate": "01.04.2026 22:28:48",
@@ -7,38 +56,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Artemis II live updates: Nasa’s first crewed lunar rocket in more than half a century prepares to lift-off",
-    "link": "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates",
-    "pubDate": "01.04.2026 22:26:07",
-    "sortDate": 1775082367000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "News live: Angus Taylor says PM’s national address ‘could have been a social media post’; Australia to attend UK summit on strait of Hormuz",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/02/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-easter-travel-press-club-ntwnfb",
-    "pubDate": "01.04.2026 22:24:20",
-    "sortDate": 1775082260000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Iran’s president says his country has no ‘enmity’ for American people ahead of Trump’s address",
-    "link": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship",
-    "pubDate": "01.04.2026 22:20:51",
-    "sortDate": 1775082051000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Man accused of plotting WA terror attack believed assault he was planning would be worse than Bondi beach shootings, court hears",
     "link": "https://www.theguardian.com/australia-news/2026/apr/02/man-accused-of-plotting-wa-terror-attack-believed-assault-he-was-planning-would-be-worse-than-bondi-beach-shootings-court-hears-ntwnfb",
     "pubDate": "01.04.2026 21:52:28",
     "sortDate": 1775080348000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Top Senate Democrat says ‘House Republicans caved’ as deal to fund DHS moves forward – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/apr/01/donald-trump-supreme-court-birthright-citizenship-case-us-politics-latest-news-updates",
-    "pubDate": "01.04.2026 21:32:51",
-    "sortDate": 1775079171000,
     "source": "The Guardian"
   },
   {
@@ -53,13 +74,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/01/florida-new-voter-id-laws-proof-citizenship",
     "pubDate": "01.04.2026 19:57:37",
     "sortDate": 1775073457000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump seeks to redefine who gets to be an American with birthright citizenship case",
-    "link": "https://www.theguardian.com/us-news/2026/apr/01/trump-supreme-court-birthright-citizenship-arguments",
-    "pubDate": "01.04.2026 19:49:49",
-    "sortDate": 1775072989000,
     "source": "The Guardian"
   },
   {
@@ -147,13 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Senior Queensland judge criticises ‘glacial’ years-long delays in serious criminal trials",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/01/senior-queensland-judge-jim-henry-criticises-criminal-trial-delays",
-    "pubDate": "01.04.2026 14:00:04",
-    "sortDate": 1775052004000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Politician alleges NSW Corrections illegally snooped on her calls with prisoners",
     "link": "https://www.theguardian.com/australia-news/2026/apr/01/nsw-corrections-allegedly-listened-phone-calls-illegally-ntwnfb",
     "pubDate": "01.04.2026 14:00:04",
@@ -161,10 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Federal government claims some states standing in the way of ‘getting those guns off our streets’",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/02/labor-claims-some-states-standing-in-the-way-of-getting-those-guns-off-our-streets-ntwnfb",
-    "pubDate": "01.04.2026 14:00:03",
-    "sortDate": 1775052003000,
+    "title": "Senior Queensland judge criticises ‘glacial’ years-long delays in serious criminal trials",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/01/senior-queensland-judge-jim-henry-criticises-criminal-trial-delays",
+    "pubDate": "01.04.2026 14:00:04",
+    "sortDate": 1775052004000,
     "source": "The Guardian"
   },
   {
@@ -235,13 +242,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/01/japan-allows-divorced-couples-to-negotiate-joint-custody-of-children-for-first-time",
     "pubDate": "31.03.2026 23:00:32",
     "sortDate": 1774998032000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pakistan and China propose five-part peace plan for Middle East",
-    "link": "https://www.theguardian.com/world/2026/mar/31/pakistan-china-propose-five-part-peace-plan-middle-east",
-    "pubDate": "31.03.2026 15:30:15",
-    "sortDate": 1774971015000,
     "source": "The Guardian"
   },
   {
