@@ -1,9 +1,16 @@
 [
   {
+    "title": "Trump threatens to jail journalist to find source of second missing airman report",
+    "link": "https://www.theguardian.com/us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran",
+    "pubDate": "06.04.2026 20:00:26",
+    "sortDate": 1775505626000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz",
     "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
-    "pubDate": "06.04.2026 19:25:37",
-    "sortDate": 1775503537000,
+    "pubDate": "06.04.2026 19:44:04",
+    "sortDate": 1775504644000,
     "source": "The Guardian"
   },
   {
@@ -25,13 +32,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/06/trump-iranians-strikes-on-infrastructure",
     "pubDate": "06.04.2026 19:11:05",
     "sortDate": 1775502665000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump threatens to jail journalist in bid to find source behind report of missing airman in Iran",
-    "link": "https://www.theguardian.com/us-news/2026/apr/06/trump-threats-journalist-missing-airman-iran",
-    "pubDate": "06.04.2026 19:05:33",
-    "sortDate": 1775502333000,
     "source": "The Guardian"
   },
   {
@@ -70,7 +70,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "House Democrats call for permanent solution to Cuban crises after witnessing energy blockade",
+    "title": "House Democrats demand end to ‘cruel’ US energy blockade after visit to Cuba",
     "link": "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats",
     "pubDate": "06.04.2026 17:41:43",
     "sortDate": 1775497303000,
@@ -131,6 +131,13 @@
     "pubDate": "06.04.2026 12:20:37",
     "sortDate": 1775478037000,
     "source": "The Guardian"
+  },
+  {
+    "title": "UN80 Initiative enters ‘delivery phase’, as Member States review progress on key work areas",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167253",
+    "pubDate": "06.04.2026 12:00:00",
+    "sortDate": 1775476800000,
+    "source": "UN News"
   },
   {
     "title": "MIDDLE EAST LIVE 6 April: Strikes persist across region as humanitarian needs rise",
@@ -499,13 +506,6 @@
   {
     "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167213",
-    "pubDate": "28.03.2026 12:00:00",
-    "sortDate": 1774699200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Kidnapped and tortured on an infamous migration route to Saudi Arabia",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167212",
     "pubDate": "28.03.2026 12:00:00",
     "sortDate": 1774699200000,
     "source": "UN News"
