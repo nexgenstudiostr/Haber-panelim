@@ -1,16 +1,37 @@
 [
   {
-    "title": "Australia news live: Trump says Australia ‘didn’t help’ with Iran war, ‘increasing’ cyclone threat for Queensland,",
+    "title": "Artemis II sets new record as astronauts travel farther from Earth than ever before",
+    "link": "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance",
+    "pubDate": "06.04.2026 22:16:00",
+    "sortDate": 1775513760000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "News live: Trump says Australia ‘didn’t help’ with Iran war; ‘increasing’ cyclone threat for Queensland",
     "link": "https://www.theguardian.com/australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
-    "pubDate": "06.04.2026 21:19:00",
-    "sortDate": 1775510340000,
+    "pubDate": "06.04.2026 22:15:53",
+    "sortDate": 1775513753000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz",
     "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
-    "pubDate": "06.04.2026 21:16:37",
-    "sortDate": 1775510197000,
+    "pubDate": "06.04.2026 21:57:04",
+    "sortDate": 1775512624000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
+    "pubDate": "06.04.2026 21:30:30",
+    "sortDate": 1775511030000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "California county records sixth person bitten by rattlesnake in under a month",
+    "link": "https://www.theguardian.com/us-news/2026/apr/06/california-sixth-person-bitten-rattlesnake",
+    "pubDate": "06.04.2026 21:24:02",
+    "sortDate": 1775510642000,
     "source": "The Guardian"
   },
   {
@@ -35,24 +56,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Artemis II sets new record as astronauts travel farther from Earth than ever before",
-    "link": "https://www.theguardian.com/science/2026/apr/06/artemis-ii-astronauts-record-moon-earth-distance",
-    "pubDate": "06.04.2026 19:24:33",
-    "sortDate": 1775503473000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Home of Indianapolis city councilor shot at over his support of datacenters",
     "link": "https://www.theguardian.com/us-news/2026/apr/06/indianapolis-city-council-home-shot-at-data-centers",
     "pubDate": "06.04.2026 19:14:58",
     "sortDate": 1775502898000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump claims, without proof, Iranians welcome US strikes on infrastructure",
-    "link": "https://www.theguardian.com/us-news/2026/apr/06/trump-iranians-strikes-on-infrastructure",
-    "pubDate": "06.04.2026 19:11:05",
-    "sortDate": 1775502665000,
     "source": "The Guardian"
   },
   {
@@ -112,17 +119,17 @@
     "source": "The Guardian"
   },
   {
-    "title": "A bittersweet thrill: daytrippers watch US warplanes in action at RAF Fairford",
-    "link": "https://www.theguardian.com/world/2026/apr/06/raf-fairford-day-trippers-watch-us-warplanes-gloucestershire",
-    "pubDate": "06.04.2026 16:00:24",
-    "sortDate": 1775491224000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran’s internet blackout is longest national shutdown since Arab spring",
     "link": "https://www.theguardian.com/technology/2026/apr/06/iran-internet-blackout-is-longest-national-shutdown-since-arab-spring",
     "pubDate": "06.04.2026 15:55:06",
     "sortDate": 1775490906000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say",
+    "link": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
+    "pubDate": "06.04.2026 15:00:23",
+    "sortDate": 1775487623000,
     "source": "The Guardian"
   },
   {
@@ -138,34 +145,6 @@
     "pubDate": "06.04.2026 12:20:37",
     "sortDate": 1775478037000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: ‘Skyrocketing’ needs outpace Sudan funding, Ukraine strikes update, global water security",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167255",
-    "pubDate": "06.04.2026 12:00:00",
-    "sortDate": 1775476800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Cuba energy crisis: Humanitarian needs remain despite fuel supplies",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167254",
-    "pubDate": "06.04.2026 12:00:00",
-    "sortDate": 1775476800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN80 Initiative enters ‘delivery phase’, as Member States review progress on key work areas",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167253",
-    "pubDate": "06.04.2026 12:00:00",
-    "sortDate": 1775476800000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 6 April: Strikes persist across region as humanitarian needs rise",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167251",
-    "pubDate": "06.04.2026 12:00:00",
-    "sortDate": 1775476800000,
-    "source": "UN News"
   },
   {
     "title": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
@@ -210,13 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Track current petrol and diesel prices, service station outages and shipments – Australia's fuel crisis in charts",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/06/petrol-diesel-price-tracker-check-fuel-australia-crisis-shortage-gas-oil-reserves-charts-graphs",
-    "pubDate": "06.04.2026 06:56:53",
-    "sortDate": 1775458613000,
-    "source": "The Guardian"
-  },
-  {
     "title": "When Suzuki met Suzuki: why a Tokyo dating agency is matching couples with the same name",
     "link": "https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan",
     "pubDate": "06.04.2026 04:57:17",
@@ -231,25 +203,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "As World Cup kick-off nears, a reminder of the power of sport to build bridges and break barriers",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167245",
-    "pubDate": "05.04.2026 12:00:00",
-    "sortDate": 1775390400000,
-    "source": "UN News"
-  },
-  {
     "title": "Mexican art world protests over plan to send Frida Kahlo masterpieces to Spain",
     "link": "https://www.theguardian.com/world/2026/apr/05/mexican-art-world-protests-over-plan-to-send-frida-kahlo-masterpieces-to-spain",
     "pubDate": "05.04.2026 09:00:47",
     "sortDate": 1775379647000,
     "source": "The Guardian"
-  },
-  {
-    "title": "UN nuclear agency chief ‘deeply concerned’ by reports of latest attack on Iran power plant",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167250",
-    "pubDate": "04.04.2026 12:00:00",
-    "sortDate": 1775304000000,
-    "source": "UN News"
   },
   {
     "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
@@ -280,20 +238,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘We watched them die before our eyes’: Sudan health workers helpless amid medical shortages",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167230",
-    "pubDate": "03.04.2026 12:00:00",
-    "sortDate": 1775217600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deminers race to keep up with military technology",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167247",
-    "pubDate": "03.04.2026 12:00:00",
-    "sortDate": 1775217600000,
-    "source": "UN News"
-  },
-  {
     "title": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
     "link": "https://www.theguardian.com/world/2026/apr/03/mynanmar-junta-chief-min-aung-hlaing-profile",
     "pubDate": "03.04.2026 10:22:52",
@@ -322,34 +266,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "World News in Brief: South Sudan rights, opioid guidelines update, DR Congo crisis continues",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167248",
-    "pubDate": "02.04.2026 12:00:00",
-    "sortDate": 1775131200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres warns of ‘wider war’ as Middle East conflict enters second month",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167244",
-    "pubDate": "02.04.2026 12:00:00",
-    "sortDate": 1775131200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East crisis exposes global energy fault line as UN urges shift to renewables",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167243",
-    "pubDate": "02.04.2026 12:00:00",
-    "sortDate": 1775131200000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 2 April: Civilian impact deepens as UN chief says ‘we must find a peaceful way out’ before region is engulfed by war",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167242",
-    "pubDate": "02.04.2026 12:00:00",
-    "sortDate": 1775131200000,
-    "source": "UN News"
-  },
-  {
     "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
     "link": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
     "pubDate": "02.04.2026 05:23:28",
@@ -357,88 +273,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Women leaders unite to advance gender equality, defend multilateralism amid growing global pushback",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167240",
-    "pubDate": "01.04.2026 12:00:00",
-    "sortDate": 1775044800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Lebanon peacekeeper deaths, Haiti mission support, drought and conflict in Somalia",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167239",
-    "pubDate": "01.04.2026 12:00:00",
-    "sortDate": 1775044800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Breaking the Gaza aid bottleneck: 106-tonne delivery arrives via new sea route",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167235",
-    "pubDate": "01.04.2026 12:00:00",
-    "sortDate": 1775044800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war: UN’s Türk decries ‘severe restrictions’ on free speech",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167234",
-    "pubDate": "01.04.2026 12:00:00",
-    "sortDate": 1775044800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war: Energy crunch hits vulnerable nations",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167233",
-    "pubDate": "01.04.2026 12:00:00",
-    "sortDate": 1775044800000,
-    "source": "UN News"
-  },
-  {
     "title": "Pakistan and China propose five-part peace plan for Middle East",
     "link": "https://www.theguardian.com/world/2026/mar/31/pakistan-china-propose-five-part-peace-plan-middle-east",
     "pubDate": "31.03.2026 15:30:15",
     "sortDate": 1774971015000,
     "source": "The Guardian"
-  },
-  {
-    "title": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167232",
-    "pubDate": "31.03.2026 12:00:00",
-    "sortDate": 1774958400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Lebanon at ‘breaking point’ as displacement soars and strikes intensify",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167231",
-    "pubDate": "31.03.2026 12:00:00",
-    "sortDate": 1774958400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Lebanon: The UN peacekeepers helping communities who’ve stayed behind",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167227",
-    "pubDate": "31.03.2026 12:00:00",
-    "sortDate": 1774958400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Syria: Hundreds of thousands flee Lebanon, vital food aid blocked",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167226",
-    "pubDate": "31.03.2026 12:00:00",
-    "sortDate": 1774958400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘No precedent’ for seafarers caught in war zone in post-WW2 era",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167224",
-    "pubDate": "31.03.2026 12:00:00",
-    "sortDate": 1774958400000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE: Vital food aid blocked, Security Council meets in emergency session on Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167225",
-    "pubDate": "31.03.2026 12:00:00",
-    "sortDate": 1774958400000,
-    "source": "UN News"
   },
   {
     "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
@@ -453,55 +292,6 @@
     "pubDate": "30.03.2026 15:34:49",
     "sortDate": 1774884889000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167223",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
-  },
-  {
-    "title": "The image from Gaza that still haunts me: Palestine relief agency chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167220",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN condemns killing of two more peacekeepers in Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167222",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Ukraine drone attacks, Afghan rights, Zero-Waste Day",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167221",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Developing countries are being priced out, in struggle for affordable finance",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167219",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sea mines clearance: A new dimension of difficulty",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167216",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 30 March: UN peacekeepers killed amid Israel-Hezbollah clashes",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167215",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
   },
   {
     "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
