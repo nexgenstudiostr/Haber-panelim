@@ -1,23 +1,37 @@
 [
   {
-    "title": "UN chief decries ‘incendiary rhetoric’ after Trump ramps up threats against Iran as deal deadline looms – Middle East crisis live",
-    "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-    "pubDate": "07.04.2026 22:18:15",
-    "sortDate": 1775600295000,
+    "title": "Australia news live: Gina Rinehart says she doesn’t understand justification to prosecute former soldiers; Ben Roberts-Smith due to face court",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
+    "pubDate": "07.04.2026 23:18:40",
+    "sortDate": 1775603920000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia news live: Matt Canavan says Trump’s threats have ‘gotten out of hand’; Ben Roberts-Smith to front court",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
-    "pubDate": "07.04.2026 22:14:51",
-    "sortDate": 1775600091000,
+    "title": "Middle East crisis live: Trump suspends Iran bombing deadline for two weeks after receiving ‘workable’ ceasefire proposal from Pakistan",
+    "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
+    "pubDate": "07.04.2026 23:17:09",
+    "sortDate": 1775603829000,
     "source": "The Guardian"
   },
   {
     "title": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
     "link": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
-    "pubDate": "07.04.2026 22:12:42",
-    "sortDate": 1775599962000,
+    "pubDate": "07.04.2026 23:15:56",
+    "sortDate": 1775603756000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Donald Trump says he has agreed two-week ceasefire with Iran",
+    "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+    "pubDate": "07.04.2026 22:47:07",
+    "sortDate": 1775602027000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "World held hostage by reliance on fossil fuels, Christiana Figueres warns – and climate health impacts are ‘mother of all injustices’",
+    "link": "https://www.theguardian.com/society/ng-interactive/2026/apr/08/world-held-hostage-reliance-fossil-fuels-health-christiana-figueres",
+    "pubDate": "07.04.2026 22:30:09",
+    "sortDate": 1775601009000,
     "source": "The Guardian"
   },
   {
@@ -35,7 +49,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Democrats outraged at Trump’s Iran post: ‘a threat to commit a war crime’",
+    "title": "Democrats outraged at Trump’s Iran post: ‘A threat to commit a war crime’",
     "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-threat-truth-social",
     "pubDate": "07.04.2026 21:56:56",
     "sortDate": 1775599016000,
@@ -60,13 +74,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-threats-retired-military-war-crimes",
     "pubDate": "07.04.2026 20:28:29",
     "sortDate": 1775593709000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "DHS secretary calls for US states to lead disaster response instead of Fema",
-    "link": "https://www.theguardian.com/us-news/2026/apr/07/dhs-secretary-state-fema-disaster-response",
-    "pubDate": "07.04.2026 20:26:24",
-    "sortDate": 1775593584000,
     "source": "The Guardian"
   },
   {
@@ -217,6 +224,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: Death on the Mediterranean, displacement in Afghanistan, ‘One Health’ summit",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167262",
+    "pubDate": "07.04.2026 12:00:00",
+    "sortDate": 1775563200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council: Russia and China veto resolution on Strait of Hormuz",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167261",
+    "pubDate": "07.04.2026 12:00:00",
+    "sortDate": 1775563200000,
+    "source": "UN News"
+  },
+  {
+    "title": "From misdiagnosis to medical bias: Why women are living longer but not better",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167259",
+    "pubDate": "07.04.2026 12:00:00",
+    "sortDate": 1775563200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 7 April: Humanitarian and economic pressures grow; Russia and China veto resolution on Strait of Hormuz",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167257",
+    "pubDate": "07.04.2026 12:00:00",
+    "sortDate": 1775563200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Entire families brutally erased’: Remembering the victims of the 1994 genocide against the Tutsi in Rwanda",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167256",
+    "pubDate": "07.04.2026 12:00:00",
+    "sortDate": 1775563200000,
+    "source": "UN News"
+  },
+  {
     "title": "Viktor Orbán told Putin ‘I am at your service’ in October phone call",
     "link": "https://www.theguardian.com/world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
     "pubDate": "07.04.2026 11:28:31",
@@ -229,6 +271,34 @@
     "pubDate": "07.04.2026 06:08:02",
     "sortDate": 1775542082000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: ‘Skyrocketing’ needs outpace Sudan funding, Ukraine strikes update, global water security",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167255",
+    "pubDate": "06.04.2026 12:00:00",
+    "sortDate": 1775476800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cuba energy crisis: Humanitarian needs remain despite fuel supplies",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167254",
+    "pubDate": "06.04.2026 12:00:00",
+    "sortDate": 1775476800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN80 Initiative enters ‘delivery phase’, as Member States review progress on key work areas",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167253",
+    "pubDate": "06.04.2026 12:00:00",
+    "sortDate": 1775476800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 6 April: Strikes persist across region as humanitarian needs rise",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167251",
+    "pubDate": "06.04.2026 12:00:00",
+    "sortDate": 1775476800000,
+    "source": "UN News"
   },
   {
     "title": "Thailand PM urges working from home amid fears over energy crisis",
@@ -252,11 +322,39 @@
     "source": "The Guardian"
   },
   {
+    "title": "As World Cup kick-off nears, a reminder of the power of sport to build bridges and break barriers",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167245",
+    "pubDate": "05.04.2026 12:00:00",
+    "sortDate": 1775390400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN nuclear agency chief ‘deeply concerned’ by reports of latest attack on Iran power plant",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167250",
+    "pubDate": "04.04.2026 12:00:00",
+    "sortDate": 1775304000000,
+    "source": "UN News"
+  },
+  {
     "title": "‘India is going to face a food crisis’: Farmers panic over fertiliser shortages amid Iran war",
     "link": "https://www.theguardian.com/world/2026/apr/04/india-fuel-crisis-fertiliser-shortage-farming",
     "pubDate": "03.04.2026 23:00:06",
     "sortDate": 1775257206000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘We watched them die before our eyes’: Sudan health workers helpless amid medical shortages",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167230",
+    "pubDate": "03.04.2026 12:00:00",
+    "sortDate": 1775217600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deminers race to keep up with military technology",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167247",
+    "pubDate": "03.04.2026 12:00:00",
+    "sortDate": 1775217600000,
+    "source": "UN News"
   },
   {
     "title": "Myanmar junta chief Min Aung Hlaing appointed president after ‘sham’ election",
@@ -287,11 +385,67 @@
     "source": "The Guardian"
   },
   {
-    "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
-    "link": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
-    "pubDate": "02.04.2026 05:23:28",
-    "sortDate": 1775107408000,
-    "source": "The Guardian"
+    "title": "World News in Brief: South Sudan rights, opioid guidelines update, DR Congo crisis continues",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167248",
+    "pubDate": "02.04.2026 12:00:00",
+    "sortDate": 1775131200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres warns of ‘wider war’ as Middle East conflict enters second month",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167244",
+    "pubDate": "02.04.2026 12:00:00",
+    "sortDate": 1775131200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East crisis exposes global energy fault line as UN urges shift to renewables",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167243",
+    "pubDate": "02.04.2026 12:00:00",
+    "sortDate": 1775131200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 2 April: Civilian impact deepens as UN chief says ‘we must find a peaceful way out’ before region is engulfed by war",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167242",
+    "pubDate": "02.04.2026 12:00:00",
+    "sortDate": 1775131200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Women leaders unite to advance gender equality, defend multilateralism amid growing global pushback",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167240",
+    "pubDate": "01.04.2026 12:00:00",
+    "sortDate": 1775044800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Lebanon peacekeeper deaths, Haiti mission support, drought and conflict in Somalia",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167239",
+    "pubDate": "01.04.2026 12:00:00",
+    "sortDate": 1775044800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Breaking the Gaza aid bottleneck: 106-tonne delivery arrives via new sea route",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167235",
+    "pubDate": "01.04.2026 12:00:00",
+    "sortDate": 1775044800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: UN’s Türk decries ‘severe restrictions’ on free speech",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167234",
+    "pubDate": "01.04.2026 12:00:00",
+    "sortDate": 1775044800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: Energy crunch hits vulnerable nations",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167233",
+    "pubDate": "01.04.2026 12:00:00",
+    "sortDate": 1775044800000,
+    "source": "UN News"
   },
   {
     "title": "Pakistan and China propose five-part peace plan for Middle East",
@@ -301,11 +455,67 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN General Assembly adopts landmark resolution to strengthen the work of the UN system",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167232",
+    "pubDate": "31.03.2026 12:00:00",
+    "sortDate": 1774958400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon at ‘breaking point’ as displacement soars and strikes intensify",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167231",
+    "pubDate": "31.03.2026 12:00:00",
+    "sortDate": 1774958400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: The UN peacekeepers helping communities who’ve stayed behind",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167227",
+    "pubDate": "31.03.2026 12:00:00",
+    "sortDate": 1774958400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Syria: Hundreds of thousands flee Lebanon, vital food aid blocked",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167226",
+    "pubDate": "31.03.2026 12:00:00",
+    "sortDate": 1774958400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No precedent’ for seafarers caught in war zone in post-WW2 era",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167224",
+    "pubDate": "31.03.2026 12:00:00",
+    "sortDate": 1774958400000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE: Vital food aid blocked, Security Council meets in emergency session on Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167225",
+    "pubDate": "31.03.2026 12:00:00",
+    "sortDate": 1774958400000,
+    "source": "UN News"
+  },
+  {
     "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
     "link": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland",
     "pubDate": "30.03.2026 16:38:43",
     "sortDate": 1774888723000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167223",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
+  },
+  {
+    "title": "The image from Gaza that still haunts me: Palestine relief agency chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/03/1167220",
+    "pubDate": "30.03.2026 12:00:00",
+    "sortDate": 1774872000000,
+    "source": "UN News"
   },
   {
     "title": "KP Sharma Oli: Nepal’s former prime minister arrested over alleged role in deadly protest crackdown",
