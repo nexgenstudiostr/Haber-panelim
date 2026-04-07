@@ -1,23 +1,100 @@
 [
   {
-    "title": "News live: Australians buy record number of new EVs in March; Australian War Memorial to review Ben Roberts-Smith display",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
-    "pubDate": "07.04.2026 08:04:21",
-    "sortDate": 1775549061000,
+    "title": "MIDDLE EAST LIVE 7 April: Conflict continues as humanitarian and economic pressures mount",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167257",
+    "pubDate": "07.04.2026 12:00:00",
+    "sortDate": 1775563200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Entire families brutally erased’: Remembering the victims of the 1994 genocide against the Tutsi in Rwanda",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167256",
+    "pubDate": "07.04.2026 12:00:00",
+    "sortDate": 1775563200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Reform UK would stop visas for people from countries seeking slavery reparations",
+    "link": "https://www.theguardian.com/politics/2026/apr/07/reform-uk-stop-visas-countries-seeking-reparations-slavery",
+    "pubDate": "07.04.2026 09:49:26",
+    "sortDate": 1775555366000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears",
     "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-    "pubDate": "07.04.2026 08:00:26",
-    "sortDate": 1775548826000,
+    "pubDate": "07.04.2026 09:48:59",
+    "sortDate": 1775555339000,
     "source": "The Guardian"
   },
   {
-    "title": "JD Vance due in Budapest to back Viktor Orbán’s election campaign – Europe live",
+    "title": "Resident doctors begin longest strike yet as Streeting accuses BMA of hypocrisy over pay – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
+    "pubDate": "07.04.2026 09:40:59",
+    "sortDate": 1775554859000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hungary’s foreign minister says JD Vance’s visit signals ‘golden age’ of Hungarian-US relations – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/apr/07/jd-vance-budapest-viktor-orban-hungary-election-france-nicolas-sarkozy-denmark-coalition-russia-ukraine-europe-latest-updates-news",
-    "pubDate": "07.04.2026 07:59:51",
-    "sortDate": 1775548791000,
+    "pubDate": "07.04.2026 09:39:44",
+    "sortDate": 1775554784000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Oil prices seesaw after Trump says Iran can be ‘taken out’ in one night",
+    "link": "https://www.theguardian.com/business/2026/apr/07/oil-prices-donald-trump-iran-stock-market-imf-inflation",
+    "pubDate": "07.04.2026 09:32:13",
+    "sortDate": 1775554333000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israel warns Iranians their lives will be at risk if they use trains as Trump deadline looms",
+    "link": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
+    "pubDate": "07.04.2026 09:23:19",
+    "sortDate": 1775553799000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kanye West offers to meet UK’s Jewish community after Wireless backlash",
+    "link": "https://www.theguardian.com/music/2026/apr/07/kanye-west-ye-statement-uk-jewish-community-wireless-festival-backlash",
+    "pubDate": "07.04.2026 09:19:58",
+    "sortDate": 1775553598000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Albanese brings forward Singapore trip and speaks with China in bid to shore up petrol shipments to Australia",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/07/fuel-prices-petrol-australia-singapore-albanese-trip",
+    "pubDate": "07.04.2026 09:15:10",
+    "sortDate": 1775553310000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ben Roberts-Smith arrested: former Australian soldier charged with five war crime murders in Afghanistan",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-arrested-brs-australian-soldier-sas-alleged-war-crimes-ntwnfb",
+    "pubDate": "07.04.2026 09:06:22",
+    "sortDate": 1775552782000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Universal Music, home to Taylor Swift and Drake, receives €55bn takeover offer",
+    "link": "https://www.theguardian.com/business/2026/apr/07/universal-music-group-takeover-offer-bill-ackman-pershing-square",
+    "pubDate": "07.04.2026 09:03:21",
+    "sortDate": 1775552601000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Melissa Gilbert denies being ‘naive’ or ‘complicit’ in standing by Timothy Busfield despite sexual abuse claims",
+    "link": "https://www.theguardian.com/us-news/2026/apr/07/melissa-gilbert-abc-interview-timothy-busfield",
+    "pubDate": "07.04.2026 09:00:54",
+    "sortDate": 1775552454000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australians buy record number of new EVs – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/07/australia-news-live-cyclone-maila-threat-queensland-road-toll-trump-iran-ntwnfb",
+    "pubDate": "07.04.2026 08:13:29",
+    "sortDate": 1775549609000,
     "source": "The Guardian"
   },
   {
@@ -28,45 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Kanye West offers to meet UK’s Jewish community after Wireless backlash",
-    "link": "https://www.theguardian.com/music/2026/apr/07/kanye-west-ye-statement-uk-jewish-community-wireless-festival-backlash",
-    "pubDate": "07.04.2026 07:46:44",
-    "sortDate": 1775548004000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Resident doctors begin longest strike yet as Streeting accuses BMA of hypocrisy over pay – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
-    "pubDate": "07.04.2026 07:43:36",
-    "sortDate": 1775547816000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Universal Music receives takeover offer from Bill Ackman’s Pershing Square",
-    "link": "https://www.theguardian.com/business/2026/apr/07/universal-music-group-takeover-offer-bill-ackman-pershing-square",
-    "pubDate": "07.04.2026 07:22:47",
-    "sortDate": 1775546567000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reform UK would stop visas for people from countries seeking slavery reparations",
-    "link": "https://www.theguardian.com/politics/2026/apr/07/reform-uk-stop-visas-countries-seeking-reparations-slavery",
-    "pubDate": "07.04.2026 07:03:15",
-    "sortDate": 1775545395000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Bangladesh launches measles vaccination drive as child death toll passes 100",
     "link": "https://www.theguardian.com/world/2026/apr/07/bangladesh-measles-vaccination-drive-child-death-toll",
     "pubDate": "07.04.2026 06:08:02",
     "sortDate": 1775542082000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tuesday briefing: What is driving the record rise in stalking offences?",
-    "link": "https://www.theguardian.com/world/2026/apr/07/tuesday-briefing-what-is-driving-the-rise-in-stalking-offences-in-england-and-wales",
-    "pubDate": "07.04.2026 06:02:40",
-    "sortDate": 1775541760000,
     "source": "The Guardian"
   },
   {
@@ -105,13 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ben Roberts-Smith arrested: former Australian soldier charged with five war crime murders in Afghanistan",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-arrested-brs-australian-soldier-sas-alleged-war-crimes-ntwnfb",
-    "pubDate": "07.04.2026 02:47:49",
-    "sortDate": 1775530069000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Accused Pinochet agent turned Bondi nanny Adriana Rivas to be extradited to Chile",
     "link": "https://www.theguardian.com/australia-news/2026/apr/07/bondi-nanny-adriana-rivas-accused-pinochet-agent-extradited",
     "pubDate": "07.04.2026 01:59:16",
@@ -133,13 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ukraine war briefing: Zelenskyy reiterates truce offer ahead of Orthodox Easter",
-    "link": "https://www.theguardian.com/world/2026/apr/07/ukraine-russia-war-briefing-zelenskyy-orthodox-easter-truce-offer",
-    "pubDate": "07.04.2026 00:34:15",
-    "sortDate": 1775522055000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Second ex-staffer accuses Texas lawmaker of sending sexually explicit messages",
     "link": "https://www.theguardian.com/us-news/2026/apr/06/tony-gonzales-texas-staffers-accusations",
     "pubDate": "06.04.2026 23:00:29",
@@ -151,20 +179,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/06/trump-iran-easter-press-conference",
     "pubDate": "06.04.2026 22:55:59",
     "sortDate": 1775516159000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "California county records sixth person bitten by rattlesnake in under a month",
-    "link": "https://www.theguardian.com/us-news/2026/apr/06/california-sixth-person-bitten-rattlesnake",
-    "pubDate": "06.04.2026 21:24:02",
-    "sortDate": 1775510642000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump threats cause dilemma for US officers: disobey orders or commit war crimes",
-    "link": "https://www.theguardian.com/law/2026/apr/06/trump-threats-dilemma-for-officers-disobey-orders-or-commit-war-crimes",
-    "pubDate": "06.04.2026 18:06:43",
-    "sortDate": 1775498803000,
     "source": "The Guardian"
   },
   {
@@ -492,20 +506,6 @@
   {
     "title": "Developing countries are being priced out, in struggle for affordable finance",
     "link": "https://news.un.org/feed/view/en/story/2026/03/1167219",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sea mines clearance: A new dimension of difficulty",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167216",
-    "pubDate": "30.03.2026 12:00:00",
-    "sortDate": 1774872000000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 30 March: UN peacekeepers killed amid Israel-Hezbollah clashes",
-    "link": "https://news.un.org/feed/view/en/story/2026/03/1167215",
     "pubDate": "30.03.2026 12:00:00",
     "sortDate": 1774872000000,
     "source": "UN News"
