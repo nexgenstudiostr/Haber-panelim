@@ -1,30 +1,86 @@
 [
   {
-    "title": "Australia news live: Gina Rinehart says she doesn’t understand justification to prosecute former soldiers; Ben Roberts-Smith due to face court",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
-    "pubDate": "07.04.2026 23:18:40",
-    "sortDate": 1775603920000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Trump suspends Iran bombing deadline for two weeks after receiving ‘workable’ ceasefire proposal from Pakistan",
-    "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-    "pubDate": "07.04.2026 23:17:09",
-    "sortDate": 1775603829000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Maga movement splinters as Trump threatens to eradicate a ‘whole civilization’ if Iran doesn’t make deal – live",
+    "title": "Republicans express hope for Trump’s ceasefire deal with Iran as Democrats voice skepticism – live",
     "link": "https://www.theguardian.com/us-news/live/2026/apr/07/government-shutdown-congress-house-of-representatives-donald-trump-republicans-democrats-ice-us-politics-latest-updates-news",
-    "pubDate": "07.04.2026 23:15:56",
-    "sortDate": 1775603756000,
+    "pubDate": "08.04.2026 01:47:36",
+    "sortDate": 1775612856000,
     "source": "The Guardian"
   },
   {
-    "title": "Donald Trump says he has agreed two-week ceasefire with Iran",
+    "title": "Australia news live: Albanese says Trump’s Iran threats ‘cause some concern’; petrol prices start rising again",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
+    "pubDate": "08.04.2026 01:44:16",
+    "sortDate": 1775612656000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Pakistan says Iran war ceasefire includes Lebanon; Tehran will allow ‘conditional passage’ through strait of Hormuz",
+    "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
+    "pubDate": "08.04.2026 01:44:08",
+    "sortDate": 1775612648000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Desperately searching for any sort of exit ramp’: US political leaders react as Trump announces ceasefire",
+    "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-ceasefire-iran-us-political",
+    "pubDate": "08.04.2026 01:35:08",
+    "sortDate": 1775612108000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ukraine war briefing: Kyiv lays out how ‘Russian satellites help Iran in war’",
+    "link": "https://www.theguardian.com/world/2026/apr/08/ukraine-war-briefing-kyiv-how-russian-satellites-help-iran-in-war",
+    "pubDate": "08.04.2026 01:22:14",
+    "sortDate": 1775611334000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "American journalist released a week after being kidnapped in Iraq",
+    "link": "https://www.theguardian.com/world/2026/apr/07/us-journalist-kidnapped-iraq-released",
+    "pubDate": "08.04.2026 01:17:12",
+    "sortDate": 1775611032000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ICE agents shoot man in car in northern California",
+    "link": "https://www.theguardian.com/us-news/2026/apr/07/ice-agents-shooting-california",
+    "pubDate": "08.04.2026 01:16:37",
+    "sortDate": 1775610997000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ben Roberts-Smith to remain in jail after bail hearing over war crimes charges",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/08/ben-roberts-smith-court-news-war-crimes-charges-silverwater-jail-ntwnfb",
+    "pubDate": "08.04.2026 01:12:26",
+    "sortDate": 1775610746000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Republican wins Georgia runoff election to replace Marjorie Taylor Greene",
+    "link": "https://www.theguardian.com/us-news/2026/apr/07/georgia-house-election-runoff",
+    "pubDate": "08.04.2026 00:42:52",
+    "sortDate": 1775608972000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US and Iran agree to provisional ceasefire with Tehran saying it will reopen strait of Hormuz",
     "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-    "pubDate": "07.04.2026 22:47:07",
-    "sortDate": 1775602027000,
+    "pubDate": "08.04.2026 00:10:21",
+    "sortDate": 1775607021000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New Zealand asks US to send fuel tankers to Pacific to alleviate pressure caused by Iran war",
+    "link": "https://www.theguardian.com/world/2026/apr/08/new-zealand-us-fuel-tankers-pacific-iran-war",
+    "pubDate": "08.04.2026 00:09:56",
+    "sortDate": 1775606996000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US warns of Iran-affiliated cyber-attacks on critical infrastructure across country",
+    "link": "https://www.theguardian.com/world/2026/apr/07/iran-cyberattacks-infrastructure",
+    "pubDate": "07.04.2026 23:21:42",
+    "sortDate": 1775604102000,
     "source": "The Guardian"
   },
   {
@@ -53,27 +109,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-threat-truth-social",
     "pubDate": "07.04.2026 21:56:56",
     "sortDate": 1775599016000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US soldier’s wife released after arrest by ICE agents at military base",
-    "link": "https://www.theguardian.com/us-news/2026/apr/07/us-soldier-wife-ice-arrest",
-    "pubDate": "07.04.2026 21:30:47",
-    "sortDate": 1775597447000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘A blatant political ploy’: California sheriff’s seizure of referendum ballots sets off alarm bells",
-    "link": "https://www.theguardian.com/us-news/2026/apr/07/chad-bianco-sheriff-california-ballot-seizure-prop-50",
-    "pubDate": "07.04.2026 21:05:06",
-    "sortDate": 1775595906000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Retired military officers call Trump’s threats against Iran ‘likely war crimes’",
-    "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-threats-retired-military-war-crimes",
-    "pubDate": "07.04.2026 20:28:29",
-    "sortDate": 1775593709000,
     "source": "The Guardian"
   },
   {
@@ -126,24 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "American journalist released a week after being kidnapped in Iraq",
-    "link": "https://www.theguardian.com/world/2026/apr/07/us-journalist-kidnapped-iraq-released",
-    "pubDate": "07.04.2026 18:15:59",
-    "sortDate": 1775585759000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Starmer urged to limit US access to UK bases after ‘dangerous’ Trump threats",
     "link": "https://www.theguardian.com/world/2026/apr/07/pressure-starmer-curb-access-trump-threat-iran",
     "pubDate": "07.04.2026 18:15:19",
     "sortDate": 1775585719000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Iran calls on young people to form human chains around power plants as Trump deadline looms",
-    "link": "https://www.theguardian.com/world/2026/apr/07/iran-young-people-human-chains-power-plants-donald-trump-deadline-looms",
-    "pubDate": "07.04.2026 17:51:59",
-    "sortDate": 1775584319000,
     "source": "The Guardian"
   },
   {
@@ -186,13 +207,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/apr/07/australian-greens-max-chandler-mather-voters-major-parties-one-nation",
     "pubDate": "07.04.2026 15:00:03",
     "sortDate": 1775574003000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labor’s plan to restrict gambling ads will reduce spending by just 0.8%, government analysis says",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/07/labors-plan-to-restrict-gambling-ads-set-to-reduce-wagering-by-just-08-government-analysis-shows",
-    "pubDate": "07.04.2026 15:00:02",
-    "sortDate": 1775574002000,
     "source": "The Guardian"
   },
   {
@@ -257,13 +271,6 @@
     "pubDate": "07.04.2026 12:00:00",
     "sortDate": 1775563200000,
     "source": "UN News"
-  },
-  {
-    "title": "Viktor Orbán told Putin ‘I am at your service’ in October phone call",
-    "link": "https://www.theguardian.com/world/2026/apr/07/viktor-orban-told-putin-i-am-at-your-service-in-october-phonecall",
-    "pubDate": "07.04.2026 11:28:31",
-    "sortDate": 1775561311000,
-    "source": "The Guardian"
   },
   {
     "title": "Bangladesh launches measles vaccination drive as child death toll passes 100",
@@ -368,13 +375,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore",
     "pubDate": "03.04.2026 10:18:56",
     "sortDate": 1775211536000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "A day in the life of Asia’s fuel crisis",
-    "link": "https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers",
-    "pubDate": "03.04.2026 04:00:42",
-    "sortDate": 1775188842000,
     "source": "The Guardian"
   },
   {
