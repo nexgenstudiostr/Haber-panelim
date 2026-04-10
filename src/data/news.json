@@ -1,16 +1,37 @@
 [
   {
-    "title": "Middle East crisis live: Trump warns of fresh strikes on Iran if talks fail as Vance heads to Pakistan",
-    "link": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
-    "pubDate": "10.04.2026 18:26:27",
-    "sortDate": 1775845587000,
+    "title": "Trump posts graphic video of woman’s killing in Florida",
+    "link": "https://www.theguardian.com/us-news/2026/apr/10/trump-graphic-video-florida-woman-killing",
+    "pubDate": "10.04.2026 19:25:05",
+    "sortDate": 1775849105000,
     "source": "The Guardian"
   },
   {
     "title": "Epstein survivors criticise Melania Trump after surprise statement – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/apr/10/donald-trump-melania-jeffrey-epstein-iran-inflation-latest-news-updates",
-    "pubDate": "10.04.2026 18:14:04",
-    "sortDate": 1775844844000,
+    "pubDate": "10.04.2026 19:23:40",
+    "sortDate": 1775849020000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Trump warns of fresh strikes on Iran if talks fail as Vance heads to Pakistan",
+    "link": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
+    "pubDate": "10.04.2026 19:21:30",
+    "sortDate": 1775848890000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "OpenAI CEO Sam Altman’s home targeted with molotov cocktail",
+    "link": "https://www.theguardian.com/technology/2026/apr/10/sam-altman-home-molotov-cocktail",
+    "pubDate": "10.04.2026 19:08:27",
+    "sortDate": 1775848107000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Romford boy, 16, charged with murder of Eghosa Ogbebor, 14, in south London",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/10/romford-boy-charged-murder-eghosa-ogbebor-woolwich-london",
+    "pubDate": "10.04.2026 19:00:53",
+    "sortDate": 1775847653000,
     "source": "The Guardian"
   },
   {
@@ -56,6 +77,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Prince Harry sued for defamation by charity he co-founded",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
+    "pubDate": "10.04.2026 17:41:15",
+    "sortDate": 1775842875000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Man arrested after four die trying to cross Channel in small boat",
     "link": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
     "pubDate": "10.04.2026 17:24:44",
@@ -91,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump’s war and Melania’s Epstein statement, with US editor Betsy Reed – The Latest",
-    "link": "https://www.theguardian.com/us-news/audio/2026/apr/10/trump-iran-war-melania-epstein-betsy-reed-the-latest",
-    "pubDate": "10.04.2026 16:35:51",
-    "sortDate": 1775838951000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Orbán and Magyar trade accusations in last days of Hungary election campaign",
     "link": "https://www.theguardian.com/world/2026/apr/10/viktor-orban-peter-magyar-hungary-election-campaign",
     "pubDate": "10.04.2026 16:33:00",
@@ -109,20 +130,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule",
     "pubDate": "10.04.2026 16:32:45",
     "sortDate": 1775838765000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims",
-    "link": "https://www.theguardian.com/us-news/2026/apr/10/epstein-survivors-melania-trump-reaction",
-    "pubDate": "10.04.2026 16:09:27",
-    "sortDate": 1775837367000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Peers vote to ban pornography depicting sex acts between stepfamily members",
-    "link": "https://www.theguardian.com/society/2026/apr/10/porngraphy-depicting-sex-acts-between-stepfamily-members-banned-in-uk",
-    "pubDate": "10.04.2026 15:35:14",
-    "sortDate": 1775835314000,
     "source": "The Guardian"
   },
   {
@@ -145,6 +152,13 @@
     "pubDate": "10.04.2026 12:28:36",
     "sortDate": 1775824116000,
     "source": "The Guardian"
+  },
+  {
+    "title": "New era for space dawns as Artemis astronauts return",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167284",
+    "pubDate": "10.04.2026 12:00:00",
+    "sortDate": 1775822400000,
+    "source": "UN News"
   },
   {
     "title": "Sudan: 14 million displaced; hunger and attacks on health continue as war enters fourth year",
@@ -378,13 +392,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini",
-    "link": "https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
-    "pubDate": "07.04.2026 16:13:07",
-    "sortDate": 1775578387000,
-    "source": "The Guardian"
-  },
-  {
     "title": "World News in Brief: Death on the Mediterranean, displacement in Afghanistan, ‘One Health’ summit",
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167262",
     "pubDate": "07.04.2026 12:00:00",
@@ -515,13 +522,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167242",
     "pubDate": "02.04.2026 12:00:00",
     "sortDate": 1775131200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Women leaders unite to advance gender equality, defend multilateralism amid growing global pushback",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167240",
-    "pubDate": "01.04.2026 12:00:00",
-    "sortDate": 1775044800000,
     "source": "UN News"
   }
 ]
