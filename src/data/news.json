@@ -1,5 +1,103 @@
 [
   {
+    "title": "Middle East crisis live: US blockade of Iran’s ports to begin today as Pope Leo says he has ‘no intention to debate’ Trump over war",
+    "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+    "pubDate": "13.04.2026 09:34:07",
+    "sortDate": 1776072847000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer confirms UK will not support US blockade of strait of Hormuz – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
+    "pubDate": "13.04.2026 09:32:36",
+    "sortDate": 1776072756000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Magyar says his government will work for a ‘free, European’ Hungary in break with Orbán era – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
+    "pubDate": "13.04.2026 09:24:21",
+    "sortDate": 1776072261000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britney Spears enters rehab after March DUI arrest",
+    "link": "https://www.theguardian.com/music/2026/apr/13/britney-spears-enters-rehab-after-march-dui-arrest",
+    "pubDate": "13.04.2026 09:01:23",
+    "sortDate": 1776070883000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
+    "link": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
+    "pubDate": "13.04.2026 09:00:43",
+    "sortDate": 1776070843000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "TikTok psychic seeks relief from $10m verdict for false claims in Idaho student murders",
+    "link": "https://www.theguardian.com/us-news/2026/apr/13/university-of-idaho-murders-tiktok-psychic",
+    "pubDate": "13.04.2026 09:00:41",
+    "sortDate": 1776070841000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tony Abbott labels Viktor Orbán ‘Trump with brains’ as future of Budapest thinktank linked to former PM in doubt",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/13/tony-abbott-labels-viktor-orban-trump-with-brains-as-future-of-budapest-thinktank-linked-to-former-pm-in-doubt",
+    "pubDate": "13.04.2026 08:57:50",
+    "sortDate": 1776070670000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weather tracker: Super Typhoon Sinlaku threatens Mariana Islands",
+    "link": "https://www.theguardian.com/environment/2026/apr/13/weather-tracker-super-typhoon-sinlaku-threatens-mariana-islands",
+    "pubDate": "13.04.2026 08:44:14",
+    "sortDate": 1776069854000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Keir Starmer defends plan for closer alignment with EU rules",
+    "link": "https://www.theguardian.com/politics/2026/apr/13/keir-starmer-defends-plan-for-closer-alignment-with-eu-rules",
+    "pubDate": "13.04.2026 08:43:16",
+    "sortDate": 1776069796000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rolls-Royce secures nearly £600m in UK government cash to develop small reactors",
+    "link": "https://www.theguardian.com/business/2026/apr/13/rolls-royce-secures-nearly-600m-in-uk-goverment-cash-to-develop-small-reactors",
+    "pubDate": "13.04.2026 08:38:02",
+    "sortDate": 1776069482000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘So beautiful’: Rachel Zegler hails accessibility of Evita’s free balcony scene",
+    "link": "https://www.theguardian.com/stage/2026/apr/13/rachel-zegler-evita-free-balcony-scene-olivier-award",
+    "pubDate": "13.04.2026 08:35:37",
+    "sortDate": 1776069337000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labor ‘not considering’ joining US blockade of strait of Hormuz – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/13/australia-news-live-anthony-albanese-prime-minister-fuel-supply-diesel-oil-cost-of-living-inflation-budget-ntwnfb",
+    "pubDate": "13.04.2026 08:10:29",
+    "sortDate": 1776067829000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Barnaby Joyce says criminals need ‘redemption’ after Pauline Hanson sacks convicted rapist",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/12/one-nation-convicted-rapist-staff-pauline-hanson-liberal-ntwnfb",
+    "pubDate": "13.04.2026 08:02:49",
+    "sortDate": 1776067369000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Government shift on intelligence evidence could revive delayed Hillsborough law",
+    "link": "https://www.theguardian.com/law/2026/apr/13/government-shift-on-intelligence-evidence-could-revive-delayed-hillsborough-law",
+    "pubDate": "13.04.2026 07:58:08",
+    "sortDate": 1776067088000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Defence chief says Australian ships ‘ready, capable’ as Albanese calls on US and Iran to reopen strait of Hormuz",
     "link": "https://www.theguardian.com/world/2026/apr/13/australia-pm-albanese-us-iran-peace-talks-reopen-strait-of-hormuz",
     "pubDate": "13.04.2026 07:48:08",
@@ -7,28 +105,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Magyar set to outline Hungary plans after resounding victory over Orbán – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
-    "pubDate": "13.04.2026 07:47:06",
-    "sortDate": 1776066426000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: Barnaby Joyce says criminals need ‘redemption’ after Pauline Hanson sacks convicted rapist; Labor ‘not considering’ joining US blockade of strait of Hormuz",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/13/australia-news-live-anthony-albanese-prime-minister-fuel-supply-diesel-oil-cost-of-living-inflation-budget-ntwnfb",
-    "pubDate": "13.04.2026 07:36:18",
-    "sortDate": 1776065778000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: US blockade of Iran’s ports to begin later today as Trump says he doesn’t care about further talks",
-    "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-    "pubDate": "13.04.2026 07:22:57",
-    "sortDate": 1776064977000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Oil price tops $100 a barrel after US-Iran talks fail and Trump orders strait of Hormuz blockade",
+    "title": "Oil price tops $100 a barrel after peace talks fail and Trump orders blockade",
     "link": "https://www.theguardian.com/business/2026/apr/13/oil-price-tops-100-dollars-barrel-us-blockade-strait-of-hormuz",
     "pubDate": "13.04.2026 07:16:39",
     "sortDate": 1776064599000,
@@ -39,13 +116,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/apr/13/melbourne-teen-girl-searched-punishment-for-running-someone-over-ntwnfb",
     "pubDate": "13.04.2026 06:56:05",
     "sortDate": 1776063365000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Uber adds fuel surcharge for non-EV fares in Australia amid petrol price rises",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/13/uber-fuel-surcharge-australia-petrol-prices",
-    "pubDate": "13.04.2026 06:14:08",
-    "sortDate": 1776060848000,
     "source": "The Guardian"
   },
   {
@@ -70,27 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "More than a fifth of UK’s ‘austerity children’ scarred by poverty, study says",
-    "link": "https://www.theguardian.com/society/2026/apr/13/uk-austerity-children-scarred-poverty-study-conservatives",
-    "pubDate": "13.04.2026 05:00:37",
-    "sortDate": 1776056437000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Private firms providing services to NHS made £1.6bn profit in two years, research finds",
-    "link": "https://www.theguardian.com/society/2026/apr/13/private-companies-nhs-services-profit-chpi-research",
-    "pubDate": "13.04.2026 05:00:37",
-    "sortDate": 1776056437000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Is Gout Gout faster than Usain Bolt? Australian sprinter sets sights on Jamaican great’s 200m record",
-    "link": "https://www.theguardian.com/sport/2026/apr/13/how-fast-gout-gout-australian-sprinter-usain-bolt",
-    "pubDate": "13.04.2026 04:59:41",
-    "sortDate": 1776056381000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Hungary has chosen Europe’: EU leaders jubilant after Péter Magyar’s victory over Orbán",
     "link": "https://www.theguardian.com/world/2026/apr/13/hungary-election-results-eu-europe-leaders-react-peter-magyar-viktor-orban",
     "pubDate": "13.04.2026 04:42:26",
@@ -105,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mysterious Lake District barn joins national treasures on heritage list",
-    "link": "https://www.theguardian.com/culture/2026/apr/13/mysterious-lake-district-barn-national-treasures-heritage",
-    "pubDate": "13.04.2026 04:00:36",
-    "sortDate": 1776052836000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran war could plunge 32 million into poverty, says United Nations",
     "link": "https://www.theguardian.com/society/2026/apr/13/iran-conflict-poverty-united-nations-development-reverse",
     "pubDate": "13.04.2026 04:00:36",
@@ -119,45 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Hungarian opposition ousts Viktor Orbán after 16 years in power",
-    "link": "https://www.theguardian.com/world/2026/apr/12/viktor-orban-concedes-defeat-as-opposition-wins-hungarian-election",
-    "pubDate": "13.04.2026 02:36:56",
-    "sortDate": 1776047816000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Israeli strike kills paramedic, says Lebanese Red Cross – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/apr/12/middle-east-crisis-live-us-iran-pakistan-peace-talks-jd-vance-delegation-leaves-without-a-deal",
     "pubDate": "13.04.2026 02:17:11",
     "sortDate": 1776046631000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Massive Attack frontman Robert Del Naja among 500 arrested at Palestine Action protest",
-    "link": "https://www.theguardian.com/music/2026/apr/13/robert-del-naja-massive-attack-arrested-palestine-action-protest-trafalgar-square-london",
-    "pubDate": "13.04.2026 01:29:18",
-    "sortDate": 1776043758000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Eric Swalwell quits California governor race after sexual assault allegations",
-    "link": "https://www.theguardian.com/us-news/2026/apr/12/eric-swalwell-quits-california-governor",
-    "pubDate": "13.04.2026 01:08:44",
-    "sortDate": 1776042524000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "DHS investigating claim about Swalwell nanny filed by conspiracy theorist",
-    "link": "https://www.theguardian.com/us-news/2026/apr/12/dhs-investigates-eric-swalwell-brazilian-nanny",
-    "pubDate": "13.04.2026 00:04:25",
-    "sortDate": 1776038665000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Thousands of unpaid carers to face DWP repayment demands during overhaul",
-    "link": "https://www.theguardian.com/society/2026/apr/13/unpaid-carers-allowance-dwp-benefit-repayment-demands",
-    "pubDate": "12.04.2026 23:01:29",
-    "sortDate": 1776034889000,
     "source": "The Guardian"
   },
   {
@@ -277,13 +284,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
     "pubDate": "10.04.2026 17:41:15",
     "sortDate": 1775842875000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Concerns raised about motorbike tourist trail after death of British teenager in Vietnam",
-    "link": "https://www.theguardian.com/world/2026/apr/10/concerns-about-motorbike-tourist-trail-after-death-british-teenager-orla-wates-vietnam",
-    "pubDate": "10.04.2026 17:20:20",
-    "sortDate": 1775841620000,
     "source": "The Guardian"
   },
   {
