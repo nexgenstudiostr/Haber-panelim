@@ -1,16 +1,30 @@
 [
   {
-    "title": "Australia news live: poor hospital food adding to health costs; suspected crocodile remains found on Adelaide roadside",
+    "title": "Australia news live: Sydney to get first new cathedral in more than a century; Labor to boost spending on military drones",
     "link": "https://www.theguardian.com/australia-news/live/2026/apr/14/australia-news-live-politics-asx-reactions-fuel-crisis-oil-prices-anthony-albanese-labor-angus-taylor-coalition-immigration-policy-ntwnfb",
-    "pubDate": "13.04.2026 21:16:34",
-    "sortDate": 1776114994000,
+    "pubDate": "13.04.2026 22:20:39",
+    "sortDate": 1776118839000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Donald Trump claims Iran ‘wants to work a deal’ and confirms blockade of strait of Hormuz",
     "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-    "pubDate": "13.04.2026 21:12:57",
-    "sortDate": 1776114777000,
+    "pubDate": "13.04.2026 22:19:47",
+    "sortDate": 1776118787000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrat Eric Swalwell to resign from Congress over sexual assault allegations",
+    "link": "https://www.theguardian.com/us-news/2026/apr/13/house-ethics-committee-eric-swalwell-investigation",
+    "pubDate": "13.04.2026 22:13:56",
+    "sortDate": 1776118436000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US starts naval blockade of Iranian ports after deadline passes",
+    "link": "https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin",
+    "pubDate": "13.04.2026 22:13:44",
+    "sortDate": 1776118424000,
     "source": "The Guardian"
   },
   {
@@ -56,13 +70,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US House committee to investigate Eric Swalwell over sexual assault allegations",
-    "link": "https://www.theguardian.com/us-news/2026/apr/13/house-ethics-committee-eric-swalwell-investigation",
-    "pubDate": "13.04.2026 19:32:01",
-    "sortDate": 1776108721000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Plans to change HS2 train size could reduce capacity and speed in north, says expert",
     "link": "https://www.theguardian.com/uk-news/2026/apr/13/plans-to-change-hs2-train-size-could-reduce-capacity-and-speed-in-north-says-expert",
     "pubDate": "13.04.2026 18:56:05",
@@ -95,13 +102,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/13/colombia-hippo-hunt-pablo-escobar",
     "pubDate": "13.04.2026 18:01:03",
     "sortDate": 1776103263000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US expected to start naval blockade of Iranian ports after deadline passes",
-    "link": "https://www.theguardian.com/world/2026/apr/13/deadline-passes-for-us-blockade-on-ships-using-iranian-ports-to-begin",
-    "pubDate": "13.04.2026 17:59:24",
-    "sortDate": 1776103164000,
     "source": "The Guardian"
   },
   {
@@ -208,6 +208,20 @@
     "pubDate": "13.04.2026 12:15:39",
     "sortDate": 1776082539000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Sudan: Top UN aid official warns of ‘abandoned crisis’ as war enters fourth year",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167293",
+    "pubDate": "13.04.2026 12:00:00",
+    "sortDate": 1776081600000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war: Guterres calls for continued talks, end to ceasefire violations",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167292",
+    "pubDate": "13.04.2026 12:00:00",
+    "sortDate": 1776081600000,
+    "source": "UN News"
   },
   {
     "title": "‘Clock is ticking’: Hormuz disruption raises fears of global food crisis",
@@ -508,20 +522,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167253",
     "pubDate": "06.04.2026 12:00:00",
     "sortDate": 1775476800000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 6 April: Strikes persist across region as humanitarian needs rise",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167251",
-    "pubDate": "06.04.2026 12:00:00",
-    "sortDate": 1775476800000,
-    "source": "UN News"
-  },
-  {
-    "title": "As World Cup kick-off nears, a reminder of the power of sport to build bridges and break barriers",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167245",
-    "pubDate": "05.04.2026 12:00:00",
-    "sortDate": 1775390400000,
     "source": "UN News"
   }
 ]
