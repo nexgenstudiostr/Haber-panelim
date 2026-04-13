@@ -1,34 +1,83 @@
 [
   {
-    "title": "Southport attack: report shows ‘systemic failure of the state’ to prevent atrocity, says home secretary – live updates",
-    "link": "https://www.theguardian.com/uk-news/live/2026/apr/13/southport-attack-public-inquiry-findings-latest-news-updates",
-    "pubDate": "13.04.2026 12:58:55",
-    "sortDate": 1776085135000,
+    "title": "Nigel Farage defends Richard Tice over allegations his firm broke law by failing to pay tax – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
+    "pubDate": "13.04.2026 14:54:59",
+    "sortDate": 1776092099000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: US launches blockade of Iran’s ports as Pope Leo says he has ‘no intention to debate’ Trump over war",
+    "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+    "pubDate": "13.04.2026 14:53:21",
+    "sortDate": 1776092001000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Spring flowers bloom in England after heatwave and cold snap create ideal conditions",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/apr/13/spring-flowers-bloom-england-heatwave-cold-snap-create-ideal-conditions",
+    "pubDate": "13.04.2026 14:47:10",
+    "sortDate": 1776091630000,
     "source": "The Guardian"
   },
   {
     "title": "Hungarian election winner Magyar vows to rebuild EU relationship after stunning defeat of Viktor Orbán - Europe live",
     "link": "https://www.theguardian.com/world/live/2026/apr/13/hungary-peter-magyar-viktor-orban-trump-russia-ukraine-iran-eu-europe-latest-news-updates",
-    "pubDate": "13.04.2026 12:57:37",
-    "sortDate": 1776085057000,
+    "pubDate": "13.04.2026 14:44:34",
+    "sortDate": 1776091474000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: US plans blockade of Iran’s ports as Pope Leo says he has ‘no intention to debate’ Trump over war",
-    "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-    "pubDate": "13.04.2026 12:56:53",
-    "sortDate": 1776085013000,
+    "title": "Southport attack: report shows ‘systemic failure of the state’ to prevent atrocity, says home secretary – live updates",
+    "link": "https://www.theguardian.com/uk-news/live/2026/apr/13/southport-attack-public-inquiry-findings-latest-news-updates",
+    "pubDate": "13.04.2026 14:44:29",
+    "sortDate": 1776091469000,
     "source": "The Guardian"
   },
   {
-    "title": "Nigel Farage defends Richard Tice over allegations his firm broke law by failing to pay tax – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
-    "pubDate": "13.04.2026 12:56:51",
-    "sortDate": 1776085011000,
+    "title": "Anas Sarwar asks voters in Scotland to give Labour five years to ‘fix SNP’s mess’",
+    "link": "https://www.theguardian.com/politics/2026/apr/13/anas-sarwar-voters-scottish-labour-snp-mess-scotland-elections",
+    "pubDate": "13.04.2026 14:35:15",
+    "sortDate": 1776090915000,
     "source": "The Guardian"
   },
   {
-    "title": "‘Lula’s a gym rat’: Brazil president livestreams workouts in campaign for historic fourth term",
+    "title": "Oil price tops $100 a barrel after peace talks fail and Trump orders blockade",
+    "link": "https://www.theguardian.com/business/2026/apr/13/oil-price-tops-100-dollars-barrel-us-blockade-strait-of-hormuz",
+    "pubDate": "13.04.2026 14:30:10",
+    "sortDate": 1776090610000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Blasphemy’: outrage after Trump posts AI image of himself as Christ-like figure",
+    "link": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
+    "pubDate": "13.04.2026 14:08:19",
+    "sortDate": 1776089299000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Bosses of Santos, Woodside, Chevron and Shell asked to give evidence to Greens-led gas tax inquiry",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/13/gas-tax-inquiry-greens-labor-santos-woodside-chevron-shell",
+    "pubDate": "13.04.2026 14:01:42",
+    "sortDate": 1776088902000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rory McIlroy hails his parents after second Masters triumph",
+    "link": "https://www.theguardian.com/sport/2026/apr/13/rory-mcilroy-hails-his-parents-after-second-masters-triumph",
+    "pubDate": "13.04.2026 13:17:52",
+    "sortDate": 1776086272000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Five killed in strikes on alleged drug boats in eastern Pacific, US military says",
+    "link": "https://www.theguardian.com/us-news/2026/apr/13/drug-boat-strikes-latest-us-military",
+    "pubDate": "13.04.2026 13:00:43",
+    "sortDate": 1776085243000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brazil’s Lula, 80, livestreams workouts before election against rival half his age",
     "link": "https://www.theguardian.com/world/2026/apr/13/lula-da-silva-gym-rat-brazil-president-livestreams-workouts-campaign-historic-fourth-term",
     "pubDate": "13.04.2026 12:35:21",
     "sortDate": 1776083721000,
@@ -46,13 +95,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/apr/13/coalition-trumpian-plan-visitors-australia-vetting-social-media-ntwnfb",
     "pubDate": "13.04.2026 12:30:40",
     "sortDate": 1776083440000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sussex baby deaths inquiry will ‘fail to learn lessons’ after excluding families, Streeting warned",
-    "link": "https://www.theguardian.com/society/2026/apr/13/sussex-baby-deaths-inquiry-will-fail-to-learn-lessons-after-excluding-families-streeting-warned",
-    "pubDate": "13.04.2026 12:20:56",
-    "sortDate": 1776082856000,
     "source": "The Guardian"
   },
   {
@@ -91,45 +133,10 @@
     "source": "UN News"
   },
   {
-    "title": "Elon Musk’s X cuts payments to users who post clickbait",
-    "link": "https://www.theguardian.com/technology/2026/apr/13/x-cuts-payments-users-post-clickbait-recycle-news",
-    "pubDate": "13.04.2026 11:55:10",
-    "sortDate": 1776081310000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Asylum seekers removed from UK in waist and leg restraints, report finds",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/13/asylum-seekers-removed-uk-waist-leg-restraints-one-in-one-out-france",
-    "pubDate": "13.04.2026 11:33:01",
-    "sortDate": 1776079981000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump says US will blockade strait of Hormuz after Iran peace talks fail | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/apr/13/first-thing-trump-us-blockade-strait-of-hormuz-iran-peace-talks-fail",
-    "pubDate": "13.04.2026 11:28:00",
-    "sortDate": 1776079680000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sticker shock: LA residents alarmed by price of 2028 Olympics presale tickets",
-    "link": "https://www.theguardian.com/sport/2026/apr/13/los-angeles-olympics-2028-ticket-prices-residents",
-    "pubDate": "13.04.2026 11:00:39",
-    "sortDate": 1776078039000,
-    "source": "The Guardian"
-  },
-  {
     "title": "And the election winner is … the candidate who can afford Africa’s soaring nomination fees",
     "link": "https://www.theguardian.com/global-development/2026/apr/13/elections-africa-soaring-nomination-fees-djibouti-benin",
     "pubDate": "13.04.2026 11:00:38",
     "sortDate": 1776078038000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Southport attack blamed on ‘catastrophic’ failures by agencies and killer’s ‘irresponsible’ parents",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/13/southport-attack-blamed-on-catastrophic-failures-by-agencies-and-killers-irresponsible-parents",
-    "pubDate": "13.04.2026 10:59:59",
-    "sortDate": 1776077999000,
     "source": "The Guardian"
   },
   {
@@ -165,13 +172,6 @@
     "link": "https://www.theguardian.com/australia-news/live/2026/apr/13/australia-news-live-anthony-albanese-prime-minister-fuel-supply-diesel-oil-cost-of-living-inflation-budget-ntwnfb",
     "pubDate": "13.04.2026 08:10:29",
     "sortDate": 1776067829000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Barnaby Joyce says criminals need ‘redemption’ after Pauline Hanson sacks convicted rapist",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/12/one-nation-convicted-rapist-staff-pauline-hanson-liberal-ntwnfb",
-    "pubDate": "13.04.2026 08:02:49",
-    "sortDate": 1776067369000,
     "source": "The Guardian"
   },
   {
