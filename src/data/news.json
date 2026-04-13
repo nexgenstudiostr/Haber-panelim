@@ -1,16 +1,65 @@
 [
   {
-    "title": "Australia news live: Sydney to get first new cathedral in more than a century; Labor to boost spending on military drones",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/14/australia-news-live-politics-asx-reactions-fuel-crisis-oil-prices-anthony-albanese-labor-angus-taylor-coalition-immigration-policy-ntwnfb",
-    "pubDate": "13.04.2026 22:20:39",
-    "sortDate": 1776118839000,
+    "title": "Middle East crisis live: Donald Trump claims Iran ‘wants to work a deal’ and confirms blockade of strait of Hormuz",
+    "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
+    "pubDate": "13.04.2026 23:29:41",
+    "sortDate": 1776122981000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Donald Trump claims Iran ‘wants to work a deal’ and confirms blockade of strait of Hormuz",
-    "link": "https://www.theguardian.com/world/live/2026/apr/13/iran-war-live-news-ceasefire-peace-talks-us-trump-strait-hormuz-blockade-middle-east-crisis-latest-updates",
-    "pubDate": "13.04.2026 22:19:47",
-    "sortDate": 1776118787000,
+    "title": "Australia news live: Sydney to get first new cathedral in more than a century; Qantas flight circles off coast for nearly three hours",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/14/australia-news-live-politics-asx-reactions-fuel-crisis-oil-prices-anthony-albanese-labor-angus-taylor-coalition-immigration-policy-ntwnfb",
+    "pubDate": "13.04.2026 23:27:04",
+    "sortDate": 1776122824000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Texas man accused of throwing molotov cocktail at Sam Altman home charged",
+    "link": "https://www.theguardian.com/us-news/2026/apr/13/sam-altman-openai-man-charged",
+    "pubDate": "13.04.2026 23:25:26",
+    "sortDate": 1776122726000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK households to be urged to use more power this summer as renewables soar",
+    "link": "https://www.theguardian.com/environment/2026/apr/14/uk-households-power-renewables-soar",
+    "pubDate": "13.04.2026 23:01:53",
+    "sortDate": 1776121313000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Little progress’ in stopping drug drones at HMP Manchester, watchdog says",
+    "link": "https://www.theguardian.com/society/2026/apr/14/hmp-manchester-drones-drugs-chief-inspector-prisons-england-wales",
+    "pubDate": "13.04.2026 23:01:53",
+    "sortDate": 1776121313000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cultural venues in England to share £130m under Arts Everywhere scheme",
+    "link": "https://www.theguardian.com/culture/2026/apr/14/cultural-venues-in-england-to-share-130m-under-arts-everywhere-scheme",
+    "pubDate": "13.04.2026 23:01:53",
+    "sortDate": 1776121313000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer’s ‘corrosive complacency’ on defence has put UK in peril, says ex-Nato chief",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/14/starmer-accused-of-corrosive-complacency-about-defence-by-ex-head-of-nato",
+    "pubDate": "13.04.2026 23:01:42",
+    "sortDate": 1776121302000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NSW promises more fast chargers and electric trucks in revamped EV policy",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/14/minns-promises-more-fast-chargers-and-electric-trucks-in-revamped-ev-policy",
+    "pubDate": "13.04.2026 22:59:46",
+    "sortDate": 1776121186000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Republican Tony Gonzales to step down from Congress amid expulsion threat",
+    "link": "https://www.theguardian.com/us-news/2026/apr/13/republican-tony-gonzales-congress",
+    "pubDate": "13.04.2026 22:54:32",
+    "sortDate": 1776120872000,
     "source": "The Guardian"
   },
   {
@@ -42,20 +91,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Judges fired after blocking deportation of pro-Palestinian students",
-    "link": "https://www.theguardian.com/us-news/2026/apr/13/immigration-judges-fired-trump-administration",
-    "pubDate": "13.04.2026 20:32:59",
-    "sortDate": 1776112379000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Terence Crawford fined $75 over incident that led to gunpoint traffic stop",
-    "link": "https://www.theguardian.com/sport/2026/apr/13/terence-crawford-careless-driving-fine-omaha-traffic-stop",
-    "pubDate": "13.04.2026 20:00:53",
-    "sortDate": 1776110453000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says",
     "link": "https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament",
     "pubDate": "13.04.2026 19:58:22",
@@ -81,13 +116,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/13/brazil-former-spy-chief-arrested-us-ice-alexandre-ramagem",
     "pubDate": "13.04.2026 18:50:56",
     "sortDate": 1776106256000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mahmood’s migration changes will deliver fraction of claimed savings, data suggests",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/13/mahmood-migration-reforms-fraction-claimed-savings",
-    "pubDate": "13.04.2026 18:47:37",
-    "sortDate": 1776106057000,
     "source": "The Guardian"
   },
   {
@@ -126,31 +154,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Southport attack inquiry blames ‘catastrophic’ failures by agencies and killer’s ‘irresponsible’ parents",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/13/southport-attack-blamed-on-catastrophic-failures-by-agencies-and-killers-irresponsible-parents",
-    "pubDate": "13.04.2026 17:29:55",
-    "sortDate": 1776101395000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Péter Magyar vows to pursue those who ‘plundered’ Hungary after election win",
     "link": "https://www.theguardian.com/world/2026/apr/13/peter-magyar-vows-to-pursue-those-who-plundered-hungary-after-election-win",
     "pubDate": "13.04.2026 17:25:44",
     "sortDate": 1776101144000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Shabana Mahmood says Southport inquiry report exposed ‘systematic failures across multiple public sector organisations’ – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
-    "pubDate": "13.04.2026 17:16:06",
-    "sortDate": 1776100566000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man took own life after Turkish dental visit left him toothless, UK inquest hears",
-    "link": "https://www.theguardian.com/society/2026/apr/13/man-took-own-life-after-turkish-dental-visit-left-him-toothless-uk-inquest-hears",
-    "pubDate": "13.04.2026 17:09:00",
-    "sortDate": 1776100140000,
     "source": "The Guardian"
   },
   {
@@ -200,13 +207,6 @@
     "link": "https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana",
     "pubDate": "13.04.2026 12:17:34",
     "sortDate": 1776082654000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Parents are helping their children bypass Roblox age checks and play as adults",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/13/roblox-age-check-parents-help-children-play-as-adults",
-    "pubDate": "13.04.2026 12:15:39",
-    "sortDate": 1776082539000,
     "source": "The Guardian"
   },
   {
