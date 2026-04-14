@@ -1,27 +1,55 @@
 [
   {
-    "title": "Thousands rattled by 4.5-magnitude earthquake in central-west NSW",
+    "title": "News live: ‘really dangerous time’ for global economy as Australians pay price for Middle East conflict, Chalmers says",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+    "pubDate": "14.04.2026 22:26:58",
+    "sortDate": 1776205618000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
+    "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+    "pubDate": "14.04.2026 22:19:02",
+    "sortDate": 1776205142000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Trump says Iran negotiations could resume in ‘next two days’; US talks between Lebanon and Israel end",
+    "link": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
+    "pubDate": "14.04.2026 22:16:25",
+    "sortDate": 1776204985000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "FBI arrests California man shot by ICE on ‘assault’ charges",
+    "link": "https://www.theguardian.com/us-news/2026/apr/14/fbi-arrests-california-man-shot-ice-assault",
+    "pubDate": "14.04.2026 21:52:08",
+    "sortDate": 1776203528000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UCLA gynecologist pleads guilty to 13 sexual abuse charges and is sentenced to 11 years in prison",
+    "link": "https://www.theguardian.com/us-news/2026/apr/14/ucla-gynecologist-pleads-guilty-sexual-abuse-charges-11-years-prison",
+    "pubDate": "14.04.2026 21:36:32",
+    "sortDate": 1776202592000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Streeting relaunches women’s health strategy to tackle ‘medical misogyny’",
+    "link": "https://www.theguardian.com/society/2026/apr/14/wes-streeting-women-nhs-england-health-strategy",
+    "pubDate": "14.04.2026 21:30:49",
+    "sortDate": 1776202249000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Thousands rattled by 4.5-magnitude earthquake in central west NSW",
     "link": "https://www.theguardian.com/world/2026/apr/15/central-west-nsw-earthquake-orange-cadia-goldmine",
     "pubDate": "14.04.2026 21:29:49",
     "sortDate": 1776202189000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia news live: thousands feel ‘large’ earthquake in central-west NSW; Albanese arrives in Brunei for fuel supply talks",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
-    "pubDate": "14.04.2026 21:28:59",
-    "sortDate": 1776202139000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Trump says Iran talks could resume ‘over next two days’; Lebanon and Israel enter negotiations",
-    "link": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
-    "pubDate": "14.04.2026 21:21:46",
-    "sortDate": 1776201706000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s ‘DoorDash grandma’ had previously lobbied for the president, setting off controversy",
+    "title": "Trump’s ‘DoorDash grandma’ had lobbied for ‘no tax on tips’ policy",
     "link": "https://www.theguardian.com/us-news/2026/apr/14/trump-doordash-delivery-grandma-mcdonalds",
     "pubDate": "14.04.2026 21:09:25",
     "sortDate": 1776200965000,
@@ -35,31 +63,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
-    "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
-    "pubDate": "14.04.2026 20:54:50",
-    "sortDate": 1776200090000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Eric Swalwell and Tony Gonzales resign from Congress amid sexual misconduct allegations",
     "link": "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-tony-gonzales-resignations",
     "pubDate": "14.04.2026 20:38:06",
     "sortDate": 1776199086000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Florida surgeon indicted after removing liver instead of spleen",
-    "link": "https://www.theguardian.com/us-news/2026/apr/14/florida-surgeon-removes-liver-spleen",
-    "pubDate": "14.04.2026 19:22:55",
-    "sortDate": 1776194575000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Are we heading for ‘super El Niño’ – and what could we expect?",
-    "link": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer",
-    "pubDate": "14.04.2026 19:03:48",
-    "sortDate": 1776193428000,
     "source": "The Guardian"
   },
   {
@@ -95,13 +102,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/14/us-iran-peace-talks-could-resume-in-next-two-days-trump-says",
     "pubDate": "14.04.2026 18:01:10",
     "sortDate": 1776189670000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "China now the ‘good guy’ on AI as Trump takes ‘wild west’ approach, MPs told",
-    "link": "https://www.theguardian.com/technology/2026/apr/14/china-now-ais-good-guy-as-us-takes-a-wild-west-approach-mps-told",
-    "pubDate": "14.04.2026 17:56:47",
-    "sortDate": 1776189407000,
     "source": "The Guardian"
   },
   {
@@ -180,6 +180,27 @@
     "pubDate": "14.04.2026 12:49:27",
     "sortDate": 1776170967000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167301",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemenis are ‘hanging by a thread’ top aid official warns Security Council",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167300",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167299",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
   },
   {
     "title": "Reparations ‘key to dismantling systemic racism’: UN rights chief",
@@ -502,26 +523,5 @@
     "pubDate": "08.04.2026 03:57:32",
     "sortDate": 1775620652000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: Death on the Mediterranean, displacement in Afghanistan, ‘One Health’ summit",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167262",
-    "pubDate": "07.04.2026 12:00:00",
-    "sortDate": 1775563200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council: Russia and China veto resolution on Strait of Hormuz",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167261",
-    "pubDate": "07.04.2026 12:00:00",
-    "sortDate": 1775563200000,
-    "source": "UN News"
-  },
-  {
-    "title": "From misdiagnosis to medical bias: Why women are living longer but not better",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167259",
-    "pubDate": "07.04.2026 12:00:00",
-    "sortDate": 1775563200000,
-    "source": "UN News"
   }
 ]
