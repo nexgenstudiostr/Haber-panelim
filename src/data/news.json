@@ -1,16 +1,58 @@
 [
   {
-    "title": "Australia news live: Chalmers warns of ‘really dangerous time’ for global economy; NSW pharmacists able to prescribe contraceptive pill directly to women",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
-    "pubDate": "14.04.2026 23:26:55",
-    "sortDate": 1776209215000,
+    "title": "US DoJ files for overturning January 6 convictions for far-right groups’ members",
+    "link": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+    "pubDate": "15.04.2026 01:33:24",
+    "sortDate": 1776216804000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Trump says Iran negotiations could resume in ‘next two days’; US talks between Lebanon and Israel end",
+    "title": "Australia news live: Virgin lifts air fares and cuts capacity due to Middle East conflict; Jacinta Allan reveals new cabinet",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+    "pubDate": "15.04.2026 01:33:07",
+    "sortDate": 1776216787000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Orange earthquake: gold miners fled to underground refuge chambers when 4.5-magnitude quake hit central west NSW",
+    "link": "https://www.theguardian.com/world/2026/apr/15/central-west-nsw-earthquake-orange-cadia-goldmine",
+    "pubDate": "15.04.2026 01:23:19",
+    "sortDate": 1776216199000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US talks between Lebanon and Israel end – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/apr/14/middle-east-crisis-live-hezbollah-urges-lebanon-to-pull-out-of-talks-with-israel-blockade-of-strait-of-hormuz-begins",
-    "pubDate": "14.04.2026 23:19:50",
-    "sortDate": 1776208790000,
+    "pubDate": "15.04.2026 00:58:15",
+    "sortDate": 1776214695000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US military says it killed four more people in a boat strike in the eastern Pacific",
+    "link": "https://www.theguardian.com/us-news/2026/apr/14/us-military-boat-strike-eastern-pacific",
+    "pubDate": "15.04.2026 00:39:48",
+    "sortDate": 1776213588000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US-Iran peace talks could resume in next two days, Trump says",
+    "link": "https://www.theguardian.com/world/2026/apr/14/us-iran-peace-talks-could-resume-in-next-two-days-trump-says",
+    "pubDate": "15.04.2026 00:38:00",
+    "sortDate": 1776213480000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kanye West faces possible ban from France ahead of concert in Marseille",
+    "link": "https://www.theguardian.com/music/2026/apr/15/kanye-west-ban-france-marseille-ye-concert",
+    "pubDate": "15.04.2026 00:34:45",
+    "sortDate": 1776213285000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Eric Swalwell and Tony Gonzales resign from Congress amid sexual misconduct allegations",
+    "link": "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-tony-gonzales-resignations",
+    "pubDate": "14.04.2026 23:31:48",
+    "sortDate": 1776209508000,
     "source": "The Guardian"
   },
   {
@@ -63,38 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "FBI arrests California man shot by ICE on ‘assault’ charges",
-    "link": "https://www.theguardian.com/us-news/2026/apr/14/fbi-arrests-california-man-shot-ice-assault",
-    "pubDate": "14.04.2026 21:52:08",
-    "sortDate": 1776203528000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UCLA gynecologist pleads guilty to 13 sexual abuse charges and is sentenced to 11 years in prison",
-    "link": "https://www.theguardian.com/us-news/2026/apr/14/ucla-gynecologist-pleads-guilty-sexual-abuse-charges-11-years-prison",
-    "pubDate": "14.04.2026 21:36:32",
-    "sortDate": 1776202592000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Streeting relaunches women’s health strategy to tackle ‘medical misogyny’",
     "link": "https://www.theguardian.com/society/2026/apr/14/wes-streeting-women-nhs-england-health-strategy",
     "pubDate": "14.04.2026 21:30:49",
     "sortDate": 1776202249000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Thousands rattled by 4.5-magnitude earthquake in central west NSW",
-    "link": "https://www.theguardian.com/world/2026/apr/15/central-west-nsw-earthquake-orange-cadia-goldmine",
-    "pubDate": "14.04.2026 21:29:49",
-    "sortDate": 1776202189000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s ‘DoorDash grandma’ had lobbied for ‘no tax on tips’ policy",
-    "link": "https://www.theguardian.com/us-news/2026/apr/14/trump-doordash-delivery-grandma-mcdonalds",
-    "pubDate": "14.04.2026 21:09:25",
-    "sortDate": 1776200965000,
     "source": "The Guardian"
   },
   {
@@ -116,13 +130,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea",
     "pubDate": "14.04.2026 18:31:32",
     "sortDate": 1776191492000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US-Iran peace talks could resume in next two days, Trump says",
-    "link": "https://www.theguardian.com/world/2026/apr/14/us-iran-peace-talks-could-resume-in-next-two-days-trump-says",
-    "pubDate": "14.04.2026 18:01:10",
-    "sortDate": 1776189670000,
     "source": "The Guardian"
   },
   {
@@ -172,13 +179,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/apr/14/labor-aged-care-algorithm-tool-ombudsman-investigation",
     "pubDate": "14.04.2026 15:00:43",
     "sortDate": 1776178843000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Zelenskyy hails Magyar’s win over Orbán as ‘the victory of light over darkness’ in Hungary – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/apr/14/hungary-peter-magyar-viktor-orban-eu-ukraine-russia-europe-live-news-updates",
-    "pubDate": "14.04.2026 14:57:46",
-    "sortDate": 1776178666000,
     "source": "The Guardian"
   },
   {
