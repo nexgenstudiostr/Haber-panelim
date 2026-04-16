@@ -1,9 +1,37 @@
 [
   {
-    "title": "Australia news live: fertiliser supplies secured; Albanese to visit Geelong refinery after fire",
+    "title": "News live: PM visits Geelong refinery after fire; Trump renews accusations Australia hasn’t done enough to help in strait of Hormuz;",
     "link": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
-    "pubDate": "16.04.2026 21:24:25",
-    "sortDate": 1776374665000,
+    "pubDate": "16.04.2026 22:23:40",
+    "sortDate": 1776378220000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No ‘specific request’ to help US in strait of Hormuz, Marles says, as Trump repeats criticism of Australia",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/17/donald-trump-criticises-australia-strait-of-hormuz",
+    "pubDate": "16.04.2026 22:13:43",
+    "sortDate": 1776377623000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Foreign Office’s top civil servant Olly Robbins to leave post over Mandelson vetting row",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/16/foreign-offices-top-civil-servant-olly-robbins-leaves-post-in-mandelson-vetting-row",
+    "pubDate": "16.04.2026 21:59:15",
+    "sortDate": 1776376755000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Ceasefire between Israel and Lebanon takes effect; Hezbollah tells citizens to postpone returning home",
+    "link": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+    "pubDate": "16.04.2026 21:44:53",
+    "sortDate": 1776375893000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump nominates Erica Schwartz, ex-deputy surgeon general, as CDC director",
+    "link": "https://www.theguardian.com/us-news/2026/apr/16/cdc-director-trump-erica-schwartz",
+    "pubDate": "16.04.2026 21:34:06",
+    "sortDate": 1776375246000,
     "source": "The Guardian"
   },
   {
@@ -14,24 +42,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Ceasefire between Israel and Lebanon takes effect; Hezbollah tells citizens to postpone returning home",
-    "link": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
-    "pubDate": "16.04.2026 21:06:40",
-    "sortDate": 1776373600000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Co-founder Reed Hastings to step down from Netflix board",
     "link": "https://www.theguardian.com/media/2026/apr/16/netflix-chair-reed-hastings",
     "pubDate": "16.04.2026 20:53:06",
     "sortDate": 1776372786000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump nominates Dr Erica Schwartz, ex-deputy surgeon general, as CDC director",
-    "link": "https://www.theguardian.com/us-news/2026/apr/16/cdc-director-trump-erica-schwartz",
-    "pubDate": "16.04.2026 20:25:01",
-    "sortDate": 1776371101000,
     "source": "The Guardian"
   },
   {
@@ -81,13 +95,6 @@
     "link": "https://www.theguardian.com/technology/2026/apr/16/labour-and-lib-dem-mps-demand-shameful-palantir-nhs-contract-be-scrapped",
     "pubDate": "16.04.2026 17:57:15",
     "sortDate": 1776362235000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "No 10 claims Starmer did not know Mandelson failed security vetting until this week – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
-    "pubDate": "16.04.2026 17:54:49",
-    "sortDate": 1776362089000,
     "source": "The Guardian"
   },
   {
@@ -161,6 +168,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "New food alert platform helps humanitarians combat hunger",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167317",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
+    "title": "The Epstein files: Rights experts demand accountability, call for probe into trafficking allegations",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167314",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deadly Russian strikes on Ukrainians ‘simply trying to live their lives’ must stop, says senior UN official",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167313",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN peacekeeping missions under strain as funding cuts and new threats grow",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167312",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 16 April: UN meets over China-Russia Hormuz crisis veto as humanitarian crisis continues in Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167311",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
     "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
     "link": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
     "pubDate": "16.04.2026 11:33:33",
@@ -172,13 +214,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/16/us-readers-rising-gas-prices-iran-trump",
     "pubDate": "16.04.2026 11:00:57",
     "sortDate": 1776337257000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Has Marles bowed to Trump’s wishes on defence spending? The figures are as clear as mud",
-    "link": "https://www.theguardian.com/world/2026/apr/16/has-marles-bowed-to-trumps-wishes-on-defence-spending-the-figures-are-as-clear-as-mud",
-    "pubDate": "16.04.2026 09:59:03",
-    "sortDate": 1776333543000,
     "source": "The Guardian"
   },
   {
@@ -238,6 +273,62 @@
     "source": "The Guardian"
   },
   {
+    "title": "Strength in numbers: Developing countries band together as Iran war batters global economy",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167308",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167309",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Tobago’s teen archery champion takes aim at sustainability targets",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167310",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Africa: Nearly 20 million measles deaths averted since 2000",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167307",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Youth shape the road to 2030, call for urgent action on sustainable development",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167306",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE:  Security fears rise in eastern DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167304",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East conflict chokes end of supply chain as lights go out in the Pacific",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167303",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 15 April: Civilian dangers intensify as Israel expands Lebanon evacuation orders",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167302",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
     "title": "Short-term gains for China from US-Iran war may turn to longer-term pain",
     "link": "https://www.theguardian.com/world/2026/apr/15/china-us-iran-war-risks-energy-economy",
     "pubDate": "15.04.2026 10:45:12",
@@ -280,11 +371,130 @@
     "source": "The Guardian"
   },
   {
+    "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167301",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemenis are ‘hanging by a thread’ top aid official warns Security Council",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167300",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167299",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Reparations ‘key to dismantling systemic racism’: UN rights chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167297",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fleeing Sudan's war, refugees rebuild their lives in Uganda",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167295",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Why the ‘beautiful game’ is joining the fight for a better world",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167296",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Now is the moment to invest’: Syria needs global backing, says UN expert",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167291",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 14 April: UN chief says US-Iran ceasefire must continue, urges respect for international law",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167294",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Top UN aid official warns of ‘abandoned crisis’ as war enters fourth year",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167293",
+    "pubDate": "13.04.2026 12:00:00",
+    "sortDate": 1776081600000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war: Guterres calls for continued talks, end to ceasefire violations",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167292",
+    "pubDate": "13.04.2026 12:00:00",
+    "sortDate": 1776081600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Clock is ticking’: Hormuz disruption raises fears of global food crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167289",
+    "pubDate": "13.04.2026 12:00:00",
+    "sortDate": 1776081600000,
+    "source": "UN News"
+  },
+  {
+    "title": "European Union support for the UN ‘more vital than ever’, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167288",
+    "pubDate": "13.04.2026 12:00:00",
+    "sortDate": 1776081600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Tech gaps and budget cuts threaten global efforts to track and help the vulnerable",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167287",
+    "pubDate": "13.04.2026 12:00:00",
+    "sortDate": 1776081600000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 13 April: US-Iran talks falter; Strait of Hormuz uncertainty deepens",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167285",
+    "pubDate": "13.04.2026 12:00:00",
+    "sortDate": 1776081600000,
+    "source": "UN News"
+  },
+  {
+    "title": "From conflict to catwalk: Women ex-combatants weave reconciliation in Colombia",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167269",
+    "pubDate": "12.04.2026 12:00:00",
+    "sortDate": 1775995200000,
+    "source": "UN News"
+  },
+  {
     "title": "Indian music legend Asha Bhosle dies aged 92",
     "link": "https://www.theguardian.com/music/2026/apr/12/indian-singer-asha-bhosle-dies-aged-92",
     "pubDate": "12.04.2026 11:40:31",
     "sortDate": 1775994031000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Putting humans at the centre: UN AI panel begins work on global impact study",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167263",
+    "pubDate": "11.04.2026 12:00:00",
+    "sortDate": 1775908800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti’s freefall demands urgent global action as millions face hunger and violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167283",
+    "pubDate": "10.04.2026 12:00:00",
+    "sortDate": 1775822400000,
+    "source": "UN News"
   },
   {
     "title": "Islamabad prepares to host historic negotiations between Iran and the US",
