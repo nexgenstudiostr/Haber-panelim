@@ -1,16 +1,30 @@
 [
   {
+    "title": "Humanoid robots show rapid advances as they race past humans in Beijing half-marathon",
+    "link": "https://www.theguardian.com/sport/2026/apr/19/humanoid-robots-race-beijing-half-marathon",
+    "pubDate": "19.04.2026 04:57:14",
+    "sortDate": 1776574634000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: Ben Roberts-Smith denies war crimes allegations in first public statement since arrest; free public transport in Victoria extended",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb",
+    "pubDate": "19.04.2026 04:39:52",
+    "sortDate": 1776573592000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
+    "link": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
+    "pubDate": "19.04.2026 04:29:09",
+    "sortDate": 1776572949000,
+    "source": "The Guardian"
+  },
+  {
     "title": "More than 3,400 Iranians killed in war - as it happened",
     "link": "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues",
     "pubDate": "19.04.2026 01:15:15",
     "sortDate": 1776561315000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: free public transport in Victoria extended; drivers slash fuel spending amid crisis",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb",
-    "pubDate": "19.04.2026 01:15:11",
-    "sortDate": 1776561311000,
     "source": "The Guardian"
   },
   {
@@ -112,13 +126,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
-    "link": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
-    "pubDate": "18.04.2026 14:37:20",
-    "sortDate": 1776523040000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch",
     "link": "https://www.theguardian.com/world/2026/apr/18/venice-flood-barrier-plan-b-rising-sea-level",
     "pubDate": "18.04.2026 13:00:14",
@@ -182,8 +189,8 @@
     "source": "The Guardian"
   },
   {
-    "title": "Iran says strait of Hormuz ‘completely open’ but sounds warning on US blockade",
-    "link": "https://www.theguardian.com/world/2026/apr/17/strait-of-hormuz-now-open-to-commercial-vessels",
+    "title": "US extends waiver allowing countries to buy Russian oil – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/apr/17/middle-east-crisis-live-news-israel-lebanon-ceasefire-iran-war-us-latest-updates",
     "pubDate": "18.04.2026 03:52:14",
     "sortDate": 1776484334000,
     "source": "The Guardian"
@@ -406,13 +413,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Sinlaku rips through Northern Mariana Islands as strongest tropical cyclone this year",
-    "link": "https://www.theguardian.com/world/2026/apr/15/sinlaku-typhoon-guam-mariana-islands",
-    "pubDate": "15.04.2026 14:52:14",
-    "sortDate": 1776264734000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Strength in numbers: Developing countries band together as Iran war batters global economy",
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167308",
     "pubDate": "15.04.2026 12:00:00",
@@ -476,6 +476,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "About 250 missing after boat carrying Rohingya refugees capsizes in Andaman Sea",
+    "link": "https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea",
+    "pubDate": "14.04.2026 18:31:32",
+    "sortDate": 1776191492000,
+    "source": "The Guardian"
+  },
+  {
     "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167301",
     "pubDate": "14.04.2026 12:00:00",
@@ -515,13 +522,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/09/israel-bombing-lebanon-us-iran-ceasefire-condemnation",
     "pubDate": "10.04.2026 02:28:53",
     "sortDate": 1775788133000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How Pakistan secured ‘biggest diplomatic win in years’ with Iran ceasefire",
-    "link": "https://www.theguardian.com/world/2026/apr/08/pakistan-us-israel-iran-ceasefire",
-    "pubDate": "08.04.2026 18:09:54",
-    "sortDate": 1775671794000,
     "source": "The Guardian"
   }
 ]
