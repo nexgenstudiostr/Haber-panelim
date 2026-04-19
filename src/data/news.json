@@ -2,15 +2,29 @@
   {
     "title": "Ministers rally around Keir Starmer as leadership questions grow over Mandelson saga – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/apr/19/keir-starmer-leadership-prime-minister-labour-party-peter-mandelson-vetting-latest-news",
-    "pubDate": "19.04.2026 08:25:45",
-    "sortDate": 1776587145000,
+    "pubDate": "19.04.2026 09:17:29",
+    "sortDate": 1776590249000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Iran says ‘fundamental’ issues’ still to be resolved with US amid strait of Hormuz impasse",
     "link": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
-    "pubDate": "19.04.2026 08:21:50",
-    "sortDate": 1776586910000,
+    "pubDate": "19.04.2026 09:11:34",
+    "sortDate": 1776589894000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Michigan gas station clerk saves teen from alleged kidnapper after she whispers ‘help’",
+    "link": "https://www.theguardian.com/us-news/2026/apr/19/michigan-gas-station-clerk-saves-teen",
+    "pubDate": "19.04.2026 09:00:38",
+    "sortDate": 1776589238000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reform UK’s Richard Tice allegedly failed to pay £100,000 in corporation tax",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/19/reform-uk-richard-tice-corporation-tax",
+    "pubDate": "19.04.2026 08:56:05",
+    "sortDate": 1776588965000,
     "source": "The Guardian"
   },
   {
@@ -98,13 +112,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Kensington Gardens reopens after police deem suspicious items non-hazardous",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/18/kensington-gardens-reopen-after-police-deem-suspicious-items-non-hazardous",
-    "pubDate": "18.04.2026 19:33:02",
-    "sortDate": 1776540782000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Two US army soldiers injured by brown bear during training exercise in Alaska",
     "link": "https://www.theguardian.com/us-news/2026/apr/18/army-soldiers-brown-bear-attack-alaska",
     "pubDate": "18.04.2026 18:44:57",
@@ -133,39 +140,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump announces reforms to accelerate access to psychedelic drug treatments",
-    "link": "https://www.theguardian.com/us-news/2026/apr/18/trump-psychedelic-drugs-executive-order",
-    "pubDate": "18.04.2026 15:03:54",
-    "sortDate": 1776524634000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘We can’t wait’: Venice already seeking floods plan B five years after barriers’ launch",
     "link": "https://www.theguardian.com/world/2026/apr/18/venice-flood-barrier-plan-b-rising-sea-level",
     "pubDate": "18.04.2026 13:00:14",
     "sortDate": 1776517214000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Why lower fertility does not have to mean economic decline",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167315",
-    "pubDate": "18.04.2026 12:00:00",
-    "sortDate": 1776513600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief strongly condemns killing of another peacekeeper in southern Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167332",
-    "pubDate": "18.04.2026 12:00:00",
-    "sortDate": 1776513600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UNICEF ‘outraged’ by killing of Gaza water truck drivers, urges investigation",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167331",
-    "pubDate": "18.04.2026 12:00:00",
-    "sortDate": 1776513600000,
-    "source": "UN News"
   },
   {
     "title": "Hungary’s incoming PM seeks Polish help to renew EU relations",
@@ -238,83 +217,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Gender, geography and powerbroking in play in race for next UN chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167323",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan: Three quarters of women feel unsafe as war rages on",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167330",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another power loss at Ukraine nuclear plant",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167329",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "More than half of Haitians continue to face food crisis",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167328",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UNESCO grants ‘enhanced protection’ to cultural heritage sites in the Middle East  ",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167326",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Slaughtered like goats’: Despair and abandonment in South Sudan",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167327",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "As the ‘world court’ turns 80, Guterres says law must prevail over force",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167322",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Shockwaves of Middle East war reach Caribbean as food prices soar",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167321",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Record number of Rohingya refugees died at sea in 2025: UNHCR",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167320",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "More than 38,000 women and girls killed in Gaza war, UN gender equality agency reports",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167319",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 17 April: Israel-Lebanon ceasefire begins; Iran announces opening of Strait of Hormuz",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167318",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
     "title": "South Koreans breathe sighs of relief as escaped wolf is returned to zoo safely",
     "link": "https://www.theguardian.com/world/2026/apr/17/south-korea-escaped-wolf-captured-returned-zoo-safely",
     "pubDate": "17.04.2026 11:49:38",
@@ -341,41 +243,6 @@
     "pubDate": "16.04.2026 12:37:49",
     "sortDate": 1776343069000,
     "source": "The Guardian"
-  },
-  {
-    "title": "New food alert platform helps humanitarians combat hunger",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167317",
-    "pubDate": "16.04.2026 12:00:00",
-    "sortDate": 1776340800000,
-    "source": "UN News"
-  },
-  {
-    "title": "The Epstein files: Rights experts demand accountability, call for probe into trafficking allegations",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167314",
-    "pubDate": "16.04.2026 12:00:00",
-    "sortDate": 1776340800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deadly Russian strikes on Ukrainians ‘simply trying to live their lives’ must stop, says senior UN official",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167313",
-    "pubDate": "16.04.2026 12:00:00",
-    "sortDate": 1776340800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN peacekeeping missions under strain as funding cuts and new threats grow",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167312",
-    "pubDate": "16.04.2026 12:00:00",
-    "sortDate": 1776340800000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 16 April: UN meets over China-Russia Hormuz crisis veto as humanitarian crisis continues in Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167311",
-    "pubDate": "16.04.2026 12:00:00",
-    "sortDate": 1776340800000,
-    "source": "UN News"
   },
   {
     "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
@@ -413,62 +280,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Strength in numbers: Developing countries band together as Iran war batters global economy",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167308",
-    "pubDate": "15.04.2026 12:00:00",
-    "sortDate": 1776254400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167309",
-    "pubDate": "15.04.2026 12:00:00",
-    "sortDate": 1776254400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Tobago’s teen archery champion takes aim at sustainability targets",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167310",
-    "pubDate": "15.04.2026 12:00:00",
-    "sortDate": 1776254400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Africa: Nearly 20 million measles deaths averted since 2000",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167307",
-    "pubDate": "15.04.2026 12:00:00",
-    "sortDate": 1776254400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Youth shape the road to 2030, call for urgent action on sustainable development",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167306",
-    "pubDate": "15.04.2026 12:00:00",
-    "sortDate": 1776254400000,
-    "source": "UN News"
-  },
-  {
-    "title": "SECURITY COUNCIL LIVE:  Security fears rise in eastern DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167304",
-    "pubDate": "15.04.2026 12:00:00",
-    "sortDate": 1776254400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East conflict chokes end of supply chain as lights go out in the Pacific",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167303",
-    "pubDate": "15.04.2026 12:00:00",
-    "sortDate": 1776254400000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 15 April: Civilian dangers intensify as Israel expands Lebanon evacuation orders",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167302",
-    "pubDate": "15.04.2026 12:00:00",
-    "sortDate": 1776254400000,
-    "source": "UN News"
-  },
-  {
     "title": "Sheinbaum vows to ‘defend Mexicans at every level’ amid anger at Trump over migrant deaths",
     "link": "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
     "pubDate": "15.04.2026 01:50:47",
@@ -481,27 +292,6 @@
     "pubDate": "14.04.2026 18:31:32",
     "sortDate": 1776191492000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167301",
-    "pubDate": "14.04.2026 12:00:00",
-    "sortDate": 1776168000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Yemenis are ‘hanging by a thread’ top aid official warns Security Council",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167300",
-    "pubDate": "14.04.2026 12:00:00",
-    "sortDate": 1776168000000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167299",
-    "pubDate": "14.04.2026 12:00:00",
-    "sortDate": 1776168000000,
-    "source": "UN News"
   },
   {
     "title": "Indian music legend Asha Bhosle dies aged 92",
