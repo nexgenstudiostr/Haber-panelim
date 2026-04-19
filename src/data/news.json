@@ -1,9 +1,37 @@
 [
   {
+    "title": "Australia news live: Pocock buys billboards to pressure Chalmers on gas export tax; survey reveals national gloom",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb",
+    "pubDate": "19.04.2026 21:24:36",
+    "sortDate": 1776633876000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Middle East crisis live: Iran reportedly rejects US peace talks; Trump says marines took custody of an Iranian-flagged vessel",
     "link": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel",
-    "pubDate": "19.04.2026 20:18:22",
-    "sortDate": 1776629902000,
+    "pubDate": "19.04.2026 21:20:08",
+    "sortDate": 1776633608000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US military seized Iranian-flagged container ship, Trump says",
+    "link": "https://www.theguardian.com/us-news/2026/apr/19/trump-us-seizes-iran-flagged-cargo-ship",
+    "pubDate": "19.04.2026 21:05:01",
+    "sortDate": 1776632701000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Party of Bulgaria’s pro-Russian former president ahead in exit polls",
+    "link": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+    "pubDate": "19.04.2026 20:54:06",
+    "sortDate": 1776632046000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tehran has ‘no plans to participate’ in talks with US, state media reports",
+    "link": "https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks",
+    "pubDate": "19.04.2026 20:44:42",
+    "sortDate": 1776631482000,
     "source": "The Guardian"
   },
   {
@@ -35,13 +63,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Party of Bulgaria’s pro-Russian former president ahead in exit polls",
-    "link": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
-    "pubDate": "19.04.2026 18:41:07",
-    "sortDate": 1776624067000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Starmer is facing his judgment day over Mandelson missteps",
     "link": "https://www.theguardian.com/politics/2026/apr/19/starmer-is-facing-his-judgment-day-over-mandelson-missteps",
     "pubDate": "19.04.2026 18:08:42",
@@ -60,13 +81,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/19/intemperate-trump-brings-chaos-and-confusion-to-iran-talks",
     "pubDate": "19.04.2026 17:54:09",
     "sortDate": 1776621249000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump sends delegation to Pakistan for possible new round of Iran war talks",
-    "link": "https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks",
-    "pubDate": "19.04.2026 17:33:01",
-    "sortDate": 1776619981000,
     "source": "The Guardian"
   },
   {
@@ -161,10 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "More than 3,400 Iranians killed in war - as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/apr/18/middle-east-crisis-live-iran-warns-it-will-close-strait-of-hormuz-if-us-blockade-continues",
-    "pubDate": "19.04.2026 01:15:15",
-    "sortDate": 1776561315000,
+    "title": "Australia’s coalmine emissions are increasing. Is this how a major policy to cut climate pollution is meant to work?",
+    "link": "https://www.theguardian.com/environment/2026/apr/19/australia-emissions-increasing-coalmines-climate-policy-analysis",
+    "pubDate": "18.04.2026 20:00:22",
+    "sortDate": 1776542422000,
     "source": "The Guardian"
   },
   {
@@ -175,11 +189,25 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australia’s coalmine emissions are increasing. Is this how a major policy to cut climate pollution is meant to work?",
-    "link": "https://www.theguardian.com/environment/2026/apr/19/australia-emissions-increasing-coalmines-climate-policy-analysis",
-    "pubDate": "18.04.2026 20:00:22",
-    "sortDate": 1776542422000,
-    "source": "The Guardian"
+    "title": "Why lower fertility does not have to mean economic decline",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167315",
+    "pubDate": "18.04.2026 12:00:00",
+    "sortDate": 1776513600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN chief strongly condemns killing of another peacekeeper in southern Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167332",
+    "pubDate": "18.04.2026 12:00:00",
+    "sortDate": 1776513600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UNICEF ‘outraged’ by killing of Gaza water truck drivers, urges investigation",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167331",
+    "pubDate": "18.04.2026 12:00:00",
+    "sortDate": 1776513600000,
+    "source": "UN News"
   },
   {
     "title": "Venezuela’s Machado to hold Madrid rally as opposition frozen out after Maduro capture",
@@ -217,11 +245,81 @@
     "source": "The Guardian"
   },
   {
-    "title": "Jacinta Allan wants voters to see Victoria’s 12-year-old Labor government as ‘new and united’. Can she cling to power?",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/18/jacinta-allan-wants-voters-to-see-victorias-12-year-old-labor-government-as-new-and-united-can-she-cling-to-power",
-    "pubDate": "17.04.2026 15:00:49",
-    "sortDate": 1776438049000,
-    "source": "The Guardian"
+    "title": "Gender, geography and powerbroking in play in race for next UN chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167323",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Three quarters of women feel unsafe as war rages on",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167330",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another power loss at Ukraine nuclear plant",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167329",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "More than half of Haitians continue to face food crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167328",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UNESCO grants ‘enhanced protection’ to cultural heritage sites in the Middle East  ",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167326",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Slaughtered like goats’: Despair and abandonment in South Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167327",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "As the ‘world court’ turns 80, Guterres says law must prevail over force",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167322",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Shockwaves of Middle East war reach Caribbean as food prices soar",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167321",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Record number of Rohingya refugees died at sea in 2025: UNHCR",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167320",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "More than 38,000 women and girls killed in Gaza war, UN gender equality agency reports",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167319",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 17 April: Israel-Lebanon ceasefire begins; Iran announces opening of Strait of Hormuz",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167318",
+    "pubDate": "17.04.2026 12:00:00",
+    "sortDate": 1776427200000,
+    "source": "UN News"
   },
   {
     "title": "South Koreans breathe sighs of relief as escaped wolf is returned to zoo safely",
@@ -250,6 +348,41 @@
     "pubDate": "16.04.2026 12:37:49",
     "sortDate": 1776343069000,
     "source": "The Guardian"
+  },
+  {
+    "title": "New food alert platform helps humanitarians combat hunger",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167317",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
+    "title": "The Epstein files: Rights experts demand accountability, call for probe into trafficking allegations",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167314",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deadly Russian strikes on Ukrainians ‘simply trying to live their lives’ must stop, says senior UN official",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167313",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN peacekeeping missions under strain as funding cuts and new threats grow",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167312",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 16 April: UN meets over China-Russia Hormuz crisis veto as humanitarian crisis continues in Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167311",
+    "pubDate": "16.04.2026 12:00:00",
+    "sortDate": 1776340800000,
+    "source": "UN News"
   },
   {
     "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
@@ -287,11 +420,88 @@
     "source": "The Guardian"
   },
   {
+    "title": "Strength in numbers: Developing countries band together as Iran war batters global economy",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167308",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167309",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Tobago’s teen archery champion takes aim at sustainability targets",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167310",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Africa: Nearly 20 million measles deaths averted since 2000",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167307",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Youth shape the road to 2030, call for urgent action on sustainable development",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167306",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE:  Security fears rise in eastern DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167304",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East conflict chokes end of supply chain as lights go out in the Pacific",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167303",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 15 April: Civilian dangers intensify as Israel expands Lebanon evacuation orders",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167302",
+    "pubDate": "15.04.2026 12:00:00",
+    "sortDate": 1776254400000,
+    "source": "UN News"
+  },
+  {
     "title": "About 250 missing after boat carrying Rohingya refugees capsizes in Andaman Sea",
     "link": "https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea",
     "pubDate": "14.04.2026 18:31:32",
     "sortDate": 1776191492000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167301",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemenis are ‘hanging by a thread’ top aid official warns Security Council",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167300",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167299",
+    "pubDate": "14.04.2026 12:00:00",
+    "sortDate": 1776168000000,
+    "source": "UN News"
   },
   {
     "title": "Indian music legend Asha Bhosle dies aged 92",
