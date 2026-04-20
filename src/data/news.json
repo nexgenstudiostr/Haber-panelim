@@ -1,16 +1,100 @@
 [
   {
-    "title": "Kremlin ‘impressed’ with Bulgarian election winner Radev’s call for pragmatic dialogue with Moscow – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/apr/20/bulgaria-election-ukraine-russia-hungary-macron-poland-latest-news-updates",
-    "pubDate": "20.04.2026 11:09:08",
-    "sortDate": 1776683348000,
+    "title": "Japan tsunami alerts downgraded following powerful earthquake off northern coast – follow latest",
+    "link": "https://www.theguardian.com/world/live/2026/apr/20/japan-tsunami-earthquake-sanriku-latest-news-updates",
+    "pubDate": "20.04.2026 13:01:18",
+    "sortDate": 1776690078000,
     "source": "The Guardian"
   },
   {
-    "title": "Japan tsunami alert issued following powerful earthquake off northern coast – follow latest",
-    "link": "https://www.theguardian.com/world/live/2026/apr/20/japan-tsunami-earthquake-sanriku-latest-news-updates",
-    "pubDate": "20.04.2026 11:04:40",
-    "sortDate": 1776683080000,
+    "title": "EU praises ‘extremely constructive’ early talks with incoming Hungarian government – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/apr/20/bulgaria-election-ukraine-russia-hungary-macron-poland-latest-news-updates",
+    "pubDate": "20.04.2026 13:01:05",
+    "sortDate": 1776690065000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump administration launches tariff refund system as first step in paying back billions – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/apr/20/trump-tariff-refund-politics-vance-congress-latest-updates",
+    "pubDate": "20.04.2026 12:45:06",
+    "sortDate": 1776689106000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Carney says Canada’s strong economic ties to US are ‘weakness’ to be corrected",
+    "link": "https://www.theguardian.com/world/2026/apr/20/mark-carney-canada-us-economy-trade",
+    "pubDate": "20.04.2026 12:35:39",
+    "sortDate": 1776688539000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No 10 signals Starmer accepts he inadvertently misled parliament over Mandelson vetting – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/20/keir-starmer-peter-mandelson-vetting-reform-immigration-iran-latest-news-updates",
+    "pubDate": "20.04.2026 12:35:35",
+    "sortDate": 1776688535000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: ceasefire under pressure as Iran says it has no plans for talks after US seizes ship",
+    "link": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
+    "pubDate": "20.04.2026 12:24:50",
+    "sortDate": 1776687890000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer to admit he inadvertently gave MPs misleading information on Mandelson",
+    "link": "https://www.theguardian.com/politics/2026/apr/20/keir-starmer-admit-inadvertently-gave-mps-misleading-information-peter-mandelson",
+    "pubDate": "20.04.2026 12:11:55",
+    "sortDate": 1776687115000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US and Mexican officials assigned to cartel case killed in car accident",
+    "link": "https://www.theguardian.com/us-news/2026/apr/20/mexico-car-accident-drug-officials-killed",
+    "pubDate": "20.04.2026 12:11:25",
+    "sortDate": 1776687085000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
+    "link": "https://www.theguardian.com/film/2026/apr/20/charlize-theron-timothee-chalamet-ballet-comments",
+    "pubDate": "20.04.2026 12:04:37",
+    "sortDate": 1776686677000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First Thing: US military seizes Iran-flagged ship trying to pass strait of Hormuz blockade",
+    "link": "https://www.theguardian.com/us-news/2026/apr/20/first-thing-us-military-seizes-iran-ship-strait-of-hormuz-blockade",
+    "pubDate": "20.04.2026 11:55:19",
+    "sortDate": 1776686119000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cabinet secretary apparently advised Starmer to wait for vetting before appointing Mandelson",
+    "link": "https://www.theguardian.com/politics/2026/apr/20/cabinet-secretary-simon-case-keir-starmer-peter-mandelson",
+    "pubDate": "20.04.2026 11:48:58",
+    "sortDate": 1776685738000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Amy Winehouse’s father Mitch loses high court battle against her friends",
+    "link": "https://www.theguardian.com/music/2026/apr/20/amy-winehouse-father-mitch-loses-high-court-battle-against-her-friends",
+    "pubDate": "20.04.2026 11:40:54",
+    "sortDate": 1776685254000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Oil prices rise and markets fall after US seizure of ship hits Iran peace deal hopes",
+    "link": "https://www.theguardian.com/business/2026/apr/20/oil-prices-rise-markets-fall-us-iran-ftse-100-gas-strait-of-hormuz",
+    "pubDate": "20.04.2026 11:28:06",
+    "sortDate": 1776684486000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Electric car sales soar 51% in mainland Europe as Iran war drives up fuel prices",
+    "link": "https://www.theguardian.com/environment/2026/apr/20/electric-car-ev-sales-mainland-europe-petrol-prices-iran-war",
+    "pubDate": "20.04.2026 11:25:07",
+    "sortDate": 1776684307000,
     "source": "The Guardian"
   },
   {
@@ -32,41 +116,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/20/trump-doj-epstein-files-victims",
     "pubDate": "20.04.2026 11:00:54",
     "sortDate": 1776682854000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: ceasefire under pressure as Iran says it has no plans for talks after US seizes ship",
-    "link": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
-    "pubDate": "20.04.2026 10:55:22",
-    "sortDate": 1776682522000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Starmer expected to lead Labour into next election, says minister, but warns there are ‘no certainties’ amid Mandelson scandal – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/apr/20/keir-starmer-peter-mandelson-vetting-reform-immigration-iran-latest-news-updates",
-    "pubDate": "20.04.2026 10:44:17",
-    "sortDate": 1776681857000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Home Office could face hundreds of claims over asylum families in single rooms",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/20/home-office-asylum-families-single-hotel-rooms-court",
-    "pubDate": "20.04.2026 10:23:37",
-    "sortDate": 1776680617000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Daughter calls for investigation into death of man after police contact at Bristol protest",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/20/daughter-investigation-death-nicholas-stone-police-contact-bristol-protest",
-    "pubDate": "20.04.2026 10:23:14",
-    "sortDate": 1776680594000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Oil prices rise and markets fall after US seizure of ship hits Iran peace deal hopes",
-    "link": "https://www.theguardian.com/business/2026/apr/20/oil-prices-rise-markets-fall-us-iran-ftse-100-gas-strait-of-hormuz",
-    "pubDate": "20.04.2026 10:18:22",
-    "sortDate": 1776680302000,
     "source": "The Guardian"
   },
   {
@@ -116,13 +165,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/20/israel-soldier-jesus-statue-sledgehammer-lebanon",
     "pubDate": "20.04.2026 08:33:27",
     "sortDate": 1776674007000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two teenagers arrested over arson attack on synagogue in north-west London",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/20/arrests-arson-attack-synagogue-kenton-north-west-london",
-    "pubDate": "20.04.2026 08:21:13",
-    "sortDate": 1776673273000,
     "source": "The Guardian"
   },
   {
@@ -182,31 +224,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘We’re Catholic first’: Sunday mass attenders weigh in on Trump’s feud with Pope Leo",
-    "link": "https://www.theguardian.com/us-news/2026/apr/19/catholics-mass-trump-pope-leo-georgia",
-    "pubDate": "20.04.2026 00:23:34",
-    "sortDate": 1776644614000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mass shooting rampage in Louisiana leaves eight children dead and others wounded",
-    "link": "https://www.theguardian.com/us-news/2026/apr/19/shreveport-louisiana-mass-shooting",
-    "pubDate": "19.04.2026 23:13:52",
-    "sortDate": 1776640432000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
     "link": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa",
     "pubDate": "19.04.2026 21:56:30",
     "sortDate": 1776635790000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Italian lawyers could win ‘wild west-style bounties’ if immigration clients go home",
-    "link": "https://www.theguardian.com/world/2026/apr/19/italian-lawyers-giorgia-meloni-wild-west-bounties-immigration",
-    "pubDate": "19.04.2026 13:23:12",
-    "sortDate": 1776604992000,
     "source": "The Guardian"
   },
   {
@@ -270,27 +291,6 @@
     "link": "https://www.theguardian.com/environment/2026/apr/17/weather-tracker-hail-covers-parts-of-tunisia-and-algeria-like-snow",
     "pubDate": "17.04.2026 07:49:38",
     "sortDate": 1776412178000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "South African politician Julius Malema given five-year jail term for gun offence",
-    "link": "https://www.theguardian.com/world/2026/apr/16/south-africa-julius-malema-jail-term-rifle",
-    "pubDate": "16.04.2026 12:37:49",
-    "sortDate": 1776343069000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
-    "link": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
-    "pubDate": "16.04.2026 11:33:33",
-    "sortDate": 1776339213000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US launches fifth strike on alleged Pacific drug boat in a week, killing three",
-    "link": "https://www.theguardian.com/us-news/2026/apr/16/us-launches-fifth-strike-on-alleged-pacific-drug-boat-in-a-week-killing-three",
-    "pubDate": "16.04.2026 03:56:32",
-    "sortDate": 1776311792000,
     "source": "The Guardian"
   },
   {
