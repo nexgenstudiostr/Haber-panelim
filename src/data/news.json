@@ -1,30 +1,44 @@
 [
   {
-    "title": "Australia news live: Anthony Albanese says national cabinet to meet this week to discuss ‘long tail’ of fuel crisis",
+    "title": "Australia news live: Ed Husic condemns ‘obscenely sweet’ gas deals; Anthony Albanese says national cabinet to discuss ‘long tail’ of fuel crisis",
     "link": "https://www.theguardian.com/australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb",
-    "pubDate": "20.04.2026 21:24:50",
-    "sortDate": 1776720290000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Senate Democrats to force fifth war powers resolution as ceasefire deadline looms – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/apr/20/trump-tariff-refund-politics-vance-congress-latest-updates",
-    "pubDate": "20.04.2026 21:15:10",
-    "sortDate": 1776719710000,
+    "pubDate": "20.04.2026 22:11:49",
+    "sortDate": 1776723109000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Iran sends mixed signals on talks after US seizes ship",
     "link": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
-    "pubDate": "20.04.2026 21:12:23",
-    "sortDate": 1776719543000,
+    "pubDate": "20.04.2026 22:03:29",
+    "sortDate": 1776722609000,
     "source": "The Guardian"
   },
   {
     "title": "Tim Cook to step down as CEO of Apple: ‘the greatest privilege of my life’",
     "link": "https://www.theguardian.com/technology/2026/apr/20/tim-cook-apple-ceo-replacement",
-    "pubDate": "20.04.2026 20:48:15",
-    "sortDate": 1776718095000,
+    "pubDate": "20.04.2026 22:00:49",
+    "sortDate": 1776722449000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats say Trump administration ‘imploding’ after third cabinet member steps down – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/apr/20/trump-tariff-refund-politics-vance-congress-latest-updates",
+    "pubDate": "20.04.2026 21:57:43",
+    "sortDate": 1776722263000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Singer D4vd pleads not guilty to murder of 14-year-old girl found in his car",
+    "link": "https://www.theguardian.com/music/2026/apr/20/singer-d4vd-charged-murder",
+    "pubDate": "20.04.2026 21:55:46",
+    "sortDate": 1776722146000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump labor secretary Lori Chavez-DeRemer resigns amid misconduct investigation",
+    "link": "https://www.theguardian.com/us-news/2026/apr/20/trump-labor-secretary-lori-chavez-deremer",
+    "pubDate": "20.04.2026 21:33:03",
+    "sortDate": 1776720783000,
     "source": "The Guardian"
   },
   {
@@ -42,24 +56,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Tory Lanez sues California officials for $100m over prison stabbing",
-    "link": "https://www.theguardian.com/us-news/2026/apr/20/tory-lanez-lawsuit-california-prison-stabbing",
-    "pubDate": "20.04.2026 19:53:56",
-    "sortDate": 1776714836000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Police investigate whether London arson attacks were planned for weeks",
     "link": "https://www.theguardian.com/uk-news/2026/apr/20/police-investigate-london-arson-attacks",
     "pubDate": "20.04.2026 19:28:01",
     "sortDate": 1776713281000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Climate groups sue US government over approval of new BP project in Gulf of Mexico",
-    "link": "https://www.theguardian.com/us-news/2026/apr/20/lawsuit-new-bp-oil-project-gulf-of-mexico",
-    "pubDate": "20.04.2026 19:22:29",
-    "sortDate": 1776712949000,
     "source": "The Guardian"
   },
   {
@@ -112,15 +112,8 @@
     "source": "The Guardian"
   },
   {
-    "title": "Water NSW criticised for ‘appalling’ decision after hundreds of turtles left to die in wetlands",
+    "title": "WaterNSW criticised for ‘appalling’ decision after hundreds of turtles left to die in wetlands",
     "link": "https://www.theguardian.com/environment/2026/apr/21/water-nsw-criticised-for-appalling-decision-after-hundreds-of-turtles-left-to-die-in-wetlands",
-    "pubDate": "20.04.2026 15:00:59",
-    "sortDate": 1776697259000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NDIS infiltrated by organised crime gangs using intimidation and threats of violence against Australians",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/20/ndis-infiltrated-organised-crime-gangs-australia",
     "pubDate": "20.04.2026 15:00:59",
     "sortDate": 1776697259000,
     "source": "The Guardian"
@@ -128,6 +121,13 @@
   {
     "title": "Consumer watchdog zeroes in on Woolworths’ allegedly fake discounts as it meets supermarket giant in court",
     "link": "https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia",
+    "pubDate": "20.04.2026 15:00:59",
+    "sortDate": 1776697259000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NDIS infiltrated by organised crime gangs using intimidation and threats of violence against Australians",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/20/ndis-infiltrated-organised-crime-gangs-australia",
     "pubDate": "20.04.2026 15:00:59",
     "sortDate": 1776697259000,
     "source": "The Guardian"
