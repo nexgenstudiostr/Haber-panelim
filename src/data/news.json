@@ -1,44 +1,114 @@
 [
   {
-    "title": "Ministers speak out in cabinet meeting over Starmer’s sacking of Olly Robbins",
+    "title": "Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
+    "link": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
+    "pubDate": "22.04.2026 15:48:24",
+    "sortDate": 1776872904000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
+    "link": "https://www.theguardian.com/world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
+    "pubDate": "22.04.2026 15:48:13",
+    "sortDate": 1776872893000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats hail Virginia’s redistricting plan and warn Republicans’ plan to redraw Florida could backfire – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates",
+    "pubDate": "22.04.2026 15:47:38",
+    "sortDate": 1776872858000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mother who lost three kids in Louisiana shooting hospitalized with bullet lodged in face",
+    "link": "https://www.theguardian.com/us-news/2026/apr/22/mother-hospitalized-kids-killed-louisiana-mass-shooting",
+    "pubDate": "22.04.2026 15:42:59",
+    "sortDate": 1776872579000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britain’s military dependence on US ‘no longer tenable’, says former Nato chief",
+    "link": "https://www.theguardian.com/politics/2026/apr/22/britain-military-dependence-on-us-no-longer-tenable-lord-robertson",
+    "pubDate": "22.04.2026 15:30:55",
+    "sortDate": 1776871855000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Anthony Fauci makes acting debut in Oedipus the King play reading in DC",
+    "link": "https://www.theguardian.com/us-news/2026/apr/22/anthony-fauci-acting-debut-oedipus-the-king",
+    "pubDate": "22.04.2026 15:28:10",
+    "sortDate": 1776871690000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Palestine Action activist who hit officer with sledge hammer ‘panicked’, court told",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/22/palestine-action-activist-who-hit-officer-with-sledge-hammer-panicked-court-told",
+    "pubDate": "22.04.2026 15:26:02",
+    "sortDate": 1776871562000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Zelenskyy says EU unblocking of €90bn loan for Ukraine is ‘the right signal’ as Hungary drops opposition – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
+    "pubDate": "22.04.2026 15:25:05",
+    "sortDate": 1776871505000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU agrees to unblock €90bn loan for Ukraine after Hungary lifts veto",
+    "link": "https://www.theguardian.com/world/2026/apr/22/eu-unblocks-loan-ukraine-new-sanctions-russia-hungary-lifts-veto",
+    "pubDate": "22.04.2026 15:19:26",
+    "sortDate": 1776871166000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour MP calls for Starmer’s resignation to end ‘psychodrama’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/22/keir-starmer-kemi-badenoch-pmqs-olly-robbins-peter-mandelson-uk-politics-latest-news-updates",
+    "pubDate": "22.04.2026 15:12:43",
+    "sortDate": 1776870763000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
+    "link": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
+    "pubDate": "22.04.2026 15:00:31",
+    "sortDate": 1776870031000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Podcast interviews of NSW couple jailed for abusing their daughter in the spotlight",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/22/australian-shadow-doubt-podcast-jailed-abusers-interviews-ntwnfb",
+    "pubDate": "22.04.2026 15:00:31",
+    "sortDate": 1776870031000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats demand FBI director, Kash Patel, take alcohol abuse test",
+    "link": "https://www.theguardian.com/us-news/2026/apr/22/kash-patel-alcohol-abuse-democrats-fbi",
+    "pubDate": "22.04.2026 14:58:03",
+    "sortDate": 1776869883000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "How Ireland’s war-driven fuel blockades revealed the true cost of Europe’s oil addiction",
+    "link": "https://www.theguardian.com/world/2026/apr/22/how-irelands-war-driven-fuel-blockades-revealed-the-true-cost-of-europes-oil-addiction",
+    "pubDate": "22.04.2026 14:47:42",
+    "sortDate": 1776869262000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Morgan McSweeney, Keir Starmer’s former chief of staff, to be questioned by MPs",
+    "link": "https://www.theguardian.com/politics/2026/apr/22/morgan-mcsweeney-starmer-former-chief-of-staff-to-be-questioned-by-mps",
+    "pubDate": "22.04.2026 14:47:33",
+    "sortDate": 1776869253000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ministers speak out in cabinet meeting over Keir Starmer’s sacking of Olly Robbins",
     "link": "https://www.theguardian.com/politics/2026/apr/22/olly-robbins-starmer-sacking-ministers-cabinet-meeting",
     "pubDate": "22.04.2026 14:30:24",
     "sortDate": 1776868224000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "After Virginia redistricting win, top House Democrat warns Republicans plans to redraw Florida maps could backfire – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates",
-    "pubDate": "22.04.2026 14:26:30",
-    "sortDate": 1776867990000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
-    "link": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-    "pubDate": "22.04.2026 14:24:38",
-    "sortDate": 1776867878000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How Olly Robbins’ knightly charm glossed over burning questions on Mandelson vetting",
-    "link": "https://www.theguardian.com/politics/2026/apr/22/olly-robbins-mandelson-vetting-file-foreign-office-analysis",
-    "pubDate": "22.04.2026 14:18:36",
-    "sortDate": 1776867516000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Starmer refuses to deny No 10 considered giving aide Matthew Doyle a diplomatic post – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/apr/22/keir-starmer-kemi-badenoch-pmqs-olly-robbins-peter-mandelson-uk-politics-latest-news-updates",
-    "pubDate": "22.04.2026 14:17:04",
-    "sortDate": 1776867424000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Zelenskyy says EU unblocking of €90bn loan for Ukraine is ‘the right signal’ as Hungary drops opposition – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
-    "pubDate": "22.04.2026 14:15:17",
-    "sortDate": 1776867317000,
     "source": "The Guardian"
   },
   {
@@ -46,20 +116,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/22/trump-approval-slips-polls-midterms",
     "pubDate": "22.04.2026 14:14:53",
     "sortDate": 1776867293000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "No evidence of antisemitism at Bristol school that postponed Jewish MP’s visit, inquiry finds",
-    "link": "https://www.theguardian.com/news/2026/apr/22/no-evidence-of-antisemitism-at-bristol-brunel-academy-school-postponed-visit-by-jewish-mp-damien-egan-review-finds",
-    "pubDate": "22.04.2026 14:04:55",
-    "sortDate": 1776866695000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Met police in talks to buy Palantir AI tech for use in criminal investigations",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/22/met-police-talks-palantir-ai-tech-criminal-investigations-automate-intelligence",
-    "pubDate": "22.04.2026 14:00:26",
-    "sortDate": 1776866426000,
     "source": "The Guardian"
   },
   {
@@ -77,31 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "What is May Day Strong, the ‘no work, no school, no shopping’ protests against Trump?",
-    "link": "https://www.theguardian.com/us-news/2026/apr/22/may-day-strong-trump-workers",
-    "pubDate": "22.04.2026 13:00:25",
-    "sortDate": 1776862825000,
-    "source": "The Guardian"
-  },
-  {
     "title": "EU plans to cut electricity taxes to shield households from Iran war energy crisis",
     "link": "https://www.theguardian.com/environment/2026/apr/22/eu-plans-cut-electricity-taxes-shield-households-iran-war-energy-crisis",
     "pubDate": "22.04.2026 12:48:36",
     "sortDate": 1776862116000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ryanair to close check-in 20 minutes earlier amid concern over Europe border queues",
-    "link": "https://www.theguardian.com/business/2026/apr/22/ryanair-close-bag-check-in-20-minutes-earlier-concern-europe-border-queues",
-    "pubDate": "22.04.2026 12:33:34",
-    "sortDate": 1776861214000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Close call between two planes being investigated at New York’s JFK airport",
-    "link": "https://www.theguardian.com/us-news/2026/apr/22/close-call-planes-jfk-airport-investigation",
-    "pubDate": "22.04.2026 12:24:49",
-    "sortDate": 1776860689000,
     "source": "The Guardian"
   },
   {
@@ -112,25 +147,18 @@
     "source": "The Guardian"
   },
   {
-    "title": "Extreme heat pushing global food systems to the brink, UN agencies warn",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167352",
+    "title": "Earth Day: The battle to save a drowning Pacific island nation",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167353",
     "pubDate": "22.04.2026 12:00:00",
     "sortDate": 1776859200000,
     "source": "UN News"
   },
   {
-    "title": "Tui cuts profit forecast as effects of Iran war cost travel group €40m",
-    "link": "https://www.theguardian.com/business/2026/apr/22/tui-cuts-profit-forecast-iran-war-cost-travel-group",
-    "pubDate": "22.04.2026 11:42:46",
-    "sortDate": 1776858166000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "First Thing: Trump announces extension of Iran ceasefire until ‘discussion concluded’",
-    "link": "https://www.theguardian.com/us-news/2026/apr/22/first-thing-donald-trump-announces-extension-of-iran-ceasefire-until-discussion-concluded",
-    "pubDate": "22.04.2026 11:27:09",
-    "sortDate": 1776857229000,
-    "source": "The Guardian"
+    "title": "Extreme heat pushing global food systems to the brink, UN agencies warn",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167352",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
   },
   {
     "title": "At least 160,000 to be cut from NDIS amid concerns vulnerable people will be left without care",
@@ -151,20 +179,6 @@
     "link": "https://www.theguardian.com/environment/2026/apr/22/mouse-plague-hits-wa-grain-farmers-as-numbers-surge-in-sa-you-literally-cant-get-away-from-them",
     "pubDate": "22.04.2026 08:42:50",
     "sortDate": 1776847370000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Gas lobby spends millions on anti-tax ads – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
-    "pubDate": "22.04.2026 08:04:26",
-    "sortDate": 1776845066000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Coles adds 20c to the price of milk as war in the Middle East pushes up Australian grocery costs",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/22/milk-price-coles-supermarket-war-middle-east",
-    "pubDate": "22.04.2026 07:56:17",
-    "sortDate": 1776844577000,
     "source": "The Guardian"
   },
   {
@@ -193,13 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/22/israel-death-penalty-law-rights-body-council-of-europe",
     "pubDate": "22.04.2026 04:00:08",
     "sortDate": 1776830408000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Strait of Hormuz military talks to be led by UK and France – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks",
-    "pubDate": "22.04.2026 02:32:42",
-    "sortDate": 1776825162000,
     "source": "The Guardian"
   },
   {
@@ -508,13 +515,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167318",
     "pubDate": "17.04.2026 12:00:00",
     "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "New food alert platform helps humanitarians combat hunger",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167317",
-    "pubDate": "16.04.2026 12:00:00",
-    "sortDate": 1776340800000,
     "source": "UN News"
   },
   {
