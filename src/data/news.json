@@ -1,16 +1,58 @@
 [
   {
-    "title": "Middle East crisis live: Iran says it has seized two ships in strait of Hormuz after Trump extends ceasefire",
+    "title": "Australia news live: rental vacancies at record low in most big cities and prices rising",
+    "link": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
+    "pubDate": "22.04.2026 20:30:35",
+    "sortDate": 1776889835000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: White House says Trump ‘satisfied’ with blockade after Iran says it seized two ships in strait of Hormuz",
     "link": "https://www.theguardian.com/world/live/2026/apr/22/iran-war-live-updates-trump-ceasefire-us-hormuz-blockade-israel-lebanon-middle-east",
-    "pubDate": "22.04.2026 19:03:02",
-    "sortDate": 1776884582000,
+    "pubDate": "22.04.2026 20:16:35",
+    "sortDate": 1776888995000,
     "source": "The Guardian"
   },
   {
     "title": "Trump pushes baseless claim that Virginia redistricting vote was ‘rigged’ – live",
     "link": "https://www.theguardian.com/us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates",
-    "pubDate": "22.04.2026 19:03:00",
-    "sortDate": 1776884580000,
+    "pubDate": "22.04.2026 20:06:41",
+    "sortDate": 1776888401000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lebanon accuses Israel of blocking attempt to rescue journalist after bomb strike",
+    "link": "https://www.theguardian.com/world/2026/apr/22/lebanon-accuses-israel-of-blocking-attempt-to-rescue-journalist-after-bomb-strike",
+    "pubDate": "22.04.2026 19:53:45",
+    "sortDate": 1776887625000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Inquiry clears Bristol school of antisemitism for postponing Jewish MP’s visit",
+    "link": "https://www.theguardian.com/news/2026/apr/22/no-evidence-of-antisemitism-at-bristol-brunel-academy-school-postponed-visit-by-jewish-mp-damien-egan-review-finds",
+    "pubDate": "22.04.2026 19:34:55",
+    "sortDate": 1776886495000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Temporary protected status holders add $29bn to US economy, report says",
+    "link": "https://www.theguardian.com/us-news/2026/apr/22/temporary-protected-status-us-economy",
+    "pubDate": "22.04.2026 19:30:08",
+    "sortDate": 1776886208000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US saw record high of 5,668 books banned in libraries in 2025, says agency",
+    "link": "https://www.theguardian.com/us-news/2026/apr/22/us-libraries-banned-books",
+    "pubDate": "22.04.2026 19:18:02",
+    "sortDate": 1776885482000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wildfires burning across Georgia and Florida destroy homes and force evacuations",
+    "link": "https://www.theguardian.com/us-news/2026/apr/22/georgia-florida-wildfires",
+    "pubDate": "22.04.2026 19:14:54",
+    "sortDate": 1776885294000,
     "source": "The Guardian"
   },
   {
@@ -28,13 +70,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Virginia voters approve new congressional maps in blow to Trump",
-    "link": "https://www.theguardian.com/us-news/2026/apr/21/virginia-congressional-maps",
-    "pubDate": "22.04.2026 18:17:14",
-    "sortDate": 1776881834000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Divisions emerge in Keir Starmer’s cabinet over his sacking of Olly Robbins",
     "link": "https://www.theguardian.com/politics/2026/apr/22/olly-robbins-starmer-sacking-ministers-cabinet-meeting",
     "pubDate": "22.04.2026 18:12:00",
@@ -42,24 +77,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Democrats won the redistricting fight in Virginia. Was Trump’s gerrymandering war all for nothing?",
-    "link": "https://www.theguardian.com/us-news/2026/apr/22/virgina-midterm-elections-trump",
-    "pubDate": "22.04.2026 17:50:23",
-    "sortDate": 1776880223000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Morgan McSweeney, Keir Starmer’s former chief of staff, to be questioned by MPs",
     "link": "https://www.theguardian.com/politics/2026/apr/22/morgan-mcsweeney-starmer-former-chief-of-staff-to-be-questioned-by-mps",
     "pubDate": "22.04.2026 17:46:00",
     "sortDate": 1776879960000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "RFK Jr faces intense questions in US Senate on measles and flu deaths",
-    "link": "https://www.theguardian.com/us-news/2026/apr/22/rfk-jr-senate-hearing-measles-outbreak-vaccines",
-    "pubDate": "22.04.2026 17:43:20",
-    "sortDate": 1776879800000,
     "source": "The Guardian"
   },
   {
@@ -98,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Four people arrested over suspected £44m UK home insulation scam",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/22/people-arrested-over-suspected-uk-home-insulation-scam",
-    "pubDate": "22.04.2026 15:56:11",
-    "sortDate": 1776873371000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Strait of Hormuz is hosting gunboat diplomacy as US and Iran vie for most effective blockade",
     "link": "https://www.theguardian.com/world/2026/apr/22/strait-of-hormuz-gunboat-diplomacy-us-iran-blockade",
     "pubDate": "22.04.2026 15:48:13",
@@ -126,15 +140,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "Podcast interviews of NSW couple jailed for abusing their daughter in the spotlight",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/22/australian-shadow-doubt-podcast-jailed-abusers-interviews-ntwnfb",
+    "title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
+    "link": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
     "pubDate": "22.04.2026 15:00:31",
     "sortDate": 1776870031000,
     "source": "The Guardian"
   },
   {
-    "title": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
-    "link": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
+    "title": "Podcast interviews of NSW couple jailed for abusing their daughter in the spotlight",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/22/australian-shadow-doubt-podcast-jailed-abusers-interviews-ntwnfb",
     "pubDate": "22.04.2026 15:00:31",
     "sortDate": 1776870031000,
     "source": "The Guardian"
@@ -154,11 +168,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Gaza’s yellow line creeps forward as Israeli forces expand zone of control",
-    "link": "https://www.theguardian.com/world/2026/apr/22/gaza-yellow-line-creeps-westwards-israel",
-    "pubDate": "22.04.2026 12:04:29",
-    "sortDate": 1776859469000,
-    "source": "The Guardian"
+    "title": "SECURITY COUNCIL LIVE: Regional war threatens Syria’s fragile transition",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167358",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
   },
   {
     "title": "Libya: UN mission chief laments lack of progress towards national renewal",
@@ -207,13 +221,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/apr/22/energy-giants-spending-millions-of-dollars-on-advertising-blitz-to-fight-gas-export-tax-inquiry-told",
     "pubDate": "22.04.2026 08:48:13",
     "sortDate": 1776847693000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mouse plague hits WA grain farmers as numbers surge in SA: ‘You literally can’t get away from them’",
-    "link": "https://www.theguardian.com/environment/2026/apr/22/mouse-plague-hits-wa-grain-farmers-as-numbers-surge-in-sa-you-literally-cant-get-away-from-them",
-    "pubDate": "22.04.2026 08:42:50",
-    "sortDate": 1776847370000,
     "source": "The Guardian"
   },
   {
@@ -506,13 +513,6 @@
   {
     "title": "As the ‘world court’ turns 80, Guterres says law must prevail over force",
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167322",
-    "pubDate": "17.04.2026 12:00:00",
-    "sortDate": 1776427200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Shockwaves of Middle East war reach Caribbean as food prices soar",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167321",
     "pubDate": "17.04.2026 12:00:00",
     "sortDate": 1776427200000,
     "source": "UN News"
