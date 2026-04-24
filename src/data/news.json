@@ -1,37 +1,100 @@
 [
   {
-    "title": "Death of the gatekeeper: Devil Wears Prada 2 depicts a revolution in the fashion world",
-    "link": "https://www.theguardian.com/fashion/2026/apr/24/the-devil-wears-prada-2-shines-a-spotlight-on-a-revolution-in-the-fashion-world",
-    "pubDate": "24.04.2026 12:58:17",
-    "sortDate": 1777035497000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Downing Street says sovereignty of Falkland Islands ‘rests with the UK’ after leaked Pentagon report – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/apr/24/keir-starmer-peter-mandelson-us-met-police-westminster-assisted-dying-latest-news",
-    "pubDate": "24.04.2026 12:57:09",
-    "sortDate": 1777035429000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal",
-    "link": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
-    "pubDate": "24.04.2026 12:48:41",
-    "sortDate": 1777034921000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Justice department watchdog will investigate release of Epstein files – US politics live",
+    "title": "Justice department ends criminal probe into Fed chair Jerome Powell – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/apr/24/doj-watchdog-epstein-donald-trump-iran-war-budget-bill-latest-news",
-    "pubDate": "24.04.2026 12:45:20",
-    "sortDate": 1777034720000,
+    "pubDate": "24.04.2026 14:59:17",
+    "sortDate": 1777042757000,
     "source": "The Guardian"
   },
   {
-    "title": "Man, 32, jailed for life for rape and assault of Sikh woman in Walsall",
+    "title": "Starmer pledges to bring forward law proscribing Iran’s Revolutionary Guards",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/24/starmer-pledges-law-proscribing-iran-revolutionary-guards",
+    "pubDate": "24.04.2026 14:50:50",
+    "sortDate": 1777042250000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Assisted dying bill fails to become law after running out of time in parliament – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/24/keir-starmer-peter-mandelson-us-met-police-westminster-assisted-dying-latest-news",
+    "pubDate": "24.04.2026 14:49:24",
+    "sortDate": 1777042164000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Retail sales rise in Great Britain after Iran war prompted ‘panic at the pumps’",
+    "link": "https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
+    "pubDate": "24.04.2026 14:47:05",
+    "sortDate": 1777042025000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kezia Dugdale, incoming chair of Stonewall, apologises after backlash over JK Rowling remarks",
+    "link": "https://www.theguardian.com/politics/2026/apr/24/kezia-dugdale-chair-stonewall-apologises-backlash-jk-rowling-remarks",
+    "pubDate": "24.04.2026 14:39:26",
+    "sortDate": 1777041566000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man jailed for life after racially abusing Sikh woman as he raped her in Walsall",
     "link": "https://www.theguardian.com/uk-news/2026/apr/24/man-john-ashby-32-jailed-for-life-for-rape-and-assault-of-sikh-woman-in-walsall",
-    "pubDate": "24.04.2026 12:34:11",
-    "sortDate": 1777034051000,
+    "pubDate": "24.04.2026 14:38:02",
+    "sortDate": 1777041482000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: hopes rise for renewed US-Iran talks as Tehran’s foreign minister reported to be heading to Pakistan",
+    "link": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
+    "pubDate": "24.04.2026 14:30:30",
+    "sortDate": 1777041030000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
+    "link": "https://www.theguardian.com/world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
+    "pubDate": "24.04.2026 14:12:56",
+    "sortDate": 1777039976000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Syria arrests suspected leader of Tadamon massacre",
+    "link": "https://www.theguardian.com/world/2026/apr/24/syria-arrests-suspected-leader-of-tadamon-massacre",
+    "pubDate": "24.04.2026 13:58:33",
+    "sortDate": 1777039113000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
+    "link": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction",
+    "pubDate": "24.04.2026 13:56:43",
+    "sortDate": 1777039003000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Paige Shiver says ex-Michigan coach Moore ‘controlled’ her, reveals she was pregnant",
+    "link": "https://www.theguardian.com/sport/2026/apr/23/paige-shiver-sherrone-moore-good-morning-america-interview",
+    "pubDate": "24.04.2026 13:54:11",
+    "sortDate": 1777038851000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Netanyahu says he was successfully treated for prostate cancer",
+    "link": "https://www.theguardian.com/world/2026/apr/24/benjamin-netanyahu-successfully-treated-for-prostate-cancer-israel",
+    "pubDate": "24.04.2026 13:40:18",
+    "sortDate": 1777038018000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
+    "pubDate": "24.04.2026 13:18:38",
+    "sortDate": 1777036718000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU leaders want ‘mutual assistance pact’ plan, amid Trump’s Nato criticism",
+    "link": "https://www.theguardian.com/world/2026/apr/24/europe-defence-nato-us-donald-trump",
+    "pubDate": "24.04.2026 13:13:15",
+    "sortDate": 1777036395000,
     "source": "The Guardian"
   },
   {
@@ -56,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Two-thirds of global hunger concentrated in 10 conflict-hit countries",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167374",
-    "pubDate": "24.04.2026 12:00:00",
-    "sortDate": 1777032000000,
-    "source": "UN News"
-  },
-  {
     "title": "Microsoft and Meta cut thousands of staff as they bet big on AI | First Thing",
     "link": "https://www.theguardian.com/us-news/2026/apr/24/first-thing-microsoft-and-meta-cut-thousands-of-staff-as-they-bet-big-on-ai",
     "pubDate": "24.04.2026 11:52:30",
@@ -77,24 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Retail sales rise in Britain after Iran war prompted ‘panic at the pumps’",
-    "link": "https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
-    "pubDate": "24.04.2026 11:44:08",
-    "sortDate": 1777031048000,
-    "source": "The Guardian"
-  },
-  {
     "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
     "link": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
     "pubDate": "24.04.2026 11:42:26",
     "sortDate": 1777030946000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Stock markets will fall, Bank of England deputy governor says",
-    "link": "https://www.theguardian.com/business/2026/apr/24/stock-markets-fall-bank-of-england-deputy-governor-sarah-breeden",
-    "pubDate": "24.04.2026 11:28:06",
-    "sortDate": 1777030086000,
     "source": "The Guardian"
   },
   {
@@ -112,24 +154,17 @@
     "source": "The Guardian"
   },
   {
+    "title": "Epstein housed alleged victims in London after Met declined to investigate him, reports say",
+    "link": "https://www.theguardian.com/us-news/2026/apr/24/epstein-housed-alleged-victims-in-london-after-met-declined-to-investigate-him-say-reports",
+    "pubDate": "24.04.2026 10:18:01",
+    "sortDate": 1777025881000,
+    "source": "The Guardian"
+  },
+  {
     "title": "After Italian law change, Americans hope supreme court ruling will reopen door to citizenship",
     "link": "https://www.theguardian.com/world/2026/apr/24/italy-citizenship-law-change-us-citizens-supreme-court",
     "pubDate": "24.04.2026 10:00:37",
     "sortDate": 1777024837000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US gambling addiction is ‘out of control’ as betting markets boom, policy expert warns",
-    "link": "https://www.theguardian.com/us-news/2026/apr/24/gambling-addiction-out-of-control-betting-markets",
-    "pubDate": "24.04.2026 10:00:37",
-    "sortDate": 1777024837000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Syria arrests suspected leader of Tadamon massacre",
-    "link": "https://www.theguardian.com/world/2026/apr/24/syria-arrests-suspected-leader-of-tadamon-massacre",
-    "pubDate": "24.04.2026 09:53:25",
-    "sortDate": 1777024405000,
     "source": "The Guardian"
   },
   {
@@ -175,20 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
-    "link": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
-    "pubDate": "24.04.2026 05:00:32",
-    "sortDate": 1777006832000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Largest-ever ban on toxic chemicals in EU hit by ‘extremely frustrating’ delays",
-    "link": "https://www.theguardian.com/environment/2026/apr/24/toxic-chemicals-eu-delays-pollution-report",
-    "pubDate": "24.04.2026 04:00:30",
-    "sortDate": 1777003230000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Anthony Albanese accused of ‘caving to gas companies’ as Labor set to reject new export tax",
     "link": "https://www.theguardian.com/australia-news/2026/apr/24/labor-albanese-gas-tax-caving-david-pocock-fuel-supply",
     "pubDate": "24.04.2026 03:49:09",
@@ -200,20 +221,6 @@
     "link": "https://www.theguardian.com/world/live/2026/apr/23/middle-east-crisis-live-news-us-iran-ceasefire-strait-of-hormuz-blockade-ships-latest-updates",
     "pubDate": "24.04.2026 02:55:20",
     "sortDate": 1776999320000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships",
-    "link": "https://www.theguardian.com/us-news/2026/apr/23/trump-claims-us-has-total-control-over-strait-of-hormuz-as-iran-seizes-two-container-ships",
-    "pubDate": "24.04.2026 02:22:28",
-    "sortDate": 1776997348000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former inspector general urges audit of Epstein files release be conducted ‘without undue influence’ – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/apr/23/donald-trump-shutdown-ice-border-patrol-dhs-iran-democrats-republicans-latest-news-updates",
-    "pubDate": "24.04.2026 01:58:24",
-    "sortDate": 1776995904000,
     "source": "The Guardian"
   },
   {
@@ -231,24 +238,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Dozens of Mexican mafia members arrested in California crackdown",
-    "link": "https://www.theguardian.com/us-news/2026/apr/23/mexican-mafia-arrests-california",
-    "pubDate": "23.04.2026 17:42:30",
-    "sortDate": 1776966150000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Take action over officials in Kyrgyzstan ‘helping Russia evade sanctions’, MPs and peers say",
     "link": "https://www.theguardian.com/world/2026/apr/23/take-action-over-officials-in-kyrgyzstan-helping-russia-evade-sanctions-mps-and-peers-say",
     "pubDate": "23.04.2026 14:45:48",
     "sortDate": 1776955548000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "St Vincent and Grenadines government pauses constitutional amendment bills after public backlash",
-    "link": "https://www.theguardian.com/world/2026/apr/23/st-vincent-and-grenadines-government-constitutional-amendment-bills-godwin-friday",
-    "pubDate": "23.04.2026 13:01:26",
-    "sortDate": 1776949286000,
     "source": "The Guardian"
   },
   {
@@ -257,55 +250,6 @@
     "pubDate": "23.04.2026 12:07:35",
     "sortDate": 1776946055000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: Civilians at risk in Gaza and West Bank, Duterte to go on trial in ICC, Yemen detainees update",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167373",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN rights chief urges action to end impunity and address disappearances in Mexico",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167371",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "WHO says billions saw health gains in 2025 despite funding cuts",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167370",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Devastation at every turn greets UN aid mission to south Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167367",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Despite ceasefire, Hormuz tensions continue to throttle supply chains worldwide",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167365",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war: After oil and gas, concerns grow over minerals crunch",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167364",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "SECURITY COUNCIL LIVE: Update on Haiti as humanitarian crisis continues alongside gang violence",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167362",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
   },
   {
     "title": "Pilot’s selfie led to mid-air collision in F-15K fighter jet, says South Korea’s air force",
@@ -320,62 +264,6 @@
     "pubDate": "22.04.2026 16:13:00",
     "sortDate": 1776874380000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Time to apply the brakes to runaway AI, says pioneer",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167361",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Insecurity in the Darfurs, 100 million live with landmine threats, Singapore execution moratorium",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167360",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
-    "source": "UN News"
-  },
-  {
-    "title": "SECURITY COUNCIL LIVE: Regional war threatens Syria’s fragile transition",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167358",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Libya: UN mission chief laments lack of progress towards national renewal",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167357",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Long hours, stress and harassment are causing hundreds of thousands of early deaths, says UN labour agency",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167356",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ceasefire extension offers diplomatic opening, but tensions persist in Strait of Hormuz",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167354",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Earth Day: The battle to save a drowning Pacific island nation",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167353",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Extreme heat pushing global food systems to the brink, UN agencies warn",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167352",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
-    "source": "UN News"
   },
   {
     "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
@@ -413,62 +301,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "World News in Brief: Tackling the AI digital divide, deadly migration journeys, Lucy Hale named new WFP Goodwill Ambassador",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167349",
-    "pubDate": "21.04.2026 12:00:00",
-    "sortDate": 1776772800000,
-    "source": "UN News"
-  },
-  {
-    "title": "As Colombia elections near, Security Council hears calls for calm",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167348",
-    "pubDate": "21.04.2026 12:00:00",
-    "sortDate": 1776772800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nature’s last strongholds: Why UNESCO sites are a lifeline for a planet in peril",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167347",
-    "pubDate": "21.04.2026 12:00:00",
-    "sortDate": 1776772800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Economic collapse pushes highly educated Gazans into the ‘survival economy’",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167345",
-    "pubDate": "21.04.2026 12:00:00",
-    "sortDate": 1776772800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres urges countries to ‘unleash the renewables revolution’",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167343",
-    "pubDate": "21.04.2026 12:00:00",
-    "sortDate": 1776772800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Secretary-General hopefuls make their case in televised ‘interactive dialogues’",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167342",
-    "pubDate": "21.04.2026 12:00:00",
-    "sortDate": 1776772800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Millions of desperate Sudanese return home amid dire conditions as war rages",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167341",
-    "pubDate": "21.04.2026 12:00:00",
-    "sortDate": 1776772800000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 21 April: Talks unclear; Hormuz tensions continue",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167340",
-    "pubDate": "21.04.2026 12:00:00",
-    "sortDate": 1776772800000,
-    "source": "UN News"
-  },
-  {
     "title": "Pakistan seeks to raise its global standing in push for Middle East peace",
     "link": "https://www.theguardian.com/world/2026/apr/20/pakistan-global-standing-mediator-us-iran-talks-middle-east",
     "pubDate": "20.04.2026 13:42:17",
@@ -481,47 +313,5 @@
     "pubDate": "20.04.2026 12:04:37",
     "sortDate": 1776686677000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: AI diagnostics, humanitarian deal for DR Congo, rights abuse allegations in Belarus, Ukraine children bear heaviest burden",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167339",
-    "pubDate": "20.04.2026 12:00:00",
-    "sortDate": 1776686400000,
-    "source": "UN News"
-  },
-  {
-    "title": "SECURITY COUNCIL LIVE: Emergency briefing on Ukraine amid escalating Russian attacks",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167338",
-    "pubDate": "20.04.2026 12:00:00",
-    "sortDate": 1776686400000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN Forum puts spotlight on healthcare for Indigenous Peoples",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167337",
-    "pubDate": "20.04.2026 12:00:00",
-    "sortDate": 1776686400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Human development set back 77 years as recovery costs rise to $71 billion",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167336",
-    "pubDate": "20.04.2026 12:00:00",
-    "sortDate": 1776686400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Time running out on development goals as finance dries up, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167334",
-    "pubDate": "20.04.2026 12:00:00",
-    "sortDate": 1776686400000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 20 April: Uncertainty grows in the Strait of Hormuz",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167333",
-    "pubDate": "20.04.2026 12:00:00",
-    "sortDate": 1776686400000,
-    "source": "UN News"
   }
 ]
