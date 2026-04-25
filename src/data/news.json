@@ -1,9 +1,44 @@
 [
   {
+    "title": "Two children die in Wolverhampton house fire",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/25/children-die-in-wolverhampton-house-fire",
+    "pubDate": "25.04.2026 09:19:11",
+    "sortDate": 1777108751000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Middle East crisis live: Witkoff and Kushner head to Pakistan for talks; Israel strikes Lebanon despite ceasefire",
     "link": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
-    "pubDate": "25.04.2026 07:31:54",
-    "sortDate": 1777102314000,
+    "pubDate": "25.04.2026 09:04:56",
+    "sortDate": 1777107896000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
+    "link": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
+    "pubDate": "25.04.2026 09:00:41",
+    "sortDate": 1777107641000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Criminalisation of climate protesters in UK is counterproductive, research finds",
+    "link": "https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds",
+    "pubDate": "25.04.2026 09:00:41",
+    "sortDate": 1777107641000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Racism is a cancer’: Indigenous leaders condemn orchestrated booing at Anzac Day ceremonies",
+    "link": "https://www.theguardian.com/news/2026/apr/25/indigenous-leaders-anzac-day-booing-racism-orchestrated-dawn-service-australia-ntwnfb",
+    "pubDate": "25.04.2026 08:20:50",
+    "sortDate": 1777105250000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Athens cannot operate as a giant hotel’: mayor vows to rescue capital from overtourism",
+    "link": "https://www.theguardian.com/world/2026/apr/25/athens-cannot-operate-as-a-giant-hotel-mayor-vows-to-rescue-capital-from-overtourism",
+    "pubDate": "25.04.2026 08:00:39",
+    "sortDate": 1777104039000,
     "source": "The Guardian"
   },
   {
@@ -133,13 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Shabana Mahmood does not rule out sending back refused Afghan asylum seekers",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/24/shabana-mahmood-refuses-to-rule-out-sending-back-failed-afghan-asylum-seekers",
-    "pubDate": "24.04.2026 21:00:26",
-    "sortDate": 1777064426000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Mother ends life at Swiss clinic four years after son’s death",
     "link": "https://www.theguardian.com/society/2026/apr/24/mother-ends-life-at-swiss-clinic-four-years-after-sons-death",
     "pubDate": "24.04.2026 20:36:35",
@@ -158,13 +186,6 @@
     "link": "https://www.theguardian.com/us-news/2026/apr/24/millionaire-hunter-dies-elephants-gabon",
     "pubDate": "24.04.2026 18:09:03",
     "sortDate": 1777054143000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US won’t give unredacted Epstein documents to UK police without formal request",
-    "link": "https://www.theguardian.com/us-news/2026/apr/24/us-wont-give-unredacted-epstein-documents-to-uk-police-without-lengthy-formal-request",
-    "pubDate": "24.04.2026 18:07:17",
-    "sortDate": 1777054037000,
     "source": "The Guardian"
   },
   {
@@ -196,18 +217,53 @@
     "source": "The Guardian"
   },
   {
-    "title": "EU leaders look to little-known mutual assistance pact amid Trump Nato jibes",
-    "link": "https://www.theguardian.com/world/2026/apr/24/europe-defence-nato-us-donald-trump",
-    "pubDate": "24.04.2026 13:13:15",
-    "sortDate": 1777036395000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Tokyo workers encouraged to wear shorts to cut energy costs and keep cool",
     "link": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat",
     "pubDate": "24.04.2026 12:22:40",
     "sortDate": 1777033360000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Rising nuclear risks put global security pact to the test at UN Headquarters",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167380",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Airliner safety warning, drought in Somalia, solar boosts farming in Ethiopia",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167379",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "For every generation, vaccines work and they have saved over 150 million lives: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167377",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "As Gaza misery continues, shortages in Iran begin to bite",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167376",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 24 April: Israel-Lebanon ceasefire extended as humanitarian concerns persist",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167375",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Two-thirds of global hunger concentrated in 10 conflict-hit countries",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167374",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
   },
   {
     "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
@@ -228,13 +284,6 @@
     "link": "https://www.theguardian.com/film/2026/apr/24/actor-mocked-rebel-wilson-wife-instagram-post-defamation-trial-ntwnfb",
     "pubDate": "24.04.2026 09:21:15",
     "sortDate": 1777022475000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Feeling gloomy about the economy? The ‘vibecession’ has arrived in Australia – but experts are less worried",
-    "link": "https://www.theguardian.com/business/2026/apr/24/feeling-gloomy-about-the-economy-the-vibecession-has-arrived-in-australia-but-experts-are-less-worried",
-    "pubDate": "24.04.2026 08:12:27",
-    "sortDate": 1777018347000,
     "source": "The Guardian"
   },
   {
@@ -273,11 +322,116 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: Civilians at risk in Gaza and West Bank, Duterte to go on trial in ICC, Yemen detainees update",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167373",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rights chief urges action to end impunity and address disappearances in Mexico",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167371",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO says billions saw health gains in 2025 despite funding cuts",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167370",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Devastation at every turn greets UN aid mission to south Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167367",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Despite ceasefire, Hormuz tensions continue to throttle supply chains worldwide",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167365",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: After oil and gas, concerns grow over minerals crunch",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167364",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Update on Haiti as humanitarian crisis continues alongside gang violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167362",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
     "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
     "link": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
     "pubDate": "22.04.2026 16:13:00",
     "sortDate": 1776874380000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Time to apply the brakes to runaway AI, says pioneer",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167361",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Insecurity in the Darfurs, 100 million live with landmine threats, Singapore execution moratorium",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167360",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Regional war threatens Syria’s fragile transition",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167358",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Libya: UN mission chief laments lack of progress towards national renewal",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167357",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Long hours, stress and harassment are causing hundreds of thousands of early deaths, says UN labour agency",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167356",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ceasefire extension offers diplomatic opening, but tensions persist in Strait of Hormuz",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167354",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Earth Day: The battle to save a drowning Pacific island nation",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167353",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Extreme heat pushing global food systems to the brink, UN agencies warn",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167352",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
   },
   {
     "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
@@ -301,11 +455,60 @@
     "source": "The Guardian"
   },
   {
-    "title": "Taiwan president blames China for forced cancellation of Eswatini trip",
-    "link": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
-    "pubDate": "21.04.2026 18:22:29",
-    "sortDate": 1776795749000,
-    "source": "The Guardian"
+    "title": "World News in Brief: Tackling the AI digital divide, deadly migration journeys, Lucy Hale named new WFP Goodwill Ambassador",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167349",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "As Colombia elections near, Security Council hears calls for calm",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167348",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nature’s last strongholds: Why UNESCO sites are a lifeline for a planet in peril",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167347",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Economic collapse pushes highly educated Gazans into the ‘survival economy’",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167345",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres urges countries to ‘unleash the renewables revolution’",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167343",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Secretary-General hopefuls make their case in televised ‘interactive dialogues’",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167342",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Millions of desperate Sudanese return home amid dire conditions as war rages",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167341",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 21 April: Talks unclear; Hormuz tensions continue",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167340",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
   },
   {
     "title": "Pakistan seeks to raise its global standing in push for Middle East peace",
@@ -313,5 +516,12 @@
     "pubDate": "20.04.2026 13:42:17",
     "sortDate": 1776692537000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: AI diagnostics, humanitarian deal for DR Congo, rights abuse allegations in Belarus, Ukraine children bear heaviest burden",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167339",
+    "pubDate": "20.04.2026 12:00:00",
+    "sortDate": 1776686400000,
+    "source": "UN News"
   }
 ]
