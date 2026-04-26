@@ -1,5 +1,26 @@
 [
   {
+    "title": "Starmer says ‘vast majority’ of Labour MPs still support him, despite Mandelson controversy – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/26/keir-starmer-labour-support-mandelson-controversy-uk-politics-live",
+    "pubDate": "26.04.2026 08:43:20",
+    "sortDate": 1777193000000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Suspect ‘armed with knives and guns’ charged after shooting at White House correspondents’ dinner – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live",
+    "pubDate": "26.04.2026 07:19:18",
+    "sortDate": 1777187958000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Patient allegedly attacks several nurses, police and member of the public at Sydney hospital",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/26/patient-shot-with-taser-after-allegedly-injuring-nurse-and-others-in-sydney-hospital-ntwnfb",
+    "pubDate": "26.04.2026 07:09:25",
+    "sortDate": 1777187365000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Suicide-related callouts to fire services triple in England in a decade",
     "link": "https://www.theguardian.com/society/2026/apr/24/suicide-related-callouts-fire-services-triple-england-samaritans",
     "pubDate": "26.04.2026 07:01:18",
@@ -28,13 +49,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Suspect ‘armed with knives and guns’ charged after shooting at White House correspondents’ dinner – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live",
-    "pubDate": "26.04.2026 06:39:22",
-    "sortDate": 1777185562000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Taylor says higher risk of ‘bad people coming from bad countries’ and that welcome to country ceremonies ‘overused’",
     "link": "https://www.theguardian.com/australia-news/2026/apr/26/angus-taylor-higher-risk-bad-people-coming-from-bad-countries-singles-out-iran",
     "pubDate": "26.04.2026 06:22:49",
@@ -42,22 +56,8 @@
     "source": "The Guardian"
   },
   {
-    "title": "Patient shot with Taser after allegedly injuring nurse and others in Sydney hospital",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/26/patient-shot-with-taser-after-allegedly-injuring-nurse-and-others-in-sydney-hospital-ntwnfb",
-    "pubDate": "26.04.2026 06:01:12",
-    "sortDate": 1777183272000,
-    "source": "The Guardian"
-  },
-  {
     "title": "The tortoise and the hare: will China beat the US in the race back to the moon?",
     "link": "https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon",
-    "pubDate": "26.04.2026 06:00:07",
-    "sortDate": 1777183207000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "From syringes to stents: Iran war exposes NHS dependency on petrochemicals",
-    "link": "https://www.theguardian.com/society/2026/apr/26/nhs-high-alert-healthcare-shortages-iran-war-petrochemicals",
     "pubDate": "26.04.2026 06:00:07",
     "sortDate": 1777183207000,
     "source": "The Guardian"
@@ -161,6 +161,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "A race for rights: How sport is helping protect girls in Uganda",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167372",
+    "pubDate": "25.04.2026 12:00:00",
+    "sortDate": 1777118400000,
+    "source": "UN News"
+  },
+  {
     "title": "Palermo ‘honoured’ by rumours Dua Lipa and Callum Turner might marry there in June",
     "link": "https://www.theguardian.com/music/2026/apr/25/palermo-honoured-by-rumours-dua-lipa-and-callum-turner-might-marry-there-in-june",
     "pubDate": "25.04.2026 10:00:42",
@@ -259,6 +266,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "Rising nuclear risks put global security pact to the test at UN Headquarters",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167380",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Airliner safety warning, drought in Somalia, solar boosts farming in Ethiopia",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167379",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "For every generation, vaccines work and they have saved over 150 million lives: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167377",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "As Gaza misery continues, shortages in Iran begin to bite",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167376",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 24 April: Israel-Lebanon ceasefire extended as humanitarian concerns persist",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167375",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Two-thirds of global hunger concentrated in 10 conflict-hit countries",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167374",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
     "title": "Ice block stalls hundreds of Everest climbers at base camp",
     "link": "https://www.theguardian.com/world/2026/apr/24/ice-block-mount-everest-base-camp-nepal",
     "pubDate": "24.04.2026 08:06:16",
@@ -287,11 +336,116 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: Civilians at risk in Gaza and West Bank, Duterte to go on trial in ICC, Yemen detainees update",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167373",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rights chief urges action to end impunity and address disappearances in Mexico",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167371",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO says billions saw health gains in 2025 despite funding cuts",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167370",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Devastation at every turn greets UN aid mission to south Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167367",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Despite ceasefire, Hormuz tensions continue to throttle supply chains worldwide",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167365",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: After oil and gas, concerns grow over minerals crunch",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167364",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Update on Haiti as humanitarian crisis continues alongside gang violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167362",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
     "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
     "link": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
     "pubDate": "22.04.2026 16:13:00",
     "sortDate": 1776874380000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Time to apply the brakes to runaway AI, says pioneer",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167361",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Insecurity in the Darfurs, 100 million live with landmine threats, Singapore execution moratorium",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167360",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Regional war threatens Syria’s fragile transition",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167358",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Libya: UN mission chief laments lack of progress towards national renewal",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167357",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Long hours, stress and harassment are causing hundreds of thousands of early deaths, says UN labour agency",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167356",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ceasefire extension offers diplomatic opening, but tensions persist in Strait of Hormuz",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167354",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Earth Day: The battle to save a drowning Pacific island nation",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167353",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Extreme heat pushing global food systems to the brink, UN agencies warn",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167352",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
   },
   {
     "title": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
@@ -306,6 +460,62 @@
     "pubDate": "22.04.2026 04:13:05",
     "sortDate": 1776831185000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Tackling the AI digital divide, deadly migration journeys, Lucy Hale named new WFP Goodwill Ambassador",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167349",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "As Colombia elections near, Security Council hears calls for calm",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167348",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nature’s last strongholds: Why UNESCO sites are a lifeline for a planet in peril",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167347",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Economic collapse pushes highly educated Gazans into the ‘survival economy’",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167345",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres urges countries to ‘unleash the renewables revolution’",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167343",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Secretary-General hopefuls make their case in televised ‘interactive dialogues’",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167342",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Millions of desperate Sudanese return home amid dire conditions as war rages",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167341",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 21 April: Talks unclear; Hormuz tensions continue",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167340",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
   },
   {
     "title": "Pakistan seeks to raise its global standing in push for Middle East peace",
