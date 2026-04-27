@@ -1,9 +1,107 @@
 [
   {
-    "title": "Australia news live: bodies of two children found after house fire near Blue Mountains",
+    "title": "Australia news live: Malcolm Turnbull says Liberal party’s decision to preference One Nation in Farrer by-election ‘a retrograde move’",
     "link": "https://www.theguardian.com/australia-news/live/2026/apr/27/australia-news-live-penny-wong-fuel-crisis-cost-of-living-budget-jim-chalmers-booing-anzac-day-welcome-to-country-anthony-albanese-angus-taylor-ntwnfb",
-    "pubDate": "27.04.2026 01:57:25",
-    "sortDate": 1777255045000,
+    "pubDate": "27.04.2026 05:25:27",
+    "sortDate": 1777267527000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Gina Rinehart calls for immigrants’ social media to be screened in Anzac memorial speech",
+    "link": "https://www.theguardian.com/business/2026/apr/27/gina-rinehart-immigrant-social-media-screening-anzac-day-sydney-opera-house-ntwnfb",
+    "pubDate": "27.04.2026 05:09:51",
+    "sortDate": 1777266591000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dozens of toys recalled in the UK after asbestos found in play sand",
+    "link": "https://www.theguardian.com/money/2026/apr/27/dozens-of-toys-recalled-in-the-uk-after-asbestos-found-in-play-sand",
+    "pubDate": "27.04.2026 05:00:34",
+    "sortDate": 1777266034000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Four-fifths of UK mental health nurses say their workload is unmanageable",
+    "link": "https://www.theguardian.com/society/2026/apr/27/four-fifths-uk-mental-health-nurses-say-workload-unmanageable",
+    "pubDate": "27.04.2026 05:00:34",
+    "sortDate": 1777266034000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pro-Palestine activists face trial for attack on Israeli arms factory in Germany",
+    "link": "https://www.theguardian.com/world/2026/apr/27/pro-palestine-activists-face-trial-attack-israel-arms-factory-germany",
+    "pubDate": "27.04.2026 04:00:35",
+    "sortDate": 1777262435000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Deadly Israeli attacks worsen Gaza’s water shortage crisis",
+    "link": "https://www.theguardian.com/world/2026/apr/27/israeli-attacks-gaza-clean-water-shortage-crisis-disease-palestine",
+    "pubDate": "27.04.2026 04:00:35",
+    "sortDate": 1777262435000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "King Charles visits Trump: what are the potential pitfalls for the monarch?",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/27/king-charles-visits-trump-what-are-the-potential-pitfalls-for-the-monarch",
+    "pubDate": "27.04.2026 04:00:35",
+    "sortDate": 1777262435000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "People in UK spend fewer years in good health than a decade ago, study finds",
+    "link": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
+    "pubDate": "27.04.2026 04:00:34",
+    "sortDate": 1777262434000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Findings on healthy life expectancy in UK shed light on its deteriorating health",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/27/findings-healthy-life-expectancy-uk-shed-light-deteriorating-health",
+    "pubDate": "27.04.2026 04:00:33",
+    "sortDate": 1777262433000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "McDonald’s to open on Melbourne street once dubbed ‘world’s coolest’ after winning legal challenge",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/27/mcdonalds-melbourne-high-street-worlds-coolest-legal-win",
+    "pubDate": "27.04.2026 03:52:27",
+    "sortDate": 1777261947000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump tells 60 Minutes in testy interview he ‘wasn’t worried’ during Washington shooting",
+    "link": "https://www.theguardian.com/us-news/2026/apr/26/trump-60-minutes-interview-white-house-correspondents-dinner-shooting",
+    "pubDate": "27.04.2026 03:45:54",
+    "sortDate": 1777261554000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Men accused of raping cellmates mistakenly allowed to stay in shared cells by Queensland prison staff",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/27/men-accused-raping-cellmates-shared-cells-brisbane-prison-ntwnfb",
+    "pubDate": "27.04.2026 03:44:50",
+    "sortDate": 1777261490000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US strike kills three on alleged narco boat as campaign death toll hits 185",
+    "link": "https://www.theguardian.com/us-news/2026/apr/27/us-three-killed-boat-alleged-narco-eastern-pacific",
+    "pubDate": "27.04.2026 03:11:41",
+    "sortDate": 1777259501000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nedra Talley Ross, last surviving member of the Ronettes, dies aged 80",
+    "link": "https://www.theguardian.com/music/2026/apr/27/nedra-talley-ross-ronettes-dies-aged-80",
+    "pubDate": "27.04.2026 03:06:04",
+    "sortDate": 1777259164000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Father and four children escaped blaze that killed two others at home in Blue Mountains foothills",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/27/two-bodies-found-house-fire-bowen-mountain-home-blue-mountains-ntwnfb",
+    "pubDate": "27.04.2026 02:22:09",
+    "sortDate": 1777256529000,
     "source": "The Guardian"
   },
   {
@@ -28,31 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Two bodies found after fire tears through home in Blue Mountains foothills",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/27/two-bodies-found-house-fire-bowen-mountain-home-blue-mountains-ntwnfb",
-    "pubDate": "27.04.2026 00:32:07",
-    "sortDate": 1777249927000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Lebanon health ministry says Israeli strikes kill 14 in deadliest day since ceasefire began",
     "link": "https://www.theguardian.com/world/2026/apr/27/lebanon-israeli-strikes-deadliest-day-since-ceasefire-began",
     "pubDate": "27.04.2026 00:26:19",
     "sortDate": 1777249579000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump tells 60 Minutes he ‘wasn’t worried’ during correspondents’ dinner shooting",
-    "link": "https://www.theguardian.com/us-news/2026/apr/26/trump-60-minutes-interview-white-house-correspondents-dinner-shooting",
-    "pubDate": "27.04.2026 00:09:13",
-    "sortDate": 1777248553000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Children’s shoe retailers say closure of specialist shops is harming foot health",
-    "link": "https://www.theguardian.com/business/2026/apr/27/childrens-shoe-retailers-closure-specialist-shops-harming-foot-health",
-    "pubDate": "26.04.2026 23:01:27",
-    "sortDate": 1777244487000,
     "source": "The Guardian"
   },
   {
@@ -70,45 +147,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK government move to delay social media ban faces pushback in Lords",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/26/uk-government-move-to-delay-social-media-ban-faces-pushback-in-lords",
-    "pubDate": "26.04.2026 21:30:25",
-    "sortDate": 1777239025000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Suspected gunman at White House press dinner named",
-    "link": "https://www.theguardian.com/us-news/2026/apr/26/suspected-gunman-white-house-press-dinner-trump-named-cole-tomas-allen",
-    "pubDate": "26.04.2026 21:19:38",
-    "sortDate": 1777238378000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "New IRA suspected over car explosion outside Belfast police station",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/26/car-explosion-dunmurry-police-station-belfast-northern-ireland",
-    "pubDate": "26.04.2026 21:10:12",
-    "sortDate": 1777237812000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "London Marathon hails ‘greatest day’ as Sawe breaks two hours and records tumble",
-    "link": "https://www.theguardian.com/sport/2026/apr/26/london-marathon-hails-greatest-day-as-sawe-breaks-two-hours-and-records-tumble",
-    "pubDate": "26.04.2026 20:48:30",
-    "sortDate": 1777236510000,
-    "source": "The Guardian"
-  },
-  {
     "title": "No headway in Middle East peace efforts as US and Iran refuse to yield",
     "link": "https://www.theguardian.com/world/2026/apr/26/no-headway-in-middle-east-peace-efforts-as-us-and-iran-refuse-to-yield",
     "pubDate": "26.04.2026 20:37:18",
     "sortDate": 1777235838000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rival Labour factions understood to be discussing how to remove Keir Starmer as leader",
-    "link": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
-    "pubDate": "26.04.2026 19:22:06",
-    "sortDate": 1777231326000,
     "source": "The Guardian"
   },
   {
@@ -126,20 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Cheap spirits, pricey condoms: how war in the Middle East is shifting the way Australians spend",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/27/australian-economy-spending-middle-east-war-household-budget",
-    "pubDate": "26.04.2026 15:00:19",
-    "sortDate": 1777215619000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘This has to be a wake-up call’: NSW attorney general urged to order inquest into death of Sydney’s ‘birdman’",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/27/this-has-to-be-a-wake-up-call-nsw-attorney-general-urged-to-order-inquest-into-death-of-sydneys-birdman",
-    "pubDate": "26.04.2026 15:00:17",
-    "sortDate": 1777215617000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Ryanair to shut Berlin base as it blames rise in German aviation tax",
     "link": "https://www.theguardian.com/business/2026/apr/26/ryanair-shut-berlin-base-blames-german-aviation-tax-union",
     "pubDate": "26.04.2026 13:44:01",
@@ -147,24 +175,31 @@
     "source": "The Guardian"
   },
   {
-    "title": "Patient allegedly attacks several nurses, police and member of the public at Sydney hospital",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/26/patient-shot-with-taser-after-allegedly-injuring-nurse-and-others-in-sydney-hospital-ntwnfb",
-    "pubDate": "26.04.2026 07:09:25",
-    "sortDate": 1777187365000,
-    "source": "The Guardian"
+    "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167383",
+    "pubDate": "26.04.2026 12:00:00",
+    "sortDate": 1777204800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Renewables rising, Part 2: Seeking stability amid volatile fossil fuel markets",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167368",
+    "pubDate": "26.04.2026 12:00:00",
+    "sortDate": 1777204800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Mali: Guterres calls for international solutions to curb spread of violent extremism in the Sahel",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167382",
+    "pubDate": "26.04.2026 12:00:00",
+    "sortDate": 1777204800000,
+    "source": "UN News"
   },
   {
     "title": "The tortoise and the hare: will China beat the US in the race back to the moon?",
     "link": "https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon",
     "pubDate": "26.04.2026 06:00:07",
     "sortDate": 1777183207000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ukrainian action thriller billed as Saving Private Ryan for the drone age",
-    "link": "https://www.theguardian.com/world/2026/apr/26/ukrainian-action-thriller-billed-as-saving-private-ryan-for-the-drone-age",
-    "pubDate": "26.04.2026 04:00:04",
-    "sortDate": 1777176004000,
     "source": "The Guardian"
   },
   {
@@ -196,6 +231,27 @@
     "source": "The Guardian"
   },
   {
+    "title": "South Pacific islanders strive to rescue their home from toxic legacy",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167381",
+    "pubDate": "25.04.2026 12:00:00",
+    "sortDate": 1777118400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Renewables rising, Part 1: How four countries are reshaping energy security",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167366",
+    "pubDate": "25.04.2026 12:00:00",
+    "sortDate": 1777118400000,
+    "source": "UN News"
+  },
+  {
+    "title": "A race for rights: How sport is helping protect girls in Uganda",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167372",
+    "pubDate": "25.04.2026 12:00:00",
+    "sortDate": 1777118400000,
+    "source": "UN News"
+  },
+  {
     "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
     "link": "https://www.theguardian.com/global-development/2026/apr/25/discovery-children-fatal-disfiguring-disease-noma-unknown-bacteria",
     "pubDate": "25.04.2026 09:00:41",
@@ -207,13 +263,6 @@
     "link": "https://www.theguardian.com/environment/2026/apr/25/first-footage-endangered-sumatran-orangutan-using-canopy-bridge-cross-road-hope-species-aoe",
     "pubDate": "25.04.2026 05:00:40",
     "sortDate": 1777093240000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hanged under the cover of war: letters and videos tell stories of Iran’s death row victims",
-    "link": "https://www.theguardian.com/world/2026/apr/25/hanged-under-the-cover-of-war-letters-and-videos-tell-stories-of-iran-death-row-victims",
-    "pubDate": "25.04.2026 05:00:36",
-    "sortDate": 1777093236000,
     "source": "The Guardian"
   },
   {
@@ -252,18 +301,53 @@
     "source": "The Guardian"
   },
   {
-    "title": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
-    "link": "https://www.theguardian.com/us-news/2026/apr/24/florida-sloth-deaths-tourist-attraction",
-    "pubDate": "24.04.2026 13:56:43",
-    "sortDate": 1777039003000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Tokyo workers encouraged to wear shorts to cut energy costs and keep cool",
     "link": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat",
     "pubDate": "24.04.2026 12:22:40",
     "sortDate": 1777033360000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Rising nuclear risks put global security pact to the test at UN Headquarters",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167380",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Airliner safety warning, drought in Somalia, solar boosts farming in Ethiopia",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167379",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "For every generation, vaccines work and they have saved over 150 million lives: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167377",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "As Gaza misery continues, shortages in Iran begin to bite",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167376",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 24 April: Israel-Lebanon ceasefire extended as humanitarian concerns persist",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167375",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Two-thirds of global hunger concentrated in 10 conflict-hit countries",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167374",
+    "pubDate": "24.04.2026 12:00:00",
+    "sortDate": 1777032000000,
+    "source": "UN News"
   },
   {
     "title": "Ice block stalls hundreds of Everest climbers at base camp",
@@ -294,6 +378,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: Civilians at risk in Gaza and West Bank, Duterte to go on trial in ICC, Yemen detainees update",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167373",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rights chief urges action to end impunity and address disappearances in Mexico",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167371",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO says billions saw health gains in 2025 despite funding cuts",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167370",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Devastation at every turn greets UN aid mission to south Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167367",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Despite ceasefire, Hormuz tensions continue to throttle supply chains worldwide",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167365",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East war: After oil and gas, concerns grow over minerals crunch",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167364",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Update on Haiti as humanitarian crisis continues alongside gang violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167362",
+    "pubDate": "23.04.2026 12:00:00",
+    "sortDate": 1776945600000,
+    "source": "UN News"
+  },
+  {
     "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
     "link": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
     "pubDate": "22.04.2026 16:13:00",
@@ -301,11 +434,88 @@
     "source": "The Guardian"
   },
   {
+    "title": "Time to apply the brakes to runaway AI, says pioneer",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167361",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Insecurity in the Darfurs, 100 million live with landmine threats, Singapore execution moratorium",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167360",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Regional war threatens Syria’s fragile transition",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167358",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Libya: UN mission chief laments lack of progress towards national renewal",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167357",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Long hours, stress and harassment are causing hundreds of thousands of early deaths, says UN labour agency",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167356",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ceasefire extension offers diplomatic opening, but tensions persist in Strait of Hormuz",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167354",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Earth Day: The battle to save a drowning Pacific island nation",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167353",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Extreme heat pushing global food systems to the brink, UN agencies warn",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167352",
+    "pubDate": "22.04.2026 12:00:00",
+    "sortDate": 1776859200000,
+    "source": "UN News"
+  },
+  {
     "title": "Millions in India stripped of vote before critical state election, as government seeks to ‘purify’ electoral roll",
     "link": "https://www.theguardian.com/world/2026/apr/22/india-west-bengal-state-elections-millions-stripped-of-vote",
     "pubDate": "22.04.2026 04:13:05",
     "sortDate": 1776831185000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Tackling the AI digital divide, deadly migration journeys, Lucy Hale named new WFP Goodwill Ambassador",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167349",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "As Colombia elections near, Security Council hears calls for calm",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167348",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nature’s last strongholds: Why UNESCO sites are a lifeline for a planet in peril",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167347",
+    "pubDate": "21.04.2026 12:00:00",
+    "sortDate": 1776772800000,
+    "source": "UN News"
   },
   {
     "title": "Pakistan seeks to raise its global standing in push for Middle East peace",
