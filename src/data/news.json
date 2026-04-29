@@ -1,121 +1,191 @@
 [
   {
-    "title": "Australia becomes second largest consumer of methamphetamine globally, wastewater monitoring reveals",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/29/methamphetamine-crystal-meth-ice-australia-second-largest-consumer",
-    "pubDate": "29.04.2026 12:00:48",
-    "sortDate": 1777464048000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lib Dems push for ban on MPs taking money from X, citing Maga threat",
-    "link": "https://www.theguardian.com/politics/2026/apr/29/lib-dems-ed-davey-ban-mps-money-x-maga-threat-reform-farage-elon-musk",
-    "pubDate": "29.04.2026 12:00:47",
-    "sortDate": 1777464047000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Farage reported to parliament’s standards watchdog over undeclared £5m donation, as Tories say ‘this stinks’ – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/apr/29/pmqs-live-keir-starmer-kemi-badenoch-uk-politics-latest-news-updates",
-    "pubDate": "29.04.2026 11:50:28",
-    "sortDate": 1777463428000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump makes fresh Iran threat after claiming King Charles agrees with him over nuclear weapons – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/apr/29/king-charles-new-york-donald-trump-zohran-mamdani-iran-us-politics-live",
-    "pubDate": "29.04.2026 11:48:35",
-    "sortDate": 1777463315000,
+    "pubDate": "29.04.2026 15:05:23",
+    "sortDate": 1777475123000,
     "source": "The Guardian"
   },
   {
-    "title": "Consequences of Iran war ‘may echo for months or years to come,’ EU chief warns – Europe live",
+    "title": "Farage reported to parliament’s standards watchdog over undeclared £5m donation – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/apr/29/pmqs-live-keir-starmer-kemi-badenoch-uk-politics-latest-news-updates",
+    "pubDate": "29.04.2026 15:01:30",
+    "sortDate": 1777474890000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Guardian Essential poll: Australians want higher tax on gas exports and extension of petrol excise cut",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/30/guardian-essential-poll-australians-want-higher-tax-on-gas-exports-and-extension-of-petrol-excise-cut",
+    "pubDate": "29.04.2026 15:00:53",
+    "sortDate": 1777474853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US supreme court weighs whether protected status of Haitians and Syrians can be revoked",
+    "link": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
+    "pubDate": "29.04.2026 14:52:51",
+    "sortDate": 1777474371000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – latest updates",
+    "link": "https://www.theguardian.com/uk-news/live/2026/apr/29/two-people-stabbed-golders-green-says-jewish-group-latest-updates",
+    "pubDate": "29.04.2026 14:47:43",
+    "sortDate": 1777474063000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pam Bondi to appear before House oversight panel over Epstein files",
+    "link": "https://www.theguardian.com/us-news/2026/apr/29/pam-bondi-epstein-files-house-oversight-committee",
+    "pubDate": "29.04.2026 14:46:55",
+    "sortDate": 1777474015000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Consequences of Iran war ‘may echo for months or years to come,’ EU chief warns – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/apr/29/europe-iran-hungary-russia-ukraine-eu-latest-news-updates",
-    "pubDate": "29.04.2026 11:47:53",
-    "sortDate": 1777463273000,
+    "pubDate": "29.04.2026 14:42:26",
+    "sortDate": 1777473746000,
     "source": "The Guardian"
   },
   {
-    "title": "Barclay brothers avoid bankruptcy after deal with HSBC over £143m debt",
-    "link": "https://www.theguardian.com/business/2026/apr/29/barclay-brothers-hsbc-settlement-high-court",
-    "pubDate": "29.04.2026 11:38:59",
-    "sortDate": 1777462739000,
+    "title": "Mystery ‘El Money’ figure offered to pay men to set fire to property linked to Starmer, court hears",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/29/men-accused-arson-attacks-keir-starmer-london",
+    "pubDate": "29.04.2026 14:38:42",
+    "sortDate": 1777473522000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Kevin Warsh clears key Senate hurdle to replace Fed chair Powell",
+    "link": "https://www.theguardian.com/us-news/2026/apr/29/kevin-warsh-fed-chair-powell",
+    "pubDate": "29.04.2026 14:36:44",
+    "sortDate": 1777473404000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US supreme court ‘demolishes’ key Voting Rights Act provision that prevented racial discrimination",
+    "link": "https://www.theguardian.com/us-news/2026/apr/29/supreme-court-louisiana-congressional-map-case-ruling",
+    "pubDate": "29.04.2026 14:35:10",
+    "sortDate": 1777473310000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britain to create joint naval force with nine European countries as ‘complement’ to Nato",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/29/britain-royal-navy-russia-open-sea-border-europe",
+    "pubDate": "29.04.2026 14:32:29",
+    "sortDate": 1777473149000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "The little-known clause that Europe’s security may now depend on",
+    "link": "https://www.theguardian.com/world/2026/apr/29/the-little-known-clause-that-europes-security-may-now-depend-on",
+    "pubDate": "29.04.2026 14:30:50",
+    "sortDate": 1777473050000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
+    "link": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home",
+    "pubDate": "29.04.2026 14:12:25",
+    "sortDate": 1777471945000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia’s use of methamphetamine has doubled in a decade, wastewater monitoring reveals",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/29/methamphetamine-crystal-meth-ice-australia-second-largest-consumer",
+    "pubDate": "29.04.2026 14:08:05",
+    "sortDate": 1777471685000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hot weather and hungry datacentres lift Australia’s energy demand to record highs but batteries quell prices",
+    "link": "https://www.theguardian.com/environment/2026/apr/30/hot-weather-and-hungry-datacentres-lift-australias-energy-demand-to-record-highs-but-batteries-quell-prices",
+    "pubDate": "29.04.2026 14:01:50",
+    "sortDate": 1777471310000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mystery Palestinian flag continues to fly high over Dublin as removal deemed too risky",
+    "link": "https://www.theguardian.com/world/2026/apr/29/palestinian-flag-dublin-spire-removal-deemed-too-risky",
+    "pubDate": "29.04.2026 13:51:22",
+    "sortDate": 1777470682000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
+    "link": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
+    "pubDate": "29.04.2026 13:49:55",
+    "sortDate": 1777470595000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Crewe religious group raided by police investigating allegations of serious sexual offences",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/29/crewe-police-raid-ahmadi-religion-peace-light",
+    "pubDate": "29.04.2026 13:45:57",
+    "sortDate": 1777470357000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two stabbed in suspected antisemitic attack in north London",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/29/stabbing-golders-green-london",
+    "pubDate": "29.04.2026 13:26:36",
+    "sortDate": 1777469196000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Total peace’ or ‘all-out war’? Colombian voters face stark choice as rebel attacks surge",
+    "link": "https://www.theguardian.com/world/2026/apr/29/colombia-election-total-peace-promise-violence",
+    "pubDate": "29.04.2026 13:03:06",
+    "sortDate": 1777467786000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Families sue OpenAI over failure to report Canada mass shooter’s behavior on ChatGPT",
+    "link": "https://www.theguardian.com/technology/2026/apr/29/openai-tumbler-ridge-shooter-chatgpt-lawsuit",
+    "pubDate": "29.04.2026 13:00:49",
+    "sortDate": 1777467649000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US gas prices hit $4.23 high as Hormuz fears drive oil surge",
+    "link": "https://www.theguardian.com/business/2026/apr/29/gas-prices-hormuz-oil-surge",
+    "pubDate": "29.04.2026 12:46:17",
+    "sortDate": 1777466777000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "More private health records of UK Biobank volunteers appear on Chinese website",
+    "link": "https://www.theguardian.com/technology/2026/apr/29/uk-data-leaks-alibaba-biobank-health-records",
+    "pubDate": "29.04.2026 12:16:42",
+    "sortDate": 1777465002000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU farmers and hauliers to get up to €50,000 to cover extra costs of Iran war",
+    "link": "https://www.theguardian.com/world/2026/apr/29/eu-farmers-hauliers-fishing-subsidies-up-to-50000-fuel-fertiliser-iran-war",
+    "pubDate": "29.04.2026 12:10:16",
+    "sortDate": 1777464616000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UN rights chief warns of escalating crackdown in Iran amid conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167403",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Iran crisis shows fossil fuels-based energy system ‘is inherently volatile and unstable’",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167401",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
   },
   {
     "title": "Kim praises North Korean soldiers who blew themselves up to evade Ukraine capture",
     "link": "https://www.theguardian.com/world/2026/apr/29/kim-north-korea-soldiers-blow-themselves-up-ukraine",
     "pubDate": "29.04.2026 11:34:08",
     "sortDate": 1777462448000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Flailing’ Georgia attorney general condemned over charges for Cop City protesters",
-    "link": "https://www.theguardian.com/us-news/2026/apr/29/georgia-cop-city-protesters-charges",
-    "pubDate": "29.04.2026 11:30:47",
-    "sortDate": 1777462247000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two stabbed in Golders Green, north-west London, says Jewish group",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/29/stabbing-golders-green-london",
-    "pubDate": "29.04.2026 11:20:54",
-    "sortDate": 1777461654000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "EU farmers and hauliers to get up to €50,000 to cover extra costs of Iran war",
-    "link": "https://www.theguardian.com/world/2026/apr/29/eu-farmers-hauliers-fishing-subsidies-up-to-50000-fuel-fertiliser-iran-war",
-    "pubDate": "29.04.2026 11:06:36",
-    "sortDate": 1777460796000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sussex University overturns £585,000 fine as high court rejects free speech breach claim",
-    "link": "https://www.theguardian.com/education/2026/apr/29/sussex-university-overturns-fine-free-speech-kathleen-stock",
-    "pubDate": "29.04.2026 10:50:43",
-    "sortDate": 1777459843000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russia to hold Victory Day parade with no military hardware amid Ukraine strike fears",
-    "link": "https://www.theguardian.com/world/2026/apr/29/russia-to-scale-back-victory-day-parade-as-ukraine-extends-its-drone-attacks",
-    "pubDate": "29.04.2026 10:39:18",
-    "sortDate": 1777459158000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "First Thing: Justice department indicts ex-FBI director James Comey over Instagram seashells post",
-    "link": "https://www.theguardian.com/us-news/2026/apr/29/first-thing-justice-department-indicts-ex-fbi-director-james-comey-over-seashells-instagram-post",
-    "pubDate": "29.04.2026 10:01:48",
-    "sortDate": 1777456908000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "DNA links Florida man in Philippines to 1989 child abduction",
-    "link": "https://www.theguardian.com/us-news/2026/apr/29/child-abduction-dna-florida",
-    "pubDate": "29.04.2026 10:00:53",
-    "sortDate": 1777456853000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "CEOs of US’s top energy firms received average pay raise of $12.3m, review finds",
-    "link": "https://www.theguardian.com/us-news/2026/apr/29/energy-ceo-pay-raises-2025",
-    "pubDate": "29.04.2026 10:00:51",
-    "sortDate": 1777456851000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Meta found in breach of EU law for failing to keep children off platforms",
-    "link": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
-    "pubDate": "29.04.2026 09:29:46",
-    "sortDate": 1777454986000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US supreme court to hear whether protected status of Haitians and Syrians can be revoked",
-    "link": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
-    "pubDate": "29.04.2026 09:00:51",
-    "sortDate": 1777453251000,
     "source": "The Guardian"
   },
   {
@@ -140,13 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump administration urged to use ‘trade remedies’ to stop news bargaining incentive – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/apr/29/australia-news-live-aukus-king-charles-one-nation-budget-cost-of-living-inflation-consumer-price-index-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
-    "pubDate": "29.04.2026 07:11:39",
-    "sortDate": 1777446699000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
     "link": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
     "pubDate": "29.04.2026 07:00:48",
@@ -161,31 +224,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Beau Lamarre-Condon’s mother charged after allegedly attempting to influence key witness in double murder trial",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/29/beau-lamarre-condons-mother-charged-after-allegedly-attempting-to-influence-key-witness-in-double-trial-ntwnfb",
-    "pubDate": "29.04.2026 06:43:04",
-    "sortDate": 1777444984000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Anthony Albanese rules out gas export tax on existing contracts and criticises ‘populist’ campaign",
     "link": "https://www.theguardian.com/australia-news/2026/apr/29/anthony-albanese-rules-out-gas-export-tax-australia",
     "pubDate": "29.04.2026 05:48:42",
     "sortDate": 1777441722000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
-    "link": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
-    "pubDate": "29.04.2026 04:00:45",
-    "sortDate": 1777435245000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lost copy of seventh-century poem in Old English discovered at Rome library",
-    "link": "https://www.theguardian.com/books/2026/apr/29/lost-copy-of-seventh-century-poem-old-english-discovered-rome-library-dublin",
-    "pubDate": "29.04.2026 04:00:44",
-    "sortDate": 1777435244000,
     "source": "The Guardian"
   },
   {
@@ -245,6 +287,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Over half of South Sudan’s population faces acute hunger crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167402",
+    "pubDate": "28.04.2026 12:00:00",
+    "sortDate": 1777377600000,
+    "source": "UN News"
+  },
+  {
     "title": "From Hormuz to Lebanon, crisis reverberates through trade routes, upending humanitarian networks",
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167400",
     "pubDate": "28.04.2026 12:00:00",
@@ -280,20 +329,6 @@
     "source": "UN News"
   },
   {
-    "title": "Mexican special forces arrest top commander of cartel and his alleged money launderer",
-    "link": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
-    "pubDate": "28.04.2026 11:00:16",
-    "sortDate": 1777374016000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Taking power in Mali might be a stretch but insurgents can force hand of weakened regime",
-    "link": "https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime",
-    "pubDate": "28.04.2026 06:00:42",
-    "sortDate": 1777356042000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Humanoid robots to become baggage handlers in Japan airport experiment",
     "link": "https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports",
     "pubDate": "28.04.2026 03:14:34",
@@ -312,20 +347,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/28/afghanistan-pakistan-kunar-university-attack-peace-talks",
     "pubDate": "27.04.2026 23:54:42",
     "sortDate": 1777334082000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Number of executions in North Korea rose dramatically during Covid – report",
-    "link": "https://www.theguardian.com/world/2026/apr/27/executions-death-sentences-north-korea-rose-during-covid-report",
-    "pubDate": "27.04.2026 21:00:30",
-    "sortDate": 1777323630000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mexico warns US involvement in anti-drug operation should not be repeated",
-    "link": "https://www.theguardian.com/world/2026/apr/27/mexico-us-anti-drug-operation",
-    "pubDate": "27.04.2026 17:45:04",
-    "sortDate": 1777311904000,
     "source": "The Guardian"
   },
   {
@@ -501,27 +522,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167365",
     "pubDate": "23.04.2026 12:00:00",
     "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East war: After oil and gas, concerns grow over minerals crunch",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167364",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "SECURITY COUNCIL LIVE: Update on Haiti as humanitarian crisis continues alongside gang violence",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167362",
-    "pubDate": "23.04.2026 12:00:00",
-    "sortDate": 1776945600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Time to apply the brakes to runaway AI, says pioneer",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167361",
-    "pubDate": "22.04.2026 12:00:00",
-    "sortDate": 1776859200000,
     "source": "UN News"
   }
 ]
