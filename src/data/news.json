@@ -1,9 +1,100 @@
 [
   {
-    "title": "Australia news live: NT police find body of child in search for missing five-year-old girl, as suspect remains at large",
+    "title": "‘We’re coming for you’: NT police search for suspect after body of missing five-year-old found",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/30/body-found-in-search-for-missing-aboriginal-girl-alice-springs-ntwnfb",
+    "pubDate": "30.04.2026 08:03:51",
+    "sortDate": 1777536231000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jailed Hong Kong pro-democracy activist Jimmy Lai wins freedom of speech award in Germany",
+    "link": "https://www.theguardian.com/world/2026/apr/30/jailed-hong-kong-pro-democracy-activist-jimmy-lai-wins-freedom-of-speech-award-in-germany",
+    "pubDate": "30.04.2026 08:02:42",
+    "sortDate": 1777536162000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: mother says she ‘misses and loves’ daughter after NT girl’s body found as Nampijinpa Price grieves ‘devastating’ loss",
     "link": "https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
-    "pubDate": "30.04.2026 05:49:19",
-    "sortDate": 1777528159000,
+    "pubDate": "30.04.2026 08:02:04",
+    "sortDate": 1777536124000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump threatens Germany with US troop reduction after Merz’s Iran war criticism – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
+    "pubDate": "30.04.2026 08:01:51",
+    "sortDate": 1777536111000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ministers under pressure to tackle antisemitism after Golders Green terror attack – live updates",
+    "link": "https://www.theguardian.com/uk-news/live/2026/apr/30/golders-green-terror-incident-security-jewish-community-safety-latest-news",
+    "pubDate": "30.04.2026 08:00:32",
+    "sortDate": 1777536032000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Could Starmer bring back Rayner to steady ship – and would she get onboard?",
+    "link": "https://www.theguardian.com/politics/2026/apr/30/keir-starmer-angela-rayner-labour-reshuffle-elections",
+    "pubDate": "30.04.2026 08:00:11",
+    "sortDate": 1777536011000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK to invest further £25m in security for Jewish communities after London stabbing",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/30/uk-invest-security-jewish-communities-after-golders-green-stabbing-london",
+    "pubDate": "30.04.2026 07:56:28",
+    "sortDate": 1777535788000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump administration urges countries to help citizens stuck in Syria as Australia maintains hardline stance",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/30/syria-australian-citizens-repatriation-us-trump",
+    "pubDate": "30.04.2026 07:13:04",
+    "sortDate": 1777533184000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Outrageous’: Rebel Wilson denies she was behind Snapchat leak of actor’s nude photo, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/30/rebel-wilson-defamation-trial-third-day-testimony",
+    "pubDate": "30.04.2026 07:06:25",
+    "sortDate": 1777532785000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "The $13bn World Cup: how the numbers stack up on Fifa’s 2026 balance sheet",
+    "link": "https://www.theguardian.com/football/ng-interactive/2026/apr/30/the-13bn-world-cup-how-the-numbers-stack-up-on-fifas-2026-balance-sheet",
+    "pubDate": "30.04.2026 07:00:16",
+    "sortDate": 1777532416000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sounds of hope in Kent as more nightingales join dawn chorus",
+    "link": "https://www.theguardian.com/environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
+    "pubDate": "30.04.2026 06:53:26",
+    "sortDate": 1777532006000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Oil price tops $120 a barrel after Trump warns Iran blockade could last ‘months’",
+    "link": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
+    "pubDate": "30.04.2026 06:34:10",
+    "sortDate": 1777530850000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Syrian commission prepares war crimes case against notorious Assad official",
+    "link": "https://www.theguardian.com/world/2026/apr/30/fadi-saqr-tadamon-damascus-syria",
+    "pubDate": "30.04.2026 06:00:11",
+    "sortDate": 1777528811000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Revealed: British ad firm’s billion-dollar greenwash of US oil industry",
+    "link": "https://www.theguardian.com/media/2026/apr/30/revealed-british-ad-firm-billion-dollar-greenwash-of-us-oil-industry",
+    "pubDate": "30.04.2026 06:00:09",
+    "sortDate": 1777528809000,
     "source": "The Guardian"
   },
   {
@@ -11,41 +102,6 @@
     "link": "https://www.theguardian.com/business/2026/apr/30/eu-entry-exit-system-ees-queues-missed-flights-readers",
     "pubDate": "30.04.2026 05:01:08",
     "sortDate": 1777525268000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rising costs forcing 3m UK households to skip meals, Which? report finds",
-    "link": "https://www.theguardian.com/business/2026/apr/30/rising-costs-forcing-3m-uk-households-skip-meals-which-report",
-    "pubDate": "30.04.2026 05:01:08",
-    "sortDate": 1777525268000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "BBC responds to interest in Cornish with new language podcast",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/30/bbc-responds-to-interest-in-cornish-with-new-language-podcast",
-    "pubDate": "30.04.2026 05:00:08",
-    "sortDate": 1777525208000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jarvis Cocker and Kim Sion to curate art exhibition at Hepworth Wakefield",
-    "link": "https://www.theguardian.com/artanddesign/2026/apr/30/jarvis-cocker-and-kim-sion-to-curate-art-exhibition-at-hepworth-wakefield",
-    "pubDate": "30.04.2026 05:00:08",
-    "sortDate": 1777525208000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "RSPB cautiously welcomes slight increase in UK nightingale population",
-    "link": "https://www.theguardian.com/environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
-    "pubDate": "30.04.2026 05:00:08",
-    "sortDate": 1777525208000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Outrageous’: Rebel Wilson denies she was behind Snapchat leak of actor’s nude photo, court hears",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/30/rebel-wilson-defamation-trial-third-day-testimony",
-    "pubDate": "30.04.2026 04:36:13",
-    "sortDate": 1777523773000,
     "source": "The Guardian"
   },
   {
@@ -84,20 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Existing property investors likely to avoid more tax under possible CGT changes in Chalmers’ May budget",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors",
-    "pubDate": "30.04.2026 01:25:29",
-    "sortDate": 1777512329000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Archibald prize 2026: Jacob Collins portrait wins the Packing Room prize as finalists revealed",
-    "link": "https://www.theguardian.com/artanddesign/2026/apr/30/archibald-prize-2026-finalists-packing-room-winner",
-    "pubDate": "30.04.2026 01:21:14",
-    "sortDate": 1777512074000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’",
     "link": "https://www.theguardian.com/us-news/2026/apr/29/bernie-sanders-ai-panel",
     "pubDate": "30.04.2026 01:01:09",
@@ -119,13 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "World’s largest aircraft carrier to return to US after record deployment",
-    "link": "https://www.theguardian.com/us-news/2026/apr/29/uss-gerald-r-ford-aircraft-carrier",
-    "pubDate": "29.04.2026 23:51:18",
-    "sortDate": 1777506678000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
     "link": "https://www.theguardian.com/world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
     "pubDate": "29.04.2026 23:36:22",
@@ -137,13 +172,6 @@
     "link": "https://www.theguardian.com/society/2026/apr/29/alcohol-junk-food-liver-disease-taxes-health-europe",
     "pubDate": "29.04.2026 22:31:00",
     "sortDate": 1777501860000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trial of non-invasive endometriosis scan boosts hopes for quicker diagnosis",
-    "link": "https://www.theguardian.com/society/2026/apr/29/trial-of-non-invasive-endometriosis-scan-boosts-hopes-for-quicker-diagnosis",
-    "pubDate": "29.04.2026 22:30:00",
-    "sortDate": 1777501800000,
     "source": "The Guardian"
   },
   {
@@ -161,13 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ukraine asks Israel to seize vessel it claims is carrying grain stolen by Russia",
-    "link": "https://www.theguardian.com/world/2026/apr/29/ukraine-asks-israel-to-seize-vessel-it-claims-is-carrying-grain-stolen-by-russia",
-    "pubDate": "29.04.2026 17:46:40",
-    "sortDate": 1777484800000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Family of ailing Iranian Nobel laureate say keeping her in jail is a death sentence",
     "link": "https://www.theguardian.com/global-development/2026/apr/29/family-jailed-iranian-nobel-laureate-suspected-heart-attack-narges-mohammadi",
     "pubDate": "29.04.2026 17:21:34",
@@ -179,6 +200,13 @@
     "link": "https://www.theguardian.com/world/2026/apr/29/us-ice-hockey-fans-canadian-anthem",
     "pubDate": "29.04.2026 15:40:49",
     "sortDate": 1777477249000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britain to create joint naval force with nine European countries as ‘complement’ to Nato",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/29/britain-royal-navy-russia-open-sea-border-europe",
+    "pubDate": "29.04.2026 14:32:29",
+    "sortDate": 1777473149000,
     "source": "The Guardian"
   },
   {
@@ -287,38 +315,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Anthony Albanese rules out gas export tax on existing contracts and criticises ‘populist’ campaign",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/29/anthony-albanese-rules-out-gas-export-tax-australia",
-    "pubDate": "29.04.2026 05:48:42",
-    "sortDate": 1777441722000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis: Trump hits back at German chancellor after Merz said Iran was ‘humiliating’ US – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/apr/28/middle-east-crisis-live-iran-us-israel-lebanon-hormuz-nuclear-oil-latest-news-updates",
-    "pubDate": "28.04.2026 19:34:18",
-    "sortDate": 1777404858000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How the UAE’s decision to leave Opec could recast the Middle East",
-    "link": "https://www.theguardian.com/business/2026/apr/28/how-uae-leave-opec-recast-middle-east-saudi-arabia-us",
-    "pubDate": "28.04.2026 18:58:59",
-    "sortDate": 1777402739000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
     "link": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns",
     "pubDate": "28.04.2026 17:07:27",
     "sortDate": 1777396047000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hezbollah drone strikes target Israeli soldiers in southern Lebanon",
-    "link": "https://www.theguardian.com/world/2026/apr/28/hezbollah-drone-strikes-target-israeli-soldiers-in-southern-lebanon",
-    "pubDate": "28.04.2026 16:20:47",
-    "sortDate": 1777393247000,
     "source": "The Guardian"
   },
   {
