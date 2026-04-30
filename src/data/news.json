@@ -1,9 +1,72 @@
 [
   {
-    "title": "Australia news live: Mark Latham ordered to pay Alex Greenwich $100,000 over tweet; Alice Springs search for missing girl enters fifth day",
+    "title": "Australia news live: NT police find body of child in search for missing five-year-old girl, as suspect remains at large",
     "link": "https://www.theguardian.com/australia-news/live/2026/apr/30/fuel-crisis-cost-of-living-penny-wong-royal-commission-antisemitism-virginia-bell-jim-chalmers-inflation-budget-anthony-albanese-angus-taylor-ntwnfb",
-    "pubDate": "30.04.2026 02:08:39",
-    "sortDate": 1777514919000,
+    "pubDate": "30.04.2026 05:49:19",
+    "sortDate": 1777528159000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Nightmare’ queues and missed flights: readers report turbulent start to EU entry-exit system",
+    "link": "https://www.theguardian.com/business/2026/apr/30/eu-entry-exit-system-ees-queues-missed-flights-readers",
+    "pubDate": "30.04.2026 05:01:08",
+    "sortDate": 1777525268000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rising costs forcing 3m UK households to skip meals, Which? report finds",
+    "link": "https://www.theguardian.com/business/2026/apr/30/rising-costs-forcing-3m-uk-households-skip-meals-which-report",
+    "pubDate": "30.04.2026 05:01:08",
+    "sortDate": 1777525268000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "BBC responds to interest in Cornish with new language podcast",
+    "link": "https://www.theguardian.com/uk-news/2026/apr/30/bbc-responds-to-interest-in-cornish-with-new-language-podcast",
+    "pubDate": "30.04.2026 05:00:08",
+    "sortDate": 1777525208000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jarvis Cocker and Kim Sion to curate art exhibition at Hepworth Wakefield",
+    "link": "https://www.theguardian.com/artanddesign/2026/apr/30/jarvis-cocker-and-kim-sion-to-curate-art-exhibition-at-hepworth-wakefield",
+    "pubDate": "30.04.2026 05:00:08",
+    "sortDate": 1777525208000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "RSPB cautiously welcomes slight increase in UK nightingale population",
+    "link": "https://www.theguardian.com/environment/2026/apr/30/rspb-cautiously-welcomes-slight-increase-in-uk-nightingale-population",
+    "pubDate": "30.04.2026 05:00:08",
+    "sortDate": 1777525208000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Outrageous’: Rebel Wilson denies she was behind Snapchat leak of actor’s nude photo, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/30/rebel-wilson-defamation-trial-third-day-testimony",
+    "pubDate": "30.04.2026 04:36:13",
+    "sortDate": 1777523773000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US father and daughter admit selling fake Picasso and Banksy works, duping art world",
+    "link": "https://www.theguardian.com/us-news/2026/apr/30/father-daughter-fake-picasso-warhol-banksy-artworks",
+    "pubDate": "30.04.2026 03:35:03",
+    "sortDate": 1777520103000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Christchurch gunman fails in bid to appeal against guilty pleas in New Zealand court",
+    "link": "https://www.theguardian.com/world/2026/apr/30/christchurch-gunman-shooter-mosque-attacker-appeal-fails-ntwnfb",
+    "pubDate": "30.04.2026 02:57:59",
+    "sortDate": 1777517879000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Bondi royal commission: report calls for better policing of Jewish festivals after ‘high’ terror risk flagged for Hanukah event",
+    "link": "https://www.theguardian.com/australia-news/2026/apr/30/bondi-beach-antisemitism-royal-commission-findings-ntwnfb",
+    "pubDate": "30.04.2026 02:45:06",
+    "sortDate": 1777517106000,
     "source": "The Guardian"
   },
   {
@@ -63,13 +126,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Florida approves US House map meant to boost Republicans in midterms",
-    "link": "https://www.theguardian.com/us-news/2026/apr/29/florida-legislature-congressional-map",
-    "pubDate": "29.04.2026 23:38:45",
-    "sortDate": 1777505925000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump threatens to reduce troop numbers in Germany amid growing row with Nato allies",
     "link": "https://www.theguardian.com/world/2026/apr/30/trump-threatens-to-reduce-troop-numbers-in-germany-amid-growing-row-with-nato-allies",
     "pubDate": "29.04.2026 23:36:22",
@@ -91,20 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Stephen Fry sues tech conference organisers for £100,000 over fall from stage",
-    "link": "https://www.theguardian.com/culture/2026/apr/29/stephen-fry-sues-tech-conference-organisers-for-100000-over-fall-from-stage",
-    "pubDate": "29.04.2026 21:28:33",
-    "sortDate": 1777498113000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Golders Green attack claim highlights rise of shadowy Iran-linked group",
-    "link": "https://www.theguardian.com/uk-news/2026/apr/29/golders-green-attack-claim-highlights-rise-of-shadowy-iran-linked-group",
-    "pubDate": "29.04.2026 21:12:05",
-    "sortDate": 1777497125000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Knee surgery for cartilage damage does not benefit patients, study suggests",
     "link": "https://www.theguardian.com/science/2026/apr/29/knee-surgery-cartilage-damage-patients-study",
     "pubDate": "29.04.2026 21:00:04",
@@ -112,24 +154,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "GB News commentator to sue charity for not offering internships to white people",
-    "link": "https://www.theguardian.com/law/2026/apr/29/sophie-corcoran-gb-news-sue-charity-not-offering-internships-white-people-legal-action",
-    "pubDate": "29.04.2026 19:00:02",
-    "sortDate": 1777489202000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US supreme court conservatives seem to favor ending TPS for Haitians and Syrians",
     "link": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
     "pubDate": "29.04.2026 18:49:12",
     "sortDate": 1777488552000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Police declare attack in north London a terrorist incident after two Jewish men stabbed – as it happened",
-    "link": "https://www.theguardian.com/uk-news/live/2026/apr/29/two-people-stabbed-golders-green-says-jewish-group-latest-updates",
-    "pubDate": "29.04.2026 18:39:54",
-    "sortDate": 1777487994000,
     "source": "The Guardian"
   },
   {
@@ -147,13 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Veteran goalkeeper, 70, to return to pitch for official game in Spain",
-    "link": "https://www.theguardian.com/world/2026/apr/29/veteran-goalkeeper-70-to-return-to-pitch-for-official-game-in-spain",
-    "pubDate": "29.04.2026 17:17:42",
-    "sortDate": 1777483062000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Thousands of US hockey fans sing Canadian anthem amid tensions between neighbor countries",
     "link": "https://www.theguardian.com/world/2026/apr/29/us-ice-hockey-fans-canadian-anthem",
     "pubDate": "29.04.2026 15:40:49",
@@ -161,24 +182,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Guardian Essential poll: Australians want higher tax on gas exports and extension of petrol excise cut",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/30/guardian-essential-poll-australians-want-higher-tax-on-gas-exports-and-extension-of-petrol-excise-cut",
-    "pubDate": "29.04.2026 15:00:53",
-    "sortDate": 1777474853000,
-    "source": "The Guardian"
-  },
-  {
     "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
     "link": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home",
     "pubDate": "29.04.2026 14:12:25",
     "sortDate": 1777471945000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia’s use of methamphetamine has doubled in a decade, wastewater monitoring reveals",
-    "link": "https://www.theguardian.com/australia-news/2026/apr/29/methamphetamine-crystal-meth-ice-australia-second-largest-consumer",
-    "pubDate": "29.04.2026 14:08:05",
-    "sortDate": 1777471685000,
     "source": "The Guardian"
   },
   {
@@ -369,13 +376,6 @@
     "pubDate": "28.04.2026 12:00:00",
     "sortDate": 1777377600000,
     "source": "UN News"
-  },
-  {
-    "title": "Humanoid robots to become baggage handlers in Japan airport experiment",
-    "link": "https://www.theguardian.com/world/2026/apr/28/humanoid-robots-baggage-handlers-japan-airports",
-    "pubDate": "28.04.2026 03:14:34",
-    "sortDate": 1777346074000,
-    "source": "The Guardian"
   },
   {
     "title": "Afghanistan says Pakistani strikes kill seven and wound 85 in first attack since peace talks",
