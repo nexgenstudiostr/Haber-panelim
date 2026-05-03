@@ -1,5 +1,12 @@
 [
   {
+    "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
+    "link": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+    "pubDate": "03.05.2026 19:52:38",
+    "sortDate": 1777837958000,
+    "source": "The Guardian"
+  },
+  {
     "title": "California, Arizona and Nevada propose water-saving plan for Colorado River",
     "link": "https://www.theguardian.com/us-news/2026/may/03/colorado-river-water-plan-california-arizona-nevada",
     "pubDate": "03.05.2026 19:32:57",
@@ -98,15 +105,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "Starmer adviser held 16 undisclosed meetings with top US tech bosses",
-    "link": "https://www.theguardian.com/politics/2026/may/03/starmer-adviser-varun-chandra-undisclosed-meetings-us-tech-bosses",
+    "title": "Lost ‘cloud’ of artist who wrapped the Reichstag to be created in UK gallery",
+    "link": "https://www.theguardian.com/artanddesign/2026/may/03/lost-cloud-of-artist-who-wrapped-the-reichstag-christo-to-be-created-in-uk-gallery",
     "pubDate": "03.05.2026 13:00:03",
     "sortDate": 1777813203000,
     "source": "The Guardian"
   },
   {
-    "title": "Lost ‘cloud’ of artist who wrapped the Reichstag to be created in UK gallery",
-    "link": "https://www.theguardian.com/artanddesign/2026/may/03/lost-cloud-of-artist-who-wrapped-the-reichstag-christo-to-be-created-in-uk-gallery",
+    "title": "Starmer adviser held 16 undisclosed meetings with top US tech bosses",
+    "link": "https://www.theguardian.com/politics/2026/may/03/starmer-adviser-varun-chandra-undisclosed-meetings-us-tech-bosses",
     "pubDate": "03.05.2026 13:00:03",
     "sortDate": 1777813203000,
     "source": "The Guardian"
@@ -294,13 +301,6 @@
     "source": "UN News"
   },
   {
-    "title": "Uganda copying Russia and China with new bill designed to crush dissent, say critics",
-    "link": "https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics",
-    "pubDate": "01.05.2026 11:00:27",
-    "sortDate": 1777633227000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Weather tracker: Tornadoes and giant hail in central US",
     "link": "https://www.theguardian.com/environment/2026/may/01/weather-tracker-tornadoes-and-giant-hail-in-central-us",
     "pubDate": "01.05.2026 08:05:12",
@@ -455,6 +455,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
+    "link": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
+    "pubDate": "29.04.2026 07:00:48",
+    "sortDate": 1777446048000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Sri Lanka police arrest 22 Buddhist monks after 110kg of cannabis found in luggage",
     "link": "https://www.theguardian.com/world/2026/apr/28/sri-lanka-police-buddhist-monks-cannabis-kush-airport",
     "pubDate": "28.04.2026 12:22:09",
@@ -516,12 +523,5 @@
     "pubDate": "27.04.2026 12:00:00",
     "sortDate": 1777291200000,
     "source": "UN News"
-  },
-  {
-    "title": "Weather tracker: Torrential rain in southern China leads to flooding fears",
-    "link": "https://www.theguardian.com/environment/2026/apr/27/weather-tracker-torrential-rain-southern-china-flooding-fears-india-heatwave-canada-cold",
-    "pubDate": "27.04.2026 09:29:19",
-    "sortDate": 1777282159000,
-    "source": "The Guardian"
   }
 ]
