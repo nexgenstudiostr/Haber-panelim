@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’",
+    "link": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+    "pubDate": "03.05.2026 17:08:06",
+    "sortDate": 1777828086000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s disapproval rating hits record high, new poll shows",
+    "link": "https://www.theguardian.com/us-news/2026/may/03/trump-disapproval-rating-poll",
+    "pubDate": "03.05.2026 17:00:03",
+    "sortDate": 1777827603000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Jeanine Pirro says evidence shows suspect shot officer at White House press dinner",
     "link": "https://www.theguardian.com/us-news/2026/may/03/white-house-press-dinner-shooting-jeanine-pirro",
     "pubDate": "03.05.2026 16:33:23",
@@ -28,24 +42,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump casts doubt on Iran peace deal and says Tehran has not ‘paid a big enough price’",
-    "link": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-    "pubDate": "03.05.2026 15:20:01",
-    "sortDate": 1777821601000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Spirit pilot gets ‘overwhelming’ send-off from Southwest after his final flight is cancelled",
     "link": "https://www.theguardian.com/world/2026/may/03/spirit-pilot-send-off-from-southwest",
     "pubDate": "03.05.2026 15:17:46",
     "sortDate": 1777821466000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘No one better to fight for us than one of us’: Minnesota flight attendant runs for Congress",
-    "link": "https://www.theguardian.com/us-news/2026/may/03/kaela-berg-running-minnesota-congress-democrat",
-    "pubDate": "03.05.2026 15:00:06",
-    "sortDate": 1777820406000,
     "source": "The Guardian"
   },
   {
@@ -91,15 +91,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "Starmer adviser held 16 undisclosed meetings with top US tech bosses",
-    "link": "https://www.theguardian.com/politics/2026/may/03/starmer-adviser-varun-chandra-undisclosed-meetings-us-tech-bosses",
+    "title": "Lost ‘cloud’ of artist who wrapped the Reichstag to be created in UK gallery",
+    "link": "https://www.theguardian.com/artanddesign/2026/may/03/lost-cloud-of-artist-who-wrapped-the-reichstag-christo-to-be-created-in-uk-gallery",
     "pubDate": "03.05.2026 13:00:03",
     "sortDate": 1777813203000,
     "source": "The Guardian"
   },
   {
-    "title": "Lost ‘cloud’ of artist who wrapped the Reichstag to be created in UK gallery",
-    "link": "https://www.theguardian.com/artanddesign/2026/may/03/lost-cloud-of-artist-who-wrapped-the-reichstag-christo-to-be-created-in-uk-gallery",
+    "title": "Starmer adviser held 16 undisclosed meetings with top US tech bosses",
+    "link": "https://www.theguardian.com/politics/2026/may/03/starmer-adviser-varun-chandra-undisclosed-meetings-us-tech-bosses",
     "pubDate": "03.05.2026 13:00:03",
     "sortDate": 1777813203000,
     "source": "The Guardian"
@@ -159,6 +159,13 @@
     "pubDate": "03.05.2026 06:21:56",
     "sortDate": 1777789316000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Global demining work strained by rising conflicts and shrinking aid",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167423",
+    "pubDate": "02.05.2026 12:00:00",
+    "sortDate": 1777723200000,
+    "source": "UN News"
   },
   {
     "title": "Zambia cancels world’s largest human rights and tech summit days before start",
@@ -231,6 +238,62 @@
     "source": "The Guardian"
   },
   {
+    "title": "‘Real impact on the ground’ needed as Indonesia backs UN reform",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167429",
+    "pubDate": "01.05.2026 12:00:00",
+    "sortDate": 1777636800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gang-controlled streets, shuttered newsrooms: How violence is eroding Haiti’s media",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167414",
+    "pubDate": "01.05.2026 12:00:00",
+    "sortDate": 1777636800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Aung San Suu Kyi released from prison, Israel’s new death penalty, Cambodia convictions, healthcare inequalities in South America",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167428",
+    "pubDate": "01.05.2026 12:00:00",
+    "sortDate": 1777636800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Artemis II astronauts underscore our shared humanity, in historic UN visit",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167427",
+    "pubDate": "01.05.2026 12:00:00",
+    "sortDate": 1777636800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nuclear fears resurface among younger generations amid global tensions",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167426",
+    "pubDate": "01.05.2026 12:00:00",
+    "sortDate": 1777636800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Attacks on media workers must end, UN urges",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167424",
+    "pubDate": "01.05.2026 12:00:00",
+    "sortDate": 1777636800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East crisis puts aid, food, fuel further out of reach for millions already struggling – UN agencies",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167422",
+    "pubDate": "01.05.2026 12:00:00",
+    "sortDate": 1777636800000,
+    "source": "UN News"
+  },
+  {
+    "title": "MIDDLE EAST LIVE 1 May: Strain on food, fuel and aid systems continues",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167421",
+    "pubDate": "01.05.2026 12:00:00",
+    "sortDate": 1777636800000,
+    "source": "UN News"
+  },
+  {
     "title": "Uganda copying Russia and China with new bill designed to crush dissent, say critics",
     "link": "https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics",
     "pubDate": "01.05.2026 11:00:27",
@@ -250,6 +313,55 @@
     "pubDate": "01.05.2026 03:10:49",
     "sortDate": 1777605049000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Sudanese journalists awarded UNESCO press freedom prize",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167420",
+    "pubDate": "30.04.2026 12:00:00",
+    "sortDate": 1777550400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Displacement in South Sudan, fraud centres in the Philippines, new migration patterns in Latin America",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167419",
+    "pubDate": "30.04.2026 12:00:00",
+    "sortDate": 1777550400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167418",
+    "pubDate": "30.04.2026 12:00:00",
+    "sortDate": 1777550400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Abuse of women journalists made ‘easier and more damaging’ by AI",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167416",
+    "pubDate": "30.04.2026 12:00:00",
+    "sortDate": 1777550400000,
+    "source": "UN News"
+  },
+  {
+    "title": "DPRK Korea: Continued militarisation a ‘serious concern’, political affairs chief warns Security Council",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167415",
+    "pubDate": "30.04.2026 12:00:00",
+    "sortDate": 1777550400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hormuz crisis strangling global economy, Guterres warns, demanding solutions to end stalemate",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167411",
+    "pubDate": "30.04.2026 12:00:00",
+    "sortDate": 1777550400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Central Asia celebrates 20 years as a nuclear-weapon-free zone",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167410",
+    "pubDate": "30.04.2026 12:00:00",
+    "sortDate": 1777550400000,
+    "source": "UN News"
   },
   {
     "title": "Shock in India after man takes remains of his sister to bank to prove her death",
@@ -287,6 +399,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "2015 nuclear deal ‘no basis’ for any new agreement with Iran",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167409",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Europe warming twice as fast, acute hunger in Lebanon, peacekeepers deployed in Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167408",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN80 Initiative: Real progress made on tackling complex issues facing the UN system",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167407",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Freedom, humanity and justice: The enduring legacy of jazz",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167404",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
+  },
+  {
+    "title": "AI in advertising risks fuelling information crisis, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167405",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rights chief warns of escalating crackdown in Iran amid conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167403",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Iran crisis shows fossil fuels-based energy system ‘is inherently volatile and unstable’",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167401",
+    "pubDate": "29.04.2026 12:00:00",
+    "sortDate": 1777464000000,
+    "source": "UN News"
+  },
+  {
     "title": "Indian billionaire’s son offers to house Pablo Escobar’s hippos at his private zoo",
     "link": "https://www.theguardian.com/world/2026/apr/29/indian-billionaire-son-anant-ambani-offers-house-pablo-escobar-hippos",
     "pubDate": "29.04.2026 07:00:48",
@@ -301,11 +462,60 @@
     "source": "The Guardian"
   },
   {
+    "title": "Over half of South Sudan’s population faces acute hunger crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167402",
+    "pubDate": "28.04.2026 12:00:00",
+    "sortDate": 1777377600000,
+    "source": "UN News"
+  },
+  {
+    "title": "From Hormuz to Lebanon, crisis reverberates through trade routes, upending humanitarian networks",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167400",
+    "pubDate": "28.04.2026 12:00:00",
+    "sortDate": 1777377600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Syria human rights update, Cuba post-hurricane support still vital, impunity and violence in Myanmar",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167399",
+    "pubDate": "28.04.2026 12:00:00",
+    "sortDate": 1777377600000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO calls for stepped up action to eliminate viral hepatitis",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167395",
+    "pubDate": "28.04.2026 12:00:00",
+    "sortDate": 1777377600000,
+    "source": "UN News"
+  },
+  {
+    "title": "SECURITY COUNCIL LIVE: Gaza ceasefire is ‘increasingly fragile’, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167392",
+    "pubDate": "28.04.2026 12:00:00",
+    "sortDate": 1777377600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Darfur: Two decades on, a new generation of children faces 'horrific violence'",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167390",
+    "pubDate": "28.04.2026 12:00:00",
+    "sortDate": 1777377600000,
+    "source": "UN News"
+  },
+  {
     "title": "Afghanistan says Pakistani strikes kill seven and wound 85 in first attack since peace talks",
     "link": "https://www.theguardian.com/world/2026/apr/28/afghanistan-pakistan-kunar-university-attack-peace-talks",
     "pubDate": "27.04.2026 23:54:42",
     "sortDate": 1777334082000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Afghanistan risks losing 25,000 women teachers and health workers",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167389",
+    "pubDate": "27.04.2026 12:00:00",
+    "sortDate": 1777291200000,
+    "source": "UN News"
   },
   {
     "title": "Weather tracker: Torrential rain in southern China leads to flooding fears",
