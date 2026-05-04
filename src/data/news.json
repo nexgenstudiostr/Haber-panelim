@@ -1,44 +1,107 @@
 [
   {
-    "title": "Democrats aim to reclaim House majority by boosting eight ‘top-tier candidates’",
+    "title": "Scramble to evacuate two people from cruise ship amid suspected hantavirus outbreak",
+    "link": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
+    "pubDate": "04.05.2026 17:16:09",
+    "sortDate": 1777914969000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Narendra Modi’s BJP win election in West Bengal for first time",
+    "link": "https://www.theguardian.com/world/2026/may/04/modis-bjp-party-win-election-west-bengal-first-time",
+    "pubDate": "04.05.2026 17:13:40",
+    "sortDate": 1777914820000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Page of Theodore Roosevelt speech hit by bullet in 1912 assassination attempt uncovered",
+    "link": "https://www.theguardian.com/us-news/2026/may/04/theodore-roosevelt-manuscript-assassination-attempt-uncovered",
+    "pubDate": "04.05.2026 17:11:18",
+    "sortDate": 1777914678000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US supreme court temporarily restores access to abortion pills by mail – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates",
+    "pubDate": "04.05.2026 17:01:50",
+    "sortDate": 1777914110000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: UAE says it has intercepted three Iran fired drones; US denies that Iran hit warship near strait of Hormuz",
+    "link": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+    "pubDate": "04.05.2026 16:56:48",
+    "sortDate": 1777913808000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Project Freedom’ marks a classic Trump flip from warmonger to humanitarian",
+    "link": "https://www.theguardian.com/us-news/2026/may/04/project-freedom-marks-a-classic-trump-flip-from-warmonger-to-humanitarian",
+    "pubDate": "04.05.2026 16:49:42",
+    "sortDate": 1777913382000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britney Spears pleads guilty to reckless driving charge in DUI case",
+    "link": "https://www.theguardian.com/music/2026/may/04/britney-spears-pleads-guilty-dui",
+    "pubDate": "04.05.2026 16:36:44",
+    "sortDate": 1777912604000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US supreme court temporarily restores access to mail-order abortion pills",
+    "link": "https://www.theguardian.com/us-news/2026/may/04/mifepristone-abortion-pill-supreme-court",
+    "pubDate": "04.05.2026 16:33:08",
+    "sortDate": 1777912388000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
+    "pubDate": "04.05.2026 16:10:17",
+    "sortDate": 1777911017000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shipping firms question safety in strait of Hormuz despite Trump plan",
+    "link": "https://www.theguardian.com/business/2026/may/04/strait-of-hormuz-donald-trump-us-navy-iran-shipping",
+    "pubDate": "04.05.2026 16:10:14",
+    "sortDate": 1777911014000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Car runs into crowd in German city of Leipzig, with fatalities reported",
+    "link": "https://www.theguardian.com/world/2026/may/04/car-runs-into-crowd-in-german-city-of-leipzig-with-fatalities-reported",
+    "pubDate": "04.05.2026 16:05:18",
+    "sortDate": 1777910718000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British Gaza flotilla activists say they needed hospital care after Israeli forces’ abuse",
+    "link": "https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse",
+    "pubDate": "04.05.2026 16:00:27",
+    "sortDate": 1777910427000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
+    "link": "https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
+    "pubDate": "04.05.2026 16:00:27",
+    "sortDate": 1777910427000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
+    "link": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
+    "pubDate": "04.05.2026 15:58:29",
+    "sortDate": 1777910309000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats boost eight more ‘top-tier candidates’ in bid to win back House",
     "link": "https://www.theguardian.com/us-news/2026/may/04/democrats-house-majority-midterm-elections",
     "pubDate": "04.05.2026 15:50:42",
     "sortDate": 1777909842000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hearing for suspect in White House correspondents’ dinner shooting scheduled for today – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates",
-    "pubDate": "04.05.2026 15:48:25",
-    "sortDate": 1777909705000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
-    "pubDate": "04.05.2026 15:45:52",
-    "sortDate": 1777909552000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US supreme court temporarily restores access to mifepristone abortion pill",
-    "link": "https://www.theguardian.com/us-news/2026/may/04/mifepristone-abortion-pill-supreme-court",
-    "pubDate": "04.05.2026 15:44:31",
-    "sortDate": 1777909471000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran",
-    "link": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-    "pubDate": "04.05.2026 15:33:16",
-    "sortDate": 1777908796000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Louisiana Republicans eliminate elected office won by Democratic exoneree",
-    "link": "https://www.theguardian.com/us-news/2026/may/04/louisiana-republicans-eliminate-office-democratic-exoneree",
-    "pubDate": "04.05.2026 15:13:04",
-    "sortDate": 1777907584000,
     "source": "The Guardian"
   },
   {
@@ -77,13 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Shipping firms question safety in strait of Hormuz despite Trump plan",
-    "link": "https://www.theguardian.com/business/2026/may/04/strait-of-hormuz-donald-trump-us-navy-iran-shipping",
-    "pubDate": "04.05.2026 14:51:08",
-    "sortDate": 1777906268000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Austria expels three Russian embassy staff after ‘forest of antennae’ discovered",
     "link": "https://www.theguardian.com/world/2026/may/04/austria-expels-three-russian-embassy-staff-vienna-suspicion-of-spying",
     "pubDate": "04.05.2026 14:40:55",
@@ -119,27 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Vine video-sharing app is back – and battling AI slop",
-    "link": "https://www.theguardian.com/technology/2026/may/04/vine-video-sharing-back-battling-ai-slop-divine",
-    "pubDate": "04.05.2026 13:47:22",
-    "sortDate": 1777902442000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cruise ship at centre of suspected hantavirus outbreak blocked from docking in Cape Verde",
-    "link": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
-    "pubDate": "04.05.2026 13:45:17",
-    "sortDate": 1777902317000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Driver injured after truck was struck by United plane landing at Newark airport",
-    "link": "https://www.theguardian.com/us-news/2026/may/04/united-airlines-plane-newark-airport",
-    "pubDate": "04.05.2026 13:33:30",
-    "sortDate": 1777901610000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran executes three men in relation to January anti-regime protests",
     "link": "https://www.theguardian.com/world/2026/may/04/iran-executes-men-january-anti-regime-protests",
     "pubDate": "04.05.2026 12:43:23",
@@ -152,27 +187,6 @@
     "pubDate": "04.05.2026 12:30:22",
     "sortDate": 1777897822000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Radical left Jean-Luc Mélenchon announces 2027 French presidential bid",
-    "link": "https://www.theguardian.com/world/2026/may/04/france-jean-luc-melenchon-president-bid-2027",
-    "pubDate": "04.05.2026 12:26:09",
-    "sortDate": 1777897569000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Uncertainty continues over safety in the  Strait of Hormuz",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167432",
-    "pubDate": "04.05.2026 12:00:00",
-    "sortDate": 1777896000000,
-    "source": "UN News"
-  },
-  {
-    "title": "LIVE: 2026 World Press Freedom Day",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167417",
-    "pubDate": "04.05.2026 12:00:00",
-    "sortDate": 1777896000000,
-    "source": "UN News"
   },
   {
     "title": "Iran says ships being ‘guided’ by US through Hormuz must work with its armed forces",
@@ -193,20 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/may/04/japan-sees-largest-protest-in-support-of-pacifist-constitution-as-pm-takaichi-pushes-revisions",
     "pubDate": "04.05.2026 05:14:49",
     "sortDate": 1777871689000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
-    "link": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
-    "pubDate": "04.05.2026 05:00:15",
-    "sortDate": 1777870815000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Security or justice? Syria faces post-Assad reckoning after string of arrests",
-    "link": "https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres",
-    "pubDate": "04.05.2026 04:30:15",
-    "sortDate": 1777869015000,
     "source": "The Guardian"
   },
   {
@@ -238,27 +238,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Three dead in suspected hantavirus infection outbreak on cruise ship: WHO",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167431",
-    "pubDate": "03.05.2026 12:00:00",
-    "sortDate": 1777809600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Global demining work strained by rising conflicts and shrinking aid",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167423",
-    "pubDate": "02.05.2026 12:00:00",
-    "sortDate": 1777723200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Zambia cancels world’s largest human rights and tech summit days before start",
-    "link": "https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference",
-    "pubDate": "02.05.2026 11:00:24",
-    "sortDate": 1777719624000,
-    "source": "The Guardian"
-  },
-  {
     "title": "German museum to return rare Irritator dinosaur skull to Brazil",
     "link": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
     "pubDate": "02.05.2026 10:00:23",
@@ -287,116 +266,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Real impact on the ground’ needed as Indonesia backs UN reform",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167429",
-    "pubDate": "01.05.2026 12:00:00",
-    "sortDate": 1777636800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gang-controlled streets, shuttered newsrooms: How violence is eroding Haiti’s media",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167414",
-    "pubDate": "01.05.2026 12:00:00",
-    "sortDate": 1777636800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Aung San Suu Kyi released from prison, Israel’s new death penalty, Cambodia convictions, healthcare inequalities in South America",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167428",
-    "pubDate": "01.05.2026 12:00:00",
-    "sortDate": 1777636800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Artemis II astronauts underscore our shared humanity, in historic UN visit",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167427",
-    "pubDate": "01.05.2026 12:00:00",
-    "sortDate": 1777636800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nuclear fears resurface among younger generations amid global tensions",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167426",
-    "pubDate": "01.05.2026 12:00:00",
-    "sortDate": 1777636800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Attacks on media workers must end, UN urges",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167424",
-    "pubDate": "01.05.2026 12:00:00",
-    "sortDate": 1777636800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East crisis puts aid, food, fuel further out of reach for millions already struggling – UN agencies",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167422",
-    "pubDate": "01.05.2026 12:00:00",
-    "sortDate": 1777636800000,
-    "source": "UN News"
-  },
-  {
-    "title": "MIDDLE EAST LIVE 1 May: Strain on food, fuel and aid systems continues",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167421",
-    "pubDate": "01.05.2026 12:00:00",
-    "sortDate": 1777636800000,
-    "source": "UN News"
-  },
-  {
     "title": "Weather tracker: Tornadoes and giant hail in central US",
     "link": "https://www.theguardian.com/environment/2026/may/01/weather-tracker-tornadoes-and-giant-hail-in-central-us",
     "pubDate": "01.05.2026 08:05:12",
     "sortDate": 1777622712000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Sudanese journalists awarded UNESCO press freedom prize",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167420",
-    "pubDate": "30.04.2026 12:00:00",
-    "sortDate": 1777550400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Displacement in South Sudan, fraud centres in the Philippines, new migration patterns in Latin America",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167419",
-    "pubDate": "30.04.2026 12:00:00",
-    "sortDate": 1777550400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167418",
-    "pubDate": "30.04.2026 12:00:00",
-    "sortDate": 1777550400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Abuse of women journalists made ‘easier and more damaging’ by AI",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167416",
-    "pubDate": "30.04.2026 12:00:00",
-    "sortDate": 1777550400000,
-    "source": "UN News"
-  },
-  {
-    "title": "DPRK Korea: Continued militarisation a ‘serious concern’, political affairs chief warns Security Council",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167415",
-    "pubDate": "30.04.2026 12:00:00",
-    "sortDate": 1777550400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Hormuz crisis strangling global economy, Guterres warns, demanding solutions to end stalemate",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167411",
-    "pubDate": "30.04.2026 12:00:00",
-    "sortDate": 1777550400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Central Asia celebrates 20 years as a nuclear-weapon-free zone",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167410",
-    "pubDate": "30.04.2026 12:00:00",
-    "sortDate": 1777550400000,
-    "source": "UN News"
   },
   {
     "title": "Shock in India after man takes remains of his sister to bank to prove her death",
@@ -420,55 +294,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "2015 nuclear deal ‘no basis’ for any new agreement with Iran",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167409",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Europe warming twice as fast, acute hunger in Lebanon, peacekeepers deployed in Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167408",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN80 Initiative: Real progress made on tackling complex issues facing the UN system",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167407",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Freedom, humanity and justice: The enduring legacy of jazz",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167404",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
-    "title": "AI in advertising risks fuelling information crisis, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167405",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN rights chief warns of escalating crackdown in Iran amid conflict",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167403",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Iran crisis shows fossil fuels-based energy system ‘is inherently volatile and unstable’",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167401",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
     "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
     "link": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
     "pubDate": "29.04.2026 07:00:48",
@@ -487,41 +312,6 @@
     "link": "https://www.theguardian.com/world/2026/apr/28/sri-lanka-police-buddhist-monks-cannabis-kush-airport",
     "pubDate": "28.04.2026 12:22:09",
     "sortDate": 1777378929000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Over half of South Sudan’s population faces acute hunger crisis",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167402",
-    "pubDate": "28.04.2026 12:00:00",
-    "sortDate": 1777377600000,
-    "source": "UN News"
-  },
-  {
-    "title": "From Hormuz to Lebanon, crisis reverberates through trade routes, upending humanitarian networks",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167400",
-    "pubDate": "28.04.2026 12:00:00",
-    "sortDate": 1777377600000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Syria human rights update, Cuba post-hurricane support still vital, impunity and violence in Myanmar",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167399",
-    "pubDate": "28.04.2026 12:00:00",
-    "sortDate": 1777377600000,
-    "source": "UN News"
-  },
-  {
-    "title": "WHO calls for stepped up action to eliminate viral hepatitis",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167395",
-    "pubDate": "28.04.2026 12:00:00",
-    "sortDate": 1777377600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Afghanistan says Pakistani strikes kill seven and wound 85 in first attack since peace talks",
-    "link": "https://www.theguardian.com/world/2026/apr/28/afghanistan-pakistan-kunar-university-attack-peace-talks",
-    "pubDate": "27.04.2026 23:54:42",
-    "sortDate": 1777334082000,
     "source": "The Guardian"
   }
 ]
