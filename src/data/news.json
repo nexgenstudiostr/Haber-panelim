@@ -1,65 +1,142 @@
 [
   {
-    "title": "Driver injured after truck was struck by United plane landing at Newark airport",
-    "link": "https://www.theguardian.com/us-news/2026/may/04/united-airlines-plane-newark-airport",
-    "pubDate": "04.05.2026 13:33:30",
-    "sortDate": 1777901610000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran",
-    "link": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-    "pubDate": "04.05.2026 13:29:56",
-    "sortDate": 1777901396000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
-    "pubDate": "04.05.2026 13:25:51",
-    "sortDate": 1777901151000,
+    "title": "Democrats aim to reclaim House majority by boosting eight ‘top-tier candidates’",
+    "link": "https://www.theguardian.com/us-news/2026/may/04/democrats-house-majority-midterm-elections",
+    "pubDate": "04.05.2026 15:50:42",
+    "sortDate": 1777909842000,
     "source": "The Guardian"
   },
   {
     "title": "Hearing for suspect in White House correspondents’ dinner shooting scheduled for today – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/may/04/donald-trump-white-house-correspondents-dinner-shooting-cole-allen-rudy-giuliani-hegseth-rubio-iran-us-politics-latest-news-updates",
-    "pubDate": "04.05.2026 13:01:03",
-    "sortDate": 1777899663000,
+    "pubDate": "04.05.2026 15:48:25",
+    "sortDate": 1777909705000,
     "source": "The Guardian"
   },
   {
-    "title": "Kirsty, 11, seeks more Kirstys to help raise money for brain tumour research",
-    "link": "https://www.theguardian.com/uk-news/2026/may/04/kirsty-cancer-fundraising-kent-paediatric-brain-tumour",
-    "pubDate": "04.05.2026 13:00:24",
-    "sortDate": 1777899624000,
+    "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
+    "pubDate": "04.05.2026 15:45:52",
+    "sortDate": 1777909552000,
     "source": "The Guardian"
   },
   {
-    "title": "Reform government could cause Truss-style chaos, says renewables industry",
-    "link": "https://www.theguardian.com/environment/2026/may/04/reform-uk-government-truss-renewable-energy-policy",
-    "pubDate": "04.05.2026 13:00:23",
-    "sortDate": 1777899623000,
+    "title": "US supreme court temporarily restores access to mifepristone abortion pill",
+    "link": "https://www.theguardian.com/us-news/2026/may/04/mifepristone-abortion-pill-supreme-court",
+    "pubDate": "04.05.2026 15:44:31",
+    "sortDate": 1777909471000,
     "source": "The Guardian"
   },
   {
-    "title": "First Thing: Trump says US navy will ‘guide’ trapped ships through strait of Hormuz",
-    "link": "https://www.theguardian.com/us-news/2026/may/04/first-thing-trump-says-us-navy-will-guide-trapped-ships-through-strait-of-hormuz",
-    "pubDate": "04.05.2026 13:00:00",
-    "sortDate": 1777899600000,
+    "title": "Middle East crisis live: US denies report that warship trying to pass through strait of Hormuz was hit by Iran",
+    "link": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+    "pubDate": "04.05.2026 15:33:16",
+    "sortDate": 1777908796000,
     "source": "The Guardian"
   },
   {
-    "title": "Europe must face up to ‘tensions’ with Trump, Keir Starmer says",
+    "title": "Louisiana Republicans eliminate elected office won by Democratic exoneree",
+    "link": "https://www.theguardian.com/us-news/2026/may/04/louisiana-republicans-eliminate-office-democratic-exoneree",
+    "pubDate": "04.05.2026 15:13:04",
+    "sortDate": 1777907584000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weather tracker: Cold spells in Greece and Turkey, and storms in Bangladesh",
+    "link": "https://www.theguardian.com/environment/2026/may/04/weather-tracker-greece-winds-turkey-rain-bangladesh-storms-central-europe-heat",
+    "pubDate": "04.05.2026 15:01:23",
+    "sortDate": 1777906883000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia’s property investor borrowing rises at fastest rate in a decade - despite interest rate rises",
+    "link": "https://www.theguardian.com/australia-news/2026/may/05/australias-property-investor-borrowing-rises-at-fastest-rate-in-a-decade-despite-interest-rate-rises",
+    "pubDate": "04.05.2026 15:00:28",
+    "sortDate": 1777906828000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Thousands of Just Eat couriers launch legal action to improve workers’ rights",
+    "link": "https://www.theguardian.com/business/2026/may/04/just-eat-couriers-launch-legal-action-improve-workers-rights",
+    "pubDate": "04.05.2026 15:00:27",
+    "sortDate": 1777906827000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One in four humanities students in Australia to take more than 25 years to pay off student loans, treasury finds",
+    "link": "https://www.theguardian.com/australia-news/2026/may/04/hecs-student-loan-humanities-students-australia-25-years",
+    "pubDate": "04.05.2026 15:00:26",
+    "sortDate": 1777906826000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Albanese won’t bring in a gas export tax next week – but he’ll struggle to hold off pressure forever",
+    "link": "https://www.theguardian.com/australia-news/2026/may/04/albanese-gas-export-tax-asia-energy-trades-fuel-crisis",
+    "pubDate": "04.05.2026 15:00:26",
+    "sortDate": 1777906826000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shipping firms question safety in strait of Hormuz despite Trump plan",
+    "link": "https://www.theguardian.com/business/2026/may/04/strait-of-hormuz-donald-trump-us-navy-iran-shipping",
+    "pubDate": "04.05.2026 14:51:08",
+    "sortDate": 1777906268000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Austria expels three Russian embassy staff after ‘forest of antennae’ discovered",
+    "link": "https://www.theguardian.com/world/2026/may/04/austria-expels-three-russian-embassy-staff-vienna-suspicion-of-spying",
+    "pubDate": "04.05.2026 14:40:55",
+    "sortDate": 1777905655000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Europe must face up to ‘tensions’ with Donald Trump, Keir Starmer says",
     "link": "https://www.theguardian.com/world/2026/may/04/europe-must-face-up-to-tensions-with-trump-keir-starmer-says",
-    "pubDate": "04.05.2026 12:55:41",
-    "sortDate": 1777899341000,
+    "pubDate": "04.05.2026 14:33:04",
+    "sortDate": 1777905184000,
     "source": "The Guardian"
   },
   {
-    "title": "At least 13 hurt in shooting at Oklahoma campground party",
-    "link": "https://www.theguardian.com/us-news/2026/may/04/edmond-oklahoma-mass-shooting",
-    "pubDate": "04.05.2026 12:53:20",
-    "sortDate": 1777899200000,
+    "title": "Marco Rubio to meet pope this week after Trump’s broadside against Leo",
+    "link": "https://www.theguardian.com/us-news/2026/may/04/marco-rubio-to-meet-pope-leo-after-trumps-broadside-against-pontiff",
+    "pubDate": "04.05.2026 14:09:13",
+    "sortDate": 1777903753000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NSW to criminalise secret GPS tracking after report highlighting number of devices bought by DV offenders",
+    "link": "https://www.theguardian.com/australia-news/2026/may/05/nsw-to-criminalise-secret-gps-tracking-after-report-highlighting-number-of-devices-bought-by-dv-offenders",
+    "pubDate": "04.05.2026 14:01:24",
+    "sortDate": 1777903284000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial",
+    "link": "https://www.theguardian.com/society/2026/may/04/man-produces-sperm-from-testicular-tissue-frozen-as-a-child-in-breakthrough-trial",
+    "pubDate": "04.05.2026 14:00:24",
+    "sortDate": 1777903224000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Vine video-sharing app is back – and battling AI slop",
+    "link": "https://www.theguardian.com/technology/2026/may/04/vine-video-sharing-back-battling-ai-slop-divine",
+    "pubDate": "04.05.2026 13:47:22",
+    "sortDate": 1777902442000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cruise ship at centre of suspected hantavirus outbreak blocked from docking in Cape Verde",
+    "link": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
+    "pubDate": "04.05.2026 13:45:17",
+    "sortDate": 1777902317000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Driver injured after truck was struck by United plane landing at Newark airport",
+    "link": "https://www.theguardian.com/us-news/2026/may/04/united-airlines-plane-newark-airport",
+    "pubDate": "04.05.2026 13:33:30",
+    "sortDate": 1777901610000,
     "source": "The Guardian"
   },
   {
@@ -70,13 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Jeremy Bamber banned from communicating with media from prison",
-    "link": "https://www.theguardian.com/uk-news/2026/may/04/jeremy-bamber-banned-from-communicating-with-media-from-prison",
-    "pubDate": "04.05.2026 12:42:05",
-    "sortDate": 1777898525000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Labor extends EV tax break to encourage cheaper vehicles amid soaring fuel prices",
     "link": "https://www.theguardian.com/environment/2026/may/04/labor-extends-ev-tax-break-cheaper-vehicles-soaring-fuel-prices",
     "pubDate": "04.05.2026 12:30:22",
@@ -84,32 +154,18 @@
     "source": "The Guardian"
   },
   {
-    "title": "France’s Jean-Luc Mélenchon announces 2027 presidential bid",
+    "title": "Radical left Jean-Luc Mélenchon announces 2027 French presidential bid",
     "link": "https://www.theguardian.com/world/2026/may/04/france-jean-luc-melenchon-president-bid-2027",
     "pubDate": "04.05.2026 12:26:09",
     "sortDate": 1777897569000,
     "source": "The Guardian"
   },
   {
-    "title": "Shropshire council staff met with rising ‘abuse and intimidation’ over removal of flags",
-    "link": "https://www.theguardian.com/uk-news/2026/may/04/shropshire-council-rising-abuse-removal-of-union-jack-and-st-george-flags",
-    "pubDate": "04.05.2026 12:24:45",
-    "sortDate": 1777897485000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cruise ship at centre of suspected hantavirus outbreak blocked from docking in Cape Verde",
-    "link": "https://www.theguardian.com/science/2026/may/04/cruise-ship-suspected-hantavirus-outbreak-blocked-docking-cape-verde",
-    "pubDate": "04.05.2026 12:06:03",
-    "sortDate": 1777896363000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Republicans split with Trump and back Haitians – to save their seats",
-    "link": "https://www.theguardian.com/us-news/2026/may/04/haiti-republicans-trump",
-    "pubDate": "04.05.2026 12:00:23",
-    "sortDate": 1777896023000,
-    "source": "The Guardian"
+    "title": "Uncertainty continues over safety in the  Strait of Hormuz",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167432",
+    "pubDate": "04.05.2026 12:00:00",
+    "sortDate": 1777896000000,
+    "source": "UN News"
   },
   {
     "title": "LIVE: 2026 World Press Freedom Day",
@@ -119,45 +175,10 @@
     "source": "UN News"
   },
   {
-    "title": "Europe will not submit to an ‘insular and brutal world’, says Carney",
-    "link": "https://www.theguardian.com/world/2026/may/04/europe-can-rebuild-rules-based-international-order-says-mark-carney",
-    "pubDate": "04.05.2026 11:47:26",
-    "sortDate": 1777895246000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran says ships being ‘guided’ by US through Hormuz must work with its armed forces",
     "link": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
     "pubDate": "04.05.2026 11:09:06",
     "sortDate": 1777892946000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Coalition accused of secretly giving big tobacco lobbyists private platform in parliament",
-    "link": "https://www.theguardian.com/society/2026/may/04/coalition-big-tobacco-lobbyists-closed-session-parliament",
-    "pubDate": "04.05.2026 08:42:14",
-    "sortDate": 1777884134000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Queensland government in ‘integrity crisis’ over alleged undisclosed affair between two ministers, opposition says",
-    "link": "https://www.theguardian.com/australia-news/2026/may/04/queensland-government-ministerial-integrity-alleged-affair-mander-camm",
-    "pubDate": "04.05.2026 07:50:54",
-    "sortDate": 1777881054000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia and Japan commit to ‘support the flow’ of energy – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb",
-    "pubDate": "04.05.2026 07:31:39",
-    "sortDate": 1777879899000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and ‘embarrassment’",
-    "link": "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
-    "pubDate": "04.05.2026 06:49:38",
-    "sortDate": 1777877378000,
     "source": "The Guardian"
   },
   {
@@ -186,20 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/may/04/syria-justice-assad-regime-arrests-2013-tadamon-massacres",
     "pubDate": "04.05.2026 04:30:15",
     "sortDate": 1777869015000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "EU forging closer ties with Armenia as it sends experts to help counter Russian interference",
-    "link": "https://www.theguardian.com/world/2026/may/04/eu-closer-ties-armenia-counter-russian-interference",
-    "pubDate": "04.05.2026 04:00:15",
-    "sortDate": 1777867215000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘It’s a world heritage site, but it’s my home’: the last resident of Casa Milà on life in Gaudí’s masterwork",
-    "link": "https://www.theguardian.com/artanddesign/2026/may/04/the-last-resident-of-casa-mila-on-life-in-gaudis-masterwork",
-    "pubDate": "04.05.2026 04:00:12",
-    "sortDate": 1777867212000,
     "source": "The Guardian"
   },
   {
@@ -506,13 +513,6 @@
   {
     "title": "WHO calls for stepped up action to eliminate viral hepatitis",
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167395",
-    "pubDate": "28.04.2026 12:00:00",
-    "sortDate": 1777377600000,
-    "source": "UN News"
-  },
-  {
-    "title": "SECURITY COUNCIL LIVE: Gaza ceasefire is ‘increasingly fragile’, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167392",
     "pubDate": "28.04.2026 12:00:00",
     "sortDate": 1777377600000,
     "source": "UN News"
