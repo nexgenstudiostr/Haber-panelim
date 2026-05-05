@@ -1,16 +1,128 @@
 [
   {
-    "title": "US Secret Service agent placed on leave for allegedly fondling himself in public",
-    "link": "https://www.theguardian.com/us-news/2026/may/05/secret-service-agent-on-leave-alleged-public-fondling",
-    "pubDate": "05.05.2026 16:55:41",
-    "sortDate": 1778000141000,
+    "title": "Andrew Tate sought CPS assurance he would not be arrested if he returned to UK, court hears",
+    "link": "https://www.theguardian.com/uk-news/2026/may/05/andrew-tate-sought-cps-assurance-he-would-not-be-arrested-if-he-returned-to-uk-court-hears",
+    "pubDate": "05.05.2026 18:57:53",
+    "sortDate": 1778007473000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Hands off Memphis’: protests in Nashville as Tennessee Republicans consider redrawing maps ahead of midterms – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates",
+    "pubDate": "05.05.2026 18:49:38",
+    "sortDate": 1778006978000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Donald Trump says Iran ‘know what not to do’ to avoid violating ceasefire with US",
     "link": "https://www.theguardian.com/world/live/2026/may/05/iran-us-israel-lebanon-strait-of-hormuz-ships-oil-uae-latest-news-updates",
-    "pubDate": "05.05.2026 16:50:27",
-    "sortDate": 1777999827000,
+    "pubDate": "05.05.2026 18:47:36",
+    "sortDate": 1778006856000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "MoD has no system to detect civilian harm caused by military, study shows",
+    "link": "https://www.theguardian.com/uk-news/2026/may/05/mod-no-system-detect-civilian-harm-caused-by-military-study-shows",
+    "pubDate": "05.05.2026 18:47:19",
+    "sortDate": 1778006839000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US announces deals with tech firms for national security review of AI models before release",
+    "link": "https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai",
+    "pubDate": "05.05.2026 18:44:22",
+    "sortDate": 1778006662000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Prosecutors to ‘fast-track’ hate crime cases in England and Wales after spate of attacks",
+    "link": "https://www.theguardian.com/society/2026/may/05/prosecutors-to-fast-track-hate-crime-cases-england-wales-attacks-antisemitism",
+    "pubDate": "05.05.2026 18:22:47",
+    "sortDate": 1778005367000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ex-US spy for Israel calls for Gaza ethnic cleansing as he seeks Knesset seat",
+    "link": "https://www.theguardian.com/world/2026/may/05/jonathan-pollard-israel-gaza-ethnic-cleansing",
+    "pubDate": "05.05.2026 18:21:55",
+    "sortDate": 1778005315000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US to take steps to curb antidepressant prescribing, RFK Jr says",
+    "link": "https://www.theguardian.com/us-news/2026/may/05/antidepressants-rfk-jr-maha",
+    "pubDate": "05.05.2026 18:08:21",
+    "sortDate": 1778004501000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Stop plotting to oust Keir Starmer, ex-deputy Labour leader urges MPs",
+    "link": "https://www.theguardian.com/politics/2026/may/05/stop-plotting-to-oust-keir-starmer-ex-deputy-labour-leader-urges-mps",
+    "pubDate": "05.05.2026 18:03:43",
+    "sortDate": 1778004223000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dark clouds, protests and resignations dampen start of 61st Venice Biennale",
+    "link": "https://www.theguardian.com/artanddesign/2026/may/05/venice-biennale-protests-resignations-russia-israel",
+    "pubDate": "05.05.2026 18:02:05",
+    "sortDate": 1778004125000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Alberta separatists submit 300,000 signatures to push independence referendum",
+    "link": "https://www.theguardian.com/world/2026/may/05/canada-voting-data-breach-separatists",
+    "pubDate": "05.05.2026 17:49:26",
+    "sortDate": 1778003366000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Four Palestine Action activists convicted of criminal damage",
+    "link": "https://www.theguardian.com/uk-news/2026/may/05/four-palestine-action-activists-convicted-of-criminal-damage",
+    "pubDate": "05.05.2026 17:42:32",
+    "sortDate": 1778002952000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "A veneer of normality has returned to Tehran but fears for the future are rife",
+    "link": "https://www.theguardian.com/world/2026/may/05/a-veneer-of-normality-has-returned-to-tehran-but-fears-for-the-future-are-rife",
+    "pubDate": "05.05.2026 17:29:27",
+    "sortDate": 1778002167000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hundreds of animals rescued from ‘appalling’ conditions at California sanctuary",
+    "link": "https://www.theguardian.com/us-news/2026/may/05/animals-rescued-california-sanctuary",
+    "pubDate": "05.05.2026 17:17:50",
+    "sortDate": 1778001470000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats urge Rubio to acknowledge Israel possesses nuclear weapons amid Iran war",
+    "link": "https://www.theguardian.com/us-news/2026/may/05/democrats-rubio-israel-nuclear-weapons-iran-war",
+    "pubDate": "05.05.2026 17:11:51",
+    "sortDate": 1778001111000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israeli army chief says West Bank troops ‘killing like we haven’t killed since 1967’",
+    "link": "https://www.theguardian.com/world/2026/may/05/israeli-army-chief-unequal-enforcement-palestinians-west-bank",
+    "pubDate": "05.05.2026 17:08:17",
+    "sortDate": 1778000897000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Farage’s partner refuses to confirm how she paid for house in his constituency",
+    "link": "https://www.theguardian.com/politics/2026/may/05/farage-partner-refuses-confirm-house-constituency-clacton-laure-ferrari",
+    "pubDate": "05.05.2026 17:06:37",
+    "sortDate": 1778000797000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rescue of Timmy the whale ‘an all-round catastrophe’ after tracker failure",
+    "link": "https://www.theguardian.com/world/2026/may/05/expert-brands-rescue-of-timmy-the-whale-an-all-round-catastrophe-over-deficient-tracker",
+    "pubDate": "05.05.2026 17:04:47",
+    "sortDate": 1778000687000,
     "source": "The Guardian"
   },
   {
@@ -21,13 +133,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Close to zero impact’: US study casts doubt on effect of phone ban in schools",
-    "link": "https://www.theguardian.com/politics/2026/may/05/mobile-phone-ban-schools-us-study",
-    "pubDate": "05.05.2026 16:49:07",
-    "sortDate": 1777999747000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Political row as report calls for sweeping cuts to French public broadcasting",
     "link": "https://www.theguardian.com/world/2026/may/05/political-row-as-report-calls-for-sweeping-cuts-to-french-public-broadcasting",
     "pubDate": "05.05.2026 16:44:10",
@@ -35,73 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Tennessee Republicans consider redrawing US House district covering majority-black Memphis – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/may/05/donald-trump-iran-ohio-primary-vivek-ramaswamy-casey-putsch-marco-rubio-latest-news-updates",
-    "pubDate": "05.05.2026 16:39:56",
-    "sortDate": 1777999196000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Badenoch defends seeking a ban on pro-Palestine marches but not Tommy Robinson ones – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/may/05/keir-starmer-uk-antisemitism-summit-golders-green-terror-latest-news-updates",
-    "pubDate": "05.05.2026 16:30:37",
-    "sortDate": 1777998637000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Moscow shuts down airports and mobile signals as Victory Day parade looms",
-    "link": "https://www.theguardian.com/world/2026/may/05/moscow-russia-shuts-down-airports-mobile-signals-may-9-victory-day-parade-security",
-    "pubDate": "05.05.2026 16:29:17",
-    "sortDate": 1777998557000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Carney appoints former war crimes prosecutor as Canada governor general",
     "link": "https://www.theguardian.com/world/2026/may/05/carney-appoints-louise-arbor-canada-governor-general",
     "pubDate": "05.05.2026 16:23:50",
     "sortDate": 1777998230000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Farage deploys the rottweiler to distract from awkward £5m gift story | John Crace",
-    "link": "https://www.theguardian.com/politics/2026/may/05/farage-deploys-the-rottweiler-to-distract-from-awkward-5m-gift-story",
-    "pubDate": "05.05.2026 16:23:02",
-    "sortDate": 1777998182000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘With calm, we will get through this’: Romanian president speaks out after government collapses – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
-    "pubDate": "05.05.2026 16:08:27",
-    "sortDate": 1777997307000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Romania’s pro-Europe government collapses unleashing fresh turmoil",
-    "link": "https://www.theguardian.com/world/2026/may/05/romania-pro-europe-government-collapses",
-    "pubDate": "05.05.2026 16:01:01",
-    "sortDate": 1777996861000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Four Palestine Action activists convicted of criminal damage",
-    "link": "https://www.theguardian.com/uk-news/2026/may/05/four-palestine-action-activists-convicted-of-criminal-damage",
-    "pubDate": "05.05.2026 15:53:54",
-    "sortDate": 1777996434000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Greens must take immediate action against antisemitism in party, says Lucas",
-    "link": "https://www.theguardian.com/politics/2026/may/05/greens-must-take-immediate-action-against-antisemitism-in-party-says-lucas",
-    "pubDate": "05.05.2026 15:39:15",
-    "sortDate": 1777995555000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Stuck on you: kitten rescued from bucket of glue bonds with foster parent",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/may/05/kitten-rescued-glue-bucket-texas-adoption",
-    "pubDate": "05.05.2026 15:30:09",
-    "sortDate": 1777995009000,
     "source": "The Guardian"
   },
   {
@@ -126,20 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "David Letterman doubts late-night’s future before Colbert finale",
-    "link": "https://www.theguardian.com/media/2026/may/05/david-letterman-late-nights-colbert-finale",
-    "pubDate": "05.05.2026 14:56:03",
-    "sortDate": 1777992963000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rubble from Trump ballroom dumped at DC golf course has toxic metals, data shows",
-    "link": "https://www.theguardian.com/us-news/2026/may/05/trump-ballroom-rubble-toxic-metals-dc-golf-course",
-    "pubDate": "05.05.2026 14:53:25",
-    "sortDate": 1777992805000,
-    "source": "The Guardian"
-  },
-  {
     "title": "NSW police urged Jewish man to drop claim he was subject to antisemitic slurs and death threats, commission told",
     "link": "https://www.theguardian.com/australia-news/2026/may/05/they-came-to-kill-us-royal-commission-hears-horrific-accounts-of-antisemitism-faced-by-jewish-children-in-australia-ntwnfb",
     "pubDate": "05.05.2026 13:20:13",
@@ -152,6 +180,20 @@
     "pubDate": "05.05.2026 12:00:38",
     "sortDate": 1777982438000,
     "source": "The Guardian"
+  },
+  {
+    "title": "UN leads call to prepare ‘for when digital systems fail’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167445",
+    "pubDate": "05.05.2026 12:00:00",
+    "sortDate": 1777982400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Education or food? Funding shortfalls force Sudanese refugees in Egypt to ‘make very difficult decisions’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167443",
+    "pubDate": "05.05.2026 12:00:00",
+    "sortDate": 1777982400000,
+    "source": "UN News"
   },
   {
     "title": "In Lebanon, the same fears and dangers persist despite ceasefire: UNHCR",
@@ -196,13 +238,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "First Russian oil reportedly arrives in Japan since Iran war – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
-    "pubDate": "05.05.2026 04:03:12",
-    "sortDate": 1777953792000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
     "link": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
     "pubDate": "05.05.2026 02:22:38",
@@ -217,24 +252,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Donald Trump sends warships to break Iran’s strait of Hormuz blockade",
-    "link": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
-    "pubDate": "04.05.2026 19:26:25",
-    "sortDate": 1777922785000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Narendra Modi’s BJP wins election in West Bengal for the first time",
     "link": "https://www.theguardian.com/world/2026/may/04/modis-bjp-party-win-election-west-bengal-first-time",
     "pubDate": "04.05.2026 17:34:24",
     "sortDate": 1777916064000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Project Freedom’: a grand humanitarian gesture, or a fast track to more war?",
-    "link": "https://www.theguardian.com/us-news/2026/may/04/project-freedom-marks-a-classic-trump-flip-from-warmonger-to-humanitarian",
-    "pubDate": "04.05.2026 16:49:42",
-    "sortDate": 1777913382000,
     "source": "The Guardian"
   },
   {
@@ -354,13 +375,6 @@
     "link": "https://www.theguardian.com/science/2026/may/02/germany-brazil-irritator-dinosaur-skull-restitution",
     "pubDate": "02.05.2026 10:00:23",
     "sortDate": 1777716023000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
-    "link": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
-    "pubDate": "02.05.2026 01:34:21",
-    "sortDate": 1777685661000,
     "source": "The Guardian"
   },
   {
@@ -490,29 +504,15 @@
     "source": "UN News"
   },
   {
-    "title": "World News in Brief: Europe warming twice as fast, acute hunger in Lebanon, peacekeepers deployed in Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167408",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN80 Initiative: Real progress made on tackling complex issues facing the UN system",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167407",
-    "pubDate": "29.04.2026 12:00:00",
-    "sortDate": 1777464000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Indian billionaire’s son offers to house Pablo Escobar’s hippos at his private zoo",
-    "link": "https://www.theguardian.com/world/2026/apr/29/indian-billionaire-son-anant-ambani-offers-house-pablo-escobar-hippos",
+    "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
+    "link": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
     "pubDate": "29.04.2026 07:00:48",
     "sortDate": 1777446048000,
     "source": "The Guardian"
   },
   {
-    "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
-    "link": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
+    "title": "Indian billionaire’s son offers to house Pablo Escobar’s hippos at his private zoo",
+    "link": "https://www.theguardian.com/world/2026/apr/29/indian-billionaire-son-anant-ambani-offers-house-pablo-escobar-hippos",
     "pubDate": "29.04.2026 07:00:48",
     "sortDate": 1777446048000,
     "source": "The Guardian"
