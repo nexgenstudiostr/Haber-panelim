@@ -1,23 +1,65 @@
 [
   {
-    "title": "Australia news live: NSW police to ‘actively monitor’ returning family linked to IS fighters; banks told to support struggling customers",
+    "title": "Australia news live: cold snap brings snow to Thredbo and Falls Creek; Queensland education department hit by international cybersecurity breach",
     "link": "https://www.theguardian.com/australia-news/live/2026/may/07/royal-commission-antisemitism-budget-cost-of-living-jim-chalmers-anthony-albanese-tax-islamic-state-families-syria-ntwnfb",
-    "pubDate": "06.05.2026 23:33:12",
-    "sortDate": 1778110392000,
+    "pubDate": "07.05.2026 02:15:39",
+    "sortDate": 1778120139000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Iran’s top negotiator says US aims to force Tehran’s ‘surrender’; Israel strikes Beirut for first time since ceasefire began",
-    "link": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
-    "pubDate": "06.05.2026 23:31:58",
-    "sortDate": 1778110318000,
+    "title": "Australian director Phillip Noyce shoots feature film for Saudi Arabia celebrating ‘heroism of security men in combating drugs’",
+    "link": "https://www.theguardian.com/world/2026/may/07/phillip-noyce-feature-film-saudi-regime",
+    "pubDate": "07.05.2026 02:08:02",
+    "sortDate": 1778119682000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump would fire Howard Lutnick if he saw video of his Epstein testimony, say House oversight committee Democrats – live",
+    "title": "Trump would fire Howard Lutnick if he saw video of his Epstein testimony, say House oversight committee Democrats – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/may/06/donald-trump-iran-howard-lutnick-jeffrey-epstein-midterms-redistricting-latest-news-updates",
-    "pubDate": "06.05.2026 23:21:41",
-    "sortDate": 1778109701000,
+    "pubDate": "07.05.2026 02:02:31",
+    "sortDate": 1778119351000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "LA mayoral candidate Spencer Pratt reposts scathing AI-generated ad",
+    "link": "https://www.theguardian.com/us-news/2026/may/06/spencer-pratt-los-angeles-campaign-video",
+    "pubDate": "07.05.2026 01:55:59",
+    "sortDate": 1778118959000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+    "link": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+    "pubDate": "07.05.2026 01:53:51",
+    "sortDate": 1778118831000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US says migration has made Europe an ‘incubator’ for terrorism in new counter-terrorism strategy",
+    "link": "https://www.theguardian.com/us-news/2026/may/07/new-trump-counterterrorism-strategy-targets-europe-terrorism-migration",
+    "pubDate": "07.05.2026 00:55:36",
+    "sortDate": 1778115336000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Macron says ‘all parties must lift the blockades’ – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
+    "pubDate": "07.05.2026 00:35:12",
+    "sortDate": 1778114112000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Federal authorities arrest 18 people in Los Angeles raid amid drug crackdown",
+    "link": "https://www.theguardian.com/us-news/2026/may/06/los-angeles-drug-arrests-park",
+    "pubDate": "07.05.2026 00:27:38",
+    "sortDate": 1778113658000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘We just want our children to be safe’: two Australian states prepare to resettle children from Syrian detention camp",
+    "link": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
+    "pubDate": "07.05.2026 00:09:25",
+    "sortDate": 1778112565000,
     "source": "The Guardian"
   },
   {
@@ -49,20 +91,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Howard Lutnick answers questions from US House over Jeffrey Epstein ties",
-    "link": "https://www.theguardian.com/us-news/2026/may/06/howard-lutnick-jeffrey-epstein-congress",
-    "pubDate": "06.05.2026 21:47:18",
-    "sortDate": 1778104038000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
-    "link": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
-    "pubDate": "06.05.2026 21:30:30",
-    "sortDate": 1778103030000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Keir Starmer makes late pitch to voters turning to Greens and Reform",
     "link": "https://www.theguardian.com/politics/2026/may/06/starmer-late-pitch-voters-labour-greens-reform-elections",
     "pubDate": "06.05.2026 21:30:30",
@@ -70,10 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Suspect arrested in Oklahoma party shooting that left one dead, 22 injured",
-    "link": "https://www.theguardian.com/us-news/2026/may/06/arrest-oklahoma-lake-party-shooting",
-    "pubDate": "06.05.2026 21:27:04",
-    "sortDate": 1778102824000,
+    "title": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
+    "link": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
+    "pubDate": "06.05.2026 21:30:30",
+    "sortDate": 1778103030000,
     "source": "The Guardian"
   },
   {
@@ -217,20 +245,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Two Australian states prepare to resettle children from Syrian detention camp with most bound for Melbourne",
-    "link": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
-    "pubDate": "06.05.2026 09:07:01",
-    "sortDate": 1778058421000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man arrested over alleged offensive shirt outside royal commission venue – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb",
-    "pubDate": "06.05.2026 08:11:37",
-    "sortDate": 1778055097000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Singapore introduces caning for boys who bully others at school",
     "link": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
     "pubDate": "06.05.2026 05:26:02",
@@ -249,20 +263,6 @@
     "link": "https://www.theguardian.com/world/2026/may/06/missing-hiker-canada-search-called-off-denise-williams",
     "pubDate": "06.05.2026 01:00:06",
     "sortDate": 1778029206000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Alberta voter data leaked as separatists file signatures for independence vote",
-    "link": "https://www.theguardian.com/world/2026/may/05/canada-voting-data-breach-separatists",
-    "pubDate": "05.05.2026 17:49:26",
-    "sortDate": 1778003366000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Carney appoints former war crimes prosecutor as Canada governor general",
-    "link": "https://www.theguardian.com/world/2026/may/05/carney-appoints-louise-arbor-canada-governor-general",
-    "pubDate": "05.05.2026 16:23:50",
-    "sortDate": 1777998230000,
     "source": "The Guardian"
   },
   {
