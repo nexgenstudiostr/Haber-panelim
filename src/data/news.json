@@ -1,9 +1,93 @@
 [
   {
-    "title": "Australia news live: royal commission hears NSW health system ‘not safe’ for Jewish people; beehives worth $150,000 allegedly stolen from rural property",
+    "title": "Two Britons self-isolating after returning to UK from hantavirus-hit ship, say officials",
+    "link": "https://www.theguardian.com/world/2026/may/07/two-britons-self-isolating-in-uk-after-returning-hantavirus-ship",
+    "pubDate": "07.05.2026 08:21:49",
+    "sortDate": 1778142109000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Latvia investigates drones ‘from Russia’ that crashed near empty oil facilities - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/may/07/ukraine-russia-drones-latvia-hungary-bulgaria-latest-news-updates",
+    "pubDate": "07.05.2026 08:20:38",
+    "sortDate": 1778142038000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "May elections live: millions cast their votes across England, Scotland and Wales",
+    "link": "https://www.theguardian.com/politics/live/2026/may/07/may-local-elections-polls-open-england-scotland-wales-uk-politics-latest-news-updates",
+    "pubDate": "07.05.2026 08:03:29",
+    "sortDate": 1778141009000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Restaurants won’t survive’: Michelin chef opens venues abroad to withstand UK taxes",
+    "link": "https://www.theguardian.com/food/2026/may/07/restaurants-michelin-chef-uk-hospitality-tax-business",
+    "pubDate": "07.05.2026 08:00:42",
+    "sortDate": 1778140842000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Planes carrying IS-linked family members land in Australia, with police expected to make arrests",
+    "link": "https://www.theguardian.com/australia-news/2026/may/07/is-linked-families-land-australia-from-syria-arrests-ntwnfb",
+    "pubDate": "07.05.2026 07:48:46",
+    "sortDate": 1778140126000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Marco Rubio to meet pope at the Vatican after Trump attacks on pontiff",
+    "link": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
+    "pubDate": "07.05.2026 07:35:27",
+    "sortDate": 1778139327000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "News live: antisemitism envoy tells royal commission Australian leaders ‘more engaged’ since Bondi attack; Judith Neilson’s former secretary facing additional fraud charges",
     "link": "https://www.theguardian.com/australia-news/live/2026/may/07/royal-commission-antisemitism-budget-cost-of-living-jim-chalmers-anthony-albanese-tax-islamic-state-families-syria-ntwnfb",
-    "pubDate": "07.05.2026 05:49:24",
-    "sortDate": 1778132964000,
+    "pubDate": "07.05.2026 07:20:16",
+    "sortDate": 1778138416000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police search for thieves who allegedly stole $150,000 worth of beehives from rural NSW property",
+    "link": "https://www.theguardian.com/australia-news/2026/may/07/police-search-for-thieves-who-stole-150000-worth-of-beehives-from-rural-nsw-property-ntwnfb",
+    "pubDate": "07.05.2026 07:17:32",
+    "sortDate": 1778138252000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Met officers investigated over handling of Mohamed Al Fayed abuse complaints",
+    "link": "https://www.theguardian.com/uk-news/2026/may/07/met-police-officers-investigated-handling-mohamed-al-fayed-complaints",
+    "pubDate": "07.05.2026 07:12:15",
+    "sortDate": 1778137935000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Gas companies will be forced to set aside local supply under major Labor shakeup",
+    "link": "https://www.theguardian.com/australia-news/2026/may/07/gas-companies-forced-to-set-aside-local-supply-under-major-labor-shakeup",
+    "pubDate": "07.05.2026 06:31:50",
+    "sortDate": 1778135510000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New gasfield approved near Twelve Apostles puts climate and ‘pristine’ ocean in jeopardy, environmentalists warn",
+    "link": "https://www.theguardian.com/australia-news/2026/may/07/otway-basin-gasfield-project-approved-near-twelve-apostles",
+    "pubDate": "07.05.2026 06:09:42",
+    "sortDate": 1778134182000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Major test for Labour as polls open in English, Scottish and Welsh elections",
+    "link": "https://www.theguardian.com/politics/2026/may/07/local-elections-labour-test-greens-reform-lib-dems-tories-england-scotland-wales-polls",
+    "pubDate": "07.05.2026 06:00:41",
+    "sortDate": 1778133641000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Europe’s AI translation industry told it risks reputation by partnering with US firms",
+    "link": "https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms",
+    "pubDate": "07.05.2026 06:00:40",
+    "sortDate": 1778133640000,
     "source": "The Guardian"
   },
   {
@@ -21,13 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Neo-Nazi Joel Davis charged with inciting hatred over ‘Abolish the Jewish lobby’ rally at NSW parliament",
-    "link": "https://www.theguardian.com/australia-news/2026/may/07/neo-nazi-joel-davis-charged-inciting-hatred-jewish-lobby-rally-ntwnfb",
-    "pubDate": "07.05.2026 04:31:51",
-    "sortDate": 1778128311000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Rewilding giants: captive elephants rehomed in Europe’s first sanctuary",
     "link": "https://www.theguardian.com/world/2026/may/07/captive-elephants-rehomed-europe-first-sanctuary",
     "pubDate": "07.05.2026 04:01:38",
@@ -35,45 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "UAE’s ruling royal family benefits from more than €71m in EU farming subsidies",
-    "link": "https://www.theguardian.com/world/2026/may/07/uae-ruling-royal-family-eu-farming-subsidies",
-    "pubDate": "07.05.2026 04:00:40",
-    "sortDate": 1778126440000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Cut UK speed limits to reduce Iran war impact on consumers, thinktank urges",
     "link": "https://www.theguardian.com/business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank",
     "pubDate": "07.05.2026 04:00:40",
     "sortDate": 1778126440000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "New Hungarian PM’s voters want action on climate and LGBTQ+ rights, poll finds",
-    "link": "https://www.theguardian.com/world/2026/may/07/peter-magyar-climate-lgbtq-progressive-hungary",
-    "pubDate": "07.05.2026 04:00:39",
-    "sortDate": 1778126439000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "French professor accused of ‘gigantic hoax’ after inventing Nobel-style prize",
-    "link": "https://www.theguardian.com/world/2026/may/07/french-professor-florent-montaclair-accused-award-prize",
-    "pubDate": "07.05.2026 04:00:38",
-    "sortDate": 1778126438000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Gas companies will be forced to set aside local supply under major Labor shakeup",
-    "link": "https://www.theguardian.com/australia-news/2026/may/07/gas-companies-forced-to-set-aside-local-supply-under-major-labor-shakeup",
-    "pubDate": "07.05.2026 03:11:18",
-    "sortDate": 1778123478000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australian director Phillip Noyce shoots feature film for Saudi Arabia celebrating ‘heroism of security men in combating drugs’",
-    "link": "https://www.theguardian.com/world/2026/may/07/phillip-noyce-feature-film-saudi-regime",
-    "pubDate": "07.05.2026 02:08:02",
-    "sortDate": 1778119682000,
     "source": "The Guardian"
   },
   {
@@ -119,20 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘We just want our children to be safe’: two Australian states prepare to resettle children from Syrian detention camp",
-    "link": "https://www.theguardian.com/australia-news/2026/may/06/islamic-state-linked-australian-children-syria-states-resettle-ntwnfb",
-    "pubDate": "07.05.2026 00:09:25",
-    "sortDate": 1778112565000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cook more at home to reduce ultra-processed food intake, say cardiologist groups",
-    "link": "https://www.theguardian.com/society/2026/may/07/cook-more-at-home-to-reduce-ultra-processed-food-intake-say-cardiologist-groups",
-    "pubDate": "06.05.2026 23:05:32",
-    "sortDate": 1778108732000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Man charged in DC shooting was walking near JD Vance’s motorcade, agent says",
     "link": "https://www.theguardian.com/us-news/2026/may/06/washington-dc-shooting-jd-vance",
     "pubDate": "06.05.2026 22:26:44",
@@ -147,20 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Keir Starmer makes late pitch to voters turning to Greens and Reform",
-    "link": "https://www.theguardian.com/politics/2026/may/06/starmer-late-pitch-voters-labour-greens-reform-elections",
-    "pubDate": "06.05.2026 21:30:30",
-    "sortDate": 1778103030000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
-    "link": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
-    "pubDate": "06.05.2026 21:30:30",
-    "sortDate": 1778103030000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US fires on Iranian-flagged oil tanker as Trump gives Tehran fresh ultimatum",
     "link": "https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing",
     "pubDate": "06.05.2026 21:03:56",
@@ -172,13 +186,6 @@
     "link": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
     "pubDate": "06.05.2026 16:58:59",
     "sortDate": 1778086739000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pussy Riot protest at Venice Biennale forces Russian pavilion to briefly close",
-    "link": "https://www.theguardian.com/world/2026/may/06/pussy-riot-protest-at-venice-biennale-forces-russian-pavilion-to-briefly-close",
-    "pubDate": "06.05.2026 16:35:14",
-    "sortDate": 1778085314000,
     "source": "The Guardian"
   },
   {
@@ -427,13 +434,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Two US service members missing after military exercises in Morocco",
-    "link": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
-    "pubDate": "03.05.2026 12:23:59",
-    "sortDate": 1777811039000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Three dead in suspected hantavirus infection outbreak on cruise ship: WHO",
     "link": "https://news.un.org/feed/view/en/story/2026/05/1167431",
     "pubDate": "03.05.2026 12:00:00",
@@ -511,15 +511,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "Indian billionaire’s son offers to house Pablo Escobar’s hippos at his private zoo",
-    "link": "https://www.theguardian.com/world/2026/apr/29/indian-billionaire-son-anant-ambani-offers-house-pablo-escobar-hippos",
+    "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
+    "link": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
     "pubDate": "29.04.2026 07:00:48",
     "sortDate": 1777446048000,
     "source": "The Guardian"
   },
   {
-    "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
-    "link": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
+    "title": "Indian billionaire’s son offers to house Pablo Escobar’s hippos at his private zoo",
+    "link": "https://www.theguardian.com/world/2026/apr/29/indian-billionaire-son-anant-ambani-offers-house-pablo-escobar-hippos",
     "pubDate": "29.04.2026 07:00:48",
     "sortDate": 1777446048000,
     "source": "The Guardian"
