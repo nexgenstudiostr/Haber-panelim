@@ -1,9 +1,30 @@
 [
   {
+    "title": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims tried to violate blockade; US to mediate Israel-Lebanon talks",
+    "link": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
+    "pubDate": "08.05.2026 23:42:10",
+    "sortDate": 1778283730000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump administration relaxing hunting restrictions in US parks and refuges",
+    "link": "https://www.theguardian.com/us-news/2026/may/08/trump-administration-hunting-national-parks",
+    "pubDate": "08.05.2026 23:09:10",
+    "sortDate": 1778281750000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
+    "pubDate": "08.05.2026 23:07:14",
+    "sortDate": 1778281634000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Virginia Democrats file motion asking for stay in map ruling as Trump touts ‘huge win’ for Republicans – live",
     "link": "https://www.theguardian.com/us-news/live/2026/may/08/donald-trump-republicans-tennessee-redistricting-maps-voting-rights-iran-latest-news-updates",
-    "pubDate": "08.05.2026 22:45:03",
-    "sortDate": 1778280303000,
+    "pubDate": "08.05.2026 22:48:35",
+    "sortDate": 1778280515000,
     "source": "The Guardian"
   },
   {
@@ -18,20 +39,6 @@
     "link": "https://www.theguardian.com/us-news/2026/may/08/doge-humanities-grants-unconstitutional",
     "pubDate": "08.05.2026 22:32:10",
     "sortDate": 1778279530000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: US fires on two Iranian-flagged oil tankers it claims tried to violate blockade; US to mediate Israel-Lebanon talks",
-    "link": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
-    "pubDate": "08.05.2026 22:21:47",
-    "sortDate": 1778278907000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Elections 2026 live: Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains",
-    "link": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
-    "pubDate": "08.05.2026 22:18:59",
-    "sortDate": 1778278739000,
     "source": "The Guardian"
   },
   {
@@ -60,13 +67,6 @@
     "link": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
     "pubDate": "08.05.2026 21:35:15",
     "sortDate": 1778276115000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "USPS considers allowing people to ship handguns through the mail",
-    "link": "https://www.theguardian.com/business/2026/may/08/usps-postal-service-handguns-mail",
-    "pubDate": "08.05.2026 20:54:06",
-    "sortDate": 1778273646000,
     "source": "The Guardian"
   },
   {
@@ -138,6 +138,20 @@
     "pubDate": "08.05.2026 12:09:58",
     "sortDate": 1778242198000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir Richard Attenborough at 100",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167475",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Central African Republic: Funding cuts put humanitarian support at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167474",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
   },
   {
     "title": "Somalia teeters on the brink of catastrophe as hunger crisis deepens",
@@ -499,20 +513,6 @@
   {
     "title": "Global rise of cyberattacks exposes limits of technical solutions",
     "link": "https://news.un.org/feed/view/en/story/2026/05/1167439",
-    "pubDate": "04.05.2026 12:00:00",
-    "sortDate": 1777896000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN winds down Türkiye-Syria aid route, after more than 65,000 lifesaving journeys",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167438",
-    "pubDate": "04.05.2026 12:00:00",
-    "sortDate": 1777896000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167437",
     "pubDate": "04.05.2026 12:00:00",
     "sortDate": 1777896000000,
     "source": "UN News"
