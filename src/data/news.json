@@ -1,16 +1,23 @@
 [
   {
-    "title": "Labour MP challenges ministers to trigger leadership contest as Starmer vows to fight on – UK politics live",
+    "title": "Angela Rayner calls blocking Andy Burnham’s return to parliament a mistake as pressure mounts on Keir Starmer – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
-    "pubDate": "10.05.2026 15:31:12",
-    "sortDate": 1778427072000,
+    "pubDate": "10.05.2026 16:21:18",
+    "sortDate": 1778430078000,
     "source": "The Guardian"
   },
   {
-    "title": "Starmer faces perilous 24 hours as Streeting preparing for leadership bid",
+    "title": "Americans onboard hantavirus cruise ship to be repatriated to US",
+    "link": "https://www.theguardian.com/us-news/2026/may/10/americans-hantavirus-cruise-ship-repatriated",
+    "pubDate": "10.05.2026 16:20:38",
+    "sortDate": 1778430038000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rayner warns Starmer to change direction as Streeting preparing leadership bid",
     "link": "https://www.theguardian.com/politics/2026/may/10/starmer-faces-perilous-24-hours-streeting-readying-leadership-bid",
-    "pubDate": "10.05.2026 15:18:17",
-    "sortDate": 1778426297000,
+    "pubDate": "10.05.2026 15:59:51",
+    "sortDate": 1778428791000,
     "source": "The Guardian"
   },
   {
@@ -182,13 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Péter Magyar sworn in as Hungary’s prime minister ending 16-year Orbán era",
-    "link": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban",
-    "pubDate": "09.05.2026 17:48:10",
-    "sortDate": 1778348890000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Neither US nor Iran can sustain strait of Hormuz standoff indefinitely",
     "link": "https://www.theguardian.com/world/2026/may/09/neither-us-nor-iran-can-sustain-strait-of-hormuz-standoff-indefinitely",
     "pubDate": "09.05.2026 14:00:59",
@@ -217,6 +217,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "WHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167476",
+    "pubDate": "09.05.2026 12:00:00",
+    "sortDate": 1778328000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nuclear energy in the Middle East: A realistic choice or a risk?",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167448",
+    "pubDate": "09.05.2026 12:00:00",
+    "sortDate": 1778328000000,
+    "source": "UN News"
+  },
+  {
     "title": "Four south Florida men convicted in Haitian president’s assassination",
     "link": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination",
     "pubDate": "08.05.2026 21:35:15",
@@ -243,6 +257,69 @@
     "pubDate": "08.05.2026 12:09:58",
     "sortDate": 1778242198000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David Attenborough at 100",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167475",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Central African Republic: Funding cuts put humanitarian support at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167474",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Somalia teeters on the brink of catastrophe as hunger crisis deepens",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167473",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Malaria vaccine is saving children’s lives: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167472",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Over 3,000 attacks on healthcare since full-scale Russian invasion",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167468",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Victims need a voice, assistance and justice’: UN victims’ rights advocate calls for stronger action",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167470",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon war leaves families foraging for food despite ceasefire",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167467",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Wider hantavirus outbreak risk is ‘absolutely low’, insists UN health agency",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167465",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Every Bird Counts’: How city residents can help protect migratory birds",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167462",
+    "pubDate": "08.05.2026 12:00:00",
+    "sortDate": 1778241600000,
+    "source": "UN News"
   },
   {
     "title": "Three hikers dead after Indonesia’s Mount Dukono volcano erupts",
@@ -280,6 +357,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "Bahrain and US float Security Council resolution on the Strait of Hormuz",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167464",
+    "pubDate": "07.05.2026 12:00:00",
+    "sortDate": 1778155200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Oil, plastics and climate: Why higher prices could speed a materials transition",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167463",
+    "pubDate": "07.05.2026 12:00:00",
+    "sortDate": 1778155200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Somalia drought response, Gaza and Ukraine aid updates, human rights abuses in Tunisia",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167461",
+    "pubDate": "07.05.2026 12:00:00",
+    "sortDate": 1778155200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: Fresh strike on Beirut suburbs ‘a very alarming development’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167460",
+    "pubDate": "07.05.2026 12:00:00",
+    "sortDate": 1778155200000,
+    "source": "UN News"
+  },
+  {
+    "title": "GDP up, satisfaction down: Why we need a new way to measure progress",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167457",
+    "pubDate": "07.05.2026 12:00:00",
+    "sortDate": 1778155200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Countries make progress on migration pact, but more work remains",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167459",
+    "pubDate": "07.05.2026 12:00:00",
+    "sortDate": 1778155200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hantavirus outbreak on cruise ship not ‘another COVID’, WHO says",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167458",
+    "pubDate": "07.05.2026 12:00:00",
+    "sortDate": 1778155200000,
+    "source": "UN News"
+  },
+  {
     "title": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
     "link": "https://www.theguardian.com/global-development/2026/may/07/sadia-moalim-ali-woman-somalia-jail-peaceful-protest",
     "pubDate": "07.05.2026 09:00:45",
@@ -299,6 +425,90 @@
     "pubDate": "06.05.2026 13:46:24",
     "sortDate": 1778075184000,
     "source": "The Guardian"
+  },
+  {
+    "title": "UN mourns CNN founder Ted Turner, a ‘tireless champion for our common humanity’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167455",
+    "pubDate": "06.05.2026 12:00:00",
+    "sortDate": 1778068800000,
+    "source": "UN News"
+  },
+  {
+    "title": "More than 70 civilians killed in Ukraine in less than a week",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167454",
+    "pubDate": "06.05.2026 12:00:00",
+    "sortDate": 1778068800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council holds closed-door talks following attacks on United Arab Emirates",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167453",
+    "pubDate": "06.05.2026 12:00:00",
+    "sortDate": 1778068800000,
+    "source": "UN News"
+  },
+  {
+    "title": "As housing insecurity grows, global leaders push for action",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167452",
+    "pubDate": "06.05.2026 12:00:00",
+    "sortDate": 1778068800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza flotilla: Aid delivery ‘not a crime’, UN rights office tells Israel",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167450",
+    "pubDate": "06.05.2026 12:00:00",
+    "sortDate": 1778068800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hantavirus outbreak: Another passenger contracts disease",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167449",
+    "pubDate": "06.05.2026 12:00:00",
+    "sortDate": 1778068800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Gulf tensions rise, Gaza health needs ‘staggering’, skills gap threat",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167447",
+    "pubDate": "05.05.2026 12:00:00",
+    "sortDate": 1777982400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Safe pathways key to reducing risk for migrants",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167446",
+    "pubDate": "05.05.2026 12:00:00",
+    "sortDate": 1777982400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN leads call to prepare ‘for when digital systems fail’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167445",
+    "pubDate": "05.05.2026 12:00:00",
+    "sortDate": 1777982400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Education or food? Funding shortfalls force Sudanese refugees in Egypt to ‘make very difficult decisions’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167443",
+    "pubDate": "05.05.2026 12:00:00",
+    "sortDate": 1777982400000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Lebanon, the same fears and dangers persist despite ceasefire: UNHCR",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167442",
+    "pubDate": "05.05.2026 12:00:00",
+    "sortDate": 1777982400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN warns of worsening human rights crisis in Mali after deadly attacks",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
+    "pubDate": "05.05.2026 12:00:00",
+    "sortDate": 1777982400000,
+    "source": "UN News"
   },
   {
     "title": "Narendra Modi’s BJP wins election in West Bengal for the first time",
