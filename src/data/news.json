@@ -1,9 +1,30 @@
 [
   {
-    "title": "Jeffries praises Tennessee Democrat Steve Cohen as he ends re-election bid after gerrymander – US politics live",
+    "title": "Colorado governor Jared Polis commutes sentence of Tina Peters, saying prison term for election interference was too long – live",
     "link": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
-    "pubDate": "15.05.2026 19:30:33",
-    "sortDate": 1778873433000,
+    "pubDate": "15.05.2026 21:37:18",
+    "sortDate": 1778881038000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pentagon quietly shut legally required program to prevent civilian deaths by military, watchdog finds",
+    "link": "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program",
+    "pubDate": "15.05.2026 21:34:30",
+    "sortDate": 1778880870000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Colorado governor commutes sentence of election denier Tina Peters",
+    "link": "https://www.theguardian.com/us-news/2026/may/15/colorado-governor-tina-peters",
+    "pubDate": "15.05.2026 21:03:27",
+    "sortDate": 1778879007000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tennessee school district bans Alex Haley’s Roots under 2022 state law",
+    "link": "https://www.theguardian.com/us-news/2026/may/15/tennessee-book-ban-alex-haley-roots",
+    "pubDate": "15.05.2026 21:01:36",
+    "sortDate": 1778878896000,
     "source": "The Guardian"
   },
   {
@@ -21,7 +42,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Israel and Lebanon agree ceasefire extension, US says",
+    "title": "Shaky truce between Israel and Lebanon extended for 45 days, US says",
     "link": "https://www.theguardian.com/world/2026/may/15/israel-and-lebanon-agree-ceasefire-extension-us-says",
     "pubDate": "15.05.2026 19:05:13",
     "sortDate": 1778871913000,
@@ -46,20 +67,6 @@
     "link": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
     "pubDate": "15.05.2026 18:22:04",
     "sortDate": 1778869324000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Harvey Weinstein’s New York retrial ends in mistrial with jury deadlocked",
-    "link": "https://www.theguardian.com/world/2026/may/15/harvey-weinsteins-new-york-mistrial",
-    "pubDate": "15.05.2026 18:17:29",
-    "sortDate": 1778869049000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bard’s board voted to end Botstein’s tenure as president after independent review of Epstein ties",
-    "link": "https://www.theguardian.com/us-news/2026/may/15/bard-college-board-leon-botstein-retirement-jeffrey-epstein",
-    "pubDate": "15.05.2026 18:14:04",
-    "sortDate": 1778868844000,
     "source": "The Guardian"
   },
   {
@@ -98,13 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Tennessee Democrat ends re-election bid after map redrawing carves up his district",
-    "link": "https://www.theguardian.com/us-news/2026/may/15/tennessee-democrat-steve-cohen-ends-re-election-bid",
-    "pubDate": "15.05.2026 17:27:50",
-    "sortDate": 1778866070000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Extremely cruel and tragic’: Iranian director Asghar Farhadi speaks out against state violence and the war",
     "link": "https://www.theguardian.com/film/2026/may/15/extremely-cruel-and-tragic-iranian-director-asghar-farhadi-speaks-out-against-state-violence-and-the-war",
     "pubDate": "15.05.2026 16:39:42",
@@ -126,7 +126,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Oman caught between US and Iran after Tehran claims of joint strait of Hormuz plan",
+    "title": "Oman caught between US and Iran after Tehran’s claims of joint strait of Hormuz plan",
     "link": "https://www.theguardian.com/world/2026/may/15/iran-oman-coordinating-management-strait-of-hormuz-tolls-ships",
     "pubDate": "15.05.2026 16:04:49",
     "sortDate": 1778861089000,
@@ -187,6 +187,55 @@
     "pubDate": "15.05.2026 12:00:39",
     "sortDate": 1778846439000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Blackouts and shortages disrupt healthcare across Cuba",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167524",
+    "pubDate": "15.05.2026 12:00:00",
+    "sortDate": 1778846400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghan mothers and children face worsening hunger crisis, WFP warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167523",
+    "pubDate": "15.05.2026 12:00:00",
+    "sortDate": 1778846400000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO sounds alarm over nicotine pouches targeting young people",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167520",
+    "pubDate": "15.05.2026 12:00:00",
+    "sortDate": 1778846400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167521",
+    "pubDate": "15.05.2026 12:00:00",
+    "sortDate": 1778846400000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE UPDATES: UN committee commemorates the 78th anniversary of the Nakba",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167519",
+    "pubDate": "15.05.2026 12:00:00",
+    "sortDate": 1778846400000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE: Security Council meets on Syria transition and humanitarian crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167518",
+    "pubDate": "15.05.2026 12:00:00",
+    "sortDate": 1778846400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167516",
+    "pubDate": "15.05.2026 12:00:00",
+    "sortDate": 1778846400000,
+    "source": "UN News"
   },
   {
     "title": "UAE to complete second oil pipeline bypassing strait of Hormuz by 2027",
@@ -273,6 +322,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "HIV prevention and treatment services faltering, warns UNAIDS",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167515",
+    "pubDate": "14.05.2026 12:00:00",
+    "sortDate": 1778760000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+    "pubDate": "14.05.2026 12:00:00",
+    "sortDate": 1778760000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN welcomes $1.8 billion US boost for humanitarian operations",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167513",
+    "pubDate": "14.05.2026 12:00:00",
+    "sortDate": 1778760000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167511",
+    "pubDate": "14.05.2026 12:00:00",
+    "sortDate": 1778760000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Russian attacks on Ukrainian civilians are a clear violation of humanitarian law, says senior UN official",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167509",
+    "pubDate": "14.05.2026 12:00:00",
+    "sortDate": 1778760000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Stop’: Sandy Walker uses art to confront the legacy of Hiroshima",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167507",
+    "pubDate": "14.05.2026 12:00:00",
+    "sortDate": 1778760000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza reconstruction envisages building ‘islands’ out of rubble",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167506",
+    "pubDate": "14.05.2026 12:00:00",
+    "sortDate": 1778760000000,
+    "source": "UN News"
+  },
+  {
     "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
     "link": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees",
     "pubDate": "14.05.2026 11:00:25",
@@ -285,6 +383,118 @@
     "pubDate": "13.05.2026 23:01:13",
     "sortDate": 1778713273000,
     "source": "The Guardian"
+  },
+  {
+    "title": "WHO says hantavirus ship operation completed, monitoring to continue",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167505",
+    "pubDate": "13.05.2026 12:00:00",
+    "sortDate": 1778673600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rights chief warns abuses in DPR Korea remain a ‘human rights crisis’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167504",
+    "pubDate": "13.05.2026 12:00:00",
+    "sortDate": 1778673600000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+    "pubDate": "13.05.2026 12:00:00",
+    "sortDate": 1778673600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167502",
+    "pubDate": "13.05.2026 12:00:00",
+    "sortDate": 1778673600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan crisis deepens as record returns, drought and aid cuts strain economy",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167500",
+    "pubDate": "13.05.2026 12:00:00",
+    "sortDate": 1778673600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Funding shortfalls force deep cuts to Syria food assistance: WFP",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167499",
+    "pubDate": "13.05.2026 12:00:00",
+    "sortDate": 1778673600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Recycled plastics for food use require stronger safeguards, warn UN food security experts",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167498",
+    "pubDate": "13.05.2026 12:00:00",
+    "sortDate": 1778673600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167496",
+    "pubDate": "13.05.2026 12:00:00",
+    "sortDate": 1778673600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Conflict drives hunger in DR Congo, mass corporal punishment in Afghanistan, Earth’s sand is running out",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167495",
+    "pubDate": "12.05.2026 12:00:00",
+    "sortDate": 1778587200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Chad’s refugee crisis overwhelms maternity care in east, UN agency warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167494",
+    "pubDate": "12.05.2026 12:00:00",
+    "sortDate": 1778587200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres highlights Africa’s leadership in speech to summit in Nairobi ",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167493",
+    "pubDate": "12.05.2026 12:00:00",
+    "sortDate": 1778587200000,
+    "source": "UN News"
+  },
+  {
+    "title": "From childhood to university, economic inequality shapes life chances worldwide",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167492",
+    "pubDate": "12.05.2026 12:00:00",
+    "sortDate": 1778587200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Children shot, stabbed and pepper-sprayed in occupied West Bank",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167488",
+    "pubDate": "12.05.2026 12:00:00",
+    "sortDate": 1778587200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hantavirus-hit ship evacuation completed as quarantines begin",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167487",
+    "pubDate": "11.05.2026 12:00:00",
+    "sortDate": 1778500800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN launches major Nairobi expansion as Guterres highlights Africa’s growing global role",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167486",
+    "pubDate": "11.05.2026 12:00:00",
+    "sortDate": 1778500800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Human rights in Mongolia, surge in sexual violence in Haiti, worsening hunger in Afghanistan",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167484",
+    "pubDate": "11.05.2026 12:00:00",
+    "sortDate": 1778500800000,
+    "source": "UN News"
   },
   {
     "title": "Trump ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
