@@ -1,30 +1,58 @@
 [
   {
-    "title": "House Democrats attack Trump’s $1.7bn compensation fund as ‘corruption unparalleled’ – US politics live",
+    "title": "Donald Trump says he ‘wasn’t involved’ in creation of $1.7bn compensation fund – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
-    "pubDate": "18.05.2026 20:37:47",
-    "sortDate": 1779136667000,
+    "pubDate": "18.05.2026 22:46:17",
+    "sortDate": 1779144377000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Trump claims ‘very good chance’ of deal to prevent Iran obtaining nuclear weapon",
+    "link": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+    "pubDate": "18.05.2026 22:44:31",
+    "sortDate": 1779144271000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: Liberal senator says ‘we cannot continue to blame migrants’ for economic issues in direct attack on Angus Taylor’s rhetoric",
+    "link": "https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
+    "pubDate": "18.05.2026 22:43:42",
+    "sortDate": 1779144222000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Five people, including two suspects, killed in shooting at San Diego’s largest mosque",
+    "link": "https://www.theguardian.com/us-news/2026/may/18/active-shooter-report-san-diego-islamic-center",
+    "pubDate": "18.05.2026 22:43:10",
+    "sortDate": 1779144190000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "President says he’s adding ‘over 600’ prescription drugs to TrumpRx site",
+    "link": "https://www.theguardian.com/us-news/2026/may/18/trumprx-site-prescription-drugs",
+    "pubDate": "18.05.2026 22:27:13",
+    "sortDate": 1779143233000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Dodgy’ shops handling criminal cash targeted by new specialist unit",
+    "link": "https://www.theguardian.com/world/2026/may/18/dodgy-shops-handling-criminal-cash-targeted-by-new-unit",
+    "pubDate": "18.05.2026 21:30:53",
+    "sortDate": 1779139853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran makes new proposal for deal to end war, regional officials say",
+    "link": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
+    "pubDate": "18.05.2026 21:07:58",
+    "sortDate": 1779138478000,
     "source": "The Guardian"
   },
   {
     "title": "Fast-growing southern California brush fire prompts evacuation orders",
     "link": "https://www.theguardian.com/us-news/2026/may/18/simi-valley-fire-california-evacuations",
-    "pubDate": "18.05.2026 20:33:34",
-    "sortDate": 1779136414000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Trump says he cancelled planned attack on Iran at request of Gulf states, vows US is ready for ‘large scale assault’ if peace talks fail",
-    "link": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
-    "pubDate": "18.05.2026 20:29:10",
-    "sortDate": 1779136150000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Police responding to shooting at Islamic Center of San Diego",
-    "link": "https://www.theguardian.com/us-news/2026/may/18/active-shooter-report-san-diego-islamic-center",
-    "pubDate": "18.05.2026 20:24:01",
-    "sortDate": 1779135841000,
+    "pubDate": "18.05.2026 20:55:34",
+    "sortDate": 1779137734000,
     "source": "The Guardian"
   },
   {
@@ -32,13 +60,6 @@
     "link": "https://www.theguardian.com/us-news/2026/may/18/new-york-times-pentagon-press-restrictions-lawsuit",
     "pubDate": "18.05.2026 20:22:52",
     "sortDate": 1779135772000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump officials plan to repeal limits on ‘forever chemicals’ in drinking water",
-    "link": "https://www.theguardian.com/us-news/2026/may/18/trump-administration-epa-pfas-water",
-    "pubDate": "18.05.2026 20:19:34",
-    "sortDate": 1779135574000,
     "source": "The Guardian"
   },
   {
@@ -77,17 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘It is heartbreaking’: panic in eastern DRC over return of Ebola",
+    "title": "‘It’s heartbreaking’: panic in eastern DRC over return of Ebola",
     "link": "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear",
     "pubDate": "18.05.2026 18:33:12",
     "sortDate": 1779129192000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "London stabbing of journalist ordered by third party acting for Iran, court told",
-    "link": "https://www.theguardian.com/uk-news/2026/may/18/london-stabbing-journalist-pouria-zeraati-ordered-third-party-iran-court-told",
-    "pubDate": "18.05.2026 17:48:26",
-    "sortDate": 1779126506000,
     "source": "The Guardian"
   },
   {
@@ -95,13 +109,6 @@
     "link": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
     "pubDate": "18.05.2026 17:30:25",
     "sortDate": 1779125425000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Iran makes new proposal for deal to end war, regional officials say",
-    "link": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
-    "pubDate": "18.05.2026 17:21:16",
-    "sortDate": 1779124876000,
     "source": "The Guardian"
   },
   {
@@ -140,7 +147,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australia’s social media ban preventing teens from accessing the news, research finds",
+    "title": "Australia’s social media ban preventing teenagers from accessing the news, research finds",
     "link": "https://www.theguardian.com/australia-news/2026/may/19/australias-social-media-ban-preventing-teens-from-accessing-the-news-research-finds",
     "pubDate": "18.05.2026 15:00:03",
     "sortDate": 1779116403000,
@@ -196,6 +203,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167541",
+    "pubDate": "18.05.2026 12:00:00",
+    "sortDate": 1779105600000,
+    "source": "UN News"
+  },
+  {
     "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
     "link": "https://news.un.org/feed/view/en/story/2026/05/1167540",
     "pubDate": "18.05.2026 12:00:00",
@@ -243,13 +257,6 @@
     "pubDate": "18.05.2026 12:00:00",
     "sortDate": 1779105600000,
     "source": "UN News"
-  },
-  {
-    "title": "Man charged with murder after woman and two children found dead inside Sydney home",
-    "link": "https://www.theguardian.com/australia-news/2026/may/18/man-arrested-after-woman-and-two-children-found-dead-inside-sydney-home-ntwnfb",
-    "pubDate": "18.05.2026 11:55:01",
-    "sortDate": 1779105301000,
-    "source": "The Guardian"
   },
   {
     "title": "Ryanair has ‘near-zero concerns’ on fuel shortages but warns of future price rises",
@@ -485,13 +492,6 @@
   {
     "title": "‘Stop’: Sandy Walker uses art to confront the legacy of Hiroshima",
     "link": "https://news.un.org/feed/view/en/story/2026/05/1167507",
-    "pubDate": "14.05.2026 12:00:00",
-    "sortDate": 1778760000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza reconstruction envisages building ‘islands’ out of rubble",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167506",
     "pubDate": "14.05.2026 12:00:00",
     "sortDate": 1778760000000,
     "source": "UN News"
