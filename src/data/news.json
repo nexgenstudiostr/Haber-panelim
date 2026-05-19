@@ -1,30 +1,107 @@
 [
   {
-    "title": "California island fire linked to sailor’s distress flare scorches 10,000 acres",
-    "link": "https://www.theguardian.com/us-news/2026/may/18/california-national-park-fire-santa-rosa-island",
-    "pubDate": "18.05.2026 23:45:09",
-    "sortDate": 1779147909000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Trump claims ‘very good chance’ of deal to prevent Iran obtaining nuclear weapon",
-    "link": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
-    "pubDate": "18.05.2026 23:37:44",
-    "sortDate": 1779147464000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: Liberal senator says ‘we cannot continue to blame migrants’ for economic issues in direct attack on Angus Taylor’s rhetoric",
+    "title": "Australia news live: Karl Stefanovic and Eddie McGuire sign to co-host weekly radio show; diphtheria outbreak spreads to three states",
     "link": "https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
-    "pubDate": "18.05.2026 23:35:08",
-    "sortDate": 1779147308000,
+    "pubDate": "19.05.2026 04:49:59",
+    "sortDate": 1779166199000,
     "source": "The Guardian"
   },
   {
-    "title": "Donald Trump says he ‘wasn’t involved’ in creation of $1.7bn compensation fund – US politics live",
+    "title": "NSW police to avoid mental health incidents under UK model after spate of fatal shootings",
+    "link": "https://www.theguardian.com/australia-news/2026/may/19/nsw-police-avoid-mental-health-incidents-intervention",
+    "pubDate": "19.05.2026 04:14:49",
+    "sortDate": 1779164089000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Huge milestone’ as Libyan militia commander accused of torture to appear at ICC",
+    "link": "https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court",
+    "pubDate": "19.05.2026 04:00:02",
+    "sortDate": 1779163202000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Come in for one minute’: Israeli survivor’s appeal to doubters as 7 October exhibition opens in London",
+    "link": "https://www.theguardian.com/uk-news/2026/may/19/israel-survivor-appeal-7-october-nova-exhibition-london",
+    "pubDate": "19.05.2026 04:00:01",
+    "sortDate": 1779163201000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Belfast harbour operator to invest £1.3bn as NI economy grows",
+    "link": "https://www.theguardian.com/uk-news/2026/may/19/belfast-harbour-invest-ni-economy-port-ferry-cruise-ship",
+    "pubDate": "19.05.2026 04:00:00",
+    "sortDate": 1779163200000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Liberal senator breaks ranks to take aim at Angus Taylor’s ‘negative’ rhetoric on immigration",
+    "link": "https://www.theguardian.com/australia-news/2026/may/19/liberal-senator-breaks-ranks-to-take-aim-at-angus-taylors-negative-rhetoric-on-immigration",
+    "pubDate": "19.05.2026 02:54:40",
+    "sortDate": 1779159280000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+    "pubDate": "19.05.2026 02:06:01",
+    "sortDate": 1779156361000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Billie Jean King graduates from college at age 82 after leaving for tennis: ‘Yeah baby, only 61 years!’",
+    "link": "https://www.theguardian.com/us-news/2026/may/18/billie-jean-king-college-graduation",
+    "pubDate": "19.05.2026 02:01:27",
+    "sortDate": 1779156087000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Donald Trump says he ‘wasn’t involved’ in creation of $1.7bn compensation fund – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
-    "pubDate": "18.05.2026 23:31:10",
-    "sortDate": 1779147070000,
+    "pubDate": "19.05.2026 01:44:29",
+    "sortDate": 1779155069000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tributes paid as ‘outstanding’ soldier who died in fall at Royal Windsor Horse Show is named",
+    "link": "https://www.theguardian.com/uk-news/2026/may/19/soldier-who-died-in-fall-at-royal-windsor-horse-show",
+    "pubDate": "19.05.2026 01:19:03",
+    "sortDate": 1779153543000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump dismisses $10bn suit against IRS and creates $1.7bn ‘anti-weaponization’ fund",
+    "link": "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit",
+    "pubDate": "19.05.2026 01:09:15",
+    "sortDate": 1779152955000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Experts locate bodies of four missing Italian divers inside Maldives cave",
+    "link": "https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies",
+    "pubDate": "19.05.2026 00:52:25",
+    "sortDate": 1779151945000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nancy Pelosi breaks silence to endorse San Francisco supervisor as successor",
+    "link": "https://www.theguardian.com/us-news/2026/may/18/nancy-pelosi-endorses-connie-chan-congress",
+    "pubDate": "19.05.2026 00:37:47",
+    "sortDate": 1779151067000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s shifting remarks on Taiwan are perfect for China to exploit",
+    "link": "https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis",
+    "pubDate": "19.05.2026 00:22:53",
+    "sortDate": 1779150173000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mark Fuhrman, LA detective convicted of lying at OJ Simpson trial, dies",
+    "link": "https://www.theguardian.com/us-news/2026/may/18/mark-fuhrman-lapd-oj-simpson-trial-dies",
+    "pubDate": "18.05.2026 23:57:12",
+    "sortDate": 1779148632000,
     "source": "The Guardian"
   },
   {
@@ -35,13 +112,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Free up fertiliser supplies to avert global food crisis, Yvette Cooper urges",
-    "link": "https://www.theguardian.com/global-development/2026/may/19/fertiliser-supplies-global-food-crisis-yvette-cooper",
-    "pubDate": "18.05.2026 23:01:00",
-    "sortDate": 1779145260000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
     "link": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
     "pubDate": "18.05.2026 23:01:00",
@@ -49,17 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Five people, including two suspects, killed in shooting at San Diego’s largest mosque",
-    "link": "https://www.theguardian.com/us-news/2026/may/18/active-shooter-report-san-diego-islamic-center",
-    "pubDate": "18.05.2026 22:43:10",
-    "sortDate": 1779144190000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "President says he’s adding ‘over 600’ prescription drugs to TrumpRx site",
-    "link": "https://www.theguardian.com/us-news/2026/may/18/trumprx-site-prescription-drugs",
-    "pubDate": "18.05.2026 22:27:13",
-    "sortDate": 1779143233000,
+    "title": "Free up fertiliser supplies to avert global food crisis, Yvette Cooper urges",
+    "link": "https://www.theguardian.com/global-development/2026/may/19/fertiliser-supplies-global-food-crisis-yvette-cooper",
+    "pubDate": "18.05.2026 23:01:00",
+    "sortDate": 1779145260000,
     "source": "The Guardian"
   },
   {
@@ -74,20 +137,6 @@
     "link": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
     "pubDate": "18.05.2026 21:07:58",
     "sortDate": 1779138478000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fast-growing southern California brush fire prompts evacuation orders",
-    "link": "https://www.theguardian.com/us-news/2026/may/18/simi-valley-fire-california-evacuations",
-    "pubDate": "18.05.2026 20:55:34",
-    "sortDate": 1779137734000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jewish man in hospital after attack by group of men in Golders Green",
-    "link": "https://www.theguardian.com/uk-news/2026/may/18/jewish-man-in-hospital-after-attack-by-group-of-men-in-golders-green",
-    "pubDate": "18.05.2026 20:05:52",
-    "sortDate": 1779134752000,
     "source": "The Guardian"
   },
   {
@@ -119,7 +168,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Starbucks Korea CEO resigns over ad evoking massacre of pro-democracy protesters",
+    "title": "Starbucks Korea CEO dismissed over ad evoking massacre of pro-democracy protesters",
     "link": "https://www.theguardian.com/business/2026/may/18/ceo-starbucks-in-south-korea-fired-over-controversial-ad-campaign",
     "pubDate": "18.05.2026 16:50:11",
     "sortDate": 1779123011000,
@@ -144,13 +193,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients",
     "pubDate": "18.05.2026 15:00:04",
     "sortDate": 1779116404000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia’s social media ban preventing teenagers from accessing the news, research finds",
-    "link": "https://www.theguardian.com/australia-news/2026/may/19/australias-social-media-ban-preventing-teens-from-accessing-the-news-research-finds",
-    "pubDate": "18.05.2026 15:00:03",
-    "sortDate": 1779116403000,
     "source": "The Guardian"
   },
   {
@@ -182,13 +224,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Signs of ‘feeding’ ritual at dingo burial site shed new light on bond between First Nations people and canines",
-    "link": "https://www.theguardian.com/science/2026/may/19/dingo-burial-site-first-nations-people-relationship-to-animals",
-    "pubDate": "18.05.2026 14:01:49",
-    "sortDate": 1779112909000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Purple pain: backlash over Mexico City’s ‘axolotlisation’ for World Cup",
     "link": "https://www.theguardian.com/world/2026/may/18/mexico-city-axolotl-murals-purple-mayor-world-cup",
     "pubDate": "18.05.2026 14:00:49",
@@ -196,80 +231,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Experts locate bodies of four missing Italian divers inside Maldives cave",
-    "link": "https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies",
-    "pubDate": "18.05.2026 13:54:49",
-    "sortDate": 1779112489000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167541",
-    "pubDate": "18.05.2026 12:00:00",
-    "sortDate": 1779105600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167540",
-    "pubDate": "18.05.2026 12:00:00",
-    "sortDate": 1779105600000,
-    "source": "UN News"
-  },
-  {
-    "title": "WHO assembly opens under shadow of Ebola, hantavirus and funding cuts",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167539",
-    "pubDate": "18.05.2026 12:00:00",
-    "sortDate": 1779105600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Palestine: Killings, destruction and settler encroachment continues",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167538",
-    "pubDate": "18.05.2026 12:00:00",
-    "sortDate": 1779105600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Extreme heat, floods and drought threaten lives across Latin America and Caribbean",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167537",
-    "pubDate": "18.05.2026 12:00:00",
-    "sortDate": 1779105600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Housing crisis takes centre stage at World Urban Forum in Baku",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167533",
-    "pubDate": "18.05.2026 12:00:00",
-    "sortDate": 1779105600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167534",
-    "pubDate": "18.05.2026 12:00:00",
-    "sortDate": 1779105600000,
-    "source": "UN News"
-  },
-  {
-    "title": "LGBTIQ+ face mounting violence and discrimination, warns UN rights chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167532",
-    "pubDate": "18.05.2026 12:00:00",
-    "sortDate": 1779105600000,
-    "source": "UN News"
-  },
-  {
     "title": "Ryanair has ‘near-zero concerns’ on fuel shortages but warns of future price rises",
     "link": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
     "pubDate": "18.05.2026 11:45:29",
     "sortDate": 1779104729000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Shakira in line for €55m payout as Spanish court rules tax fines were wrong",
-    "link": "https://www.theguardian.com/music/2026/may/18/spain-tax-agency-shakira-55m-payout-wrongful-fines",
-    "pubDate": "18.05.2026 11:01:11",
-    "sortDate": 1779102071000,
     "source": "The Guardian"
   },
   {
@@ -287,27 +252,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Nuclear terror threat ‘has never been so high’",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167501",
-    "pubDate": "17.05.2026 12:00:00",
-    "sortDate": 1779019200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola outbreak in Central Africa declared a ‘Public Health Emergency of International Concern’",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167531",
-    "pubDate": "17.05.2026 12:00:00",
-    "sortDate": 1779019200000,
-    "source": "UN News"
-  },
-  {
-    "title": "1.1 billion people live in slums. Can they be housed in dignity?",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167530",
-    "pubDate": "17.05.2026 12:00:00",
-    "sortDate": 1779019200000,
-    "source": "UN News"
-  },
-  {
     "title": "‘Tearing down barriers’: North Korean footballers arrive in Seoul for first time in eight years",
     "link": "https://www.theguardian.com/world/2026/may/17/afc-women-champions-league-north-korea-south-korea-naegohyang-fc-suwon",
     "pubDate": "17.05.2026 08:56:35",
@@ -322,32 +266,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Israeli strikes kill six in southern Lebanon hours after extension of ceasefire",
-    "link": "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
-    "pubDate": "17.05.2026 01:09:47",
-    "sortDate": 1778980187000,
-    "source": "The Guardian"
-  },
-  {
     "title": "At least eight people killed in Bangkok rail crossing collision",
     "link": "https://www.theguardian.com/world/2026/may/16/thailand-bangkok-rail-crossing-collision-freight-train-bus",
     "pubDate": "16.05.2026 14:17:14",
     "sortDate": 1778941034000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Turning silence into stories: Cambodian activist amplifies LGBTQI+ youth voices",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167529",
-    "pubDate": "16.05.2026 12:00:00",
-    "sortDate": 1778932800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World Urban Forum opens in Baku as housing crisis and climate shocks intensify",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167517",
-    "pubDate": "16.05.2026 12:00:00",
-    "sortDate": 1778932800000,
-    "source": "UN News"
   },
   {
     "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
@@ -357,144 +280,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Donald Trump does ‘not feel optimistic’ for Jimmy Lai after speaking with Xi Jinping",
-    "link": "https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping",
-    "pubDate": "16.05.2026 03:28:49",
-    "sortDate": 1778902129000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-    "link": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths",
-    "pubDate": "15.05.2026 18:22:04",
-    "sortDate": 1778869324000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167528",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "As war displaces millions in DR Congo, new schools offer children hope beyond violence",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167527",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Global energy and trade disruption pushing millions towards poverty",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167526",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: UN relief vehicle struck in Ukraine, emergency airdrops in South Sudan, backlash against LGBTIQ+ rights",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167525",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Blackouts and shortages disrupt healthcare across Cuba",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167524",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Afghan mothers and children face worsening hunger crisis, WFP warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167523",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "WHO sounds alarm over nicotine pouches targeting young people",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167520",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167521",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "LIVE UPDATES: UN committee commemorates the 78th anniversary of the Nakba",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167519",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "LIVE: Security Council meets on Syria transition and humanitarian crisis",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167518",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167516",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
     "title": "US reportedly dropped fraud charges against Indian billionaire after he hired Trump’s lawyer",
     "link": "https://www.theguardian.com/us-news/2026/may/14/gautam-adani-billionaire-trump",
     "pubDate": "14.05.2026 18:35:58",
     "sortDate": 1778783758000,
     "source": "The Guardian"
-  },
-  {
-    "title": "HIV prevention and treatment services faltering, warns UNAIDS",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167515",
-    "pubDate": "14.05.2026 12:00:00",
-    "sortDate": 1778760000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167514",
-    "pubDate": "14.05.2026 12:00:00",
-    "sortDate": 1778760000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN welcomes $1.8 billion US boost for humanitarian operations",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167513",
-    "pubDate": "14.05.2026 12:00:00",
-    "sortDate": 1778760000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167511",
-    "pubDate": "14.05.2026 12:00:00",
-    "sortDate": 1778760000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Russian attacks on Ukrainian civilians are a clear violation of humanitarian law, says senior UN official",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167509",
-    "pubDate": "14.05.2026 12:00:00",
-    "sortDate": 1778760000000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Stop’: Sandy Walker uses art to confront the legacy of Hiroshima",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167507",
-    "pubDate": "14.05.2026 12:00:00",
-    "sortDate": 1778760000000,
-    "source": "UN News"
   },
   {
     "title": "Trump ally Roger Stone condemned for providing lobbying services to Myanmar’s military junta",
