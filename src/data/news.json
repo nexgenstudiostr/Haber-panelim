@@ -1,44 +1,121 @@
 [
   {
-    "title": "News live: Dfat to meet with 11 Australians from flotilla detained by Israel; Hanson seeks funding for second electorate office",
-    "link": "https://www.theguardian.com/australia-news/live/2026/may/20/federal-budget-tim-wilson-reply-national-press-club-coalition-liberal-national-angus-taylor-labor-anthony-albanese-jim-chalmers-ntwnfb",
-    "pubDate": "20.05.2026 08:21:50",
-    "sortDate": 1779265310000,
+    "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167553",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "At least 80% responsibility for ill health in old age down to individual, study says",
+    "link": "https://www.theguardian.com/society/2026/may/20/responsibility-ill-health-old-age-oxford-longevity-project-study",
+    "pubDate": "20.05.2026 11:27:50",
+    "sortDate": 1779276470000,
     "source": "The Guardian"
   },
   {
-    "title": "UK relaxes strict sanctions on Russian crude as oil costs soar",
-    "link": "https://www.theguardian.com/politics/2026/may/20/uk-relaxes-strict-sanctions-on-russian-crude-oil",
-    "pubDate": "20.05.2026 08:18:36",
-    "sortDate": 1779265116000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Starmer to face Commons grilling at PMQs as Streeting plans resignation speech – UK politics live",
+    "title": "Planned fuel duty rise to be scrapped, says Starmer as he defends changes to Russian oil sanctions – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/may/20/keir-starmer-wes-streeting-labour-leadership-kemi-badenoch-pmqs-conservatives-reform-uk-politics-latest-news-updates",
-    "pubDate": "20.05.2026 08:17:26",
-    "sortDate": 1779265046000,
+    "pubDate": "20.05.2026 11:27:34",
+    "sortDate": 1779276454000,
     "source": "The Guardian"
   },
   {
-    "title": "EU agrees to implement US trade deal struck last summer",
-    "link": "https://www.theguardian.com/world/2026/may/20/eu-european-union-to-implement-us-trade-deal",
-    "pubDate": "20.05.2026 08:13:37",
-    "sortDate": 1779264817000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lithuania lifts air alert after suspected drones approaching from Belarus diverted - Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/may/20/lithuania-ukraine-belarus-estonia-baltcis-drones-air-alert-europe-vladimir-putin-xi-jinping-china-eu-nato-latest-news-updates",
-    "pubDate": "20.05.2026 08:11:51",
-    "sortDate": 1779264711000,
+    "title": "Trump tightens grip on GOP after Massie’s defeat in Kentucky primary – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/may/20/donald-trump-republicans-midterms-primaries-kentucky-redistricting-raul-castro-latest-news-updates",
+    "pubDate": "20.05.2026 11:26:42",
+    "sortDate": 1779276402000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Iran’s Revolutionary Guards warns of war ‘beyond the region’ if US resumes attacks",
     "link": "https://www.theguardian.com/world/live/2026/may/20/us-iran-israel-lebanon-gaza-trump-oil-hormuz-latest-news-updates",
-    "pubDate": "20.05.2026 07:56:09",
-    "sortDate": 1779263769000,
+    "pubDate": "20.05.2026 11:25:25",
+    "sortDate": 1779276325000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Georgia’s Republican races for governor and US Senate head to June runoffs",
+    "link": "https://www.theguardian.com/us-news/2026/may/19/georgia-governor-senate-primary-election",
+    "pubDate": "20.05.2026 11:21:23",
+    "sortDate": 1779276083000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russian threats against Baltics ‘unacceptable’ and danger to ‘our entire union’, EU’s von der Leyen says - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/may/20/lithuania-ukraine-belarus-estonia-baltcis-drones-air-alert-europe-vladimir-putin-xi-jinping-china-eu-nato-latest-news-updates",
+    "pubDate": "20.05.2026 11:10:58",
+    "sortDate": 1779275458000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First Thing: Trump critic Thomas Massie defeated in Kentucky Republican House primary",
+    "link": "https://www.theguardian.com/us-news/2026/may/20/first-thing-trump-critic-thomas-massie-defeated-in-kentucky-republican-house-primary",
+    "pubDate": "20.05.2026 11:10:07",
+    "sortDate": 1779275407000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Blinded and broken, Sunny the owl becomes another casualty of Russia’s war",
+    "link": "https://www.theguardian.com/environment/2026/may/20/owl-casualty-of-russia-war-ukraine-birds",
+    "pubDate": "20.05.2026 10:49:32",
+    "sortDate": 1779274172000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU agrees to implement US trade deal struck last summer",
+    "link": "https://www.theguardian.com/world/2026/may/20/eu-european-union-to-implement-us-trade-deal",
+    "pubDate": "20.05.2026 10:07:13",
+    "sortDate": 1779271633000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Call for food price caps ‘completely preposterous’, says M&S boss",
+    "link": "https://www.theguardian.com/business/2026/may/20/call-for-food-price-caps-completely-preposterous-says-m-and-s-boss",
+    "pubDate": "20.05.2026 10:00:25",
+    "sortDate": 1779271225000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "There could be 1,000 or more victims of black-cab rapist John Worboys, says Carrie Johnson",
+    "link": "https://www.theguardian.com/uk-news/2026/may/20/black-cab-rapist-john-worboys-victims-carrie-johnson",
+    "pubDate": "20.05.2026 09:38:00",
+    "sortDate": 1779269880000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
+    "link": "https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation",
+    "pubDate": "20.05.2026 09:25:32",
+    "sortDate": 1779269132000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Georgia mayor who fired town’s entire police force resigns, citing family ‘health concerns’",
+    "link": "https://www.theguardian.com/us-news/2026/may/20/georgia-mayor-who-fired-entire-police-force-resigns",
+    "pubDate": "20.05.2026 09:00:33",
+    "sortDate": 1779267633000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rachel Reeves to protect ‘critical’ clean energy projects from legal challenges",
+    "link": "https://www.theguardian.com/politics/2026/may/20/rachel-reeves-protect-clean-energy-projects-legal-challenges-environment",
+    "pubDate": "20.05.2026 08:50:22",
+    "sortDate": 1779267022000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Vein of racism’: race discrimination commissioner accuses One Nation and Coalition of scapegoating immigrants",
+    "link": "https://www.theguardian.com/australia-news/2026/may/20/one-nation-coalition-scapegoating-migrants-immigrants-says-race-discrimination-commissioner-ntwnfb",
+    "pubDate": "20.05.2026 08:41:49",
+    "sortDate": 1779266509000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Officials to meet Australians detained by Israel – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/may/20/federal-budget-tim-wilson-reply-national-press-club-coalition-liberal-national-angus-taylor-labor-anthony-albanese-jim-chalmers-ntwnfb",
+    "pubDate": "20.05.2026 08:30:55",
+    "sortDate": 1779265855000,
     "source": "The Guardian"
   },
   {
@@ -49,31 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lax rules and rise in for-profit childcare allow predators to abuse children, NSW inquiry finds",
+    "title": "Predators able to abuse children due to systemic weaknesses in NSW childcare, inquiry finds",
     "link": "https://www.theguardian.com/australia-news/2026/may/20/lax-rules-and-rise-in-for-profit-childcare-allow-predators-to-abuse-children-nsw-inquiry-finds-ntwnfb",
     "pubDate": "20.05.2026 07:27:04",
     "sortDate": 1779262024000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Britain’s second most senior diplomat in Washington abruptly leaves post",
-    "link": "https://www.theguardian.com/politics/2026/may/20/british-diplomat-james-roscoe-abruptly-leaves-washington-embassy-post",
-    "pubDate": "20.05.2026 07:23:30",
-    "sortDate": 1779261810000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Limit social media ban for under-16s to unsafe apps, Starmer urged",
-    "link": "https://www.theguardian.com/technology/2026/may/20/limit-social-media-ban-under-16s-unsafe-apps-starmer",
-    "pubDate": "20.05.2026 07:00:27",
-    "sortDate": 1779260427000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Scrap stamp duty and council tax to fix London housing crisis, thinktank says",
-    "link": "https://www.theguardian.com/business/2026/may/20/scrap-stamp-duty-and-council-tax-to-fix-london-housing-crisis-thinktank-says",
-    "pubDate": "20.05.2026 06:00:28",
-    "sortDate": 1779256828000,
     "source": "The Guardian"
   },
   {
@@ -84,38 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Brazen’ alleged shooting in Sydney’s south-west that left one dead and four in hospital was targeted, police believe",
-    "link": "https://www.theguardian.com/australia-news/2026/may/20/sydney-fatal-shooting-canley-heights-nsw-ntwnfb",
-    "pubDate": "20.05.2026 04:16:42",
-    "sortDate": 1779250602000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Georgia’s Republican races for governor and US Senate head to June runoffs",
-    "link": "https://www.theguardian.com/us-news/2026/may/19/georgia-governor-senate-primary-election",
-    "pubDate": "20.05.2026 04:14:45",
-    "sortDate": 1779250485000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘I’ve got seven months left’: Massie speaks out after losing House primary to Trump-backed challenger Ed Gallrein –as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/may/19/donald-trump-primaries-midterms-republicans-kentucky-thomas-massie-pennsylvania-georgia-alabama-oregon-idaho-latest-news-updates",
-    "pubDate": "20.05.2026 04:00:39",
-    "sortDate": 1779249639000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘How are we going to survive this?’ Wellington faces six-month wait to halt sewage spill",
     "link": "https://www.theguardian.com/world/2026/may/20/wellington-sewage-spill-moa-point-update-six-month-wait",
     "pubDate": "20.05.2026 03:44:43",
     "sortDate": 1779248683000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump critic Thomas Massie defeated in Kentucky Republican House primary",
-    "link": "https://www.theguardian.com/us-news/2026/may/19/kentucky-republican-primary-trump-massie",
-    "pubDate": "20.05.2026 03:21:00",
-    "sortDate": 1779247260000,
     "source": "The Guardian"
   },
   {
@@ -137,13 +165,6 @@
     "link": "https://www.theguardian.com/world/2026/may/19/vladimir-putin-beijing-china-state-visit-xi-jinping-russia",
     "pubDate": "20.05.2026 00:28:36",
     "sortDate": 1779236916000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Teenagers behind mass shooting in San Diego rushed at mosque ‘fully armored’",
-    "link": "https://www.theguardian.com/us-news/2026/may/19/san-diego-mosque-shooting",
-    "pubDate": "20.05.2026 00:12:56",
-    "sortDate": 1779235976000,
     "source": "The Guardian"
   },
   {
@@ -189,13 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Son of Mango fashion chain founder arrested in Spain over father’s death",
-    "link": "https://www.theguardian.com/world/2026/may/19/jonathan-andic-son-mango-isak-andic-arrested-death-father-spain",
-    "pubDate": "19.05.2026 17:14:23",
-    "sortDate": 1779210863000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Three Toronto police officers arrested over sexual assault in Barcelona",
     "link": "https://www.theguardian.com/world/2026/may/19/toronto-police-sexual-assault-charge-barcelona",
     "pubDate": "19.05.2026 17:13:14",
@@ -214,13 +228,6 @@
     "link": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned",
     "pubDate": "19.05.2026 16:06:56",
     "sortDate": 1779206816000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russian jamming blamed after Nato jet downs Ukrainian drone over Estonia",
-    "link": "https://www.theguardian.com/world/2026/may/19/russian-jamming-blamed-nato-jet-downs-ukrainian-drone-estonia",
-    "pubDate": "19.05.2026 15:57:54",
-    "sortDate": 1779206274000,
     "source": "The Guardian"
   },
   {
@@ -478,13 +485,6 @@
   {
     "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
     "link": "https://news.un.org/feed/view/en/story/2026/05/1167521",
-    "pubDate": "15.05.2026 12:00:00",
-    "sortDate": 1778846400000,
-    "source": "UN News"
-  },
-  {
-    "title": "LIVE UPDATES: UN committee commemorates the 78th anniversary of the Nakba",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167519",
     "pubDate": "15.05.2026 12:00:00",
     "sortDate": 1778846400000,
     "source": "UN News"
