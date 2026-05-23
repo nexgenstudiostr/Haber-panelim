@@ -1,5 +1,19 @@
 [
   {
+    "title": "Australia news live: Queensland police shoot dead man north of Brisbane; gunshots heard near White House",
+    "link": "https://www.theguardian.com/australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb",
+    "pubDate": "23.05.2026 23:43:28",
+    "sortDate": 1779579808000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: fate of strait of Hormuz hangs in balance as Trump claims Iran deal ‘largely negotiated’",
+    "link": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
+    "pubDate": "23.05.2026 23:14:47",
+    "sortDate": 1779578087000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Trump says peace deal with Iran ‘largely negotiated’ with strait of Hormuz to open",
     "link": "https://www.theguardian.com/world/2026/may/23/trump-ceasefire-iran-strait-of-hormuz",
     "pubDate": "23.05.2026 22:26:44",
@@ -119,6 +133,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167580",
+    "pubDate": "23.05.2026 12:00:00",
+    "sortDate": 1779537600000,
+    "source": "UN News"
+  },
+  {
+    "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167569",
+    "pubDate": "23.05.2026 12:00:00",
+    "sortDate": 1779537600000,
+    "source": "UN News"
+  },
+  {
     "title": "SpaceX launches its biggest rocket yet in test flight from Texas",
     "link": "https://www.theguardian.com/science/2026/may/22/spacex-launch-texas-test-flight",
     "pubDate": "23.05.2026 11:39:00",
@@ -196,20 +224,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Three die in ‘horrific’ south Sydney vehicle crash after police welfare check",
-    "link": "https://www.theguardian.com/australia-news/2026/may/23/three-die-in-horrific-south-sydney-vehicle-crash-after-police-welfare-check",
-    "pubDate": "23.05.2026 01:24:01",
-    "sortDate": 1779499441000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax",
-    "link": "https://www.theguardian.com/world/2026/may/22/uranium-strait-of-hormuz-us-iran-war-talks-pakistan",
-    "pubDate": "23.05.2026 01:14:00",
-    "sortDate": 1779498840000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
     "link": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
     "pubDate": "22.05.2026 21:51:48",
@@ -236,6 +250,41 @@
     "pubDate": "22.05.2026 15:47:31",
     "sortDate": 1779464851000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167579",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World Urban Forum backs ‘Baku Call to Action’ on global housing crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167577",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167578",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167575",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167572",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
   },
   {
     "title": "UN’s climate crisis vote shows political momentum is growing, say experts",
@@ -294,6 +343,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "Right to strike protected under key labour treaty, says UN World Court",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167571",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167570",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167568",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN agencies step up Ebola response in eastern DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167567",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "War is becoming a death sentence for women and girls",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167566",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Building the smart city: Promise, pitfalls and the people at its heart",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167564",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
     "title": "Record 274 climbers summit Everest from Nepalese side in single day",
     "link": "https://www.theguardian.com/world/2026/may/21/record-climbers-summit-everest-from-nepalese-side-in-single-day",
     "pubDate": "21.05.2026 11:06:25",
@@ -306,6 +404,118 @@
     "pubDate": "21.05.2026 00:52:55",
     "sortDate": 1779324775000,
     "source": "The Guardian"
+  },
+  {
+    "title": "General Assembly backs historic World Court climate crisis ruling",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167561",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167562",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167560",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167559",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167558",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council reform ‘is absolutely essential’: Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167555",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Civilians in conflict under spotlight amid rising global toll",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167554",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167553",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Star-studded refugee football team takes the pitch for UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167552",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167550",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167548",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine war ‘becoming deadlier by the day’, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167546",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘I had a good life and I lost it’: How one man survived four years on the streets",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167544",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "From favelas to informal settlements, new UN report points to housing solutions that work",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167543",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
   },
   {
     "title": "US reportedly dropped fraud charges against Indian billionaire after he hired Trump’s lawyer",
