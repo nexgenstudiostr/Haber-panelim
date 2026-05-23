@@ -1,6 +1,48 @@
 [
   {
-    "title": "India’s government orders takeover of exclusive Delhi Gymkhana Club",
+    "title": "White House pauses removal of detainees to the DRC as Ebola outbreak widens",
+    "link": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola",
+    "pubDate": "23.05.2026 14:33:05",
+    "sortDate": 1779546785000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump's justice department scrubs its website of news releases about January 6 defendants",
+    "link": "https://www.theguardian.com/us-news/2026/may/23/trump-justice-department-scrubs-website-january-6-defendants",
+    "pubDate": "23.05.2026 14:23:57",
+    "sortDate": 1779546237000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Extra EU border checks suspended at Dover as travellers face delays in heat",
+    "link": "https://www.theguardian.com/uk-news/2026/may/23/extra-eu-border-checks-ees-suspended-dover-travel-delays-hot-weather",
+    "pubDate": "23.05.2026 14:10:54",
+    "sortDate": 1779545454000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "How big tech got its way on Trump’s AI executive order",
+    "link": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
+    "pubDate": "23.05.2026 14:00:29",
+    "sortDate": 1779544829000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
+    "link": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
+    "pubDate": "23.05.2026 13:17:08",
+    "sortDate": 1779542228000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack",
+    "link": "https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack",
+    "pubDate": "23.05.2026 13:00:28",
+    "sortDate": 1779541228000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "India’s government orders handover of exclusive Delhi Gymkhana Club",
     "link": "https://www.theguardian.com/world/2026/may/23/india-government-orders-takeover-exclusive-delhi-gymkhana-club-narendra-modi",
     "pubDate": "23.05.2026 12:51:01",
     "sortDate": 1779540661000,
@@ -112,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "California: 40,000 people ordered to evacuate over chemical leak fears",
-    "link": "https://www.theguardian.com/us-news/2026/may/22/california-orange-county-chemical-tank",
-    "pubDate": "23.05.2026 06:46:43",
-    "sortDate": 1779518803000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
     "link": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
     "pubDate": "23.05.2026 06:03:37",
@@ -137,13 +172,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/may/23/anthony-albanese-visibly-emotional-after-defending-labors-capital-gains-tax-and-negative-gearing-changes",
     "pubDate": "23.05.2026 04:23:17",
     "sortDate": 1779510197000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump Mobile investigating potential exposure of would-be customers’ personal information",
-    "link": "https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information",
-    "pubDate": "23.05.2026 02:35:20",
-    "sortDate": 1779503720000,
     "source": "The Guardian"
   },
   {
@@ -182,13 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Czech president urges Nato to ‘show its teeth’ over Russia’s provocations",
-    "link": "https://www.theguardian.com/world/2026/may/22/czech-president-petr-pavel-nato-show-teeth-russia-provocations",
-    "pubDate": "22.05.2026 19:25:50",
-    "sortDate": 1779477950000,
-    "source": "The Guardian"
-  },
-  {
     "title": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
     "link": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
     "pubDate": "22.05.2026 16:41:09",
@@ -215,6 +236,41 @@
     "pubDate": "22.05.2026 12:16:03",
     "sortDate": 1779452163000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167579",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World Urban Forum backs ‘Baku Call to Action’ on global housing crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167577",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167578",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167575",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167572",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
   },
   {
     "title": "UN’s climate crisis vote shows political momentum is growing, say experts",
@@ -266,13 +322,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Macron says France must address issue of reparations for its role in slave trade",
-    "link": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
-    "pubDate": "21.05.2026 15:05:15",
-    "sortDate": 1779375915000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Parody Cockroach Janta political party’s rise reflects youth anger in India",
     "link": "https://www.theguardian.com/world/2026/may/21/cockroach-janta-party-youth-anger-frustration-protest-india",
     "pubDate": "21.05.2026 14:22:53",
@@ -280,17 +329,59 @@
     "source": "The Guardian"
   },
   {
+    "title": "Right to strike protected under key labour treaty, says UN World Court",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167571",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167570",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167568",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN agencies step up Ebola response in eastern DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167567",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "War is becoming a death sentence for women and girls",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167566",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Building the smart city: Promise, pitfalls and the people at its heart",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167564",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
     "title": "Record 274 climbers summit Everest from Nepalese side in single day",
     "link": "https://www.theguardian.com/world/2026/may/21/record-climbers-summit-everest-from-nepalese-side-in-single-day",
     "pubDate": "21.05.2026 11:06:25",
     "sortDate": 1779361585000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
-    "link": "https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health",
-    "pubDate": "21.05.2026 10:00:08",
-    "sortDate": 1779357608000,
     "source": "The Guardian"
   },
   {
@@ -301,11 +392,130 @@
     "source": "The Guardian"
   },
   {
-    "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
-    "link": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
-    "pubDate": "20.05.2026 12:28:43",
-    "sortDate": 1779280123000,
-    "source": "The Guardian"
+    "title": "General Assembly backs historic World Court climate crisis ruling",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167561",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167562",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167560",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167559",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167558",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council reform ‘is absolutely essential’: Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167555",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Civilians in conflict under spotlight amid rising global toll",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167554",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167553",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Star-studded refugee football team takes the pitch for UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167552",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167550",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167548",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine war ‘becoming deadlier by the day’, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167546",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘I had a good life and I lost it’: How one man survived four years on the streets",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167544",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "From favelas to informal settlements, new UN report points to housing solutions that work",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167543",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "DRC Ebola outbreak: hundreds of suspected cases, no vaccine",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167542",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167541",
+    "pubDate": "18.05.2026 12:00:00",
+    "sortDate": 1779105600000,
+    "source": "UN News"
   },
   {
     "title": "US reportedly dropped fraud charges against Indian billionaire after he hired Trump’s lawyer",
