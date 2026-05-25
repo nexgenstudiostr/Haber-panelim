@@ -1,23 +1,58 @@
 [
   {
-    "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
-    "link": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
-    "pubDate": "25.05.2026 16:46:41",
-    "sortDate": 1779727601000,
+    "title": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal",
+    "link": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
+    "pubDate": "25.05.2026 18:58:42",
+    "sortDate": 1779735522000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘If Iran gets a bomb it will be Bibi’s’: Trump’s deal outline sparks alarm in Israel",
+    "link": "https://www.theguardian.com/world/2026/may/25/iran-bomb-trump-deal-sparks-alarm-israel-netanyahu",
+    "pubDate": "25.05.2026 18:50:49",
+    "sortDate": 1779735049000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
+    "link": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
+    "pubDate": "25.05.2026 18:43:39",
+    "sortDate": 1779734619000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Three arrested after 30-year-old woman shot dead in Sheffield city centre",
+    "link": "https://www.theguardian.com/uk-news/2026/may/25/people-arrested-after-30-year-old-woman-shot-dead-in-sheffield-city-centre",
+    "pubDate": "25.05.2026 18:35:55",
+    "sortDate": 1779734155000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Protesters clash with ICE agents outside New Jersey detention center",
+    "link": "https://www.theguardian.com/us-news/2026/may/25/new-jersey-ice-immigration-protest",
+    "pubDate": "25.05.2026 18:25:00",
+    "sortDate": 1779733500000,
     "source": "The Guardian"
   },
   {
     "title": "Texas officers rescue infant from car trapped in floodwaters",
     "link": "https://www.theguardian.com/us-news/2026/may/25/texas-baby-rescue-car-floodwaters",
-    "pubDate": "25.05.2026 16:46:04",
-    "sortDate": 1779727564000,
+    "pubDate": "25.05.2026 17:24:47",
+    "sortDate": 1779729887000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal",
-    "link": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
-    "pubDate": "25.05.2026 16:41:26",
-    "sortDate": 1779727286000,
+    "title": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
+    "link": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+    "pubDate": "25.05.2026 17:00:30",
+    "sortDate": 1779728430000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
+    "link": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
+    "pubDate": "25.05.2026 16:46:41",
+    "sortDate": 1779727601000,
     "source": "The Guardian"
   },
   {
@@ -91,20 +126,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Tui faces scrutiny over E coli-linked death of baby after holiday in Egypt",
-    "link": "https://www.theguardian.com/business/2026/may/25/tui-faces-scrutiny-e-coli-linked-death-baby-holiday-egypt",
-    "pubDate": "25.05.2026 15:00:28",
-    "sortDate": 1779721228000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Elon Musk retweet signals rightwing split that could help Andy Burnham in Makerfield",
-    "link": "https://www.theguardian.com/politics/2026/may/25/elon-musk-retweet-andy-burnham-makerfield-byelection-reform",
-    "pubDate": "25.05.2026 14:43:50",
-    "sortDate": 1779720230000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Thai rescuers join effort to free seven people trapped in Laos cave",
     "link": "https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers",
     "pubDate": "25.05.2026 14:24:26",
@@ -130,13 +151,6 @@
     "link": "https://www.theguardian.com/world/2026/may/25/trump-tower-georgia-tbilisi-land-part-owned-son-us-sanctions-leader",
     "pubDate": "25.05.2026 12:00:27",
     "sortDate": 1779710427000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US",
-    "link": "https://www.theguardian.com/us-news/2026/may/25/ebola-hantavirus-conspiracy-theories",
-    "pubDate": "25.05.2026 12:00:25",
-    "sortDate": 1779710425000,
     "source": "The Guardian"
   },
   {
@@ -189,13 +203,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Oil prices fall to two-week lows – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/may/24/iran-deal-strait-of-hormuz-trump-middle-east-crisis-live",
-    "pubDate": "25.05.2026 03:51:47",
-    "sortDate": 1779681107000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
     "link": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
     "pubDate": "24.05.2026 19:07:33",
@@ -208,27 +215,6 @@
     "pubDate": "24.05.2026 14:22:46",
     "sortDate": 1779632566000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Khalida Popal and Javier Zanetti among football stars appointed UN Champions",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167582",
-    "pubDate": "24.05.2026 12:00:00",
-    "sortDate": 1779624000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Displaced in Gaza: From home comforts to the shattering horror of war",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167574",
-    "pubDate": "24.05.2026 12:00:00",
-    "sortDate": 1779624000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167583",
-    "pubDate": "24.05.2026 12:00:00",
-    "sortDate": 1779624000000,
-    "source": "UN News"
   },
   {
     "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
@@ -259,39 +245,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
-    "link": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
-    "pubDate": "23.05.2026 13:17:08",
-    "sortDate": 1779542228000,
-    "source": "The Guardian"
-  },
-  {
     "title": "India’s government orders handover of exclusive Delhi Gymkhana Club",
     "link": "https://www.theguardian.com/world/2026/may/23/india-government-orders-takeover-exclusive-delhi-gymkhana-club-narendra-modi",
     "pubDate": "23.05.2026 12:51:01",
     "sortDate": 1779540661000,
     "source": "The Guardian"
-  },
-  {
-    "title": "WHO chief calls for urgent Ebola action and pandemic preparedness",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167581",
-    "pubDate": "23.05.2026 12:00:00",
-    "sortDate": 1779537600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167580",
-    "pubDate": "23.05.2026 12:00:00",
-    "sortDate": 1779537600000,
-    "source": "UN News"
-  },
-  {
-    "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167569",
-    "pubDate": "23.05.2026 12:00:00",
-    "sortDate": 1779537600000,
-    "source": "UN News"
   },
   {
     "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
@@ -320,41 +278,6 @@
     "pubDate": "22.05.2026 16:41:09",
     "sortDate": 1779468069000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167579",
-    "pubDate": "22.05.2026 12:00:00",
-    "sortDate": 1779451200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World Urban Forum backs ‘Baku Call to Action’ on global housing crisis",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167577",
-    "pubDate": "22.05.2026 12:00:00",
-    "sortDate": 1779451200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167578",
-    "pubDate": "22.05.2026 12:00:00",
-    "sortDate": 1779451200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167575",
-    "pubDate": "22.05.2026 12:00:00",
-    "sortDate": 1779451200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167572",
-    "pubDate": "22.05.2026 12:00:00",
-    "sortDate": 1779451200000,
-    "source": "UN News"
   },
   {
     "title": "UN’s climate crisis vote shows political momentum is growing, say experts",
@@ -390,138 +313,5 @@
     "pubDate": "22.05.2026 05:00:50",
     "sortDate": 1779426050000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Right to strike protected under key labour treaty, says UN World Court",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167571",
-    "pubDate": "21.05.2026 12:00:00",
-    "sortDate": 1779364800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167570",
-    "pubDate": "21.05.2026 12:00:00",
-    "sortDate": 1779364800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167568",
-    "pubDate": "21.05.2026 12:00:00",
-    "sortDate": 1779364800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN agencies step up Ebola response in eastern DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167567",
-    "pubDate": "21.05.2026 12:00:00",
-    "sortDate": 1779364800000,
-    "source": "UN News"
-  },
-  {
-    "title": "War is becoming a death sentence for women and girls",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167566",
-    "pubDate": "21.05.2026 12:00:00",
-    "sortDate": 1779364800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Building the smart city: Promise, pitfalls and the people at its heart",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167564",
-    "pubDate": "21.05.2026 12:00:00",
-    "sortDate": 1779364800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167563",
-    "pubDate": "21.05.2026 12:00:00",
-    "sortDate": 1779364800000,
-    "source": "UN News"
-  },
-  {
-    "title": "General Assembly backs historic World Court climate crisis ruling",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167561",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167562",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167560",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167559",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167558",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167556",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council reform ‘is absolutely essential’: Guterres",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167555",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Civilians in conflict under spotlight amid rising global toll",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167554",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167553",
-    "pubDate": "20.05.2026 12:00:00",
-    "sortDate": 1779278400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Star-studded refugee football team takes the pitch for UN",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167552",
-    "pubDate": "19.05.2026 12:00:00",
-    "sortDate": 1779192000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167551",
-    "pubDate": "19.05.2026 12:00:00",
-    "sortDate": 1779192000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
-    "link": "https://news.un.org/feed/view/en/story/2026/05/1167550",
-    "pubDate": "19.05.2026 12:00:00",
-    "sortDate": 1779192000000,
-    "source": "UN News"
   }
 ]
