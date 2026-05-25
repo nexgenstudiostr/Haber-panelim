@@ -1,9 +1,107 @@
 [
   {
+    "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
+    "link": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
+    "pubDate": "25.05.2026 16:46:41",
+    "sortDate": 1779727601000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Texas officers rescue infant from car trapped in floodwaters",
+    "link": "https://www.theguardian.com/us-news/2026/may/25/texas-baby-rescue-car-floodwaters",
+    "pubDate": "25.05.2026 16:46:04",
+    "sortDate": 1779727564000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Middle East crisis live: Trump suggests countries in region should sign Abraham accords recognising Israel under any deal",
     "link": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
-    "pubDate": "25.05.2026 14:34:36",
-    "sortDate": 1779719676000,
+    "pubDate": "25.05.2026 16:41:26",
+    "sortDate": 1779727286000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK records its hottest ever day in May as temperature hits 34.8C",
+    "link": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
+    "pubDate": "25.05.2026 16:31:56",
+    "sortDate": 1779726716000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
+    "link": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
+    "pubDate": "25.05.2026 16:26:05",
+    "sortDate": 1779726365000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran denies deal with US is imminent despite some progress",
+    "link": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
+    "pubDate": "25.05.2026 16:06:47",
+    "sortDate": 1779725207000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
+    "link": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
+    "pubDate": "25.05.2026 16:05:41",
+    "sortDate": 1779725141000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Far-right Elam party inspired by Golden Dawn makes gains in Cyprus election",
+    "link": "https://www.theguardian.com/world/2026/may/25/far-right-elam-party-inspired-by-golden-dawn-makes-big-gains-in-cyprus-elections",
+    "pubDate": "25.05.2026 15:50:23",
+    "sortDate": 1779724223000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nigel Farage’s Russian hack claim ‘without any merit’, former NCSC chief says",
+    "link": "https://www.theguardian.com/politics/2026/may/25/nigel-farage-russian-hack-claim-disclosure-5m-gift",
+    "pubDate": "25.05.2026 15:33:35",
+    "sortDate": 1779723215000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Record May highs sweep across France as extreme heat hits western Europe",
+    "link": "https://www.theguardian.com/world/2026/may/25/france-highest-ever-may-temperatures-spain-heatwave",
+    "pubDate": "25.05.2026 15:28:35",
+    "sortDate": 1779722915000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Remains of US soldier killed in WWII returned to Pennsylvania after 80 years",
+    "link": "https://www.theguardian.com/us-news/2026/may/25/wwii-soldiers-return-pennsylvania",
+    "pubDate": "25.05.2026 15:09:08",
+    "sortDate": 1779721748000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shock of Iran war unites Middle East rivals in pushing Trump towards peace",
+    "link": "https://www.theguardian.com/world/2026/may/25/shock-iran-war-middle-east-rivals-trump-peace-deal",
+    "pubDate": "25.05.2026 15:03:17",
+    "sortDate": 1779721397000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Teals eye party structure to fill Liberal vacuum and counter One Nation",
+    "link": "https://www.theguardian.com/australia-news/2026/may/26/teals-eye-party-structure-to-fill-liberal-vacuum-and-counter-one-nation",
+    "pubDate": "25.05.2026 15:00:30",
+    "sortDate": 1779721230000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tui faces scrutiny over E coli-linked death of baby after holiday in Egypt",
+    "link": "https://www.theguardian.com/business/2026/may/25/tui-faces-scrutiny-e-coli-linked-death-baby-holiday-egypt",
+    "pubDate": "25.05.2026 15:00:28",
+    "sortDate": 1779721228000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Elon Musk retweet signals rightwing split that could help Andy Burnham in Makerfield",
+    "link": "https://www.theguardian.com/politics/2026/may/25/elon-musk-retweet-andy-burnham-makerfield-byelection-reform",
+    "pubDate": "25.05.2026 14:43:50",
+    "sortDate": 1779720230000,
     "source": "The Guardian"
   },
   {
@@ -14,13 +112,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Hundreds of homes in Kent and Sussex left without water after supply outages",
-    "link": "https://www.theguardian.com/environment/2026/may/25/south-east-water-homes-kent-sussex-supply-outages",
-    "pubDate": "25.05.2026 14:08:06",
-    "sortDate": 1779718086000,
-    "source": "The Guardian"
-  },
-  {
     "title": "At four, her head was shaved and her clothes burned. Aunty Lorraine doesn’t want her trauma to be forgotten",
     "link": "https://www.theguardian.com/australia-news/2026/may/26/stolen-generation-survivors-national-plan-ntwnfb",
     "pubDate": "25.05.2026 14:01:27",
@@ -28,59 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK’s higher-earning immigrants may be driven out by tougher rules, report suggests",
-    "link": "https://www.theguardian.com/uk-news/2026/may/25/uk-higher-earning-immigrants-driven-out-tougher-rules",
-    "pubDate": "25.05.2026 13:17:18",
-    "sortDate": 1779715038000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘I’m going to get his ass’: YouTuber beats all-time cheese-rolling champion",
-    "link": "https://www.theguardian.com/uk-news/2026/may/25/cheese-rolling-german-youtuber-tom-kopke-beats-all-time-champion-chris-anderson",
-    "pubDate": "25.05.2026 13:13:48",
-    "sortDate": 1779714828000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Shock of Iran war unites Middle East rivals in pushing Trump towards peace",
-    "link": "https://www.theguardian.com/world/2026/may/25/shock-iran-war-middle-east-rivals-trump-peace-deal",
-    "pubDate": "25.05.2026 13:06:10",
-    "sortDate": 1779714370000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labour needs ‘system reset’ to tackle youth unemployment, report to say",
-    "link": "https://www.theguardian.com/society/2026/may/25/labour-needs-system-reset-to-tackle-youth-unemployment-report-to-say",
-    "pubDate": "25.05.2026 13:00:26",
-    "sortDate": 1779714026000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Iran denies deal with US is imminent despite some progress",
-    "link": "https://www.theguardian.com/world/2026/may/25/iran-denies-deal-us-imminent-israel-oman-strait-of-hormuz",
-    "pubDate": "25.05.2026 12:47:12",
-    "sortDate": 1779713232000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
-    "link": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
-    "pubDate": "25.05.2026 12:43:34",
-    "sortDate": 1779713014000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Chemical tank crack eases explosion fears as 50,000 residents flee California",
+    "title": "Explosion threat at southern California chemical tank eliminated, firefighters say",
     "link": "https://www.theguardian.com/us-news/2026/may/25/chemical-tank-crack-california",
     "pubDate": "25.05.2026 12:35:19",
     "sortDate": 1779712519000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK records its highest ever May temperature",
-    "link": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
-    "pubDate": "25.05.2026 12:16:38",
-    "sortDate": 1779711398000,
     "source": "The Guardian"
   },
   {
@@ -119,13 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US and Iran inch closer to peace deal as Trump faces criticism from GOP hawks | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/may/25/first-thing-us-and-iran-inch-closer-to-peace-deal-as-trump-faces-criticism-from-gop-hawks",
-    "pubDate": "25.05.2026 10:12:00",
-    "sortDate": 1779703920000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Rare Rubens notebook sheet goes on display in artist’s home city of Antwerp",
     "link": "https://www.theguardian.com/world/2026/may/25/rare-rubens-notebook-sheet-goes-on-display-in-artists-home-city-of-antwerp",
     "pubDate": "25.05.2026 10:00:24",
@@ -133,31 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australian flotilla activists arrive home alleging sexual assault and beatings in Israeli detention",
-    "link": "https://www.theguardian.com/world/2026/may/25/stripped-naked-and-beaten-australian-flotilla-activists-arrive-home-after-alleged-torture-in-israeli-detention-ntwnfb",
-    "pubDate": "25.05.2026 09:12:54",
-    "sortDate": 1779700374000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
-    "link": "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe",
-    "pubDate": "25.05.2026 08:08:23",
-    "sortDate": 1779696503000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Opposition divided: battle among Iranian regime’s opponents plays out on London streets",
     "link": "https://www.theguardian.com/world/2026/may/25/iran-regime-opponents-london-shah-pahlavi-mek",
     "pubDate": "25.05.2026 08:00:20",
     "sortDate": 1779696020000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘A bridge, not an obstacle’: is Armenia a new crossroads between east and west?",
-    "link": "https://www.theguardian.com/world/2026/may/25/armenia-election-crossroads-between-east-west",
-    "pubDate": "25.05.2026 07:40:46",
-    "sortDate": 1779694846000,
     "source": "The Guardian"
   },
   {
@@ -182,20 +196,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "The Mandalorian and Grogu has lowest box office opening for a Star Wars film in Disney era",
-    "link": "https://www.theguardian.com/film/2026/may/25/the-mandalorian-and-grogu-has-lowest-box-office-opening-for-a-star-wars-film-in-disney-era",
-    "pubDate": "25.05.2026 03:44:11",
-    "sortDate": 1779680651000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Grizz Chapman, actor who played Grizz in 30 Rock, dies aged 52",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/may/25/grizz-chapman-actor-30-rock-dies-aged-52",
-    "pubDate": "25.05.2026 01:13:31",
-    "sortDate": 1779671611000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
     "link": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
     "pubDate": "24.05.2026 19:07:33",
@@ -208,6 +208,27 @@
     "pubDate": "24.05.2026 14:22:46",
     "sortDate": 1779632566000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Khalida Popal and Javier Zanetti among football stars appointed UN Champions",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167582",
+    "pubDate": "24.05.2026 12:00:00",
+    "sortDate": 1779624000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Displaced in Gaza: From home comforts to the shattering horror of war",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167574",
+    "pubDate": "24.05.2026 12:00:00",
+    "sortDate": 1779624000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167583",
+    "pubDate": "24.05.2026 12:00:00",
+    "sortDate": 1779624000000,
+    "source": "UN News"
   },
   {
     "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
@@ -252,6 +273,27 @@
     "source": "The Guardian"
   },
   {
+    "title": "WHO chief calls for urgent Ebola action and pandemic preparedness",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167581",
+    "pubDate": "23.05.2026 12:00:00",
+    "sortDate": 1779537600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167580",
+    "pubDate": "23.05.2026 12:00:00",
+    "sortDate": 1779537600000,
+    "source": "UN News"
+  },
+  {
+    "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167569",
+    "pubDate": "23.05.2026 12:00:00",
+    "sortDate": 1779537600000,
+    "source": "UN News"
+  },
+  {
     "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
     "link": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
     "pubDate": "23.05.2026 11:00:28",
@@ -278,6 +320,41 @@
     "pubDate": "22.05.2026 16:41:09",
     "sortDate": 1779468069000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167579",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World Urban Forum backs ‘Baku Call to Action’ on global housing crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167577",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167578",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167575",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167572",
+    "pubDate": "22.05.2026 12:00:00",
+    "sortDate": 1779451200000,
+    "source": "UN News"
   },
   {
     "title": "UN’s climate crisis vote shows political momentum is growing, say experts",
@@ -313,5 +390,138 @@
     "pubDate": "22.05.2026 05:00:50",
     "sortDate": 1779426050000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Right to strike protected under key labour treaty, says UN World Court",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167571",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167570",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167568",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN agencies step up Ebola response in eastern DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167567",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "War is becoming a death sentence for women and girls",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167566",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Building the smart city: Promise, pitfalls and the people at its heart",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167564",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+    "pubDate": "21.05.2026 12:00:00",
+    "sortDate": 1779364800000,
+    "source": "UN News"
+  },
+  {
+    "title": "General Assembly backs historic World Court climate crisis ruling",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167561",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167562",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167560",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167559",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167558",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167556",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council reform ‘is absolutely essential’: Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167555",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Civilians in conflict under spotlight amid rising global toll",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167554",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167553",
+    "pubDate": "20.05.2026 12:00:00",
+    "sortDate": 1779278400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Star-studded refugee football team takes the pitch for UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167552",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167550",
+    "pubDate": "19.05.2026 12:00:00",
+    "sortDate": 1779192000000,
+    "source": "UN News"
   }
 ]
