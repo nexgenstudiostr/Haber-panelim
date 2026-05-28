@@ -1,9 +1,107 @@
 [
   {
-    "title": "Australia politics live: government sues manufacturer 3M over defence base Pfas contamination in ‘largest ever’ $2bn legal claim",
+    "title": "Australia politics live: Albanese says Coalition ‘desperate’ after Taylor calls him ‘arrogant prick’; Treasury secretary says ‘no clear evidence’ for CGT reform criticisms",
     "link": "https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-    "pubDate": "28.05.2026 02:45:25",
-    "sortDate": 1779936325000,
+    "pubDate": "28.05.2026 06:48:46",
+    "sortDate": 1779950926000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flooding rains expected across three Australian states as parched interior receives drenching",
+    "link": "https://www.theguardian.com/australia-news/2026/may/28/australia-weather-rain-flooding-expected-queensland-nsw-tasmania-bom-severe-weather-warning",
+    "pubDate": "28.05.2026 06:24:25",
+    "sortDate": 1779949465000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘My hospital room is unbearable’: how the heatwave is affecting Britons",
+    "link": "https://www.theguardian.com/uk-news/2026/may/28/heatwave-uk-britons-interviews",
+    "pubDate": "28.05.2026 06:00:02",
+    "sortDate": 1779948002000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Standing up for our children’: parents divided over London teachers’ strikes",
+    "link": "https://www.theguardian.com/education/2026/may/28/standing-up-for-our-children-parents-divided-over-london-teachers-strikes",
+    "pubDate": "28.05.2026 06:00:00",
+    "sortDate": 1779948000000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Greener pasture of a shepherd’s life lures Chinese workers penned in by ‘996’ jobs",
+    "link": "https://www.theguardian.com/world/2026/may/28/chinese-workers-apply-mongolian-farmer-hiring-shepherd-job-advert",
+    "pubDate": "28.05.2026 05:19:24",
+    "sortDate": 1779945564000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump threatens to ‘blow up’ US ally Oman amid talks over strait of Hormuz",
+    "link": "https://www.theguardian.com/us-news/2026/may/27/donald-trump-oman-threat-strait-hormuz",
+    "pubDate": "28.05.2026 05:16:14",
+    "sortDate": 1779945374000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britain ‘sleepwalking into a food crisis’ without urgent action, experts say",
+    "link": "https://www.theguardian.com/environment/2026/may/28/britain-sleepwalking-into-a-food-crisis-without-urgent-action-experts-say",
+    "pubDate": "28.05.2026 05:00:56",
+    "sortDate": 1779944456000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cigarette butts for free food? How one group is asking people to rethink litter",
+    "link": "https://www.theguardian.com/environment/2026/may/28/wastebar-cigarette-butts-waste-free-food-netherlands",
+    "pubDate": "28.05.2026 05:00:55",
+    "sortDate": 1779944455000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Santos accused of ‘stringing everybody along’ over Narrabri gas project",
+    "link": "https://www.theguardian.com/australia-news/2026/may/28/santos-mining-narrabri-gas-project-bettaloo-basin-australia",
+    "pubDate": "28.05.2026 04:58:54",
+    "sortDate": 1779944334000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia sues 3M for record-breaking sum over Pfas ‘forever chemicals’ in firefighting foam",
+    "link": "https://www.theguardian.com/australia-news/2026/may/28/australia-sues-3m-record-breaking-sum-pfas-forever-chemicals-in-firefighting-foam",
+    "pubDate": "28.05.2026 04:17:58",
+    "sortDate": 1779941878000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rechalking beloved Cerne Giant is a sticky process – and climate crisis is making it worse",
+    "link": "https://www.theguardian.com/uk-news/2026/may/28/rechalking-cerne-giant-dorset-national-trust-climate-emergency",
+    "pubDate": "28.05.2026 04:00:56",
+    "sortDate": 1779940856000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Loss of manual jobs could be driving toxic masculinity, says Sting",
+    "link": "https://www.theguardian.com/music/2026/may/28/loss-of-manual-jobs-could-be-driving-toxic-masculinity-says-sting",
+    "pubDate": "28.05.2026 04:00:56",
+    "sortDate": 1779940856000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘This isn’t freedom’: anger, anxiety and tears as Iran’s internet flickers back",
+    "link": "https://www.theguardian.com/world/2026/may/28/iran-internet-blackout-return-partial-connectivity",
+    "pubDate": "28.05.2026 04:00:55",
+    "sortDate": 1779940855000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reuters executive Simon Robinson expected to replace Justin Stevens as ABC news director",
+    "link": "https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director",
+    "pubDate": "28.05.2026 03:43:03",
+    "sortDate": 1779939783000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two killed in US strike on another alleged drug boat in Pacific as campaign’s death toll nears 200",
+    "link": "https://www.theguardian.com/us-news/2026/may/28/us-military-strike-alleged-drug-boat-pacific-death-toll-nears-200",
+    "pubDate": "28.05.2026 03:18:23",
+    "sortDate": 1779938303000,
     "source": "The Guardian"
   },
   {
@@ -35,66 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Newsom to impose 100% tax on California payees of Trump’s $1.8bn fund",
-    "link": "https://www.theguardian.com/us-news/2026/may/27/newsom-tax-trump-fund",
-    "pubDate": "28.05.2026 01:35:13",
-    "sortDate": 1779932113000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tank-rupture tragedy may be deadliest in Washington history, governor says",
-    "link": "https://www.theguardian.com/us-news/2026/may/27/washington-paper-mill-implosion",
-    "pubDate": "28.05.2026 00:47:19",
-    "sortDate": 1779929239000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reuters executive Simon Robinson expected to replace Justin Stevens as ABC news director",
-    "link": "https://www.theguardian.com/media/2026/may/28/simon-robinson-expected-abc-news-director",
-    "pubDate": "28.05.2026 00:40:06",
-    "sortDate": 1779928806000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Anti-abortion activist concedes pictures of human foetuses may have been sugar glider joeys",
-    "link": "https://www.theguardian.com/australia-news/2026/may/28/anti-abortion-activist-joanna-howe-says-using-hoax-twin-foetuses-doesnt-matter-ntwnfb",
-    "pubDate": "28.05.2026 00:28:13",
-    "sortDate": 1779928093000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Queensland man charged with murder after allegedly beating elderly pedestrian to death with pole",
-    "link": "https://www.theguardian.com/australia-news/2026/may/28/bundaberg-man-charged-murder-alleged-attack-childers-north-isis-ntwnfb",
-    "pubDate": "27.05.2026 23:27:36",
-    "sortDate": 1779924456000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Number of Neets in UK could hit 1.25m by early 2030s, Milburn review will say",
-    "link": "https://www.theguardian.com/money/2026/may/27/neets-could-hit-125m-by-early-2030s-milburn-review-young-people-employment-uk",
-    "pubDate": "27.05.2026 21:30:45",
-    "sortDate": 1779917445000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Report ‘phone hack’ to police or I will do it for you, Labour chair tells Farage",
-    "link": "https://www.theguardian.com/politics/2026/may/27/nigel-farage-phone-hacking-claims",
-    "pubDate": "27.05.2026 21:00:45",
-    "sortDate": 1779915645000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Resident doctors in England to stage four-day strike in June",
-    "link": "https://www.theguardian.com/society/2026/may/27/resident-doctors-in-england-to-stage-four-day-strike-in-june",
-    "pubDate": "27.05.2026 20:09:17",
-    "sortDate": 1779912557000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Revealed: Mandelson vetting warned of ties to senior figures in China, Russia and Israel",
-    "link": "https://www.theguardian.com/politics/2026/may/27/mandelson-vetting-warned-ties-senior-figures-china-russia-israel",
-    "pubDate": "27.05.2026 19:31:40",
-    "sortDate": 1779910300000,
+    "title": "Uefa drags its heels over action against Russia’s fake Ukrainian clubs",
+    "link": "https://www.theguardian.com/football/2026/may/27/uefa-action-russia-fake-ukrainian-clubs-shakhtar-donetsk",
+    "pubDate": "27.05.2026 19:00:43",
+    "sortDate": 1779908443000,
     "source": "The Guardian"
   },
   {
@@ -102,13 +144,6 @@
     "link": "https://www.theguardian.com/world/live/2026/may/27/iran-war-us-update-live-israel-lebanon-strikes-latest-news-ceasefire-peace-talks-middle-east-live-updates",
     "pubDate": "27.05.2026 18:28:47",
     "sortDate": 1779906527000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sexual assault by ex-DUP leader Jeffrey Donaldson left girl ‘feeling sick’, trial hears",
-    "link": "https://www.theguardian.com/uk-news/2026/may/27/prosecutor-outlines-case-against-former-dup-leader-jeffrey-donaldson",
-    "pubDate": "27.05.2026 18:04:43",
-    "sortDate": 1779905083000,
     "source": "The Guardian"
   },
   {
@@ -154,13 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK will get no special treatment from EU, European ministers say",
-    "link": "https://www.theguardian.com/world/2026/may/27/uk-will-get-no-special-treatment-eu-european-ministers-say",
-    "pubDate": "27.05.2026 16:08:45",
-    "sortDate": 1779898125000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
     "link": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
     "pubDate": "27.05.2026 15:58:14",
@@ -172,20 +200,6 @@
     "link": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
     "pubDate": "27.05.2026 15:51:54",
     "sortDate": 1779897114000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Zelenskyy asks Trump for help with air defences as Russia continues attacks – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/may/27/spain-pedro-sanchez-pope-leo-heatwave-ukraine-latest-updates-europe-live-news",
-    "pubDate": "27.05.2026 15:10:47",
-    "sortDate": 1779894647000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "New NDIS eligibility rules will cut 241,000 participants from scheme in four years, documents reveal",
-    "link": "https://www.theguardian.com/australia-news/2026/may/28/ndis-document-reveals-241000-disability-participants-cut-in-four-years",
-    "pubDate": "27.05.2026 15:00:22",
-    "sortDate": 1779894022000,
     "source": "The Guardian"
   },
   {
@@ -221,13 +235,6 @@
     "link": "https://www.theguardian.com/world/2026/may/27/us-arms-sales-to-taiwan-pause-unlikely-due-to-iran-war-experts",
     "pubDate": "27.05.2026 01:24:14",
     "sortDate": 1779845054000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis: Iran’s foreign ministry says US broke ceasefire with overnight strikes – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks",
-    "pubDate": "26.05.2026 20:41:51",
-    "sortDate": 1779828111000,
     "source": "The Guardian"
   },
   {
@@ -298,13 +305,6 @@
     "link": "https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
     "pubDate": "25.05.2026 17:00:30",
     "sortDate": 1779728430000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Thai rescuers join effort to free seven people trapped in Laos cave",
-    "link": "https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers",
-    "pubDate": "25.05.2026 14:24:26",
-    "sortDate": 1779719066000,
     "source": "The Guardian"
   },
   {
