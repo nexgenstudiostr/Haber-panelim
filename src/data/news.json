@@ -1,16 +1,107 @@
 [
   {
-    "title": "Middle East crisis live: Trump will decide on any return to full-scale action against Iran, says Netanyahu",
+    "title": "Middle East crisis live: Netanyahu downplays US row as Trump confirms heated call between pair",
     "link": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
-    "pubDate": "03.06.2026 16:07:31",
-    "sortDate": 1780502851000,
+    "pubDate": "03.06.2026 20:07:19",
+    "sortDate": 1780517239000,
     "source": "The Guardian"
   },
   {
-    "title": "‘Everyone knew what Iran would do in response,’ Marco Rubio tells House committee – US politics live",
+    "title": "Mitch McConnell statement suggests he considers Bill Pulte unfit for national intelligence director role – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
-    "pubDate": "03.06.2026 16:04:24",
-    "sortDate": 1780502664000,
+    "pubDate": "03.06.2026 20:05:02",
+    "sortDate": 1780517102000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shia LaBeouf pleads guilty to battery charges over New Orleans bar incident",
+    "link": "https://www.theguardian.com/film/2026/jun/03/shia-labeouf-pleads-guilty-battery-charges-new-orleans",
+    "pubDate": "03.06.2026 20:04:25",
+    "sortDate": 1780517065000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wim Wenders withdraws 1975 film featuring 13-year-old Nastassja Kinski topless",
+    "link": "https://www.theguardian.com/film/2026/jun/03/wim-wenders-withdraws-1975-film-featuring-13-year-old-nastassja-kinski-topless",
+    "pubDate": "03.06.2026 19:56:34",
+    "sortDate": 1780516594000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "In first, California city overwhelmingly votes to permanently ban datacenters",
+    "link": "https://www.theguardian.com/us-news/2026/jun/03/california-monterey-park-datacenters-ban",
+    "pubDate": "03.06.2026 19:40:36",
+    "sortDate": 1780515636000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "California governor’s race still a toss-up as leading candidates battle for top spots",
+    "link": "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november",
+    "pubDate": "03.06.2026 19:18:59",
+    "sortDate": 1780514339000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Of course we will give it back’: Bayeux tapestry set for secret journey across Channel",
+    "link": "https://www.theguardian.com/world/2026/jun/03/behind-historic-efforts-transport-bayeux-tapestry-france-uk",
+    "pubDate": "03.06.2026 18:57:38",
+    "sortDate": 1780513058000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "MPs raise doubts over missing Mandelson vetting documents",
+    "link": "https://www.theguardian.com/politics/2026/jun/03/mps-raise-doubts-over-missing-mandelson-vetting-documents",
+    "pubDate": "03.06.2026 18:35:00",
+    "sortDate": 1780511700000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Alex Younger, former head of MI6, dies aged 62",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62",
+    "pubDate": "03.06.2026 18:30:51",
+    "sortDate": 1780511451000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Did police anti-racism policies lead to appalling treatment of Henry Nowak and if not, what did?",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/03/police-anti-racism-policies-henry-nowak-explainer",
+    "pubDate": "03.06.2026 18:19:04",
+    "sortDate": 1780510744000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
+    "link": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim",
+    "pubDate": "03.06.2026 18:04:53",
+    "sortDate": 1780509893000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour MP sues Elon Musk’s xAI company over fake sexualised images",
+    "link": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images",
+    "pubDate": "03.06.2026 17:48:06",
+    "sortDate": 1780508886000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
+    "link": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+    "pubDate": "03.06.2026 17:29:55",
+    "sortDate": 1780507795000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘It’s horrible how scared people were’: Southampton picks up the pieces after night of violence",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/03/scared-people-southampton-riots",
+    "pubDate": "03.06.2026 17:26:58",
+    "sortDate": 1780507618000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One killed and 63 hurt in Iran attack on Kuwait airport as Trump says ceasefire talks ongoing",
+    "link": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz",
+    "pubDate": "03.06.2026 17:08:10",
+    "sortDate": 1780506490000,
     "source": "The Guardian"
   },
   {
@@ -18,48 +109,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/03/lebanese-hospitals-hit-by-israeli-forces",
     "pubDate": "03.06.2026 16:01:24",
     "sortDate": 1780502484000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Judge in Luigi Mangione case holds secret hearing despite press objections",
-    "link": "https://www.theguardian.com/us-news/2026/jun/03/luigi-mangione-secret-sealed-hearing",
-    "pubDate": "03.06.2026 15:54:52",
-    "sortDate": 1780502092000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "One killed and 63 wounded in  Iranian attack on Kuwait’s international airport",
-    "link": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz",
-    "pubDate": "03.06.2026 15:47:26",
-    "sortDate": 1780501646000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fired 60 Minutes correspondent Scott Pelley says CBS told him to inject ‘falsehoods’ into reporting",
-    "link": "https://www.theguardian.com/media/2026/jun/03/60-minutes-scott-pelley-cbs-accusations",
-    "pubDate": "03.06.2026 15:45:46",
-    "sortDate": 1780501546000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Farage exploiting Henry Nowak’s murder against wishes of his family, says Starmer – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news",
-    "pubDate": "03.06.2026 15:38:42",
-    "sortDate": 1780501122000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former officer in hiding after being falsely linked to Henry Nowak arrest",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/03/former-officer-hampshire-hiding-after-being-falsely-linked-henry-nowak-arrest",
-    "pubDate": "03.06.2026 15:25:06",
-    "sortDate": 1780500306000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nissan maps out deal to build cars for Chery at its Sunderland plant",
-    "link": "https://www.theguardian.com/business/2026/jun/03/nissan-chery-car-building-deal-sunderland-factory",
-    "pubDate": "03.06.2026 15:10:24",
-    "sortDate": 1780499424000,
     "source": "The Guardian"
   },
   {
@@ -84,31 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lloyds customers unable to make payments due to IT glitch",
-    "link": "https://www.theguardian.com/business/2026/jun/03/lloyds-customers-unable-to-make-payments-due-to-it-glitch",
-    "pubDate": "03.06.2026 14:43:14",
-    "sortDate": 1780497794000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s intelligence chief pick puts surveillance program renewal in doubt",
-    "link": "https://www.theguardian.com/us-news/2026/jun/03/trump-intelligence-chief-fisa-surveillance-program",
-    "pubDate": "03.06.2026 14:27:37",
-    "sortDate": 1780496857000,
-    "source": "The Guardian"
-  },
-  {
     "title": "​Why is Europe still not ready for extreme heat?",
     "link": "https://www.theguardian.com/world/2026/jun/03/why-is-europe-still-not-ready-for-extreme-heat",
     "pubDate": "03.06.2026 14:25:26",
     "sortDate": 1780496726000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "South East Water’s greatest failure was not contacting customers during winter outages, report finds",
-    "link": "https://www.theguardian.com/business/2026/jun/03/south-east-water-not-contacting-customers-winter-outages-report",
-    "pubDate": "03.06.2026 14:19:16",
-    "sortDate": 1780496356000,
     "source": "The Guardian"
   },
   {
@@ -117,6 +145,27 @@
     "pubDate": "03.06.2026 12:18:28",
     "sortDate": 1780489108000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Kyrgyzstan wins seat on UN Security Council for first time ever",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167636",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘We are catching up’ – WHO chief on DR Congo’s Ebola fight",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167632",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza’s public servants systematically targeted in Israeli strikes",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167631",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
   },
   {
     "title": "Kidnappings, threats and ‘protection fees’: how can Mexico confront rise in deadly extortion?",
@@ -151,6 +200,13 @@
     "link": "https://www.theguardian.com/world/2026/jun/03/iran-reza-pahlavi-shah-secret-police-savak",
     "pubDate": "03.06.2026 09:00:49",
     "sortDate": 1780477249000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One-ton cocaine bust reveals secret US-Mexico tunnel",
+    "link": "https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel",
+    "pubDate": "02.06.2026 23:25:07",
+    "sortDate": 1780442707000,
     "source": "The Guardian"
   },
   {
@@ -189,25 +245,67 @@
     "source": "The Guardian"
   },
   {
-    "title": "EU accused of creating ICE-style immigration enforcement system",
-    "link": "https://www.theguardian.com/world/2026/jun/02/eu-accused-creating-ice-style-immigration-enforcement-system",
-    "pubDate": "02.06.2026 11:56:52",
-    "sortDate": 1780401412000,
-    "source": "The Guardian"
+    "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167628",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
   },
   {
-    "title": "Nightclub promoter, 21, stabbed to death after brawl in Dublin’s tourism district",
-    "link": "https://www.theguardian.com/world/2026/jun/02/qayyum-balogun-nightclub-promoter-stabbed-to-death-dublin",
-    "pubDate": "02.06.2026 11:00:58",
-    "sortDate": 1780398058000,
-    "source": "The Guardian"
+    "title": "World News in Brief: Violence hampers Ebola efforts, aid delivery in Darfur and Gaza, Nicaraguan activist’s death in custody",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167629",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
   },
   {
-    "title": "Musket balls and a burnt hull: evidence of real pirates of the Caribbean found in Bahamas",
-    "link": "https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas",
-    "pubDate": "02.06.2026 08:00:42",
-    "sortDate": 1780387242000,
-    "source": "The Guardian"
+    "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167625",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: UN rights office welcomes new judicial units to tackle gang violence and impunity",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167627",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167626",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN urges world not to forget Rohingya refugees as aid cuts threaten vital support",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167623",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN deplores another wave of Russian attacks across Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167622",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167621",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "El Niño confirmed, set to fuel more extreme weather, says WMO",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167620",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
   },
   {
     "title": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
@@ -217,11 +315,46 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mexico City police teargas teachers’ protest 10 days before World Cup",
-    "link": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
-    "pubDate": "01.06.2026 22:59:39",
-    "sortDate": 1780354779000,
-    "source": "The Guardian"
+    "title": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167619",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167618",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Updates from Gaza, the West Bank and Afghanistan, UN development reforms, change at the top of WFP",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167617",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "From Libyan deserts to 3D-printed guns: The weapons that never go away",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167616",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: Families flee Beirut as Israel threatens renewed strikes on Hezbollah",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167615",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo Ebola outbreak: Nurses discharged after full recovery",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167613",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
   },
   {
     "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
@@ -245,11 +378,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
-    "link": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
-    "pubDate": "01.06.2026 06:00:09",
-    "sortDate": 1780293609000,
-    "source": "The Guardian"
+    "title": "Under fire, Kharkiv is already building for a peaceful tomorrow",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167611",
+    "pubDate": "31.05.2026 12:00:00",
+    "sortDate": 1780228800000,
+    "source": "UN News"
   },
   {
     "title": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
@@ -264,6 +397,20 @@
     "pubDate": "30.05.2026 22:10:04",
     "sortDate": 1780179004000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘You are not alone’: WHO chief vows to stand with DR Congo through Ebola outbreak",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167612",
+    "pubDate": "30.05.2026 12:00:00",
+    "sortDate": 1780142400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Borrowed boots, borrowed joy: Football thrives in Gaza camps",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167606",
+    "pubDate": "30.05.2026 12:00:00",
+    "sortDate": 1780142400000,
+    "source": "UN News"
   },
   {
     "title": "Four more men freed from flooded Laos cave in hazardous rescue mission",
@@ -292,6 +439,69 @@
     "pubDate": "30.05.2026 02:36:30",
     "sortDate": 1780108590000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167610",
+    "pubDate": "29.05.2026 12:00:00",
+    "sortDate": 1780056000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167609",
+    "pubDate": "29.05.2026 12:00:00",
+    "sortDate": 1780056000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Banning children from social media is not the answer, UN warns – platforms must be made safe by design",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167608",
+    "pubDate": "29.05.2026 12:00:00",
+    "sortDate": 1780056000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167604",
+    "pubDate": "29.05.2026 12:00:00",
+    "sortDate": 1780056000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167603",
+    "pubDate": "29.05.2026 12:00:00",
+    "sortDate": 1780056000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘A disease you get when you care for someone’: WHO on the Ebola frontline",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167602",
+    "pubDate": "29.05.2026 12:00:00",
+    "sortDate": 1780056000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN honours blue helmets and calls for renewed investment in peace",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167601",
+    "pubDate": "29.05.2026 12:00:00",
+    "sortDate": 1780056000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN warns Ukraine war risks spiralling ‘out of control’",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167599",
+    "pubDate": "28.05.2026 12:00:00",
+    "sortDate": 1779969600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN chief, Internal displacement in Haiti, warning to France over prison overcrowding",
+    "link": "https://news.un.org/feed/view/en/story/2026/05/1167598",
+    "pubDate": "28.05.2026 12:00:00",
+    "sortDate": 1779969600000,
+    "source": "UN News"
   },
   {
     "title": "Blond Bangladeshi buffalo nicknamed ‘Donald Trump’ saved from Eid sacrifice",
