@@ -1,107 +1,135 @@
 [
   {
-    "title": "Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots",
-    "link": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates",
-    "pubDate": "03.06.2026 05:54:34",
-    "sortDate": 1780466074000,
+    "title": "Can autonomous AI-powered killer drones take morality onboard?",
+    "link": "https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard",
+    "pubDate": "03.06.2026 11:00:05",
+    "sortDate": 1780484405000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia politics live: PM calls Coalition ‘Liberal One National party’ and Taylor ‘Temu-Abbott’ as Hastie booted from question time",
+    "title": "Kidnappings, threats and ‘protection fees’: how can Mexico confront rise in deadly extortion?",
+    "link": "https://www.theguardian.com/world/2026/jun/03/how-can-mexico-confront-rise-in-deadly-extortion",
+    "pubDate": "03.06.2026 11:00:04",
+    "sortDate": 1780484404000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "California governor primary unresolved as voters choose midterm candidates – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
+    "pubDate": "03.06.2026 11:00:00",
+    "sortDate": 1780484400000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer faces PMQs as police say 11 officers injured in disorder over Henry Nowak murder – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news",
+    "pubDate": "03.06.2026 10:55:55",
+    "sortDate": 1780484155000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Trump claims Iranian supreme leader is involved in US negotiations",
+    "link": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
+    "pubDate": "03.06.2026 10:51:15",
+    "sortDate": 1780483875000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cost of living and high streets among top priorities for Makerfield voters, poll shows",
+    "link": "https://www.theguardian.com/politics/2026/jun/03/cost-of-living-and-high-streets-among-top-priorities-for-makerfield-voters-poll-shows",
+    "pubDate": "03.06.2026 10:45:05",
+    "sortDate": 1780483505000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Leftwing US pair refused entry to UK will address Oxford Union remotely",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/03/cenk-uygur-hasan-piker-oxford-union-home-office",
+    "pubDate": "03.06.2026 10:44:31",
+    "sortDate": 1780483471000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump threatens tariffs on 60 countries including UK and Canada over ‘forced labour’",
+    "link": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
+    "pubDate": "03.06.2026 10:41:03",
+    "sortDate": 1780483263000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US primary voters choose midterm candidates as Democrats look to flip key seats",
+    "link": "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november",
+    "pubDate": "03.06.2026 10:38:20",
+    "sortDate": 1780483100000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Louisiana church solicits prayers for pastor convicted of sexual assault – but not for his victims",
+    "link": "https://www.theguardian.com/us-news/2026/jun/03/priest-anthony-odiong-catholic-new-orleans",
+    "pubDate": "03.06.2026 10:00:19",
+    "sortDate": 1780480819000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nicotine use soars by 40% in eight years as Australian black market explodes",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/03/illegal-tobacco-news-australia-spending-less-to-consume-more-nicotine",
+    "pubDate": "03.06.2026 09:59:28",
+    "sortDate": 1780480768000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour",
+    "link": "https://www.theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour",
+    "pubDate": "03.06.2026 09:29:50",
+    "sortDate": 1780478990000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city",
+    "link": "https://www.theguardian.com/world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum",
+    "pubDate": "03.06.2026 09:19:44",
+    "sortDate": 1780478384000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Far-right praise for shah’s secret police puts Reza Pahlavi on the spot",
+    "link": "https://www.theguardian.com/world/2026/jun/03/iran-reza-pahlavi-shah-secret-police-savak",
+    "pubDate": "03.06.2026 09:00:49",
+    "sortDate": 1780477249000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "OECD says Australia should increase EV and renewable energy take up amid fuel crisis – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
-    "pubDate": "03.06.2026 05:51:28",
-    "sortDate": 1780465888000,
+    "pubDate": "03.06.2026 08:30:26",
+    "sortDate": 1780475426000,
     "source": "The Guardian"
   },
   {
-    "title": "Karen Bass heads to LA mayoral runoff after falling short of majority",
-    "link": "https://www.theguardian.com/us-news/2026/jun/02/karen-bass-los-angeles-mayoral-primary",
-    "pubDate": "03.06.2026 05:33:50",
-    "sortDate": 1780464830000,
+    "title": "Jim Chalmers is putting a positive spin on the economy, but is Australia’s outlook grim?",
+    "link": "https://www.theguardian.com/business/2026/jun/03/australia-economic-outlook-economy-gdp-growth-jim-chalmers",
+    "pubDate": "03.06.2026 08:01:03",
+    "sortDate": 1780473663000,
     "source": "The Guardian"
   },
   {
-    "title": "George Santos reportedly investigated by DoJ over suspicious Kalshi bets",
-    "link": "https://www.theguardian.com/us-news/2026/jun/03/george-santos-investigation-prediction-market-kalshi-report",
-    "pubDate": "03.06.2026 05:28:51",
-    "sortDate": 1780464531000,
+    "title": "Albanese calls Taylor ‘Temu Abbott’ as bitter fight rages over budget tax changes",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/03/budget-tax-changes-temu-abbot-insult-prime-minister-anthony-albanese-calls-angus-taylor",
+    "pubDate": "03.06.2026 07:54:14",
+    "sortDate": 1780473254000,
     "source": "The Guardian"
   },
   {
-    "title": "Thousands more UK black men to be invited for prostate cancer screening",
-    "link": "https://www.theguardian.com/society/2026/jun/03/thousands-more-uk-black-men-to-be-invited-for-prostate-cancer-screening",
-    "pubDate": "03.06.2026 05:00:43",
-    "sortDate": 1780462843000,
+    "title": "Midterm primaries 2026: results and reaction as six states including California and Iowa cast ballots – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates",
+    "pubDate": "03.06.2026 06:07:43",
+    "sortDate": 1780466863000,
     "source": "The Guardian"
   },
   {
-    "title": "El Niño expected to develop in coming months, bringing hotter and drier weather to eastern Australia",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/03/el-nino-hotter-drier-weather-eastern-australia-bom-forecast",
-    "pubDate": "03.06.2026 04:29:00",
-    "sortDate": 1780460940000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump-backed candidate loses in Iowa governor’s race as Democrats look to flip Senate seat",
-    "link": "https://www.theguardian.com/us-news/2026/jun/02/iowa-primary-election-results",
-    "pubDate": "03.06.2026 03:12:26",
-    "sortDate": 1780456346000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to ‘cut corners’",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/03/sydney-academic-used-ai-opinion-piece-urging-students-to-avoid-using-it-ntwnfb",
-    "pubDate": "03.06.2026 03:06:28",
-    "sortDate": 1780455988000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Jilly, I had no choice’: Jill Biden recalls pressure Joe Biden faced to drop out of 2024 race",
-    "link": "https://www.theguardian.com/us-news/2026/jun/02/joe-jill-biden-memoir",
-    "pubDate": "03.06.2026 02:43:59",
-    "sortDate": 1780454639000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US and Iran launch fresh strikes amid stalled ceasefire talks",
+    "title": "Kuwait says airport hit by Iranian strikes as US and Iran launch fresh attacks",
     "link": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz",
     "pubDate": "03.06.2026 01:34:06",
     "sortDate": 1780450446000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Barnaby Joyce rallies anti-abortion activists ahead of tight NSW vote",
-    "link": "https://www.theguardian.com/world/2026/jun/02/barnaby-joyce-rallies-anti-abortion-activists-as-they-target-nationals-mps-in-nsw-vote-ntwnfb",
-    "pubDate": "03.06.2026 00:50:57",
-    "sortDate": 1780447857000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
-    "link": "https://www.theguardian.com/business/2026/jun/03/puffins-dolphins-bumblebees-new-uk-banknotes-shortlist",
-    "pubDate": "02.06.2026 23:01:35",
-    "sortDate": 1780441295000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
-    "link": "https://www.theguardian.com/society/2026/jun/03/gps-in-england-too-overloaded-to-help-older-people-at-risk-of-falling-say-mps",
-    "pubDate": "02.06.2026 23:01:35",
-    "sortDate": 1780441295000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Weight-loss drugs may prevent thousands of knee replacements, study suggests",
-    "link": "https://www.theguardian.com/society/2026/jun/02/weight-loss-drugs-could-help-prevent-knee-replacements",
-    "pubDate": "02.06.2026 22:30:34",
-    "sortDate": 1780439434000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Protesters clash with police in Southampton over Henry Nowak murder",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/02/protesters-clash-with-police-in-southampton-over-henry-nowak",
-    "pubDate": "02.06.2026 21:03:23",
-    "sortDate": 1780434203000,
     "source": "The Guardian"
   },
   {
@@ -144,20 +172,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/02/cricket-canada-suspension",
     "pubDate": "02.06.2026 18:10:07",
     "sortDate": 1780423807000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis: Rubio says opening the strait of Hormuz is first condition in talks with Iran – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jun/02/iran-us-israel-lebanon-trump-netanyahu-hezbollah-beirut-hormuz-talks-oil-latest-news-updates",
-    "pubDate": "02.06.2026 16:48:49",
-    "sortDate": 1780418929000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Female dolphins remember who is aggressive when choosing a mating partner, research shows",
-    "link": "https://www.theguardian.com/environment/2026/jun/03/female-dolphins-remember-aggression-mating-partner",
-    "pubDate": "02.06.2026 15:00:29",
-    "sortDate": 1780412429000,
     "source": "The Guardian"
   },
   {
@@ -235,20 +249,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/01/mexico-city-teachers-protest",
     "pubDate": "01.06.2026 22:59:39",
     "sortDate": 1780354779000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump admirer’s surprise first-round win is a blow to Colombia’s traditional conservatives",
-    "link": "https://www.theguardian.com/world/2026/jun/01/trump-admirer-abelardo-de-la-espriella-election-win-blow-to-colombia-conservatives",
-    "pubDate": "01.06.2026 14:44:45",
-    "sortDate": 1780325085000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Catastrophic for creative industries’: Brexit barriers shut UK actors out of EU jobs",
-    "link": "https://www.theguardian.com/politics/2026/jun/01/creative-industries-brexit-barriers-uk-actors-eu-jobs",
-    "pubDate": "01.06.2026 13:00:17",
-    "sortDate": 1780318817000,
     "source": "The Guardian"
   },
   {
