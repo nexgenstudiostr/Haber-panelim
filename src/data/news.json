@@ -1,9 +1,93 @@
 [
   {
-    "title": "Australia news live: NDIA spent $170m over three years on legal fees fighting participants, Senate estimates hears",
+    "title": "Australia news live: ANU says high-profile scandals cost university $100m; PM not ‘critical’ of One Nation voters",
     "link": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
-    "pubDate": "05.06.2026 02:26:27",
-    "sortDate": 1780626387000,
+    "pubDate": "05.06.2026 06:51:48",
+    "sortDate": 1780642308000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case",
+    "link": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
+    "pubDate": "05.06.2026 06:00:28",
+    "sortDate": 1780639228000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Friday briefing: How Gaza, Lebanon and Iran have found themselves caught in an escalation without end",
+    "link": "https://www.theguardian.com/world/2026/jun/05/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end",
+    "pubDate": "05.06.2026 05:48:40",
+    "sortDate": 1780638520000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "James Handy, known for roles in Top Gun: Maverick and Jumanji, dies at home after fatal stabbing",
+    "link": "https://www.theguardian.com/culture/2026/jun/05/james-handy-actor-top-gun-maverick-jumanji-dies-fatal-stabbing",
+    "pubDate": "05.06.2026 05:43:06",
+    "sortDate": 1780638186000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tech companies invoke possibility of Trump’s wrath in fight against Labor’s media laws",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/05/tech-companies-industry-fight-against-australia-labor-news-bargaining-incentive-media-laws",
+    "pubDate": "05.06.2026 05:37:30",
+    "sortDate": 1780637850000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK shoppers return to high street as warm weather brings respite from shadow of war",
+    "link": "https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war",
+    "pubDate": "05.06.2026 05:00:26",
+    "sortDate": 1780635626000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "A uni professor admitted using AI to write an opinion piece. Here’s what it revealed about trust in the technology",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/05/trust-in-ai-roy-morgan-australia-university-professor-opinion-piece-technology",
+    "pubDate": "05.06.2026 04:49:15",
+    "sortDate": 1780634955000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "More than 100,000 cockroaches worth $200,000 seized from NSW breeder in record-breaking bust",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/05/live-cockroaches-seized-nsw-breeder-australia",
+    "pubDate": "05.06.2026 04:49:07",
+    "sortDate": 1780634947000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andrew sublet three cottages while paying ‘peppercorn rent’ to crown estate",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/05/andrew-sublet-three-cottages-while-paying-peppercorn-rent-to-crown-estate",
+    "pubDate": "05.06.2026 04:01:24",
+    "sortDate": 1780632084000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU summit with western Balkan leaders to reaffirm membership prospects",
+    "link": "https://www.theguardian.com/world/2026/jun/05/eu-summit-montenegro-western-balkan-countries-membership-enlargement",
+    "pubDate": "05.06.2026 04:00:27",
+    "sortDate": 1780632027000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Divine intervention: why Pope Leo visit could be a godsend for Pedro Sánchez",
+    "link": "https://www.theguardian.com/world/2026/jun/05/divine-intervention-pope-leo-spain-tour-pedro-sanchez-boost",
+    "pubDate": "05.06.2026 04:00:27",
+    "sortDate": 1780632027000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Melanie Hall’s family launch fresh appeal for information 30 years after her murder in Bath",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/05/melanie-hall-family-fresh-appeal-information-30-years-bath-murder",
+    "pubDate": "05.06.2026 04:00:26",
+    "sortDate": 1780632026000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Barnaby Joyce and One Nation colleague bungle details of key housing policy in ‘trainwreck’ interviews",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/05/barnaby-joyce-sky-news-interview-one-nation-housing-policy-backflip",
+    "pubDate": "05.06.2026 03:01:50",
+    "sortDate": 1780628510000,
     "source": "The Guardian"
   },
   {
@@ -42,31 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Barnaby Joyce backflips on One Nation policy: ‘Not going to be kicking permanent residents out of their house’",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/05/barnaby-joyce-sky-news-interview-one-nation-housing-policy-backflip",
-    "pubDate": "05.06.2026 00:56:00",
-    "sortDate": 1780620960000,
-    "source": "The Guardian"
-  },
-  {
     "title": "In second break with Trump in a week, House passes bill to aid Ukraine",
     "link": "https://www.theguardian.com/us-news/2026/jun/04/house-bill-ukraine-aid",
     "pubDate": "05.06.2026 00:54:10",
     "sortDate": 1780620850000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bondi attack hero Ahmed al-Ahmed says he’s ‘shocked’ after being charged with assaulting his father",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/04/bondi-attack-hero-charged-with-assaulting-his-father-ntwnfb",
-    "pubDate": "05.06.2026 00:27:57",
-    "sortDate": 1780619277000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "More than 100,000 cockroaches worth $200,000 seized from NSW breeder in record-breaking bust",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/05/live-cockroaches-seized-nsw-breeder-australia",
-    "pubDate": "05.06.2026 00:22:10",
-    "sortDate": 1780618930000,
     "source": "The Guardian"
   },
   {
@@ -91,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "DoJ investigates 15 medical schools over alleged discrimination in admissions",
-    "link": "https://www.theguardian.com/us-news/2026/jun/04/doj-medical-schools",
-    "pubDate": "04.06.2026 21:19:49",
-    "sortDate": 1780607989000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Hampstead Heath ponds to remain trans-inclusive after public back existing rules",
     "link": "https://www.theguardian.com/society/2026/jun/04/hampstead-heath-ponds-trans-inclusive-public-consultation",
     "pubDate": "04.06.2026 19:05:09",
@@ -109,27 +165,6 @@
     "link": "https://www.theguardian.com/society/2026/jun/04/girl-brain-damaged-at-birth-28m-nhs-payout-romford",
     "pubDate": "04.06.2026 18:38:38",
     "sortDate": 1780598318000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reform’s Andrea Jenkyns storms out of meeting after discussion of Henry Nowak murder",
-    "link": "https://www.theguardian.com/politics/2026/jun/04/reform-andrea-jenkyns-storms-out-of-meeting-henry-nowak",
-    "pubDate": "04.06.2026 18:31:52",
-    "sortDate": 1780597912000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘It is unsustainable’: Reform’s billionaire donors inspire panic in Westminster",
-    "link": "https://www.theguardian.com/politics/2026/jun/04/it-is-unsustainable-reforms-billionaire-donors-inspire-panic-in-westminster",
-    "pubDate": "04.06.2026 18:19:54",
-    "sortDate": 1780597194000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Starmer accuses Musk of trying to ‘whip up division’ in UK over Henry Nowak murder",
-    "link": "https://www.theguardian.com/politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak",
-    "pubDate": "04.06.2026 18:06:38",
-    "sortDate": 1780596398000,
     "source": "The Guardian"
   },
   {
@@ -161,13 +196,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Uproar in France as it emerges suspect in case of missing girl had rape allegations dismissed",
-    "link": "https://www.theguardian.com/world/2026/jun/04/uproar-france-suspect-missing-girl-allegations-dismissed-lyhanna",
-    "pubDate": "04.06.2026 16:26:56",
-    "sortDate": 1780590416000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Hezbollah rejects Israel-Lebanon truce as Trump scrambles to end Iran war",
     "link": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
     "pubDate": "04.06.2026 16:25:16",
@@ -189,25 +217,60 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘That’s a bad combination’: why Australia may be in for a slushy snow season",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/05/australia-ski-season-snow-climate-change-el-nino-impact",
-    "pubDate": "04.06.2026 15:00:09",
-    "sortDate": 1780585209000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Embarrassing’: pressure on Merz after Germany’s failure to win UN security council seat",
-    "link": "https://www.theguardian.com/world/2026/jun/04/failure-to-win-seat-un-security-council-germany-friedrich-merz",
-    "pubDate": "04.06.2026 13:05:27",
-    "sortDate": 1780578327000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
     "link": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
     "pubDate": "04.06.2026 12:30:06",
     "sortDate": 1780576206000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167655",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167653",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Undeclared chemical weapons found in Syria, including type used in notorious Ghouta massacre",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167652",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "From the Field: In crisis-hit Middle East, renewables power daily life",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167651",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Killed for speaking up: UN sounds alarm over attacks on environmental defenders",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167647",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World Ocean Assessment highlights urgent need for science and global action",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167646",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: Another peacekeeper dies in new attack",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167645",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
   },
   {
     "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
@@ -228,20 +291,6 @@
     "link": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
     "pubDate": "04.06.2026 04:00:25",
     "sortDate": 1780545625000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Oman resists US pressure to break ties with Iran over strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/jun/04/oman-resists-us-pressure-to-break-ties-with-iran-over-strait-of-hormuz",
-    "pubDate": "04.06.2026 04:00:24",
-    "sortDate": 1780545624000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Netanayahu’s been ‘a great partner’, says Trump – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
-    "pubDate": "04.06.2026 03:24:31",
-    "sortDate": 1780543471000,
     "source": "The Guardian"
   },
   {
@@ -266,11 +315,172 @@
     "source": "The Guardian"
   },
   {
+    "title": "Unsafe food kills 1.5 million people each year; children most at risk: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167644",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemen: Hunger crisis deepens as funding cuts leave millions without support",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167643",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Regional health agency issues measles alert for World Cup",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167642",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167641",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncertainty in Lebanon, hunger grows in the Sahel",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167639",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Kyrgyzstan wins seat on UN Security Council for first time ever",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167636",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘We are catching up’ – WHO chief on DR Congo’s Ebola fight",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167632",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza’s public servants systematically targeted in Israeli strikes",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167631",
+    "pubDate": "03.06.2026 12:00:00",
+    "sortDate": 1780488000000,
+    "source": "UN News"
+  },
+  {
     "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
     "link": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
     "pubDate": "02.06.2026 18:13:20",
     "sortDate": 1780424000000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167628",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Violence hampers Ebola efforts, aid delivery in Darfur and Gaza, Nicaraguan activist’s death in custody",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167629",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167625",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: UN rights office welcomes new judicial units to tackle gang violence and impunity",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167627",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167626",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN urges world not to forget Rohingya refugees as aid cuts threaten vital support",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167623",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN deplores another wave of Russian attacks across Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167622",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167621",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "El Niño confirmed, set to fuel more extreme weather, says WMO",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167620",
+    "pubDate": "02.06.2026 12:00:00",
+    "sortDate": 1780401600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167619",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167618",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Updates from Gaza, the West Bank and Afghanistan, UN development reforms, change at the top of WFP",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167617",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "From Libyan deserts to 3D-printed guns: The weapons that never go away",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167616",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: Families flee Beirut as Israel threatens renewed strikes on Hezbollah",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167615",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo Ebola outbreak: Nurses discharged after full recovery",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167613",
+    "pubDate": "01.06.2026 12:00:00",
+    "sortDate": 1780315200000,
+    "source": "UN News"
   },
   {
     "title": "Typhoon Jangmi threatens Japan as Europe swelters",
