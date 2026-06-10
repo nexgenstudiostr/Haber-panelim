@@ -1,30 +1,121 @@
 [
   {
-    "title": "Australia news live: Neale Daniher’s daughter says ‘we will play on for you, Dad’ at state funeral; One Nation says it will ‘target Labor-held seats’",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb",
-    "pubDate": "10.06.2026 04:53:23",
-    "sortDate": 1781067203000,
+    "title": "Keir Starmer says those behind ‘unacceptable’ Belfast disorder ‘will feel full force of the law’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
+    "pubDate": "10.06.2026 09:44:41",
+    "sortDate": 1781084681000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "David Sullivan’s contact with West Ham women’s and youth teams restricted since 2023",
+    "link": "https://www.theguardian.com/football/2026/jun/10/david-sullivan-west-ham-football-association-safeguarding-investigation",
+    "pubDate": "10.06.2026 09:40:39",
+    "sortDate": 1781084439000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Humans prefer to walk anticlockwise, scientists find – but reason is unclear",
+    "link": "https://www.theguardian.com/science/2026/jun/10/humans-prefer-to-walk-anticlockwise-scientists-find-reason-unclear",
+    "pubDate": "10.06.2026 09:40:38",
+    "sortDate": 1781084438000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two killed in rare street demonstration over women’s rights in Afghanistan",
+    "link": "https://www.theguardian.com/global-development/2026/jun/10/two-killed-in-rare-street-demonstration-over-womens-rights-in-afghanistan",
+    "pubDate": "10.06.2026 09:35:08",
+    "sortDate": 1781084108000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter",
     "link": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-    "pubDate": "10.06.2026 04:50:38",
-    "sortDate": 1781067038000,
+    "pubDate": "10.06.2026 09:35:05",
+    "sortDate": 1781084105000,
     "source": "The Guardian"
   },
   {
-    "title": "High court paves the way for multimillion-dollar compensation claims to NZYQ cohort in blow to government",
+    "title": "Asian stocks fall as US and Iran exchange fire – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jun/10/asian-stocks-fall-us-iran-exchange-fire-middle-east-strait-of-hormuz-oil-prices-latest-news-updates",
+    "pubDate": "10.06.2026 09:16:09",
+    "sortDate": 1781082969000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pub chain Fuller’s hopes for bumper summer from World Cup and staycations",
+    "link": "https://www.theguardian.com/business/2026/jun/10/pub-chain-fullers-hopes-world-cup-england-matches",
+    "pubDate": "10.06.2026 09:10:05",
+    "sortDate": 1781082605000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Japanese manga fans urge Trump to stop using characters in his online posts",
+    "link": "https://www.theguardian.com/world/2026/jun/10/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts",
+    "pubDate": "10.06.2026 09:09:12",
+    "sortDate": 1781082552000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "The vanishing of Nicolás Maduro: how the former dictator is being erased from Venezuela",
+    "link": "https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased",
+    "pubDate": "10.06.2026 09:00:17",
+    "sortDate": 1781082017000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats rally round Platner in Maine as Trump reaffirms grip on GOP after primaries",
+    "link": "https://www.theguardian.com/us-news/2026/jun/10/democrats-rally-round-graham-platner-maine-trump-grip-gop-primary-elections",
+    "pubDate": "10.06.2026 08:33:48",
+    "sortDate": 1781080428000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Bill Gates to face questions from House committee over links to Jeffrey Epstein",
+    "link": "https://www.theguardian.com/us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein",
+    "pubDate": "10.06.2026 08:00:15",
+    "sortDate": 1781078415000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hannah Thomas: NSW admits to police ‘battery and false imprisonment’ of pro-Palestine protester",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/10/hannah-thomas-pro-palestine-protester-assaulted-by-police-officers-falsely-imprisoned-ntwnfb",
+    "pubDate": "10.06.2026 07:11:40",
+    "sortDate": 1781075500000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pocock says Australia is ‘sleepwalking’ into AI impacts – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb",
+    "pubDate": "10.06.2026 07:11:38",
+    "sortDate": 1781075498000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump launches strikes against Iran after downing of US army helicopter",
+    "link": "https://www.theguardian.com/us-news/2026/jun/09/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond",
+    "pubDate": "10.06.2026 05:39:58",
+    "sortDate": 1781069998000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Charities in England and Wales ‘donate millions to illegal Israeli settlements’",
+    "link": "https://www.theguardian.com/society/2026/jun/10/charities-in-england-and-wales-donate-millions-to-israeli-settlements",
+    "pubDate": "10.06.2026 05:00:13",
+    "sortDate": 1781067613000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
+    "link": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
+    "pubDate": "10.06.2026 05:00:11",
+    "sortDate": 1781067611000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Non-citizens held in indefinite detention in Australia could get millions of dollars in compensation after government’s high court loss",
     "link": "https://www.theguardian.com/australia-news/2026/jun/10/australian-high-court-compensation-nzyq-unlawful-non-citizens-ntwnfb",
     "pubDate": "10.06.2026 04:39:15",
     "sortDate": 1781066355000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bycatch has ‘shocking’ toll on British marine life, first-ever analysis reveals",
-    "link": "https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis",
-    "pubDate": "10.06.2026 04:00:12",
-    "sortDate": 1781064012000,
     "source": "The Guardian"
   },
   {
@@ -42,13 +133,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "NSW admits pro-Palestine protester Hannah Thomas was assaulted by police officers and falsely imprisoned",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/10/hannah-thomas-pro-palestine-protester-assaulted-by-police-officers-falsely-imprisoned-ntwnfb",
-    "pubDate": "10.06.2026 02:29:39",
-    "sortDate": 1781058579000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Republican Steve Hilton advances in tight California governor’s race",
     "link": "https://www.theguardian.com/us-news/2026/jun/09/steve-hilton-california-governor-primary-election-result",
     "pubDate": "10.06.2026 02:01:12",
@@ -63,59 +147,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Graham Platner shrugs off scandals to win Maine Democratic Senate primary",
-    "link": "https://www.theguardian.com/us-news/2026/jun/09/graham-platner-maine-senate-primary",
-    "pubDate": "10.06.2026 01:27:45",
-    "sortDate": 1781054865000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Karmelo Anthony found guilty of murder and sentenced to 35 years",
-    "link": "https://www.theguardian.com/us-news/2026/jun/09/karmelo-anthony-case-verdict",
-    "pubDate": "10.06.2026 00:46:46",
-    "sortDate": 1781052406000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-    "pubDate": "10.06.2026 00:45:35",
-    "sortDate": 1781052335000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Prisoners in Western Australia are living in ‘cruel, inhuman or degrading’ conditions, report warns",
     "link": "https://www.theguardian.com/australia-news/2026/jun/10/wa-prisons-cruel-inhuman-degrading-conditions-western-australia",
     "pubDate": "10.06.2026 00:27:46",
     "sortDate": 1781051266000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lammy’s cuts to jury trials could have ‘far-reaching’ effect on race relations, say MPs",
-    "link": "https://www.theguardian.com/law/2026/jun/10/lammy-jury-trials-race-relations",
-    "pubDate": "09.06.2026 23:02:04",
-    "sortDate": 1781046124000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Staff at immigration detention centre wore England flags, report finds",
-    "link": "https://www.theguardian.com/society/2026/jun/10/staff-immigration-detention-centre-england-flags",
-    "pubDate": "09.06.2026 23:02:04",
-    "sortDate": 1781046124000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Grim reality of prison conditions laid bare in damning report",
-    "link": "https://www.theguardian.com/society/2026/jun/10/grim-reality-of-prison-conditions-laid-bare-in-damning-report",
-    "pubDate": "09.06.2026 23:02:04",
-    "sortDate": 1781046124000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump launches strikes against Iran after downing of US army helicopter",
-    "link": "https://www.theguardian.com/us-news/2026/jun/09/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond",
-    "pubDate": "09.06.2026 22:41:40",
-    "sortDate": 1781044900000,
     "source": "The Guardian"
   },
   {
@@ -182,6 +217,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "Sudan war: Drone attacks damage key aid routes",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167688",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Call for action against child labour, ICC Prosecutor suspended, WFP raises awareness in Egypt",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167687",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fresh strikes on Tyre kill eight, as UN puts Lebanon destruction bill at $365 million, and rising",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167685",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167683",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167682",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Central Africa in the spotlight, including outlawed Lord's Resistance Army",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167680",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Building trust and lab testing at the heart of DRC Ebola response: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167679",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
     "title": "Israel puts Palestinian doctor in solitary confinement after 17 months held without charge",
     "link": "https://www.theguardian.com/world/2026/jun/09/israel-palestinian-doctor-hussam-abu-safiya-solitary-confinement-held-without-charge",
     "pubDate": "09.06.2026 07:16:48",
@@ -210,18 +294,67 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lebanon’s president refuses to meet Netanyahu until war ends – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
-    "pubDate": "08.06.2026 22:04:23",
-    "sortDate": 1780956263000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
     "link": "https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic",
     "pubDate": "08.06.2026 16:44:08",
     "sortDate": 1780937048000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167678",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan faces ‘lost generation of talent and potential,’ Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167677",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167674",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Countries urged to ‘go further, faster’ and deliver on climate commitments",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167673",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "More than half of staff who died in service worked in Gaza, UN chief says at memorial",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167669",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deadly quake strikes Philippines on first day of school year",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167672",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167671",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Why sustainable alternatives to plastic are struggling to compete",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167670",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
   },
   {
     "title": "Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties",
@@ -259,18 +392,25 @@
     "source": "The Guardian"
   },
   {
-    "title": "Author of Home Office report on China reveals attempts to compromise him",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/07/home-office-china-report-honey-traps-compromise-attempts",
-    "pubDate": "07.06.2026 17:00:02",
-    "sortDate": 1780851602000,
-    "source": "The Guardian"
+    "title": "Humanity’s future depends on protecting the rapidly changing ocean",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167654",
+    "pubDate": "07.06.2026 12:00:00",
+    "sortDate": 1780833600000,
+    "source": "UN News"
   },
   {
-    "title": "Peru’s discontented voters face straight left-right choice in election runoff",
-    "link": "https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori",
-    "pubDate": "07.06.2026 05:00:24",
-    "sortDate": 1780808424000,
-    "source": "The Guardian"
+    "title": "From firefights to football matches: Life on a UN peacekeeping frontline",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167666",
+    "pubDate": "07.06.2026 12:00:00",
+    "sortDate": 1780833600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Five things you need to know about ocean plastics",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167637",
+    "pubDate": "06.06.2026 12:00:00",
+    "sortDate": 1780747200000,
+    "source": "UN News"
   },
   {
     "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
@@ -280,11 +420,46 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
-    "link": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
-    "pubDate": "05.06.2026 08:00:29",
-    "sortDate": 1780646429000,
-    "source": "The Guardian"
+    "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167648",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167668",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Faith, fear and trust: Inside DR Congo’s fight against Ebola",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167667",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The true cost of peace’: UN honours fallen peacekeepers as dangers mount",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167665",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: Harrowing needs must be met with long-term engagement",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167661",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon crisis: Needs soar as UN launches new funding appeal",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
   },
   {
     "title": "Missing Sherpa guide found alive on Everest after funeral rites had begun",
@@ -292,6 +467,48 @@
     "pubDate": "04.06.2026 15:53:07",
     "sortDate": 1780588387000,
     "source": "The Guardian"
+  },
+  {
+    "title": "AI’s environmental costs threaten water, land and climate",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167658",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167656",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167655",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167653",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Undeclared chemical weapons found in Syria, including type used in notorious Ghouta massacre",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167652",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "From the Field: In crisis-hit Middle East, renewables power daily life",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167651",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
   },
   {
     "title": "Cricket Canada suspended over allegations of gang-linked corruption",
@@ -305,13 +522,6 @@
     "link": "https://www.theguardian.com/world/2026/may/30/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
     "pubDate": "30.05.2026 06:51:37",
     "sortDate": 1780123897000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Exam fail: Indian students complain en masse about marking errors in key final exams",
-    "link": "https://www.theguardian.com/world/2026/may/30/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
-    "pubDate": "30.05.2026 02:36:30",
-    "sortDate": 1780108590000,
     "source": "The Guardian"
   }
 ]
