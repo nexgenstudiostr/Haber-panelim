@@ -1,44 +1,135 @@
 [
   {
-    "title": "FTSE 100 joins global stock market fall as US and Iran exchange fire - business live",
-    "link": "https://www.theguardian.com/business/live/2026/jun/10/asian-stocks-fall-us-iran-exchange-fire-middle-east-strait-of-hormuz-oil-prices-latest-news-updates",
-    "pubDate": "10.06.2026 12:44:05",
-    "sortDate": 1781095445000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Controversial Graham Platner overcomes allegations to seal Maine Democratic nomination for Senate race – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates",
-    "pubDate": "10.06.2026 12:43:53",
-    "sortDate": 1781095433000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bill Gates to face questions from House committee over links to Jeffrey Epstein",
-    "link": "https://www.theguardian.com/us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein",
-    "pubDate": "10.06.2026 12:41:10",
-    "sortDate": 1781095270000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Family of Belfast victim appeals for calm and stresses ‘deeply valuable contribution’ of many migrants – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-    "pubDate": "10.06.2026 12:40:56",
-    "sortDate": 1781095256000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Trump accuses Iran of taking too long to make a deal and says ‘it will now pay a price’",
+    "title": "Middle East crisis live: Trump threatens more strikes on Iran over helicopter crash",
     "link": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-    "pubDate": "10.06.2026 12:37:15",
-    "sortDate": 1781095035000,
+    "pubDate": "10.06.2026 16:11:28",
+    "sortDate": 1781107888000,
     "source": "The Guardian"
   },
   {
-    "title": "US inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war",
-    "link": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
-    "pubDate": "10.06.2026 12:34:40",
-    "sortDate": 1781094880000,
+    "title": "Trump says Bill Pulte will ‘execute the immediate downsizing’ of intelligence community in temporary role – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates",
+    "pubDate": "10.06.2026 16:06:04",
+    "sortDate": 1781107564000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "David Harbour on Lily Allen’s West End Girl album: ‘It wasn’t my experience’",
+    "link": "https://www.theguardian.com/music/2026/jun/10/david-harbour-lily-allen-west-end-girl-response",
+    "pubDate": "10.06.2026 16:01:19",
+    "sortDate": 1781107279000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Musk rejects claim he has incited disorder in Belfast – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
+    "pubDate": "10.06.2026 15:55:47",
+    "sortDate": 1781106947000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UFC champion says he has been banned from White House fight over criticisms of Trump",
+    "link": "https://www.theguardian.com/us-news/2026/jun/10/ufc-champion-banned-white-house-fight-trump-criticism",
+    "pubDate": "10.06.2026 15:37:43",
+    "sortDate": 1781105863000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Toby Carvery to pay to replant lost orchard in settlement for felling 500-year-old oak",
+    "link": "https://www.theguardian.com/environment/2026/jun/10/toby-carvery-to-pay-for-orchard-planting-after-causing-outrage-by-felling-500-year-old-oak",
+    "pubDate": "10.06.2026 15:30:27",
+    "sortDate": 1781105427000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trial underway for ex-NYC comptroller Brad Lander after immigration court arrest",
+    "link": "https://www.theguardian.com/us-news/2026/jun/10/brad-lander-trial-immigration-court",
+    "pubDate": "10.06.2026 15:01:53",
+    "sortDate": 1781103713000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One Nation’s ‘incredibly sloppy’ financial reports reveal more than $1m in missing or worthless assets",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/11/one-nation-party-financial-reports-returns-fair-trading-ntwnfb",
+    "pubDate": "10.06.2026 15:00:51",
+    "sortDate": 1781103651000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Breast cancer and endometriosis drug Zoladex is being pulled from Australia. How will women be affected?",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/11/zoladex-breast-cancer-endometriosis-drug-pulled-australia-how-women-affected",
+    "pubDate": "10.06.2026 15:00:50",
+    "sortDate": 1781103650000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labor scraps plan to make spy agency’s 9/11-era questioning powers permanent",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/11/australian-government-scraps-asio-compulsory-questioning-plans",
+    "pubDate": "10.06.2026 15:00:50",
+    "sortDate": 1781103650000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Letter from Kyiv: The messed-up day-to-day of living under Putin’s cruel air war",
+    "link": "https://www.theguardian.com/world/2026/jun/10/years-on-i-still-marvel-at-the-resilience-of-day-to-day-life-under-putins-cruel-air-war",
+    "pubDate": "10.06.2026 14:46:09",
+    "sortDate": 1781102769000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US inflation hits 4.2% in May as Trump’s Middle East conflict drives up prices - as it happened",
+    "link": "https://www.theguardian.com/business/live/2026/jun/10/asian-stocks-fall-us-iran-exchange-fire-middle-east-strait-of-hormuz-oil-prices-latest-news-updates",
+    "pubDate": "10.06.2026 14:20:52",
+    "sortDate": 1781101252000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Video shows family’s car slowing before Israeli troops shot dead Palestinian baby",
+    "link": "https://www.theguardian.com/world/2026/jun/10/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank-new-footage",
+    "pubDate": "10.06.2026 14:05:23",
+    "sortDate": 1781100323000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "WH Smith raises £100m as it warns on profits due to Iran war",
+    "link": "https://www.theguardian.com/business/2026/jun/10/wh-smith-shut-stories-profit-warning-iran-war-airport-middle-east",
+    "pubDate": "10.06.2026 13:57:23",
+    "sortDate": 1781099843000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First trailer for Aaron Sorkin’s Facebook sequel The Social Reckoning",
+    "link": "https://www.theguardian.com/film/2026/jun/10/the-social-reckoning-aaron-sorkin-trailer",
+    "pubDate": "10.06.2026 13:48:35",
+    "sortDate": 1781099315000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weight-loss drug users save more than £400 a year on food as take-up triples",
+    "link": "https://www.theguardian.com/business/2026/jun/10/weight-loss-drugs-grocery-bills-glp-1s",
+    "pubDate": "10.06.2026 13:29:38",
+    "sortDate": 1781098178000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump targeting immigrants from countries hit most by climate shocks",
+    "link": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+    "pubDate": "10.06.2026 13:00:20",
+    "sortDate": 1781096420000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Not just a singer’: Argentinians queue for miles to mourn biggest rockstar most of world has never heard of",
+    "link": "https://www.theguardian.com/world/2026/jun/10/mourning-fans-queue-tribute-argentina-carlos-indio-solari",
+    "pubDate": "10.06.2026 13:00:20",
+    "sortDate": 1781096420000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Faithful line streets for Pope Leo’s Sagrada Família blessing on centenary of Gaudí’s death",
+    "link": "https://www.theguardian.com/world/2026/jun/10/pope-leo-bless-sagrada-familia-antoni-gaudi",
+    "pubDate": "10.06.2026 12:51:22",
+    "sortDate": 1781095882000,
     "source": "The Guardian"
   },
   {
@@ -56,39 +147,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Is he Bernie Sanders or Donald Trump? Protest vote complicates Graham Platner’s victory",
-    "link": "https://www.theguardian.com/us-news/2026/jun/10/graham-platner-maine-senate-primary-victory",
-    "pubDate": "10.06.2026 12:18:33",
-    "sortDate": 1781093913000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "BBC abandons plans for Doctor Who Christmas special",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/jun/10/bbc-abandons-plans-for-doctor-who-christmas-special",
-    "pubDate": "10.06.2026 12:17:55",
-    "sortDate": 1781093875000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sentencing Palestine Action protesters as terrorists would be ‘constitutional threat’, says lawyer",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/10/four-palestine-action-protesters-terrorists-constitutional-threat",
-    "pubDate": "10.06.2026 11:58:05",
-    "sortDate": 1781092685000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US and Iran exchange fire as Vance says deal could be months away | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/jun/10/first-thing-us-and-iran-exchange-fire-as-vance-says-deal-could-be-months-away",
-    "pubDate": "10.06.2026 11:54:31",
-    "sortDate": 1781092471000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Weight loss drug users save over £400 on food as take-up triples",
-    "link": "https://www.theguardian.com/business/2026/jun/10/weight-loss-drugs-grocery-bills-glp-1s",
-    "pubDate": "10.06.2026 11:37:13",
-    "sortDate": 1781091433000,
-    "source": "The Guardian"
+    "title": "Middle East LIVE: Diplomacy in focus as escalation ‘reverberates across borders and continents’, warns UN chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167689",
+    "pubDate": "10.06.2026 12:00:00",
+    "sortDate": 1781092800000,
+    "source": "UN News"
   },
   {
     "title": "Two killed in rare street demonstration over women’s rights in Afghanistan",
@@ -147,31 +210,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Non-citizens held in indefinite detention in Australia could get millions of dollars in compensation after government’s high court loss",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/10/australian-high-court-compensation-nzyq-unlawful-non-citizens-ntwnfb",
-    "pubDate": "10.06.2026 04:39:15",
-    "sortDate": 1781066355000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Only one in 10 Europeans now see US as an ally, survey suggests",
     "link": "https://www.theguardian.com/world/2026/jun/10/only-one-in-10-europeans-now-see-us-as-an-ally-survey-suggests",
     "pubDate": "10.06.2026 04:00:11",
     "sortDate": 1781064011000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Prisoners in Western Australia are living in ‘cruel, inhuman or degrading’ conditions, report warns",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/10/wa-prisons-cruel-inhuman-degrading-conditions-western-australia",
-    "pubDate": "10.06.2026 00:27:46",
-    "sortDate": 1781051266000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Concerns over US company’s gas fracking plan for world’s most intact tropical savanna in WA revealed",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/10/wa-fracking-gas-us-company-federal-environment-department-concern",
-    "pubDate": "09.06.2026 21:24:27",
-    "sortDate": 1781040267000,
     "source": "The Guardian"
   },
   {
@@ -207,27 +249,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
     "pubDate": "09.06.2026 16:30:08",
     "sortDate": 1781022608000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Israeli attack on Tyre in Lebanon kills eight as evacuation ordered for Christian quarter",
-    "link": "https://www.theguardian.com/world/2026/jun/09/israeli-attack-tyre-lebanon-evacuation-ordered-historic-christian-quarter",
-    "pubDate": "09.06.2026 15:58:09",
-    "sortDate": 1781020689000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Is the pope a Real Madrid fan? Leo’s admission upsets Barcelona faithful",
-    "link": "https://www.theguardian.com/world/2026/jun/09/pope-leo-real-madrid-barcelona-fans-spain",
-    "pubDate": "09.06.2026 15:55:15",
-    "sortDate": 1781020515000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "EU plans to ban Russian soldiers from bloc in fresh sanctions on Moscow",
-    "link": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
-    "pubDate": "09.06.2026 15:12:38",
-    "sortDate": 1781017958000,
     "source": "The Guardian"
   },
   {
@@ -298,13 +319,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
     "pubDate": "08.06.2026 22:13:44",
     "sortDate": 1780956824000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
-    "link": "https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic",
-    "pubDate": "08.06.2026 16:44:08",
-    "sortDate": 1780937048000,
     "source": "The Guardian"
   },
   {
@@ -420,13 +434,6 @@
     "source": "UN News"
   },
   {
-    "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
-    "link": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
-    "pubDate": "06.06.2026 04:21:37",
-    "sortDate": 1780719697000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
     "link": "https://news.un.org/feed/view/en/story/2026/06/1167648",
     "pubDate": "05.06.2026 12:00:00",
@@ -506,13 +513,6 @@
   {
     "title": "Undeclared chemical weapons found in Syria, including type used in notorious Ghouta massacre",
     "link": "https://news.un.org/feed/view/en/story/2026/06/1167652",
-    "pubDate": "04.06.2026 12:00:00",
-    "sortDate": 1780574400000,
-    "source": "UN News"
-  },
-  {
-    "title": "From the Field: In crisis-hit Middle East, renewables power daily life",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167651",
     "pubDate": "04.06.2026 12:00:00",
     "sortDate": 1780574400000,
     "source": "UN News"
