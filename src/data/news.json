@@ -1,16 +1,93 @@
 [
   {
-    "title": "Mike Johnson attempts to defend Trump after president says ‘I love the inflation’ – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates",
-    "pubDate": "10.06.2026 23:14:31",
-    "sortDate": 1781133271000,
+    "title": "Australia news live: PM casts doubt on One Nation’s $1.9m donation claim; radio listeners abandon Kiis after Kyle and Jackie O exit",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb",
+    "pubDate": "11.06.2026 03:13:27",
+    "sortDate": 1781147607000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia news live: Angus Taylor rejects proposal to ‘carve up’ seats between Coalition and One Nation; $100m for new arthritis research",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb",
-    "pubDate": "10.06.2026 23:12:35",
-    "sortDate": 1781133155000,
+    "title": "Middle East crisis live: US says second day of Iran strikes ‘completed’; Tehran claims it has targeted US base in Bahrain",
+    "link": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
+    "pubDate": "11.06.2026 03:10:14",
+    "sortDate": 1781147414000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australian billionaire Brett Blundy wages high-stakes campaign to oust chair of Victoria’s Secret",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/11/brett-blundy-bbrc-victorias-secret",
+    "pubDate": "11.06.2026 02:51:40",
+    "sortDate": 1781146300000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "States tell Albanese government that NDIS changes could mean people with disabilities are shifted into hospitals",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/11/ndis-disabilities-overhaul-hospital-australia",
+    "pubDate": "11.06.2026 02:49:03",
+    "sortDate": 1781146143000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Peter Weir receives inaugural AFTRS lifetime achievement award",
+    "link": "https://www.theguardian.com/film/2026/jun/11/peter-weir-director-film-maker-aftrs-lifetime-achievement-award",
+    "pubDate": "11.06.2026 02:44:02",
+    "sortDate": 1781145842000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French man on trial accused of raping partner after contact with Dominique Pelicot",
+    "link": "https://www.theguardian.com/world/2026/jun/11/french-man-on-trial-accused-of-raping-partner-after-contact-with-dominique-pelicot",
+    "pubDate": "11.06.2026 02:00:03",
+    "sortDate": 1781143203000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mehdi Hasan on Donald Trump’s big, beautiful birthday – podcast",
+    "link": "https://www.theguardian.com/news/audio/2026/jun/11/mehdi-hasan-on-donald-trumps-big-beautiful-birthday-podcast",
+    "pubDate": "11.06.2026 02:00:03",
+    "sortDate": 1781143203000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mike Johnson attempts to defend Trump after president says ‘I love the inflation’ – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates",
+    "pubDate": "11.06.2026 01:57:00",
+    "sortDate": 1781143020000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Angus Taylor rejects One Nation seat sharing deal as cracks appear in Liberal ranks over Pauline Hanson threat",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/11/angus-taylor-liberal-leader-rejects-one-nation-seat-share-pauline-hanson-threat-ntwnfb",
+    "pubDate": "11.06.2026 01:14:15",
+    "sortDate": 1781140455000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Accused LA wildfire arsonist wanted ‘revenge on society’, prosecutors say as trial opens",
+    "link": "https://www.theguardian.com/us-news/2026/jun/10/palisades-fire-los-angeles-wildfires-trial",
+    "pubDate": "11.06.2026 00:49:04",
+    "sortDate": 1781138944000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Stephen Ogilvie’s family appeal for calm on second night of disorder – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
+    "pubDate": "10.06.2026 23:45:48",
+    "sortDate": 1781135148000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police use water cannon against rioters in Northern Ireland",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/10/police-use-water-cannon-against-rioters-in-northern-ireland",
+    "pubDate": "10.06.2026 23:39:19",
+    "sortDate": 1781134759000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French star Patrick Bruel charged with rape and sexual assault",
+    "link": "https://www.theguardian.com/world/2026/jun/11/patrick-bruel-charged-rape-sexual-assault",
+    "pubDate": "10.06.2026 23:31:22",
+    "sortDate": 1781134282000,
     "source": "The Guardian"
   },
   {
@@ -28,27 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Water cannon deployed in second night of disorder after knife attack in Belfast – live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-    "pubDate": "10.06.2026 22:55:14",
-    "sortDate": 1781132114000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: US military launches second day of airstrikes at ‘multiple targets’ in Iran",
-    "link": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-    "pubDate": "10.06.2026 22:54:25",
-    "sortDate": 1781132065000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Convicted gang rapist Mohammed Skaf hit with two dozen drug charges in Sydney",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/11/convicted-gang-rapist-mohammad-skaf-drug-charges-sydney-ntwnfb",
-    "pubDate": "10.06.2026 22:46:18",
-    "sortDate": 1781131578000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US strikes Iran for second day, as ceasefire appears close to collapse",
     "link": "https://www.theguardian.com/world/2026/jun/10/middle-east-peace-talks-iran-strikes",
     "pubDate": "10.06.2026 22:31:46",
@@ -56,7 +112,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lawsuit challenges Trump administration's land swap with SpaceX in Texas",
+    "title": "Trump administration land gift to SpaceX would hurt Texas habitat, lawsuit says",
     "link": "https://www.theguardian.com/us-news/2026/jun/10/spacex-trump-administration-texas-land-swap",
     "pubDate": "10.06.2026 22:12:15",
     "sortDate": 1781129535000,
@@ -67,27 +123,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jun/10/bill-gates-testimony-jeffrey-epstein",
     "pubDate": "10.06.2026 21:51:42",
     "sortDate": 1781128302000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "A conservative California county is trying to kill mail-in voting",
-    "link": "https://www.theguardian.com/us-news/2026/jun/10/california-shasta-county-mail-in-voting-elimination",
-    "pubDate": "10.06.2026 21:10:59",
-    "sortDate": 1781125859000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Police use water cannon against rioters in Northern Ireland",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/10/police-use-water-cannon-against-rioters-in-northern-ireland",
-    "pubDate": "10.06.2026 21:06:49",
-    "sortDate": 1781125609000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trial centers on whether Brad Lander blocked an elevator but hints at deeper issue",
-    "link": "https://www.theguardian.com/us-news/2026/jun/10/brad-lander-trial-immigration-court",
-    "pubDate": "10.06.2026 21:02:21",
-    "sortDate": 1781125341000,
     "source": "The Guardian"
   },
   {
@@ -133,20 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "One Nation’s ‘incredibly sloppy’ financial reports reveal more than $1m in missing or worthless assets",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/11/one-nation-party-financial-reports-returns-fair-trading-ntwnfb",
-    "pubDate": "10.06.2026 15:00:51",
-    "sortDate": 1781103651000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labor scraps plan to make spy agency’s 9/11-era questioning powers permanent",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/11/australian-government-scraps-asio-compulsory-questioning-plans",
-    "pubDate": "10.06.2026 15:00:50",
-    "sortDate": 1781103650000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Letter from Kyiv: The messed-up day-to-day of living under Putin’s cruel air war",
     "link": "https://www.theguardian.com/world/2026/jun/10/years-on-i-still-marvel-at-the-resilience-of-day-to-day-life-under-putins-cruel-air-war",
     "pubDate": "10.06.2026 14:46:09",
@@ -182,6 +203,27 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN rights chief urges ‘massive rethink’ of US immigration policies ahead of World Cup",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167692",
+    "pubDate": "10.06.2026 12:00:00",
+    "sortDate": 1781092800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The day never stops’ for aid workers braving missiles and drones in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167690",
+    "pubDate": "10.06.2026 12:00:00",
+    "sortDate": 1781092800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East LIVE: Diplomacy in focus as escalation ‘reverberates across borders and continents’, warns UN chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167689",
+    "pubDate": "10.06.2026 12:00:00",
+    "sortDate": 1781092800000,
+    "source": "UN News"
+  },
+  {
     "title": "Two killed in rare street demonstration over women’s rights in Afghanistan",
     "link": "https://www.theguardian.com/global-development/2026/jun/10/two-killed-in-rare-street-demonstration-over-womens-rights-in-afghanistan",
     "pubDate": "10.06.2026 09:35:08",
@@ -203,13 +245,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Hannah Thomas: NSW admits to police ‘battery and false imprisonment’ of pro-Palestine protester",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/10/hannah-thomas-pro-palestine-protester-assaulted-by-police-officers-falsely-imprisoned-ntwnfb",
-    "pubDate": "10.06.2026 07:11:40",
-    "sortDate": 1781075500000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
     "link": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation",
     "pubDate": "10.06.2026 05:00:11",
@@ -221,13 +256,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/10/only-one-in-10-europeans-now-see-us-as-an-ally-survey-suggests",
     "pubDate": "10.06.2026 04:00:11",
     "sortDate": 1781064011000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lawyer for murdered French girl’s family calls for more justice system funding",
-    "link": "https://www.theguardian.com/world/2026/jun/09/lyhanna-lawyer-france-justice-system-funding",
-    "pubDate": "09.06.2026 18:40:16",
-    "sortDate": 1781030416000,
     "source": "The Guardian"
   },
   {
@@ -245,18 +273,60 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Earth’s first starfleet’: Nasa reveals Artemis III crew and project’s next steps",
-    "link": "https://www.theguardian.com/science/2026/jun/09/artemis-iii-crew-nasa-moon",
-    "pubDate": "09.06.2026 17:07:04",
-    "sortDate": 1781024824000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
     "link": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
     "pubDate": "09.06.2026 16:30:08",
     "sortDate": 1781022608000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Sudan war: Drone attacks damage key aid routes",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167688",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Call for action against child labour, ICC Prosecutor suspended, WFP raises awareness in Egypt",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167687",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fresh strikes on Tyre kill eight, as UN puts Lebanon destruction bill at $365 million, and rising",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167685",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167683",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167682",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Central Africa in the spotlight, including outlawed Lord's Resistance Army",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167680",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Building trust and lab testing at the heart of DRC Ebola response: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167679",
+    "pubDate": "09.06.2026 12:00:00",
+    "sortDate": 1781006400000,
+    "source": "UN News"
   },
   {
     "title": "Powerful earthquake in southern Philippines leaves at least 37 dead",
@@ -271,6 +341,62 @@
     "pubDate": "08.06.2026 22:13:44",
     "sortDate": 1780956824000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167678",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan faces ‘lost generation of talent and potential,’ Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167677",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167674",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Countries urged to ‘go further, faster’ and deliver on climate commitments",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167673",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "More than half of staff who died in service worked in Gaza, UN chief says at memorial",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167669",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deadly quake strikes Philippines on first day of school year",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167672",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167671",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Why sustainable alternatives to plastic are struggling to compete",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167670",
+    "pubDate": "08.06.2026 12:00:00",
+    "sortDate": 1780920000000,
+    "source": "UN News"
   },
   {
     "title": "Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties",
@@ -301,11 +427,95 @@
     "source": "The Guardian"
   },
   {
+    "title": "Humanity’s future depends on protecting the rapidly changing ocean",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167654",
+    "pubDate": "07.06.2026 12:00:00",
+    "sortDate": 1780833600000,
+    "source": "UN News"
+  },
+  {
+    "title": "From firefights to football matches: Life on a UN peacekeeping frontline",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167666",
+    "pubDate": "07.06.2026 12:00:00",
+    "sortDate": 1780833600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Five things you need to know about ocean plastics",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167637",
+    "pubDate": "06.06.2026 12:00:00",
+    "sortDate": 1780747200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167648",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167668",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Faith, fear and trust: Inside DR Congo’s fight against Ebola",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167667",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The true cost of peace’: UN honours fallen peacekeepers as dangers mount",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167665",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: Harrowing needs must be met with long-term engagement",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167661",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon crisis: Needs soar as UN launches new funding appeal",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167659",
+    "pubDate": "05.06.2026 12:00:00",
+    "sortDate": 1780660800000,
+    "source": "UN News"
+  },
+  {
     "title": "Missing Sherpa guide found alive on Everest after funeral rites had begun",
     "link": "https://www.theguardian.com/world/2026/jun/04/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun",
     "pubDate": "04.06.2026 15:53:07",
     "sortDate": 1780588387000,
     "source": "The Guardian"
+  },
+  {
+    "title": "AI’s environmental costs threaten water, land and climate",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167658",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167656",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167655",
+    "pubDate": "04.06.2026 12:00:00",
+    "sortDate": 1780574400000,
+    "source": "UN News"
   },
   {
     "title": "Cricket Canada suspended over allegations of gang-linked corruption",
