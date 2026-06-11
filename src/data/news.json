@@ -1,37 +1,114 @@
 [
   {
-    "title": "John Healey resigns as defence secretary in disagreement with Starmer over spending – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
-    "pubDate": "11.06.2026 12:33:27",
-    "sortDate": 1781181207000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Police fire plastic bullets in effort to contain race riots in Northern Ireland",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/11/police-psni-plastic-bullets-race-riots-northern-ireland",
-    "pubDate": "11.06.2026 12:31:59",
-    "sortDate": 1781181119000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Democrats prepare for potential election interference in midterms – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates",
-    "pubDate": "11.06.2026 12:31:55",
-    "sortDate": 1781181115000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Care worker fears being parted from unborn child and family after Home Office ‘go home’ letters",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/11/woman-fears-separated-unborn-baby-home-office-sends-go-home-letters-husband-daughter",
-    "pubDate": "11.06.2026 12:31:28",
-    "sortDate": 1781181088000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Iran says ceasefire ‘practically meaningless’ as US and Iran exchange strikes",
+    "title": "Middle East crisis live: Trump threatens ‘very hard’ attack on Iran tonight and says US will seize Kharg island",
     "link": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
-    "pubDate": "11.06.2026 12:28:40",
-    "sortDate": 1781180920000,
+    "pubDate": "11.06.2026 16:33:47",
+    "sortDate": 1781195627000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer’s premiership ‘falling apart’, opponents claim, after Healey resigns over defence funding – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
+    "pubDate": "11.06.2026 16:32:59",
+    "sortDate": 1781195579000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wegovy weight-loss pills to be available for patients in UK to buy",
+    "link": "https://www.theguardian.com/science/2026/jun/11/wegovy-weight-loss-pills-available-in-uk-to-buy",
+    "pubDate": "11.06.2026 16:25:40",
+    "sortDate": 1781195140000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "House blocks short-term extension of key Fisa spy power amid furor over Bill Pulte – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates",
+    "pubDate": "11.06.2026 16:23:57",
+    "sortDate": 1781195037000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rare great white shark briefly hooked off Nantucket beach in catch-and-release encounter",
+    "link": "https://www.theguardian.com/environment/2026/jun/11/great-white-shark-nantucket-beach-catch",
+    "pubDate": "11.06.2026 16:22:02",
+    "sortDate": 1781194922000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Chicago officials search for suspect after burnt cross found in Grant Park",
+    "link": "https://www.theguardian.com/us-news/2026/jun/11/chicago-cross-burning-suspect",
+    "pubDate": "11.06.2026 16:09:00",
+    "sortDate": 1781194140000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Polite but deadly: John Healey skewers Keir Starmer as he heads for the door | John Crace",
+    "link": "https://www.theguardian.com/politics/2026/jun/11/john-healey-resignation-worst-possible-time-keir-starmer",
+    "pubDate": "11.06.2026 16:00:28",
+    "sortDate": 1781193628000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump threatens to strike Iran ‘very hard, tonight’ and to take Kharg Island",
+    "link": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
+    "pubDate": "11.06.2026 15:48:40",
+    "sortDate": 1781192920000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims",
+    "link": "https://www.theguardian.com/technology/2026/jun/11/elon-musk-engineer-fired-grok-lawsuit",
+    "pubDate": "11.06.2026 15:47:10",
+    "sortDate": 1781192830000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police were warned for months about addresses targeted in Belfast riots",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/11/police-warned-addresses-targeted-belfast-riots",
+    "pubDate": "11.06.2026 15:45:07",
+    "sortDate": 1781192707000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "SpaceX heads for record $1.78tn float amid fears it is overvalued",
+    "link": "https://www.theguardian.com/science/2026/jun/11/spacex-record-178tn-float-fears-overvalued-elon-musk-ipo",
+    "pubDate": "11.06.2026 15:33:49",
+    "sortDate": 1781192029000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Toronto police officer shot while investigating US consulate attack",
+    "link": "https://www.theguardian.com/world/2026/jun/11/toronto-police-shot-us-consulate-attack",
+    "pubDate": "11.06.2026 15:23:01",
+    "sortDate": 1781191381000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+    "link": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+    "pubDate": "11.06.2026 15:19:15",
+    "sortDate": 1781191155000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pauline Hanson is becoming a problem for Labor – but her focus on battlers could be her kryptonite",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/12/pauline-hanson-one-nation-labor-ntwnfb",
+    "pubDate": "11.06.2026 15:00:21",
+    "sortDate": 1781190021000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "John Healey’s departure is less of a surprise than it may seem",
+    "link": "https://www.theguardian.com/politics/2026/jun/11/john-healey-defence-secretary-departure-less-surprise-than-might-seem",
+    "pubDate": "11.06.2026 14:56:59",
+    "sortDate": 1781189819000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Is the Iran ceasefire over? What the latest US attacks tell us",
+    "link": "https://www.theguardian.com/world/2026/jun/11/iran-ceasefire-us-attacks-strikes-deal",
+    "pubDate": "11.06.2026 14:45:04",
+    "sortDate": 1781189104000,
     "source": "The Guardian"
   },
   {
@@ -42,24 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "ITV says World Cup is a ‘six-week Super Bowl’ for advertising",
-    "link": "https://www.theguardian.com/business/2026/jun/11/itv-world-cup-super-bowl-tv-advertising",
-    "pubDate": "11.06.2026 12:15:44",
-    "sortDate": 1781180144000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Cuba hopes for World Cup respite from US sabre-rattling – but prepares for the worst",
     "link": "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention",
     "pubDate": "11.06.2026 12:00:21",
     "sortDate": 1781179221000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Northumbria police officer, 19, dies after being struck by car",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/11/northumbria-police-officer-19-dies-after-being-struck-by-car",
-    "pubDate": "11.06.2026 11:46:53",
-    "sortDate": 1781178413000,
     "source": "The Guardian"
   },
   {
@@ -77,20 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Fund linked to key Trump allies backed push to sow doubt about 2024 election",
-    "link": "https://www.theguardian.com/us-news/2026/jun/11/fair-elections-fund-trump-allies",
-    "pubDate": "11.06.2026 11:00:21",
-    "sortDate": 1781175621000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US and Iran trade fire after Trump threatens Tehran over stalled talks | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/jun/11/first-thing-us-iran-trade-strikes-trump-threatens-tehran-stalled-talks",
-    "pubDate": "11.06.2026 10:49:01",
-    "sortDate": 1781174941000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Brazilian woman, 38, accused of years of ‘elaborate fraud’ by posing as a child",
     "link": "https://www.theguardian.com/world/2026/jun/11/brazilian-woman-posing-as-child-fraud-scheme",
     "pubDate": "11.06.2026 10:34:31",
@@ -98,24 +147,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Solar generates more energy in US than coal for first time",
-    "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-    "pubDate": "11.06.2026 10:00:20",
-    "sortDate": 1781172020000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Twenty-five anti-Isaac Herzog protesters to face joint trial in Sydney",
     "link": "https://www.theguardian.com/australia-news/2026/jun/11/twenty-five-anti-isaac-herzog-protesters-to-face-joint-trial-in-sydney-ntwnfb",
     "pubDate": "11.06.2026 08:16:47",
     "sortDate": 1781165807000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Is the Iran ceasefire over? What the latest US attacks tell us",
-    "link": "https://www.theguardian.com/world/2026/jun/11/iran-ceasefire-us-attacks-strikes-deal",
-    "pubDate": "11.06.2026 08:09:41",
-    "sortDate": 1781165381000,
     "source": "The Guardian"
   },
   {
@@ -154,13 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lightning stops play: how electrical storms could disrupt the World Cup",
-    "link": "https://www.theguardian.com/news/2026/jun/11/weatherwatch-lightning-electrical-storms-disrupt-world-cup",
-    "pubDate": "11.06.2026 05:00:07",
-    "sortDate": 1781154007000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Aukus is among Australia’s worst foreign policy decisions and requires ‘heroic’ optimism, Gareth Evans says",
     "link": "https://www.theguardian.com/world/2026/jun/11/aukus-among-australia-worst-foreign-policy-decisions-gareth-evans",
     "pubDate": "11.06.2026 04:54:30",
@@ -175,24 +203,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Escaped prisoner who fled brother’s funeral believed to be in Melbourne, police say",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/11/escaped-prisoner-on-run-escorted-from-brothers-funeral-accused-drug-trafficker-orijol-rukaj-melbourne-ntwnfb",
-    "pubDate": "11.06.2026 04:20:17",
-    "sortDate": 1781151617000,
-    "source": "The Guardian"
-  },
-  {
     "title": "French man on trial accused of raping partner after contact with Dominique Pelicot",
     "link": "https://www.theguardian.com/world/2026/jun/11/french-man-on-trial-accused-of-raping-partner-after-contact-with-dominique-pelicot",
     "pubDate": "11.06.2026 02:00:03",
     "sortDate": 1781143203000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pro-Palestinian activists accused of intimidation campaign against University of Michigan officials",
-    "link": "https://www.theguardian.com/us-news/2026/jun/10/pro-palestinian-activists-accused-intimidation-campaign-university-michigan",
-    "pubDate": "10.06.2026 20:46:48",
-    "sortDate": 1781124408000,
     "source": "The Guardian"
   },
   {
@@ -270,13 +284,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/10/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts",
     "pubDate": "10.06.2026 09:09:12",
     "sortDate": 1781082552000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "The vanishing of Nicolás Maduro: how the former dictator is being erased from Venezuela",
-    "link": "https://www.theguardian.com/world/2026/jun/10/maduro-venezuela-erased",
-    "pubDate": "10.06.2026 09:00:17",
-    "sortDate": 1781082017000,
     "source": "The Guardian"
   },
   {
@@ -417,13 +424,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea",
     "pubDate": "08.06.2026 10:46:17",
     "sortDate": 1780915577000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
-    "link": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
-    "pubDate": "08.06.2026 08:55:31",
-    "sortDate": 1780908931000,
     "source": "The Guardian"
   },
   {
