@@ -1,58 +1,107 @@
 [
   {
+    "title": "David Hockney, revolutionary British artist famed for his pools and portraits, dies aged 88",
+    "link": "https://www.theguardian.com/artanddesign/2026/jun/12/artist-david-hockney-dies",
+    "pubDate": "12.06.2026 14:30:21",
+    "sortDate": 1781274621000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tornadoes rip through central US while extreme heat and humidity creep into the north-east",
+    "link": "https://www.theguardian.com/world/2026/jun/12/tornadoes-midwest-us-extreme-heat-north-east",
+    "pubDate": "12.06.2026 14:30:20",
+    "sortDate": 1781274620000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Trump says Iran’s version of peace deal has ‘no relation to the truth’",
+    "link": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
+    "pubDate": "12.06.2026 14:29:20",
+    "sortDate": 1781274560000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Starmer defends investment on defence as he vows to fight any leadership challenge – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/12/keir-starmer-defence-investment-plan-spending-dan-jarvis-al-cairns-john-healey-latest-news-updates",
+    "pubDate": "12.06.2026 14:23:13",
+    "sortDate": 1781274193000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Fisa spy powers almost certain to expire after Congress fails to act – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/jun/12/donald-trump-fisa-kennedy-center-iran-ufc-white-house-latest-news-updates",
-    "pubDate": "12.06.2026 11:34:36",
-    "sortDate": 1781264076000,
+    "pubDate": "12.06.2026 14:19:15",
+    "sortDate": 1781273955000,
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Iran says no final peace agreement reached, after Trump claims deal could be signed soon",
-    "link": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
-    "pubDate": "12.06.2026 11:27:10",
-    "sortDate": 1781263630000,
+    "title": "Spain’s former PM faces tax fraud inquiry as police find €1.3m of jewellery",
+    "link": "https://www.theguardian.com/world/2026/jun/12/former-spain-pm-zapatero-faces-tax-fraud-inquiry",
+    "pubDate": "12.06.2026 14:12:46",
+    "sortDate": 1781273566000,
     "source": "The Guardian"
   },
   {
-    "title": "US-Iran peace deal remains elusive as choice of US targets draws legal questions | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/jun/12/first-thing-us-iran-peace-deal-trump",
-    "pubDate": "12.06.2026 11:23:13",
-    "sortDate": 1781263393000,
+    "title": "Healey showdown raises fresh questions over Starmer-Reeves power dynamic",
+    "link": "https://www.theguardian.com/politics/2026/jun/12/john-healey-rachel-reeves-keir-starmer-uk-politics",
+    "pubDate": "12.06.2026 14:11:01",
+    "sortDate": 1781273461000,
     "source": "The Guardian"
   },
   {
-    "title": "Armed forces minister called for ‘new way of governing’ in resignation letter to Starmer – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/12/keir-starmer-defence-investment-plan-spending-dan-jarvis-al-cairns-john-healey-latest-news-updates",
-    "pubDate": "12.06.2026 11:15:41",
-    "sortDate": 1781262941000,
+    "title": "‘I only had this father, and he’s gone’: Wafa Mustafa’s fight for truth and justice for Syria’s missing",
+    "link": "https://www.theguardian.com/film/2026/jun/12/wafa-mustafa-maybe-tomorrow",
+    "pubDate": "12.06.2026 14:09:59",
+    "sortDate": 1781273399000,
     "source": "The Guardian"
   },
   {
-    "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
-    "link": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-    "pubDate": "12.06.2026 11:07:33",
-    "sortDate": 1781262453000,
+    "title": "France accuses Israeli firm of interfering in Scottish elections and targeting SNP",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/12/france-accuses-israeli-firm-interfering-scottish-elections-john-swinney-snp",
+    "pubDate": "12.06.2026 14:00:39",
+    "sortDate": 1781272839000,
     "source": "The Guardian"
   },
   {
-    "title": "Barclays to buy GoHenry kids’ debit card and money app",
-    "link": "https://www.theguardian.com/business/2026/jun/12/barclays-buy-gohenry-children-debit-card-money-app-acorns",
-    "pubDate": "12.06.2026 11:07:14",
-    "sortDate": 1781262434000,
+    "title": "‘I’m not going away,’ says Keir Starmer despite defence secretary’s exit",
+    "link": "https://www.theguardian.com/politics/2026/jun/12/keir-starmer-john-healey-defence-secretary-exit",
+    "pubDate": "12.06.2026 13:16:34",
+    "sortDate": 1781270194000,
     "source": "The Guardian"
   },
   {
-    "title": "Digested week: Starmer is trying to carve out his legacy – but it’s not his to write | John Crace",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/12/digested-week-starmer-legacy-brexit-world-cup",
-    "pubDate": "12.06.2026 11:06:50",
-    "sortDate": 1781262410000,
+    "title": "Fire at California warehouse complex prompts evacuations as authorities fight blaze",
+    "link": "https://www.theguardian.com/us-news/2026/jun/12/fire-california-warehouse-complex-evacuations",
+    "pubDate": "12.06.2026 13:02:48",
+    "sortDate": 1781269368000,
     "source": "The Guardian"
   },
   {
-    "title": "Autistic children injected with unapproved stem cell treatments supported by RFK Jr",
-    "link": "https://www.theguardian.com/society/2026/jun/12/autism-stem-cell-infusions-rfk-jr",
-    "pubDate": "12.06.2026 11:00:45",
-    "sortDate": 1781262045000,
+    "title": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
+    "link": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+    "pubDate": "12.06.2026 13:00:45",
+    "sortDate": 1781269245000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Where can we find hope?’: your questions about the US supreme court’s voting rights decision answered",
+    "link": "https://www.theguardian.com/us-news/2026/jun/12/supreme-court-voting-rights-q-and-a",
+    "pubDate": "12.06.2026 13:00:45",
+    "sortDate": 1781269245000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reeves grudgingly resorts to departmental salami slicing to fund UK defence budget",
+    "link": "https://www.theguardian.com/politics/2026/jun/12/rachel-reeves-departmental-salami-slicing-uk-defence-budget-keir-starmer",
+    "pubDate": "12.06.2026 13:00:37",
+    "sortDate": 1781269237000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Women held at much-denounced ICE detention camp sign on to hunger strike",
+    "link": "https://www.theguardian.com/us-news/2026/jun/12/delaney-hall-ice-detention-strike",
+    "pubDate": "12.06.2026 12:00:44",
+    "sortDate": 1781265644000,
     "source": "The Guardian"
   },
   {
@@ -63,31 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "A powerful US surveillance law is set to expire – what happens now?",
-    "link": "https://www.theguardian.com/us-news/2026/jun/12/fisa-law-surveillance",
-    "pubDate": "12.06.2026 10:00:42",
-    "sortDate": 1781258442000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "David Hockney, revolutionary British artist, dies aged 88",
-    "link": "https://www.theguardian.com/artanddesign/2026/jun/12/artist-david-hockney-dies",
-    "pubDate": "12.06.2026 09:52:11",
-    "sortDate": 1781257931000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘I only want justice’: bereaved families seek closure one year on from Air India crash",
     "link": "https://www.theguardian.com/world/2026/jun/12/air-india-crash-ai171-bereaved-families-seek-closure-one-year-on",
     "pubDate": "12.06.2026 09:00:40",
     "sortDate": 1781254840000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ariana Grande rebukes White House for using her music in ‘barbaric, inhumane’ ICE video",
-    "link": "https://www.theguardian.com/music/2026/jun/12/ariana-grande-rebukes-white-house-music-ice-video",
-    "pubDate": "12.06.2026 08:41:26",
-    "sortDate": 1781253686000,
     "source": "The Guardian"
   },
   {
@@ -189,13 +217,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump claims US and Iran on verge of signing peace agreement, but Tehran says no final decision made",
-    "link": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
-    "pubDate": "12.06.2026 00:57:39",
-    "sortDate": 1781225859000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US lawmakers demand Trump officials halt plan to send Afghans to DRC",
     "link": "https://www.theguardian.com/world/2026/jun/11/us-lawmakers-trump-afghans-drc",
     "pubDate": "11.06.2026 19:41:04",
@@ -207,13 +228,6 @@
     "link": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
     "pubDate": "11.06.2026 19:14:46",
     "sortDate": 1781205286000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK defence funding crisis has been a long time coming",
-    "link": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer",
-    "pubDate": "11.06.2026 19:14:06",
-    "sortDate": 1781205246000,
     "source": "The Guardian"
   },
   {
@@ -231,13 +245,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
-    "link": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
-    "pubDate": "11.06.2026 12:18:30",
-    "sortDate": 1781180310000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Cuba hopes for World Cup respite from US sabre-rattling – but prepares for the worst",
     "link": "https://www.theguardian.com/world/2026/jun/11/cuba-world-cup-respite-us-intervention",
     "pubDate": "11.06.2026 12:00:21",
@@ -245,59 +252,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "World News in Brief: Turk condemns Northern Ireland riots, jobs at risk over animal disease spread, heatwaves spark public health crisis in Europe",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167701",
-    "pubDate": "11.06.2026 12:00:00",
-    "sortDate": 1781179200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167700",
-    "pubDate": "11.06.2026 12:00:00",
-    "sortDate": 1781179200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Grave concern’ after dozens of women arrested in Afghanistan for dress violations",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167699",
-    "pubDate": "11.06.2026 12:00:00",
-    "sortDate": 1781179200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Human rights are part of our DNA’: UN launches global alliance to counter rising threats",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167698",
-    "pubDate": "11.06.2026 12:00:00",
-    "sortDate": 1781179200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167697",
-    "pubDate": "11.06.2026 12:00:00",
-    "sortDate": 1781179200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Spain prodigy Lamine Yamal named UN Goodwill Ambassador on World Cup opening day",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167695",
-    "pubDate": "11.06.2026 12:00:00",
-    "sortDate": 1781179200000,
-    "source": "UN News"
-  },
-  {
     "title": "Thai court sentences two Uyghur men to death for 2015 Bangkok bombing",
     "link": "https://www.theguardian.com/world/2026/jun/11/thai-court-sentences-uyghur-men-to-death-2015-bangkok-bombing",
     "pubDate": "11.06.2026 11:39:24",
     "sortDate": 1781177964000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Brazilian woman, 38, accused of years of ‘elaborate fraud’ by posing as a child",
-    "link": "https://www.theguardian.com/world/2026/jun/11/brazilian-woman-posing-as-child-fraud-scheme",
-    "pubDate": "11.06.2026 10:34:31",
-    "sortDate": 1781174071000,
     "source": "The Guardian"
   },
   {
@@ -322,34 +280,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Refugee numbers drop for first time in a decade, but millions remain trapped",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167693",
-    "pubDate": "10.06.2026 12:00:00",
-    "sortDate": 1781092800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN rights chief urges ‘massive rethink’ of US immigration policies ahead of World Cup",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167692",
-    "pubDate": "10.06.2026 12:00:00",
-    "sortDate": 1781092800000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘The day never stops’ for aid workers braving missiles and drones in Ukraine",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167690",
-    "pubDate": "10.06.2026 12:00:00",
-    "sortDate": 1781092800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East LIVE: Diplomacy in focus as escalation ‘reverberates across borders and continents’, warns UN chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167689",
-    "pubDate": "10.06.2026 12:00:00",
-    "sortDate": 1781092800000,
-    "source": "UN News"
-  },
-  {
     "title": "Two killed in rare street demonstration over women’s rights in Afghanistan",
     "link": "https://www.theguardian.com/global-development/2026/jun/10/two-killed-in-rare-street-demonstration-over-womens-rights-in-afghanistan",
     "pubDate": "10.06.2026 09:35:08",
@@ -371,55 +301,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Sudan war: Drone attacks damage key aid routes",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167688",
-    "pubDate": "09.06.2026 12:00:00",
-    "sortDate": 1781006400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Call for action against child labour, ICC Prosecutor suspended, WFP raises awareness in Egypt",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167687",
-    "pubDate": "09.06.2026 12:00:00",
-    "sortDate": 1781006400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Fresh strikes on Tyre kill eight, as UN puts Lebanon destruction bill at $365 million, and rising",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167685",
-    "pubDate": "09.06.2026 12:00:00",
-    "sortDate": 1781006400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Marking historic progress on rights for persons with disabilities, UN conference tackles critical gaps",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167683",
-    "pubDate": "09.06.2026 12:00:00",
-    "sortDate": 1781006400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167682",
-    "pubDate": "09.06.2026 12:00:00",
-    "sortDate": 1781006400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Central Africa in the spotlight, including outlawed Lord's Resistance Army",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167680",
-    "pubDate": "09.06.2026 12:00:00",
-    "sortDate": 1781006400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Building trust and lab testing at the heart of DRC Ebola response: WHO",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167679",
-    "pubDate": "09.06.2026 12:00:00",
-    "sortDate": 1781006400000,
-    "source": "UN News"
-  },
-  {
     "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
     "link": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
     "pubDate": "08.06.2026 22:13:44",
@@ -427,101 +308,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167678",
-    "pubDate": "08.06.2026 12:00:00",
-    "sortDate": 1780920000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Afghanistan faces ‘lost generation of talent and potential,’ Security Council hears",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167677",
-    "pubDate": "08.06.2026 12:00:00",
-    "sortDate": 1780920000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167674",
-    "pubDate": "08.06.2026 12:00:00",
-    "sortDate": 1780920000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Countries urged to ‘go further, faster’ and deliver on climate commitments",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167673",
-    "pubDate": "08.06.2026 12:00:00",
-    "sortDate": 1780920000000,
-    "source": "UN News"
-  },
-  {
-    "title": "More than half of staff who died in service worked in Gaza, UN chief says at memorial",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167669",
-    "pubDate": "08.06.2026 12:00:00",
-    "sortDate": 1780920000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deadly quake strikes Philippines on first day of school year",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167672",
-    "pubDate": "08.06.2026 12:00:00",
-    "sortDate": 1780920000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Children are dying as US sanctions push Cuba to the brink, warns UN human rights chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167671",
-    "pubDate": "08.06.2026 12:00:00",
-    "sortDate": 1780920000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Why sustainable alternatives to plastic are struggling to compete",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167670",
-    "pubDate": "08.06.2026 12:00:00",
-    "sortDate": 1780920000000,
-    "source": "UN News"
-  },
-  {
     "title": "‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics",
     "link": "https://www.theguardian.com/world/2026/jun/08/cockroach-janta-party-youth-movement-india-politics",
     "pubDate": "07.06.2026 23:51:11",
     "sortDate": 1780876271000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Humanity’s future depends on protecting the rapidly changing ocean",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167654",
-    "pubDate": "07.06.2026 12:00:00",
-    "sortDate": 1780833600000,
-    "source": "UN News"
-  },
-  {
-    "title": "From firefights to football matches: Life on a UN peacekeeping frontline",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167666",
-    "pubDate": "07.06.2026 12:00:00",
-    "sortDate": 1780833600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Five things you need to know about ocean plastics",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167637",
-    "pubDate": "06.06.2026 12:00:00",
-    "sortDate": 1780747200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167648",
-    "pubDate": "05.06.2026 12:00:00",
-    "sortDate": 1780660800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167668",
-    "pubDate": "05.06.2026 12:00:00",
-    "sortDate": 1780660800000,
-    "source": "UN News"
   }
 ]
