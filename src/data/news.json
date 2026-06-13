@@ -1,5 +1,40 @@
 [
   {
+    "title": "New York man who killed gay dancer faces 25 years after hate-crime conviction",
+    "link": "https://www.theguardian.com/us-news/2026/jun/13/new-york-oshae-sibley-death-conviction",
+    "pubDate": "13.06.2026 11:00:12",
+    "sortDate": 1781348412000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Three teenagers arrested over death of man in Essex",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/13/teenagers-arrested-murder-essex-chelmsford",
+    "pubDate": "13.06.2026 10:27:00",
+    "sortDate": 1781346420000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Head of Commons media committee denies writing article accusing BBC of bias",
+    "link": "https://www.theguardian.com/media/2026/jun/13/head-commons-media-committee-caroline-dineage-denies-writing-article-bbc-bias",
+    "pubDate": "13.06.2026 10:00:13",
+    "sortDate": 1781344813000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pipers and dreams: World Cup fever grips Scotland again after 28 years",
+    "link": "https://www.theguardian.com/football/2026/jun/13/pipers-and-dreams-world-cup-fever-grips-scotland-again-after-28-years",
+    "pubDate": "13.06.2026 10:00:11",
+    "sortDate": 1781344811000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Palestinian American woman held without charge by Israeli military",
+    "link": "https://www.theguardian.com/us-news/2026/jun/13/palestinian-held-sama-safi-israeli-military",
+    "pubDate": "13.06.2026 10:00:10",
+    "sortDate": 1781344810000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Drug diversion schemes cut reoffending rates more than prosecution, study says",
     "link": "https://www.theguardian.com/uk-news/2026/jun/13/drug-diversion-schemes-reoffending-rates-police",
     "pubDate": "13.06.2026 08:00:09",
@@ -11,20 +46,6 @@
     "link": "https://www.theguardian.com/environment/2026/jun/13/tropical-heron-spotted-first-time-uk-aoe",
     "pubDate": "13.06.2026 07:00:08",
     "sortDate": 1781334008000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Public control of water and energy at heart of Burnham agenda, sources say",
-    "link": "https://www.theguardian.com/politics/2026/jun/13/andy-burnham-public-control-essentials-water-energy",
-    "pubDate": "13.06.2026 06:00:28",
-    "sortDate": 1781330428000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How doing a wash while you watch the World Cup at 2am could cut energy bills",
-    "link": "https://www.theguardian.com/money/2026/jun/13/how-doing-a-wash-while-you-watch-the-world-cup-at-2am-could-cut-energy-bills",
-    "pubDate": "13.06.2026 06:00:07",
-    "sortDate": 1781330407000,
     "source": "The Guardian"
   },
   {
@@ -44,13 +65,6 @@
   {
     "title": "Jessie J’s triumphant return puts lucrative Chinese market in spotlight",
     "link": "https://www.theguardian.com/world/2026/jun/13/jessie-j-lucrative-chinese-market-westlife-charli-xcx",
-    "pubDate": "13.06.2026 05:00:05",
-    "sortDate": 1781326805000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Fast-track’ regulation could expose Britons to harmful chemicals, say campaigners",
-    "link": "https://www.theguardian.com/environment/2026/jun/13/fast-track-regulation-could-expose-britons-to-harmful-chemicals-say-campaigners",
     "pubDate": "13.06.2026 05:00:05",
     "sortDate": 1781326805000,
     "source": "The Guardian"
@@ -105,20 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US justice department approves $111bn merger of Paramount and Warner Bros Discovery",
-    "link": "https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger",
-    "pubDate": "13.06.2026 00:54:31",
-    "sortDate": 1781312071000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Spencer Pratt concedes LA mayor race, but declares ‘war’ against advancing candidates",
-    "link": "https://www.theguardian.com/us-news/2026/jun/12/spencer-pratt-concedes-la-mayor-race",
-    "pubDate": "13.06.2026 00:35:49",
-    "sortDate": 1781310949000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Australia can switch from fossil fuel exports to renewables, says next Cop president",
     "link": "https://www.theguardian.com/environment/2026/jun/13/australia-fossil-fuel-exports-renewables-cop-chris-bowen",
     "pubDate": "13.06.2026 00:00:02",
@@ -168,8 +168,8 @@
     "source": "The Guardian"
   },
   {
-    "title": "NDIS changes ‘retrogressive’ and out of step with review, MPs say",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/13/ndis-changes-retrogressive-and-out-of-step-with-review-mps-say",
+    "title": "Antarctica’s west coast missing an area of sea ice the size of France as temperatures peak 20C above average",
+    "link": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
     "pubDate": "12.06.2026 15:00:48",
     "sortDate": 1781276448000,
     "source": "The Guardian"
