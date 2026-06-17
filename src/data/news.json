@@ -1,9 +1,86 @@
 [
   {
+    "title": "LA leaders back investigation into police killing of two-year-old dog",
+    "link": "https://www.theguardian.com/us-news/2026/jun/17/los-angeles-police-dog-killing",
+    "pubDate": "17.06.2026 20:53:41",
+    "sortDate": 1781729621000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Middle East crisis live: Iran agrees to destroy enriched uranium stockpile, memorandum read out by US officials says",
     "link": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
-    "pubDate": "17.06.2026 17:53:42",
-    "sortDate": 1781718822000,
+    "pubDate": "17.06.2026 20:52:53",
+    "sortDate": 1781729573000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: Non-stop Sydney-London flights delayed again; anti-abortion bill blocked in SA",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb",
+    "pubDate": "17.06.2026 20:48:20",
+    "sortDate": 1781729300000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Federal Trade Commission sues leading transgender health group",
+    "link": "https://www.theguardian.com/us-news/2026/jun/17/ftc-transgender-health-lawsuit",
+    "pubDate": "17.06.2026 20:36:15",
+    "sortDate": 1781728575000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Georgia Republicans decline to redraw congressional map in defiance of Trump",
+    "link": "https://www.theguardian.com/us-news/2026/jun/17/georgia-republicans-congressional-redistricting",
+    "pubDate": "17.06.2026 20:35:40",
+    "sortDate": 1781728540000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Federal Reserve holds rates steady but signals possible hike before year’s end",
+    "link": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
+    "pubDate": "17.06.2026 20:34:11",
+    "sortDate": 1781728451000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Regrettable’: Republican senator breaks with Trump after president delays Jay Clayton’s nomination for intelligence director – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates",
+    "pubDate": "17.06.2026 20:31:50",
+    "sortDate": 1781728310000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham team tell ministers to delay resignations to avoid chaos",
+    "link": "https://www.theguardian.com/politics/2026/jun/17/exclusive-burnham-team-convince-ministers-delay-resignations-avoid-chaos",
+    "pubDate": "17.06.2026 19:54:28",
+    "sortDate": 1781726068000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘We had right of way’: when British fair play met Russian firepower off the Isle of Wight",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/17/we-had-right-of-way-when-british-fair-play-met-russian-firepower-off-the-isle-of-wight",
+    "pubDate": "17.06.2026 19:17:00",
+    "sortDate": 1781723820000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
+    "link": "https://www.theguardian.com/politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
+    "pubDate": "17.06.2026 18:47:03",
+    "sortDate": 1781722023000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French police authorised to use water cannon on asylum seekers in £660m deal with UK",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/17/french-police-in-660m-deal-with-uk-authorised-to-use-water-cannon-on-asylum-seekers",
+    "pubDate": "17.06.2026 18:27:23",
+    "sortDate": 1781720843000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Titan sub: design flaws and company groupthink central to catastrophe, report finds",
+    "link": "https://www.theguardian.com/world/2026/jun/17/titan-sub-design-flaws-company-groupthink-report",
+    "pubDate": "17.06.2026 18:24:06",
+    "sortDate": 1781720646000,
     "source": "The Guardian"
   },
   {
@@ -14,24 +91,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Regrettable’: Republican senator breaks with Trump after president delays Jay Clayton’s nomination for intelligence director – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates",
-    "pubDate": "17.06.2026 17:44:34",
-    "sortDate": 1781718274000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Macron hails US alignment with G7’s ‘shared commitment’ on Ukraine",
     "link": "https://www.theguardian.com/world/2026/jun/17/macron-hails-us-alignment-with-g7s-shared-commitment-on-ukraine",
     "pubDate": "17.06.2026 17:26:44",
     "sortDate": 1781717204000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump derails confirmation process for Jay Clayton as US intelligence chief",
-    "link": "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination",
-    "pubDate": "17.06.2026 17:25:58",
-    "sortDate": 1781717158000,
     "source": "The Guardian"
   },
   {
@@ -56,45 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Gilgo Beach serial killer Rex Heuermann sentenced to life in prison without parole",
-    "link": "https://www.theguardian.com/us-news/2026/jun/17/gilgo-beach-killer-rex-heuermann-sentencing",
-    "pubDate": "17.06.2026 16:55:46",
-    "sortDate": 1781715346000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Atlantic hurricane season opens with Tropical Storm Arthur inundating Gulf coast",
-    "link": "https://www.theguardian.com/us-news/2026/jun/17/tropical-storm-arthur-atlantic-hurricane-season",
-    "pubDate": "17.06.2026 16:55:07",
-    "sortDate": 1781715307000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Archaeologists find musket balls and fort linked to Battle of Bunker Hill",
-    "link": "https://www.theguardian.com/us-news/2026/jun/17/bunker-hill-battle-archaeology",
-    "pubDate": "17.06.2026 16:30:34",
-    "sortDate": 1781713834000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russia warship fires warning shot at British couple – The Latest",
-    "link": "https://www.theguardian.com/politics/audio/2026/jun/17/russia-warship-fires-warning-shot-british-couple-the-latest",
-    "pubDate": "17.06.2026 16:11:50",
-    "sortDate": 1781712710000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Keir Starmer signals he would give Andy Burnham a cabinet job",
     "link": "https://www.theguardian.com/politics/2026/jun/17/wes-streeting-labour-leadership-challenge-keir-starmer",
     "pubDate": "17.06.2026 16:10:10",
     "sortDate": 1781712610000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Starmer warns against ‘looking backwards’ to Brexit after rivals back UK’s return to EU",
-    "link": "https://www.theguardian.com/politics/2026/jun/17/starmer-brexit-return-to-eu-g7-summit-labour-manifesto",
-    "pubDate": "17.06.2026 16:00:38",
-    "sortDate": 1781712038000,
     "source": "The Guardian"
   },
   {
@@ -105,17 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ancient DNA provides evidence of earliest known plague outbreak",
-    "link": "https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak",
-    "pubDate": "17.06.2026 15:00:36",
-    "sortDate": 1781708436000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK critical infrastructure hit by 200 cyber incidents in a year, agency says",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/17/uk-critical-infrastructure-cyber-incidents-ncsc",
-    "pubDate": "17.06.2026 15:00:35",
-    "sortDate": 1781708435000,
+    "title": "Apocalypse when? ‘Earth’s Black Box’ to be installed in remote Tasmanian airfield",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/18/earth-black-box-climate-apocalypse-tasmania-australia",
+    "pubDate": "17.06.2026 15:00:37",
+    "sortDate": 1781708437000,
     "source": "The Guardian"
   },
   {
@@ -123,6 +144,13 @@
     "link": "https://www.theguardian.com/australia-news/2026/jun/18/pauline-hansons-speech-shameful-and-echoed-rubbish-from-rightwing-figures-in-uk-and-us-critics-say-ntwnfb",
     "pubDate": "17.06.2026 15:00:34",
     "sortDate": 1781708434000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
+    "link": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
+    "pubDate": "17.06.2026 13:04:58",
+    "sortDate": 1781701498000,
     "source": "The Guardian"
   },
   {
@@ -138,6 +166,27 @@
     "pubDate": "17.06.2026 12:46:15",
     "sortDate": 1781700375000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Rights defender killings hit record high as UN pushes to shore up humanitarian action",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167746",
+    "pubDate": "17.06.2026 12:00:00",
+    "sortDate": 1781697600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hate speech is ‘first step down the path of dehumanisation’",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167745",
+    "pubDate": "17.06.2026 12:00:00",
+    "sortDate": 1781697600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Worsening hunger could push millions closer to famine in 13 global hotspots",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167742",
+    "pubDate": "17.06.2026 12:00:00",
+    "sortDate": 1781697600000,
+    "source": "UN News"
   },
   {
     "title": "Ebola treatment capacity expands in DR Congo as WHO issues new guidelines",
@@ -186,20 +235,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/17/vietnam-police-rescue-cats-stolen-meat-animal-crime-ring",
     "pubDate": "17.06.2026 09:39:12",
     "sortDate": 1781689152000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "AFP investigates banner stunt during Pauline Hanson’s National Press Club speech",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/17/pauline-hanson-one-nation-national-press-club-speech-banner-stunt-police-investigation-ntwnfb",
-    "pubDate": "17.06.2026 09:03:20",
-    "sortDate": 1781687000000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pauline Hanson makes clear what a One Nation government would be like – it’s an ugly picture",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/17/pauline-hanson-press-club-speech-one-nation-government-ugly-picture-ntwnfb",
-    "pubDate": "17.06.2026 09:01:11",
-    "sortDate": 1781686871000,
     "source": "The Guardian"
   },
   {
@@ -343,24 +378,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Woman, 21, dies after being thrown from Brazil rope jump bridge without harness",
-    "link": "https://www.theguardian.com/world/2026/jun/15/brazil-rope-jump-bridge-woman-dies",
-    "pubDate": "15.06.2026 17:19:45",
-    "sortDate": 1781543985000,
-    "source": "The Guardian"
-  },
-  {
     "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
     "link": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
     "pubDate": "15.06.2026 17:03:14",
     "sortDate": 1781542994000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Argentinian activist who spent 50 years looking for disappeared son dies",
-    "link": "https://www.theguardian.com/world/2026/jun/15/argentine-activist-taty-almeida-dies-disappeared",
-    "pubDate": "15.06.2026 14:20:07",
-    "sortDate": 1781533207000,
     "source": "The Guardian"
   },
   {
@@ -478,27 +499,6 @@
   {
     "title": "‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response",
     "link": "https://news.un.org/feed/view/en/story/2026/06/1167710",
-    "pubDate": "12.06.2026 12:00:00",
-    "sortDate": 1781265600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167707",
-    "pubDate": "12.06.2026 12:00:00",
-    "sortDate": 1781265600000,
-    "source": "UN News"
-  },
-  {
-    "title": "WHO report shows progress in blood safety, but there are worrying gaps",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167703",
-    "pubDate": "12.06.2026 12:00:00",
-    "sortDate": 1781265600000,
-    "source": "UN News"
-  },
-  {
-    "title": "DR Congo: Ebola spreads as agencies brace for child victims",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167702",
     "pubDate": "12.06.2026 12:00:00",
     "sortDate": 1781265600000,
     "source": "UN News"
