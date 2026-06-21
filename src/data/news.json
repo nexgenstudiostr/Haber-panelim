@@ -1,9 +1,16 @@
 [
   {
-    "title": "Australia news live: arrival of H5N1 bird flu a ‘genuine wildlife emergency’, experts say; fuel excise rebate extended for extra month",
+    "title": "Australia news live: Angus Taylor dismisses Labor’s ‘half-arsed’ tweaks to CGT reform; boy, 12, dies in Cairns crash in suspected stolen car",
     "link": "https://www.theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-    "pubDate": "20.06.2026 22:51:18",
-    "sortDate": 1781995878000,
+    "pubDate": "21.06.2026 02:42:18",
+    "sortDate": 1782009738000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man charged after series of attacks across Edinburgh",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/20/counter-terrorism-officers-investigate-after-five-injured-in-violent-incidents-in-edinburgh",
+    "pubDate": "21.06.2026 00:30:54",
+    "sortDate": 1782001854000,
     "source": "The Guardian"
   },
   {
@@ -39,13 +46,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/20/al-jazeera-cameraman-ahmed-wishah-killed-in-israeli-strike-on-gaza",
     "pubDate": "20.06.2026 19:49:11",
     "sortDate": 1781984951000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Five injured in suspected anti-Muslim incidents across Edinburgh",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/20/counter-terrorism-officers-investigate-after-five-injured-in-violent-incidents-in-edinburgh",
-    "pubDate": "20.06.2026 19:22:13",
-    "sortDate": 1781983333000,
     "source": "The Guardian"
   },
   {
@@ -126,6 +126,27 @@
     "source": "The Guardian"
   },
   {
+    "title": "From malaria to energy: Why solutions from the Global South aren’t reaching the people who need them most",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167759",
+    "pubDate": "20.06.2026 12:00:00",
+    "sortDate": 1781956800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167773",
+    "pubDate": "20.06.2026 12:00:00",
+    "sortDate": 1781956800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola in DR Congo: One month on, scaled up response remains insufficient",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167763",
+    "pubDate": "20.06.2026 12:00:00",
+    "sortDate": 1781956800000,
+    "source": "UN News"
+  },
+  {
     "title": "Israeli attack kills famed turtle sanctuary ecologist in Lebanon",
     "link": "https://www.theguardian.com/world/2026/jun/20/mona-khalil-turtle-ecologist-lebanon-killed-israeli-attack",
     "pubDate": "20.06.2026 11:32:09",
@@ -187,6 +208,13 @@
     "pubDate": "19.06.2026 12:00:32",
     "sortDate": 1781870432000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteenth",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167772",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
   },
   {
     "title": "For one young refugee in Uganda, basketball is more than a game",
@@ -471,34 +499,6 @@
   {
     "title": "World News in Brief: Reduced violence in Lebanon, shortages in Gaza, rising debt impacts development funding",
     "link": "https://news.un.org/feed/view/en/story/2026/06/1167733",
-    "pubDate": "16.06.2026 12:00:00",
-    "sortDate": 1781611200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN urges adherence to mine ban treaty",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167730",
-    "pubDate": "16.06.2026 12:00:00",
-    "sortDate": 1781611200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Resettlement remains out of reach for millions of refugees",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167729",
-    "pubDate": "16.06.2026 12:00:00",
-    "sortDate": 1781611200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN officials call for urgent action in Yemen to push peace, reduce hunger",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167728",
-    "pubDate": "16.06.2026 12:00:00",
-    "sortDate": 1781611200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Global fish production hits new high, but climate threats loom",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167727",
     "pubDate": "16.06.2026 12:00:00",
     "sortDate": 1781611200000,
     "source": "UN News"
