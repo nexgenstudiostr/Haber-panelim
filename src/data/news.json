@@ -1,5 +1,61 @@
 [
   {
+    "title": "Australia politics live: NSW to lower road toll cap and Queensland to promise infrastructure in today’s state budgets",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
+    "pubDate": "22.06.2026 21:44:56",
+    "sortDate": 1782164696000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Met Office issues rare red weather warning for Wednesday and Thursday",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/22/uk-met-office-issues-rare-red-weather-warning-for-wednesday-and-thursday",
+    "pubDate": "22.06.2026 21:43:30",
+    "sortDate": 1782164610000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "California drivers sue gas stations for allegedly using AI to inflate prices",
+    "link": "https://www.theguardian.com/us-news/2026/jun/22/california-gas-stations-ai-prices-lawsuit",
+    "pubDate": "22.06.2026 21:39:52",
+    "sortDate": 1782164392000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK plans to give established media more visibility on YouTube and TikTok",
+    "link": "https://www.theguardian.com/media/2026/jun/22/uk-youtube-tiktok-established-media-prominence-misinformation-risk",
+    "pubDate": "22.06.2026 21:30:22",
+    "sortDate": 1782163822000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham prepares for power as emotional Keir Starmer bows out",
+    "link": "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation",
+    "pubDate": "22.06.2026 21:14:12",
+    "sortDate": 1782162852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
+    "link": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
+    "pubDate": "22.06.2026 21:09:28",
+    "sortDate": 1782162568000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two killed and several injured as tornado rips through southern Illinois",
+    "link": "https://www.theguardian.com/us-news/2026/jun/22/tornado-illinois",
+    "pubDate": "22.06.2026 20:43:42",
+    "sortDate": 1782161022000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man charged with terrorism-linked attempted murders after Edinburgh attacks",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/22/john-swinney-victims-edinburgh-knife-attacks-deeply-traumatised",
+    "pubDate": "22.06.2026 20:08:41",
+    "sortDate": 1782158921000,
+    "source": "The Guardian"
+  },
+  {
     "title": "New York City House primary emerges as key battleground in ‘AI civil war’",
     "link": "https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race",
     "pubDate": "22.06.2026 19:03:45",
@@ -7,45 +63,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Andy Burnham supporters divided over who should be his chancellor",
-    "link": "https://www.theguardian.com/politics/2026/jun/22/andy-burnham-supporters-divided-chancellor-ed-miliband-wes-streeting",
-    "pubDate": "22.06.2026 18:55:42",
-    "sortDate": 1782154542000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Judge dismisses DoJ subpoenas against Walz and other Minnesota officials",
+    "title": "Judge blocks subpoenas for Walz and others over Minnesota immigration crackdown",
     "link": "https://www.theguardian.com/us-news/2026/jun/22/federal-subpoenas-minnesota-officials-order",
     "pubDate": "22.06.2026 18:46:14",
     "sortDate": 1782153974000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andy Burnham sworn in as an MP after Keir Starmer resigns as prime minister - UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates",
-    "pubDate": "22.06.2026 18:31:42",
-    "sortDate": 1782153102000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "John Swinney says victims of Edinburgh knife attacks deeply traumatised",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/22/john-swinney-victims-edinburgh-knife-attacks-deeply-traumatised",
-    "pubDate": "22.06.2026 18:13:03",
-    "sortDate": 1782151983000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Keir Starmer has quit as prime minister – what will happen next in UK politics?",
-    "link": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-quits-prime-minister-what-will-happen-next-uk-politics-explained",
-    "pubDate": "22.06.2026 17:57:28",
-    "sortDate": 1782151048000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Backing Ukraine, staying out of Iran and riding the Trump rollercoaster: how Starmer handled foreign affairs",
-    "link": "https://www.theguardian.com/politics/2026/jun/22/how-tensions-with-trump-dominated-starmer-premiership",
-    "pubDate": "22.06.2026 17:52:42",
-    "sortDate": 1782150762000,
     "source": "The Guardian"
   },
   {
@@ -91,24 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump claims ‘vandals’ foiled his $14m bid to revamp DC’s reflecting pool. What actually happened?",
-    "link": "https://www.theguardian.com/us-news/2026/jun/22/what-happened-dc-reflecting-pool-vandalism-arrest-algae",
-    "pubDate": "22.06.2026 16:02:34",
-    "sortDate": 1782144154000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Spanish PM’s former right-hand man jailed for 24 years for corruption",
     "link": "https://www.theguardian.com/world/2026/jun/22/spanish-pm-pedro-sanchez-former-right-hand-man-jailed-24-years-corruption",
     "pubDate": "22.06.2026 15:51:50",
     "sortDate": 1782143510000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Clive Davis: music industry executive who signed Whitney Houston and Bruce Springsteen dies aged 94",
-    "link": "https://www.theguardian.com/music/2026/jun/22/clive-davis-music-industry-executive-who-signed-whitney-houston-and-bruce-springsteen-dies-aged-94",
-    "pubDate": "22.06.2026 15:51:27",
-    "sortDate": 1782143487000,
     "source": "The Guardian"
   },
   {
@@ -147,6 +154,69 @@
     "source": "The Guardian"
   },
   {
+    "title": "Australia undergoing historic decline in support for multiculturalism amid rising fear and pessimism, poll finds",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/22/australia-multiculturalism-decline-poll-ntwnfb",
+    "pubDate": "22.06.2026 12:30:24",
+    "sortDate": 1782131424000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167782",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Drone attacks endanger civilians and shut down critical services in El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167781",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167775",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167780",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167779",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Myanmar: Aid decline compounds suffering amid ongoing military attacks",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167777",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "AI is getting women wrong as gender bias persists, data reveals",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167776",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan in crisis: Drought, malnutrition and a worsening humanitarian situation",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167774",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
     "title": "Marius Borg Høiby rape conviction renews focus in Norway on consent in digital age",
     "link": "https://www.theguardian.com/world/2026/jun/22/marius-borg-hiby-rape-conviction-case-norway-consent-digital-age-sexual-violence",
     "pubDate": "22.06.2026 10:39:21",
@@ -158,20 +228,6 @@
     "link": "https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb",
     "pubDate": "22.06.2026 09:56:12",
     "sortDate": 1782122172000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Teen accused of planning terror attack on Peter Dutton and Brisbane march was making ‘edgy joke’, court told",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/22/teen-accused-of-planning-terror-attack-on-peter-dutton-and-brisbane-march-was-making-edgy-joke-court-told-ntwnfb",
-    "pubDate": "22.06.2026 07:42:37",
-    "sortDate": 1782114157000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Almost three tonnes of cocaine found buried under Sydney property in Australia’s biggest ever seizure, police say",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/22/almost-three-tonnes-of-cocaine-found-buried-under-sydney-property-in-australias-biggest-ever-seizure-police-say",
-    "pubDate": "22.06.2026 05:39:29",
-    "sortDate": 1782106769000,
     "source": "The Guardian"
   },
   {
@@ -217,6 +273,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Conflicts command headlines…protecting peace, less so: The UN Peacebuilding Fund explained",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167764",
+    "pubDate": "21.06.2026 12:00:00",
+    "sortDate": 1782043200000,
+    "source": "UN News"
+  },
+  {
     "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
     "link": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
     "pubDate": "21.06.2026 08:00:24",
@@ -224,11 +287,88 @@
     "source": "The Guardian"
   },
   {
+    "title": "From malaria to energy: Why solutions from the Global South aren’t reaching the people who need them most",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167759",
+    "pubDate": "20.06.2026 12:00:00",
+    "sortDate": 1781956800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167773",
+    "pubDate": "20.06.2026 12:00:00",
+    "sortDate": 1781956800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola in DR Congo: One month on, scaled up response remains insufficient",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167763",
+    "pubDate": "20.06.2026 12:00:00",
+    "sortDate": 1781956800000,
+    "source": "UN News"
+  },
+  {
     "title": "Ghana conference calls for formal apology for transatlantic slave trade",
     "link": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
     "pubDate": "19.06.2026 17:26:45",
     "sortDate": 1781890005000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteenth",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167772",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
+  },
+  {
+    "title": "For one young refugee in Uganda, basketball is more than a game",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167743",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UNESCO launches consultation on fair payment for news in the digital age",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167771",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Old and new challenges for the Human Rights Council as it turns 20",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167769",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167768",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World Refugee Day: UN calls for renewed commitment and solidarity",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167766",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: Efforts ramp up as Ebola outbreak accelerates beyond borders",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167765",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167760",
+    "pubDate": "19.06.2026 12:00:00",
+    "sortDate": 1781870400000,
+    "source": "UN News"
   },
   {
     "title": "Weather tracker: Severe thunderstorms sweep Europe and east Asia",
@@ -259,6 +399,69 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN upholds freedom of movement for peacekeepers in Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167758",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Libya’s political process regains momentum, but window for action is narrowing, UN envoy warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167757",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
+    "title": "From ‘media deserts’ to the invisibility of women, rights experts spotlight latest trends",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167756",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fermentation, flavour and the future of food: Making sustainability delicious",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167755",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167750",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Climate shocks accelerating as El Niño threat looms over already vulnerable regions",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167753",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
+    "title": "US makes $1 billion contribution to UN child rights and food agencies",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167751",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Stop this madness’: Rights chief warns of impending atrocities as militia closes in on El Obeid, Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167752",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran deal: technical work can begin, says atomic energy agency",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167748",
+    "pubDate": "18.06.2026 12:00:00",
+    "sortDate": 1781784000000,
+    "source": "UN News"
+  },
+  {
     "title": "Taliban order ban on smartphones as officials shown destroying devices",
     "link": "https://www.theguardian.com/global-development/2026/jun/18/taliban-ban-smartphones-officials-shown-destroying-devices",
     "pubDate": "18.06.2026 05:00:01",
@@ -271,6 +474,13 @@
     "pubDate": "17.06.2026 12:46:15",
     "sortDate": 1781700375000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Darkest chapter’: Record child violations in 2025, with national forces leading the way",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167747",
+    "pubDate": "17.06.2026 12:00:00",
+    "sortDate": 1781697600000,
+    "source": "UN News"
   },
   {
     "title": "Lululemon apologises after Japanese drum row at Great Wall yoga event",
