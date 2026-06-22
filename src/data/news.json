@@ -1,9 +1,37 @@
 [
   {
-    "title": "Australia politics live: NSW to lower road toll cap and Queensland to promise infrastructure in today’s state budgets",
+    "title": "Australia politics live: David Pocock rues ‘farcical’ tax review; Pauline Hanson explains stance on paid parental leave",
     "link": "https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
-    "pubDate": "22.06.2026 21:44:56",
-    "sortDate": 1782164696000,
+    "pubDate": "22.06.2026 23:14:57",
+    "sortDate": 1782170097000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Met to expand use of live facial recognition into central London by Christmas",
+    "link": "https://www.theguardian.com/technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
+    "pubDate": "22.06.2026 23:01:24",
+    "sortDate": 1782169284000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US Senate passes bipartisan bill to lower housing costs",
+    "link": "https://www.theguardian.com/us-news/2026/jun/22/us-senate-housing-bill",
+    "pubDate": "22.06.2026 22:44:07",
+    "sortDate": 1782168247000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reflecting pool to be drained again as Trump claims five vandalism arrests",
+    "link": "https://www.theguardian.com/us-news/2026/jun/22/reflecting-pool-trump-drained",
+    "pubDate": "22.06.2026 22:40:40",
+    "sortDate": 1782168040000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Plan to auction over 100 Titanic artifacts faces US government opposition",
+    "link": "https://www.theguardian.com/us-news/2026/jun/22/titanic-artifacts-auction-us-government-opposition",
+    "pubDate": "22.06.2026 22:28:12",
+    "sortDate": 1782167292000,
     "source": "The Guardian"
   },
   {
@@ -35,13 +63,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
-    "link": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
-    "pubDate": "22.06.2026 21:09:28",
-    "sortDate": 1782162568000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Two killed and several injured as tornado rips through southern Illinois",
     "link": "https://www.theguardian.com/us-news/2026/jun/22/tornado-illinois",
     "pubDate": "22.06.2026 20:43:42",
@@ -49,24 +70,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Man charged with terrorism-linked attempted murders after Edinburgh attacks",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/22/john-swinney-victims-edinburgh-knife-attacks-deeply-traumatised",
-    "pubDate": "22.06.2026 20:08:41",
-    "sortDate": 1782158921000,
-    "source": "The Guardian"
-  },
-  {
     "title": "New York City House primary emerges as key battleground in ‘AI civil war’",
     "link": "https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race",
     "pubDate": "22.06.2026 19:03:45",
     "sortDate": 1782155025000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Judge blocks subpoenas for Walz and others over Minnesota immigration crackdown",
-    "link": "https://www.theguardian.com/us-news/2026/jun/22/federal-subpoenas-minnesota-officials-order",
-    "pubDate": "22.06.2026 18:46:14",
-    "sortDate": 1782153974000,
     "source": "The Guardian"
   },
   {
@@ -95,13 +102,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
     "pubDate": "22.06.2026 16:42:35",
     "sortDate": 1782146555000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US supreme court reinstates murder conviction in case of Etan Patz",
-    "link": "https://www.theguardian.com/us-news/2026/jun/22/etan-patz-pedro-hernandez-conviction-reinstated",
-    "pubDate": "22.06.2026 16:41:31",
-    "sortDate": 1782146491000,
     "source": "The Guardian"
   },
   {
@@ -147,7 +147,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "AI models that can take down governments and business months away, rare Five Eyes statement warns",
+    "title": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns",
     "link": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
     "pubDate": "22.06.2026 13:00:24",
     "sortDate": 1782133224000,
@@ -159,6 +159,13 @@
     "pubDate": "22.06.2026 12:30:24",
     "sortDate": 1782131424000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167783",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
   },
   {
     "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
@@ -474,13 +481,6 @@
     "pubDate": "17.06.2026 12:46:15",
     "sortDate": 1781700375000,
     "source": "The Guardian"
-  },
-  {
-    "title": "‘Darkest chapter’: Record child violations in 2025, with national forces leading the way",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167747",
-    "pubDate": "17.06.2026 12:00:00",
-    "sortDate": 1781697600000,
-    "source": "UN News"
   },
   {
     "title": "Lululemon apologises after Japanese drum row at Great Wall yoga event",
