@@ -1,44 +1,170 @@
 [
   {
-    "title": "Starmer says he wants disruption ‘absolutely minimised’ during transition to Burnham government – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
-    "pubDate": "25.06.2026 13:59:44",
-    "sortDate": 1782395984000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Supreme court to issue opinions, with eyes on high-stakes cases; Trump to meet House speaker to break legislative gridlock – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates",
-    "pubDate": "25.06.2026 13:56:40",
-    "sortDate": 1782395800000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Extreme heat grips Europe as UK hits new June record, France shuts down nuclear reactors and deaths rise across continent – live",
     "link": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
-    "pubDate": "25.06.2026 13:44:39",
-    "sortDate": 1782395079000,
+    "pubDate": "25.06.2026 17:00:17",
+    "sortDate": 1782406817000,
     "source": "The Guardian"
   },
   {
-    "title": "Pentagon restores mandatory flu shots for all recruits amid boot camp outbreak",
-    "link": "https://www.theguardian.com/us-news/2026/jun/25/pentagon-military-recruits-flu-vaccine-outbreak",
-    "pubDate": "25.06.2026 13:38:18",
-    "sortDate": 1782394698000,
+    "title": "‘Act on the evidence outside the window’: Andy Burnham urged to stick to net zero targets if he becomes PM",
+    "link": "https://www.theguardian.com/environment/2026/jun/25/andy-burnham-net-zero-targets",
+    "pubDate": "25.06.2026 16:56:57",
+    "sortDate": 1782406617000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hospitals in England declare critical incidents as machines and IT fail in heat",
+    "link": "https://www.theguardian.com/society/2026/jun/25/hospitals-nhs-england-critical-incidents-machines-it-fail-extreme-heat",
+    "pubDate": "25.06.2026 16:55:54",
+    "sortDate": 1782406554000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Polanski and unions warn Burnham against backsliding on climate action",
+    "link": "https://www.theguardian.com/politics/2026/jun/25/backsliding-on-climate-would-drive-labour-into-obscurity-zack-polanski-says",
+    "pubDate": "25.06.2026 16:55:05",
+    "sortDate": 1782406505000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Supreme court hands Trump administration big win with rulings on key immigration cases – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates",
+    "pubDate": "25.06.2026 16:54:57",
+    "sortDate": 1782406497000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK and Switzerland record hottest ever June day as health emergencies surge in Europe",
+    "link": "https://www.theguardian.com/environment/2026/jun/25/highest-june-minimum-temperature-record-broken-cardiff-savage-heatwave-continues",
+    "pubDate": "25.06.2026 16:53:43",
+    "sortDate": 1782406423000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rescue teams race to Venezuela amid fears thousands killed in earthquakes",
+    "link": "https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes",
+    "pubDate": "25.06.2026 16:48:33",
+    "sortDate": 1782406113000,
     "source": "The Guardian"
   },
   {
     "title": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 164 – latest updates",
     "link": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-    "pubDate": "25.06.2026 13:37:14",
-    "sortDate": 1782394634000,
+    "pubDate": "25.06.2026 16:47:08",
+    "sortDate": 1782406028000,
     "source": "The Guardian"
   },
   {
-    "title": "Senate Republicans reject Iran war powers measure after Trump pressure",
-    "link": "https://www.theguardian.com/us-news/2026/jun/25/senate-republicans-reject-iran-war-powers-trump",
-    "pubDate": "25.06.2026 13:34:45",
-    "sortDate": 1782394485000,
+    "title": "UN-backed plan to free ships trapped in strait of Hormuz rejected by Iran",
+    "link": "https://www.theguardian.com/world/2026/jun/25/un-backed-plan-ships-trapped-strait-of-hormuz-rejected-iran",
+    "pubDate": "25.06.2026 16:44:56",
+    "sortDate": 1782405896000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham could become PM on 17 July based on Labour leadership contest timetable – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
+    "pubDate": "25.06.2026 16:35:54",
+    "sortDate": 1782405354000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "City of Paris achieves partial victory over TotalEnergies in climate risks case",
+    "link": "https://www.theguardian.com/world/2026/jun/25/paris-partial-victory-totalenergies-climate-risks-case",
+    "pubDate": "25.06.2026 16:25:42",
+    "sortDate": 1782404742000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israeli forces arrest Palestinian ‘doctor of the poor’",
+    "link": "https://www.theguardian.com/world/2026/jun/25/israeli-forces-arrest-palestinian-doctor-of-the-poor",
+    "pubDate": "25.06.2026 16:25:34",
+    "sortDate": 1782404734000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Paralysed by fear’: Venezuelans tell of escape and loss after huge earthquakes",
+    "link": "https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes",
+    "pubDate": "25.06.2026 16:23:52",
+    "sortDate": 1782404632000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Key Fed inflation gauge rises to three-year high in May after gas prices peaked",
+    "link": "https://www.theguardian.com/business/2026/jun/25/us-may-inflation-gauge-three-year-high",
+    "pubDate": "25.06.2026 16:14:37",
+    "sortDate": 1782404077000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+    "link": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
+    "pubDate": "25.06.2026 16:04:41",
+    "sortDate": 1782403481000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Unions urge teachers to strike as French school exams go ahead in up to 40C heat",
+    "link": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat",
+    "pubDate": "25.06.2026 16:03:47",
+    "sortDate": 1782403427000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Unison chief endorses Ed Milband for chancellor under a Burnham government",
+    "link": "https://www.theguardian.com/politics/2026/jun/25/unison-endorses-ed-milband-chancellor-andy-burnham-government",
+    "pubDate": "25.06.2026 16:00:53",
+    "sortDate": 1782403253000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New evidence casts doubt on RFK Jr testimony before Senate",
+    "link": "https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit",
+    "pubDate": "25.06.2026 16:00:53",
+    "sortDate": 1782403253000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US, Cuba and Iran join global rescue effort after Venezuela earthquakes",
+    "link": "https://www.theguardian.com/global-development/2026/jun/25/us-cuba-iran-global-rescue-effort-venezuela-earthquakes",
+    "pubDate": "25.06.2026 15:55:02",
+    "sortDate": 1782402902000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Scenes of destruction after deadly earthquakes in Venezuela – visual guide",
+    "link": "https://www.theguardian.com/world/2026/jun/25/venezuela-earthquakes-destruction-visual-guide",
+    "pubDate": "25.06.2026 15:52:44",
+    "sortDate": 1782402764000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US supreme court blocks thousands of lawsuits over Roundup maker’s pesticide warning labels",
+    "link": "https://www.theguardian.com/business/2026/jun/25/monsanto-supreme-court-pesticide-case",
+    "pubDate": "25.06.2026 15:50:23",
+    "sortDate": 1782402623000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
+    "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
+    "pubDate": "25.06.2026 15:41:17",
+    "sortDate": 1782402077000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US judge blocks Trump administration’s bid to restrict mail-in voting",
+    "link": "https://www.theguardian.com/us-news/2026/jun/25/judge-blocks-trump-bid-restrict-mail-ballots",
+    "pubDate": "25.06.2026 15:29:11",
+    "sortDate": 1782401351000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Archbishop of Canterbury calls for end to Israeli occupation of Palestine",
+    "link": "https://www.theguardian.com/world/2026/jun/25/archbishop-of-canterbury-calls-for-end-to-israeli-occupation-of-palestine",
+    "pubDate": "25.06.2026 14:55:33",
+    "sortDate": 1782399333000,
     "source": "The Guardian"
   },
   {
@@ -49,81 +175,18 @@
     "source": "The Guardian"
   },
   {
-    "title": "Exotic hazard: golfers confront 3-metre-long boa constrictors on UK course",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/25/golfers-confront-3-metre-long-boa-constrictors-on-uk-course-snake-country-durham",
-    "pubDate": "25.06.2026 13:24:22",
-    "sortDate": 1782393862000,
-    "source": "The Guardian"
+    "title": "Venezuela earthquakes LIVE: UN rapidly deploys aid and rescue teams",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167806",
+    "pubDate": "25.06.2026 12:00:00",
+    "sortDate": 1782388800000,
+    "source": "UN News"
   },
   {
-    "title": "Polanski and unions warn Burnham against backsliding on climate action",
-    "link": "https://www.theguardian.com/politics/2026/jun/25/backsliding-on-climate-would-drive-labour-into-obscurity-zack-polanski-says",
-    "pubDate": "25.06.2026 12:44:59",
-    "sortDate": 1782391499000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Vehicle hits crowd in Cabo San Lucas after Mexico’s World Cup win over Czechia",
-    "link": "https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia",
-    "pubDate": "25.06.2026 12:39:51",
-    "sortDate": 1782391191000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Act on the evidence outside the window’: Andy Burnham urged to stick to net zero targets if he becomes PM",
-    "link": "https://www.theguardian.com/environment/2026/jun/25/andy-burnham-net-zero-targets",
-    "pubDate": "25.06.2026 12:26:15",
-    "sortDate": 1782390375000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Salisbury house where Skripal was poisoned with novichok up for sale",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/25/salisbury-house-sergei-skripal-poisoned-wnovichok-sale",
-    "pubDate": "25.06.2026 12:03:10",
-    "sortDate": 1782388990000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reform UK plan to target EU nationals based in Britain ‘absolutely outrageous’",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/25/reform-uk-plan-target-eu-nationals-britain-brexit",
-    "pubDate": "25.06.2026 12:00:14",
-    "sortDate": 1782388814000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Great Britain’s grid operator pays £10m for extra power to avoid supply crunch tonight",
-    "link": "https://www.theguardian.com/business/2026/jun/24/heatwave-great-britain-grid-operator-extra-electricity-power-plants",
-    "pubDate": "25.06.2026 11:56:40",
-    "sortDate": 1782388600000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
-    "link": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal",
-    "pubDate": "25.06.2026 11:53:20",
-    "sortDate": 1782388400000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Powerful earthquakes rock Venezuela as death toll reaches 164 | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/jun/25/first-thing-earthquakes-venezuela-death-toll",
-    "pubDate": "25.06.2026 11:45:01",
-    "sortDate": 1782387901000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Venezuela declares state of emergency after deadly twin earthquakes",
-    "link": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-    "pubDate": "25.06.2026 11:40:44",
-    "sortDate": 1782387644000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Would-be physician assistants deterred by strict caps on US student loans",
-    "link": "https://www.theguardian.com/us-news/2026/jun/25/physician-assistants-us-federal-student-loans",
-    "pubDate": "25.06.2026 11:00:13",
-    "sortDate": 1782385213000,
-    "source": "The Guardian"
+    "title": "Venezuela quake disaster: UN urges collective effort to help victims",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167805",
+    "pubDate": "25.06.2026 12:00:00",
+    "sortDate": 1782388800000,
+    "source": "UN News"
   },
   {
     "title": "JD Vance is the face of the beleaguered Iran deal – is he its fall guy?",
@@ -137,13 +200,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/jun/25/sydney-woman-shark-attack-awake-leah-stewart-remembers-whole-event-detail",
     "pubDate": "25.06.2026 09:33:20",
     "sortDate": 1782380000000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
-    "link": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-    "pubDate": "25.06.2026 07:39:13",
-    "sortDate": 1782373153000,
     "source": "The Guardian"
   },
   {
@@ -182,38 +238,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban",
-    "link": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup",
-    "pubDate": "25.06.2026 01:08:05",
-    "sortDate": 1782349685000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
-    "link": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
-    "pubDate": "24.06.2026 21:49:44",
-    "sortDate": 1782337784000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pakistan police rescue French woman and children allegedly held captive by husband for 12 years",
     "link": "https://www.theguardian.com/world/2026/jun/24/pakistan-police-rescue-french-woman-sylvie-yasmina-children-allegedly-held-captive-husband",
     "pubDate": "24.06.2026 18:30:02",
     "sortDate": 1782325802000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Brazilian federal police arrest Spanish citizen at São Paulo airport for racism",
-    "link": "https://www.theguardian.com/world/2026/jun/24/brazilian-police-arrest-spanish-citizen-racism",
-    "pubDate": "24.06.2026 17:34:36",
-    "sortDate": 1782322476000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bahraini award to UK envoy shows ‘our diplomats are up for grabs’, says peer",
-    "link": "https://www.theguardian.com/global-development/2026/jun/24/bahrain-king-award-uk-ambassador-alastair-long-diplomats-compromised-human-rights",
-    "pubDate": "24.06.2026 12:27:42",
-    "sortDate": 1782304062000,
     "source": "The Guardian"
   },
   {
@@ -224,11 +252,60 @@
     "source": "The Guardian"
   },
   {
-    "title": "Israeli former leaders and security chiefs threaten legal action over ‘Jewish terrorism’",
-    "link": "https://www.theguardian.com/world/2026/jun/24/israeli-former-leaders-security-chiefs-legal-action-jewish-terrorism-west-bank",
-    "pubDate": "24.06.2026 10:53:26",
-    "sortDate": 1782298406000,
-    "source": "The Guardian"
+    "title": "World News in Brief: Students injured in Sudan drone strike, dangerous returns in south Lebanon, celebrating women diplomats",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167804",
+    "pubDate": "24.06.2026 12:00:00",
+    "sortDate": 1782302400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Young peacebuilders: Funding matters, but so do trust and partnerships",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167803",
+    "pubDate": "24.06.2026 12:00:00",
+    "sortDate": 1782302400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN chief: Targeting methane is a climate battle ‘we can win’",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167802",
+    "pubDate": "24.06.2026 12:00:00",
+    "sortDate": 1782302400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lives at risk in DR Congo as Ebola outbreak continues to outpace response",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167801",
+    "pubDate": "24.06.2026 12:00:00",
+    "sortDate": 1782302400000,
+    "source": "UN News"
+  },
+  {
+    "title": "How the stories we tell about ageing shape our future",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167799",
+    "pubDate": "24.06.2026 12:00:00",
+    "sortDate": 1782302400000,
+    "source": "UN News"
+  },
+  {
+    "title": "New global rules clear the road for driverless vehicles",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167797",
+    "pubDate": "24.06.2026 12:00:00",
+    "sortDate": 1782302400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Open debate on children and armed conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167795",
+    "pubDate": "24.06.2026 12:00:00",
+    "sortDate": 1782302400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Stranded Hormuz seafarers begin mass evacuation operation",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167794",
+    "pubDate": "24.06.2026 12:00:00",
+    "sortDate": 1782302400000,
+    "source": "UN News"
   },
   {
     "title": "Philippines blocks GoreBox gaming app after school shooting kills three",
@@ -273,11 +350,137 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: UN launches Hormuz evacuation plan, UNICEF youth champion killed in Gaza, Lebanon ceasefire ‘largely holding’",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167793",
+    "pubDate": "23.06.2026 12:00:00",
+    "sortDate": 1782216000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Report details widespread use of sexual violence in Sudan war",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167792",
+    "pubDate": "23.06.2026 12:00:00",
+    "sortDate": 1782216000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Central African Republic peace gains must be preserved: UN envoy",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167791",
+    "pubDate": "23.06.2026 12:00:00",
+    "sortDate": 1782216000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israel continues to commit genocide, atrocity crimes by deliberately targeting Palestinian children, UN independent commission finds",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167790",
+    "pubDate": "23.06.2026 12:00:00",
+    "sortDate": 1782216000000,
+    "source": "UN News"
+  },
+  {
+    "title": "New Security Council resolution upholds accountability for attacks against peacekeepers",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167789",
+    "pubDate": "23.06.2026 12:00:00",
+    "sortDate": 1782216000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Global learning losses threaten an entire generation",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167787",
+    "pubDate": "23.06.2026 12:00:00",
+    "sortDate": 1782216000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola in DR Congo: first month of outbreak sees record number of cases – UN humanitarians",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167786",
+    "pubDate": "23.06.2026 12:00:00",
+    "sortDate": 1782216000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Climate crisis: UN chief lays out solutions blueprint for clean energy transition",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167785",
+    "pubDate": "23.06.2026 12:00:00",
+    "sortDate": 1782216000000,
+    "source": "UN News"
+  },
+  {
     "title": "Lost memoir of Hiroshima survivor found after decades in US archive",
     "link": "https://www.theguardian.com/books/2026/jun/23/lost-memoir-of-hiroshima-survivor-found-after-decades-in-us-archive",
     "pubDate": "23.06.2026 00:00:25",
     "sortDate": 1782172825000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Powering resilience: How Indonesia is building a more secure energy future",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167784",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167783",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167782",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Drone attacks endanger civilians and shut down critical services in El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167781",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167775",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167780",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167779",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Myanmar: Aid decline compounds suffering amid ongoing military attacks",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167777",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "AI is getting women wrong as gender bias persists, data reveals",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167776",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan in crisis: Drought, malnutrition and a worsening humanitarian situation",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167774",
+    "pubDate": "22.06.2026 12:00:00",
+    "sortDate": 1782129600000,
+    "source": "UN News"
   },
   {
     "title": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence",
@@ -287,11 +490,18 @@
     "source": "The Guardian"
   },
   {
-    "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-    "link": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
-    "pubDate": "21.06.2026 08:00:24",
-    "sortDate": 1782028824000,
-    "source": "The Guardian"
+    "title": "Conflicts command headlines…protecting peace, less so: The UN Peacebuilding Fund explained",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167764",
+    "pubDate": "21.06.2026 12:00:00",
+    "sortDate": 1782043200000,
+    "source": "UN News"
+  },
+  {
+    "title": "From malaria to energy: Why solutions from the Global South aren’t reaching the people who need them most",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167759",
+    "pubDate": "20.06.2026 12:00:00",
+    "sortDate": 1781956800000,
+    "source": "UN News"
   },
   {
     "title": "Taliban order ban on smartphones as officials shown destroying devices",
