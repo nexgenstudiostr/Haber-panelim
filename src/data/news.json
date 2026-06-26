@@ -1,9 +1,100 @@
 [
   {
-    "title": "Australia news live: Socceroos fans celebrate at city sites; IS-linked woman facing slavery charges granted bail",
+    "title": "Red heat warning for south-east England; 150 million Europeans to experience temperatures above 35C today – Europe heatwave live",
+    "link": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
+    "pubDate": "26.06.2026 10:03:19",
+    "sortDate": 1782468199000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Outrage as woman jailed for three years after criticising Somali government online",
+    "link": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
+    "pubDate": "26.06.2026 10:00:14",
+    "sortDate": 1782468014000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Venezuela earthquakes: international rescue teams arrive, as 235 confirmed dead so far – latest updates",
+    "link": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates",
+    "pubDate": "26.06.2026 09:57:43",
+    "sortDate": 1782467863000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Minister says he ‘won’t be intimidated’ by home secretary as public row escalates",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
+    "pubDate": "26.06.2026 09:30:46",
+    "sortDate": 1782466246000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First hydropower projects in Great Britain in 40 years given go-ahead",
+    "link": "https://www.theguardian.com/environment/2026/jun/26/first-hydropower-projects-in-great-britain-in-40-years-given-go-ahead",
+    "pubDate": "26.06.2026 09:18:47",
+    "sortDate": 1782465527000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Heathrow expects fall in passengers and profits this year because of Iran war",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/26/heathrow-expects-fall-in-passengers-and-profits-this-year-because-of-iran-war",
+    "pubDate": "26.06.2026 08:44:24",
+    "sortDate": 1782463464000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weather tracker: Heatwave expected to bring Germany and Poland to 40C",
+    "link": "https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures",
+    "pubDate": "26.06.2026 08:22:52",
+    "sortDate": 1782462172000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "MoJ to examine case of British woman strangled by US fighter pilot, justice minister says",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/26/moj-examine-case-british-woman-strangled-us-fighter-pilot-uk-justice-minister-cambridge",
+    "pubDate": "26.06.2026 08:20:24",
+    "sortDate": 1782462024000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Park to protect 12,000 koalas to go ahead via contentious carbon credit deal by Albanese government",
+    "link": "https://www.theguardian.com/australia-news/2026/jun/26/great-koala-national-park-nsw-carbon-credit-deal",
+    "pubDate": "26.06.2026 08:19:43",
+    "sortDate": 1782461983000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mexico’s new UK ambassador from ‘party of poor’ has 10 houses and £1m of jewellery",
+    "link": "https://www.theguardian.com/world/2026/jun/26/luxury-assets-mexico-new-ambassador-uk-alejandro-gertz-manero",
+    "pubDate": "26.06.2026 08:00:12",
+    "sortDate": 1782460812000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cambridge hospital staff investigated over accessing records of boy hurt in crocodile pit",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/26/cambridge-hospital-staff-investigated-accessing-records-boy-crocodile-attack",
+    "pubDate": "26.06.2026 07:54:50",
+    "sortDate": 1782460490000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Socceroos fans celebrate at city sites – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
-    "pubDate": "26.06.2026 06:43:31",
-    "sortDate": 1782456211000,
+    "pubDate": "26.06.2026 07:18:12",
+    "sortDate": 1782458292000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Child malnutrition in Nepal has reached ‘alarming’ levels since aid cuts, survey finds",
+    "link": "https://www.theguardian.com/global-development/2026/jun/26/child-malnutrition-nepal-child-mortality-usaid-funding-nutrition-programmes",
+    "pubDate": "26.06.2026 07:00:13",
+    "sortDate": 1782457213000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Slough is like an experiment’: Europe’s largest datacentre hub leaves town sweltering",
+    "link": "https://www.theguardian.com/environment/2026/jun/26/slough-is-like-an-experiment-europes-largest-datacentre-hub-leaves-town-sweltering",
+    "pubDate": "26.06.2026 07:00:12",
+    "sortDate": 1782457212000,
     "source": "The Guardian"
   },
   {
@@ -35,24 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Migrating swifts loyally return every year to nests in buildings, study finds",
-    "link": "https://www.theguardian.com/environment/2026/jun/26/migrating-swifts-loyally-return-every-year-nests-buildings-study-finds",
-    "pubDate": "26.06.2026 05:00:10",
-    "sortDate": 1782450010000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
     "link": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
     "pubDate": "26.06.2026 05:00:08",
     "sortDate": 1782450008000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Boy, 14, charged with murder over death of teenager Lilly in Wales",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/26/boy-14-charged-death-teenage-girl-lilly-south-wales",
-    "pubDate": "26.06.2026 04:43:19",
-    "sortDate": 1782448999000,
     "source": "The Guardian"
   },
   {
@@ -77,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Russia preparing possible ‘provocation’ in Baltic states or Poland, sources say",
-    "link": "https://www.theguardian.com/world/2026/jun/26/russia-provocation-baltic-states-poland",
-    "pubDate": "26.06.2026 04:00:10",
-    "sortDate": 1782446410000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump forced to drain the reflecting pool swamp – podcast",
     "link": "https://www.theguardian.com/politics/audio/2026/jun/26/trump-lincoln-memorial-reflective-pool-vandalism-podcast",
     "pubDate": "26.06.2026 04:00:10",
@@ -91,31 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "European heatwave is worst ever and impossible without climate crisis, scientists say",
-    "link": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists",
-    "pubDate": "26.06.2026 04:00:09",
-    "sortDate": 1782446409000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Woman arrested after her 84-year-old mother found dead in Sydney aged care home",
-    "link": "https://www.theguardian.com/australia-news/2026/jun/26/84-year-old-aged-care-resident-found-dead-sydney-woman-arrested-ntwnfb",
-    "pubDate": "26.06.2026 03:35:21",
-    "sortDate": 1782444921000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Supreme court hands Trump administration big win with rulings on key immigration cases – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates",
     "pubDate": "26.06.2026 02:00:24",
     "sortDate": 1782439224000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "A British woman was strangled in the UK – why did the US military try her case? – podcast",
-    "link": "https://www.theguardian.com/news/audio/2026/jun/26/british-woman-strangled-in-uk-why-did-us-military-try-her-case-podcast",
-    "pubDate": "26.06.2026 02:00:05",
-    "sortDate": 1782439205000,
     "source": "The Guardian"
   },
   {
@@ -161,20 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Major wildfire rips through moorland close to Greater Manchester",
-    "link": "https://www.theguardian.com/world/2026/jun/26/major-wildfire-rips-through-moorland-close-to-greater-manchester",
-    "pubDate": "25.06.2026 23:09:44",
-    "sortDate": 1782428984000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Charities condemn ‘arrogant’ plans to house asylum seekers at former military sites",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/25/charities-condemn-arrogant-plans-to-house-asylum-seekers-at-former-military-sites",
-    "pubDate": "25.06.2026 21:30:01",
-    "sortDate": 1782423001000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 188 – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
     "pubDate": "25.06.2026 19:47:19",
@@ -203,24 +238,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Paralysed by fear’: Venezuelans tell of escape and loss after huge earthquakes",
-    "link": "https://www.theguardian.com/world/2026/jun/25/paralysed-by-fear-venezuelans-tell-of-escape-and-loss-after-huge-earthquakes",
-    "pubDate": "25.06.2026 16:23:52",
-    "sortDate": 1782404632000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
     "link": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
     "pubDate": "25.06.2026 16:04:41",
     "sortDate": 1782403481000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US, Cuba and Iran join global rescue effort after Venezuela earthquakes",
-    "link": "https://www.theguardian.com/global-development/2026/jun/25/us-cuba-iran-global-rescue-effort-venezuela-earthquakes",
-    "pubDate": "25.06.2026 15:55:02",
-    "sortDate": 1782402902000,
     "source": "The Guardian"
   },
   {
@@ -378,13 +399,6 @@
     "source": "UN News"
   },
   {
-    "title": "Philippines blocks GoreBox gaming app after school shooting kills three",
-    "link": "https://www.theguardian.com/world/2026/jun/24/philippines-blocks-gorebox-gaming-app-after-school-shooting-kills-three-injures-20",
-    "pubDate": "24.06.2026 10:18:00",
-    "sortDate": 1782296280000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
     "link": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence",
     "pubDate": "24.06.2026 04:00:35",
@@ -403,13 +417,6 @@
     "link": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
     "pubDate": "23.06.2026 13:22:39",
     "sortDate": 1782220959000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
-    "link": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond",
-    "pubDate": "23.06.2026 13:15:28",
-    "sortDate": 1782220528000,
     "source": "The Guardian"
   },
   {
@@ -515,13 +522,6 @@
     "link": "https://www.theguardian.com/global-development/2026/jun/17/period-tax-sanitary-products-abolished-pakistan-minister",
     "pubDate": "17.06.2026 12:46:15",
     "sortDate": 1781700375000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sri Lanka sees ‘alarming’ rise in cybercrime as scam networks relocate from south-east Asia",
-    "link": "https://www.theguardian.com/world/2026/jun/16/sri-lanka-alarming-rise-cybercrime-scam-networks-south-east-asia-cambodia-myanmar-china",
-    "pubDate": "16.06.2026 00:27:46",
-    "sortDate": 1781569666000,
     "source": "The Guardian"
   }
 ]
