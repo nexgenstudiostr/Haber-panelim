@@ -1,16 +1,44 @@
 [
   {
+    "title": "GB News pundit charged with fraud during time as Labour adviser",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/27/gb-news-pundit-matthew-torbitt-charged-fraud-labour-adviser",
+    "pubDate": "27.06.2026 15:04:50",
+    "sortDate": 1782572690000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘It’s become a litmus test’: wins for Israel critics shine light on key issue for Democrats",
+    "link": "https://www.theguardian.com/us-news/2026/jun/27/israel-democrats-palestinians",
+    "pubDate": "27.06.2026 15:00:07",
+    "sortDate": 1782572407000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, major roads buckle in Germany",
+    "link": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+    "pubDate": "27.06.2026 14:57:29",
+    "sortDate": 1782572249000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Like a dead body’: after warehouse fire, LA residents say air thick with smell of rotting food",
+    "link": "https://www.theguardian.com/us-news/2026/jun/27/boyle-heights-warehouse-fire-smell-los-angeles",
+    "pubDate": "27.06.2026 14:00:06",
+    "sortDate": 1782568806000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Thunderstorms disrupt Gatwick and Heathrow as hundreds of flights delayed or cancelled",
+    "link": "https://www.theguardian.com/uk-news/2026/jun/27/thunderstorms-gatwick-heathrow-airports-flights-delayed-cancelled",
+    "pubDate": "27.06.2026 13:42:11",
+    "sortDate": 1782567731000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Children embrace Cornish language as it enjoys ‘remarkable resurgence’",
     "link": "https://www.theguardian.com/uk-news/2026/jun/27/children-embrace-cornish-language-remarkable-resurgence",
     "pubDate": "27.06.2026 13:00:04",
     "sortDate": 1782565204000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, and 700 flights delayed in England",
-    "link": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-    "pubDate": "27.06.2026 12:52:45",
-    "sortDate": 1782564765000,
     "source": "The Guardian"
   },
   {
@@ -42,29 +70,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Not a culture war’: the council that won its case over England flags on lampposts",
-    "link": "https://www.theguardian.com/uk-news/2026/jun/27/oxfordshire-council-high-court-injunction-raise-the-colours-nationalist-flags",
-    "pubDate": "27.06.2026 11:14:55",
-    "sortDate": 1782558895000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Not puff pieces and kid gloves’: why Bari Weiss is hiring British journalists at CBS News",
-    "link": "https://www.theguardian.com/us-news/2026/jun/27/why-bari-weiss-is-hiring-british-journalists-cbs-news",
-    "pubDate": "27.06.2026 11:00:03",
-    "sortDate": 1782558003000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling",
-    "link": "https://www.theguardian.com/us-news/2026/jun/27/haitians-ohio-supreme-court-ruling",
+    "title": "‘This isn’t about any one administration’: protests kick off in DC to reimagine the next 250 years in the US",
+    "link": "https://www.theguardian.com/us-news/2026/jun/27/next250-declaration-of-interdependence-art-gallery",
     "pubDate": "27.06.2026 11:00:02",
     "sortDate": 1782558002000,
     "source": "The Guardian"
   },
   {
-    "title": "‘This isn’t about any one administration’: protests kick off in DC to reimagine the next 250 years in the US",
-    "link": "https://www.theguardian.com/us-news/2026/jun/27/next250-declaration-of-interdependence-art-gallery",
+    "title": "‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling",
+    "link": "https://www.theguardian.com/us-news/2026/jun/27/haitians-ohio-supreme-court-ruling",
     "pubDate": "27.06.2026 11:00:02",
     "sortDate": 1782558002000,
     "source": "The Guardian"
@@ -123,13 +137,6 @@
     "link": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
     "pubDate": "27.06.2026 02:50:42",
     "sortDate": 1782528642000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "JD Vance says ‘violence will be met with violence’ after strikes on Iran – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/jun/26/trump-news-john-bolton-updates-today",
-    "pubDate": "27.06.2026 02:03:04",
-    "sortDate": 1782525784000,
     "source": "The Guardian"
   },
   {
@@ -203,69 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "UN envoy urges parties to ‘stay the course’ towards peace in eastern DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167824",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in Ebola-stricken DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167823",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan: Window is closing to prevent wider escalation in El Obeid",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167821",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres urges renewed commitment to multilateralism on UN Charter Day",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167820",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167818",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Global drug use reaches record high as increasingly potent synthetic drugs spread",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167817",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deaths in US immigration custody must be investigated: UN rights chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167816",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela earthquakes LIVE: Death toll rises amid recovery and rescue efforts",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167815",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela quake: ‘People still terrified to re-enter what were their homes’",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167814",
-    "pubDate": "26.06.2026 12:00:00",
-    "sortDate": 1782475200000,
-    "source": "UN News"
-  },
-  {
     "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
     "link": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
     "pubDate": "26.06.2026 11:06:37",
@@ -329,81 +273,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Iran rejects UN-backed plan to free ships trapped in strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/jun/25/un-backed-plan-ships-trapped-strait-of-hormuz-rejected-iran",
-    "pubDate": "25.06.2026 16:44:56",
-    "sortDate": 1782405896000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
     "link": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term",
     "pubDate": "25.06.2026 16:04:41",
     "sortDate": 1782403481000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Security Council extends critical stabilisation force in Syria",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167813",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167812",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
-  },
-  {
-    "title": "From Lebanon to the Strait of Hormuz, a Middle East hanging on fragile peace talks",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167811",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN envoy warns of growing risks in El Obeid as Sudan conflict drags on",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167810",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
-  },
-  {
-    "title": "LIVE: From conflict to stability, how the UN is supporting peacebuilding around the world",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167800",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Thousands trapped in southern Ukraine struggle to survive",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167809",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Europe heatwave breaks records as UN agencies ramp up health warnings",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167808",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela earthquakes LIVE: UN rapidly deploys aid and rescue teams",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167806",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela quake disaster: UN urges collective effort to help victims",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167805",
-    "pubDate": "25.06.2026 12:00:00",
-    "sortDate": 1782388800000,
-    "source": "UN News"
   },
   {
     "title": "Pakistan police rescue French woman and children allegedly held captive by husband for 12 years",
@@ -420,95 +294,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "World News in Brief: Students injured in Sudan drone strike, dangerous returns in south Lebanon, celebrating women diplomats",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167804",
-    "pubDate": "24.06.2026 12:00:00",
-    "sortDate": 1782302400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Young peacebuilders: Funding matters, but so do trust and partnerships",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167803",
-    "pubDate": "24.06.2026 12:00:00",
-    "sortDate": 1782302400000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief: Targeting methane is a climate battle ‘we can win’",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167802",
-    "pubDate": "24.06.2026 12:00:00",
-    "sortDate": 1782302400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Lives at risk in DR Congo as Ebola outbreak continues to outpace response",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167801",
-    "pubDate": "24.06.2026 12:00:00",
-    "sortDate": 1782302400000,
-    "source": "UN News"
-  },
-  {
-    "title": "How the stories we tell about ageing shape our future",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167799",
-    "pubDate": "24.06.2026 12:00:00",
-    "sortDate": 1782302400000,
-    "source": "UN News"
-  },
-  {
-    "title": "New global rules clear the road for driverless vehicles",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167797",
-    "pubDate": "24.06.2026 12:00:00",
-    "sortDate": 1782302400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Open debate on children and armed conflict",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167795",
-    "pubDate": "24.06.2026 12:00:00",
-    "sortDate": 1782302400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Stranded Hormuz seafarers begin mass evacuation operation",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167794",
-    "pubDate": "24.06.2026 12:00:00",
-    "sortDate": 1782302400000,
-    "source": "UN News"
-  },
-  {
     "title": "EU faces fierce criticism over plans to host Taliban in Brussels",
     "link": "https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels",
     "pubDate": "23.06.2026 14:11:58",
     "sortDate": 1782223918000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: UN launches Hormuz evacuation plan, UNICEF youth champion killed in Gaza, Lebanon ceasefire ‘largely holding’",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167793",
-    "pubDate": "23.06.2026 12:00:00",
-    "sortDate": 1782216000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Report details widespread use of sexual violence in Sudan war",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167792",
-    "pubDate": "23.06.2026 12:00:00",
-    "sortDate": 1782216000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Central African Republic peace gains must be preserved: UN envoy",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167791",
-    "pubDate": "23.06.2026 12:00:00",
-    "sortDate": 1782216000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Israel continues to commit genocide, atrocity crimes by deliberately targeting Palestinian children, UN independent commission finds",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167790",
-    "pubDate": "23.06.2026 12:00:00",
-    "sortDate": 1782216000000,
-    "source": "UN News"
   },
   {
     "title": "Taliban order ban on smartphones as officials shown destroying devices",
