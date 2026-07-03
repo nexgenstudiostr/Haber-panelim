@@ -1,9 +1,37 @@
 [
   {
+    "title": "Two Romanians jailed over stabbing of Iranian TV journalist in London",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/03/two-romanians-jailed-stabbing-iranian-journalist-in-london",
+    "pubDate": "03.07.2026 18:15:02",
+    "sortDate": 1783102502000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US heatwave threatens 250th anniversary events and World Cup",
+    "link": "https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary",
+    "pubDate": "03.07.2026 17:52:54",
+    "sortDate": 1783101174000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Louisiana court halts criminal indictment against state attorney general",
+    "link": "https://www.theguardian.com/us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill",
+    "pubDate": "03.07.2026 17:34:26",
+    "sortDate": 1783100066000,
+    "source": "The Guardian"
+  },
+  {
     "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
     "link": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
-    "pubDate": "03.07.2026 17:04:36",
-    "sortDate": 1783098276000,
+    "pubDate": "03.07.2026 17:22:59",
+    "sortDate": 1783099379000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reform UK-led council fails to attract any sponsors for union flag scheme",
+    "link": "https://www.theguardian.com/politics/2026/jul/03/reform-uk-nottinghamshire-county-council-union-flag-scheme",
+    "pubDate": "03.07.2026 17:15:41",
+    "sortDate": 1783098941000,
     "source": "The Guardian"
   },
   {
@@ -11,13 +39,6 @@
     "link": "https://www.theguardian.com/music/2026/jul/03/taylor-swift-travis-kelce-wedding-new-york",
     "pubDate": "03.07.2026 16:54:31",
     "sortDate": 1783097671000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Louisiana court halts criminal indictment against state attorney general",
-    "link": "https://www.theguardian.com/us-news/2026/jul/03/louisiana-criminal-indictment-halted-attorney-general-liz-murrill",
-    "pubDate": "03.07.2026 16:51:56",
-    "sortDate": 1783097516000,
     "source": "The Guardian"
   },
   {
@@ -70,13 +91,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Three men found not guilty of murdering journalist Lyra McKee",
-    "link": "https://www.theguardian.com/news/2026/jul/03/three-men-found-not-guilty-of-murdering-journalist-lyra-mckee",
-    "pubDate": "03.07.2026 15:31:20",
-    "sortDate": 1783092680000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Cold feet and cooling prices: Australia’s property market is transforming – and first home buyers aren’t biting",
     "link": "https://www.theguardian.com/australia-news/2026/jul/04/australia-property-market-transforming-first-home-buyers-cold-feet",
     "pubDate": "03.07.2026 15:00:33",
@@ -126,11 +140,25 @@
     "source": "The Guardian"
   },
   {
-    "title": "How baby formula recalls have mounted amid Trump staff cuts to the FDA",
-    "link": "https://www.theguardian.com/us-news/2026/jul/03/infant-formula-recalls-trump-fda-staff-cuts",
-    "pubDate": "03.07.2026 12:00:28",
-    "sortDate": 1783080028000,
-    "source": "The Guardian"
+    "title": "Civilian dangers multiply as drones transform Ukraine's battlefield",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167854",
+    "pubDate": "03.07.2026 12:00:00",
+    "sortDate": 1783080000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167871",
+    "pubDate": "03.07.2026 12:00:00",
+    "sortDate": 1783080000000,
+    "source": "UN News"
+  },
+  {
+    "title": "El Niño forecast to intensify, increasing likelihood of extreme weather",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167870",
+    "pubDate": "03.07.2026 12:00:00",
+    "sortDate": 1783080000000,
+    "source": "UN News"
   },
   {
     "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
@@ -203,6 +231,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "Venezuela's earthquake-hit hospitals pushed to the brink as disease risk grows",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167868",
+    "pubDate": "02.07.2026 12:00:00",
+    "sortDate": 1782993600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Taking the world’s temperature: WHO chief spotlights global health emergencies",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167865",
+    "pubDate": "02.07.2026 12:00:00",
+    "sortDate": 1782993600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Racism significantly impacts access to sport: Independent expert",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167863",
+    "pubDate": "02.07.2026 12:00:00",
+    "sortDate": 1782993600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Emergency meeting on Iranian attack in Bahrain",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167860",
+    "pubDate": "02.07.2026 12:00:00",
+    "sortDate": 1782993600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167858",
+    "pubDate": "02.07.2026 12:00:00",
+    "sortDate": 1782993600000,
+    "source": "UN News"
+  },
+  {
     "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
     "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
     "pubDate": "02.07.2026 11:01:32",
@@ -245,6 +308,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "‘Everything blew up’: A baseball stadium becomes a refuge in Venezuela",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167857",
+    "pubDate": "01.07.2026 12:00:00",
+    "sortDate": 1782907200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167856",
+    "pubDate": "01.07.2026 12:00:00",
+    "sortDate": 1782907200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The science is here’: UN chief welcomes first global AI assessment",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167853",
+    "pubDate": "01.07.2026 12:00:00",
+    "sortDate": 1782907200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167852",
+    "pubDate": "01.07.2026 12:00:00",
+    "sortDate": 1782907200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela earthquake disaster: needs ‘skyrocketing’, say relief agencies",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167850",
+    "pubDate": "01.07.2026 12:00:00",
+    "sortDate": 1782907200000,
+    "source": "UN News"
+  },
+  {
+    "title": "AI explained: Why the world needs to act now",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167848",
+    "pubDate": "01.07.2026 12:00:00",
+    "sortDate": 1782907200000,
+    "source": "UN News"
+  },
+  {
     "title": "‘Witch-hunt’ in Niger as military regime rounds up LGBTQ+ population",
     "link": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
     "pubDate": "01.07.2026 07:00:29",
@@ -264,6 +369,69 @@
     "pubDate": "30.06.2026 14:10:28",
     "sortDate": 1782828628000,
     "source": "The Guardian"
+  },
+  {
+    "title": "UN scraps rule forcing it to repay money it never received",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167849",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Quake latest: Food grows scarcer for thousands of Venezuelan families",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167846",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Aid convoy attacked in South Sudan, Ebola threatens livelihoods, UN deplores death penalty",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167847",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167845",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167844",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
+  },
+  {
+    "title": "New WHO plan urges stronger action against fungal disease",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167842",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Children are turning to AI for homework – and life advice",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167841",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela quake: Key services crippled and health workers missing",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167840",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Amid crushing European heatwave, things are about to get hotter for transport systems",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167839",
+    "pubDate": "30.06.2026 12:00:00",
+    "sortDate": 1782820800000,
+    "source": "UN News"
   },
   {
     "title": "‘Humanity is a privilege’: Umar Khalid on his six years in an Indian jail without trial",
@@ -294,17 +462,59 @@
     "source": "The Guardian"
   },
   {
+    "title": "Sudan: UN welcomes extension of vital aid corridor amid rising insecurity",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167836",
+    "pubDate": "29.06.2026 12:00:00",
+    "sortDate": 1782734400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela earthquake death toll passes 1,700 as UN continues to scale up response",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167837",
+    "pubDate": "29.06.2026 12:00:00",
+    "sortDate": 1782734400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Afghanistan airstrikes, rights violations in DR Congo, Gaza displacement",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167835",
+    "pubDate": "29.06.2026 12:00:00",
+    "sortDate": 1782734400000,
+    "source": "UN News"
+  },
+  {
+    "title": "International cooperation critical as terrorism threat evolves",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167834",
+    "pubDate": "29.06.2026 12:00:00",
+    "sortDate": 1782734400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN details humanitarian toll of strikes on Ukrainian power industry",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167833",
+    "pubDate": "29.06.2026 12:00:00",
+    "sortDate": 1782734400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East conflict leaves developing countries paying the price",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167831",
+    "pubDate": "29.06.2026 12:00:00",
+    "sortDate": 1782734400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
+    "link": "https://news.un.org/feed/view/en/story/2026/06/1167830",
+    "pubDate": "29.06.2026 12:00:00",
+    "sortDate": 1782734400000,
+    "source": "UN News"
+  },
+  {
     "title": "Escalating US-Iran strikes threaten interim peace agreement",
     "link": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
     "pubDate": "29.06.2026 09:55:14",
     "sortDate": 1782726914000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fresh hostilities in Gulf suggest US-Iran memorandum was too broadly worded",
-    "link": "https://www.theguardian.com/world/2026/jun/28/fresh-hostilities-gulf-us-iran-memorandum-interpretations-lebanon-ceasefire-strait-of-hormuz",
-    "pubDate": "28.06.2026 15:02:53",
-    "sortDate": 1782658973000,
     "source": "The Guardian"
   },
   {
