@@ -1,5 +1,68 @@
 [
   {
+    "title": "Invisible peacebuilders: How ‘diplomacy works’ to prevent conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167866",
+    "pubDate": "04.07.2026 12:00:00",
+    "sortDate": 1783166400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Birdsong data from Merlin ID app to help global biodiversity project",
+    "link": "https://www.theguardian.com/environment/2026/jul/04/merlin-app-birdsong-identification-ebird-biodiversity-conservation",
+    "pubDate": "04.07.2026 11:00:13",
+    "sortDate": 1783162813000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Emotional connection’: Wonderwall becomes England’s World Cup anthem",
+    "link": "https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem",
+    "pubDate": "04.07.2026 11:00:12",
+    "sortDate": 1783162812000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK woman, 21, arrested in Thailand after allegedly stabbing boyfriend to death",
+    "link": "https://www.theguardian.com/world/2026/jul/04/uk-woman-arrested-thailand-pattaya-man-stabbed",
+    "pubDate": "04.07.2026 10:26:54",
+    "sortDate": 1783160814000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour should win next election under Burnham after work already done, Starmer says",
+    "link": "https://www.theguardian.com/politics/2026/jul/04/labour-win-next-election-under-burnham-keir-starmer",
+    "pubDate": "04.07.2026 10:09:32",
+    "sortDate": 1783159772000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Trump accounts’: Wall Street-backed investment funds for children to go live",
+    "link": "https://www.theguardian.com/us-news/2026/jul/04/trump-accounts-savings",
+    "pubDate": "04.07.2026 10:00:10",
+    "sortDate": 1783159210000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
+    "link": "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis",
+    "pubDate": "04.07.2026 10:00:09",
+    "sortDate": 1783159209000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
+    "link": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
+    "pubDate": "04.07.2026 09:43:04",
+    "sortDate": 1783158184000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump launches America’s 250th birthday celebrations with partisan attack",
+    "link": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
+    "pubDate": "04.07.2026 09:33:34",
+    "sortDate": 1783157614000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Labour MPs call on water firms to save Britain’s lost lidos",
     "link": "https://www.theguardian.com/lifeandstyle/2026/jul/04/labour-campaign-save-britains-lost-lidos-swimming",
     "pubDate": "04.07.2026 09:00:08",
@@ -21,13 +84,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pull an all-nighter? How parents, schools, fans and police plan to cope with England’s 1am kick-off",
-    "link": "https://www.theguardian.com/football/2026/jul/04/pull-an-all-nighter-how-parents-schools-fans-and-police-plan-to-cope-with-englands-1am-kick-off",
-    "pubDate": "04.07.2026 06:00:07",
-    "sortDate": 1783144807000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
     "link": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
     "pubDate": "04.07.2026 06:00:06",
@@ -39,27 +95,6 @@
     "link": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
     "pubDate": "04.07.2026 06:00:05",
     "sortDate": 1783144805000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump launches America’s 250th birthday celebrations with partisan attack",
-    "link": "https://www.theguardian.com/us-news/2026/jul/04/trump-launches-americas-250th-birthday-celebrations-with-partisan-attack",
-    "pubDate": "04.07.2026 05:30:35",
-    "sortDate": 1783143035000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
-    "pubDate": "04.07.2026 05:00:07",
-    "sortDate": 1783141207000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cornwall van dwellers face homelessness amid council crackdown",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/04/cornwall-van-dwellers-face-homelessness-council-crackdown",
-    "pubDate": "04.07.2026 05:00:06",
-    "sortDate": 1783141206000,
     "source": "The Guardian"
   },
   {
@@ -98,20 +133,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Two people dead and a third injured in shooting at Michigan shopping mall",
-    "link": "https://www.theguardian.com/us-news/2026/jul/03/two-people-dead-michigan-mall-shooting",
-    "pubDate": "03.07.2026 22:32:22",
-    "sortDate": 1783117942000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "CDC investigates parasite that’s caused cases of ‘explosive’ diarrhea in 18 US states",
-    "link": "https://www.theguardian.com/us-news/2026/jul/03/cdc-investigates-parasite-explosive-diarrhea",
-    "pubDate": "03.07.2026 21:13:46",
-    "sortDate": 1783113226000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Two Romanians jailed over stabbing of Iranian TV journalist in London",
     "link": "https://www.theguardian.com/uk-news/2026/jul/03/two-romanians-jailed-stabbing-iranian-journalist-in-london",
     "pubDate": "03.07.2026 18:15:02",
@@ -119,7 +140,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pope praises US history of welcoming immigrants in implicit rebuke to Trump",
+    "title": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
     "link": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
     "pubDate": "03.07.2026 16:26:47",
     "sortDate": 1783096007000,
@@ -291,13 +312,6 @@
     "link": "https://www.theguardian.com/environment/2026/jul/02/understanding-ebola-wildlife-origins-crucial-preventing-next-big-outbreak",
     "pubDate": "02.07.2026 09:00:00",
     "sortDate": 1782982800000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "China’s ethnic unity law denounced as ‘forced assimilation’ by rights groups",
-    "link": "https://www.theguardian.com/world/2026/jul/02/china-ethnic-unity-law-denounced-rights-groups",
-    "pubDate": "02.07.2026 01:17:38",
-    "sortDate": 1782955058000,
     "source": "The Guardian"
   },
   {
@@ -502,20 +516,6 @@
     "pubDate": "29.06.2026 12:00:00",
     "sortDate": 1782734400000,
     "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167830",
-    "pubDate": "29.06.2026 12:00:00",
-    "sortDate": 1782734400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Escalating US-Iran strikes threaten interim peace agreement",
-    "link": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
-    "pubDate": "29.06.2026 09:55:14",
-    "sortDate": 1782726914000,
-    "source": "The Guardian"
   },
   {
     "title": "Child malnutrition in Nepal has reached ‘alarming’ levels since aid cuts, survey finds",
