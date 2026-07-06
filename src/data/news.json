@@ -1,9 +1,128 @@
 [
   {
-    "title": "Australia news live: scientists identify likely source of Queensland space balls; native title approved for Kngwarreye birthplace",
+    "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
+    "link": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
+    "pubDate": "06.07.2026 09:49:53",
+    "sortDate": 1783331393000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Zelenskyy calls for ‘strong decisions’ at Nato summit after Russia kills 14 in overnight strikes on Kyiv – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates",
+    "pubDate": "06.07.2026 09:43:19",
+    "sortDate": 1783330999000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weather tracker: Europe braces for another heat surge as tropical nights return",
+    "link": "https://www.theguardian.com/environment/2026/jul/06/weather-tracker-europe-heat-tropical-nights-spain-france-portugal-uk-high-temperatures-typhoon-bavi",
+    "pubDate": "06.07.2026 09:40:24",
+    "sortDate": 1783330824000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Farage warned attack against ‘establishment’ over unregistered gifts could lead to harsher punishment – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/06/nigel-farage-reform-unregistered-gift-crypto-christopher-harborne-keir-starmer-labour-andy-burnham-uk-politics-live",
+    "pubDate": "06.07.2026 09:26:51",
+    "sortDate": 1783330011000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EV charger rollout in UK slows amid political uncertainty and rise in installation costs",
+    "link": "https://www.theguardian.com/business/2026/jul/06/uk-rollout-ev-chargers-slows",
+    "pubDate": "06.07.2026 09:00:01",
+    "sortDate": 1783328401000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ocado co-founder to step down as chief executive in 2028",
+    "link": "https://www.theguardian.com/business/2026/jul/06/ocado-founder-to-step-down-as-chief-executive-in-2028",
+    "pubDate": "06.07.2026 08:53:56",
+    "sortDate": 1783328036000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "At least 14 killed as Russian drones and missiles strike Kyiv on eve of Nato summit",
+    "link": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
+    "pubDate": "06.07.2026 08:40:30",
+    "sortDate": 1783327230000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israeli command system identified 850,000 targets in Gaza and Lebanon wars, says supplier",
+    "link": "https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
+    "pubDate": "06.07.2026 08:00:05",
+    "sortDate": 1783324805000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
+    "link": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
+    "pubDate": "06.07.2026 07:43:49",
+    "sortDate": 1783323829000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Child protection services contacted before four-year-old’s alleged murder as police investigate cannibalism claim",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/06/nsw-opposition-demands-child-protection-review-as-cannibalism-investigated-in-alleged-preschooler-ntwnfb",
+    "pubDate": "06.07.2026 07:32:21",
+    "sortDate": 1783323141000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Millions join funeral procession for Iran’s supreme leader Ali Khamenei",
+    "link": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
+    "pubDate": "06.07.2026 07:28:58",
+    "sortDate": 1783322938000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One Nation to contest WA byelection triggered by Labor MP’s resignation – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
-    "pubDate": "06.07.2026 04:51:28",
-    "sortDate": 1783313488000,
+    "pubDate": "06.07.2026 07:23:43",
+    "sortDate": 1783322623000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sky owner announces £1.6bn takeover of ITV’s broadcasting arm",
+    "link": "https://www.theguardian.com/business/2026/jul/06/sky-owner-announces-16bn-takeover-of-itvs-broadcasting-arm",
+    "pubDate": "06.07.2026 07:03:40",
+    "sortDate": 1783321420000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Big brewers ‘misleading drinkers’ over craft beer credentials, says Camra",
+    "link": "https://www.theguardian.com/business/2026/jul/06/big-brewers-independents-craft-beer-credentials-camra",
+    "pubDate": "06.07.2026 07:00:06",
+    "sortDate": 1783321206000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Anthony Albanese’s ‘shag, marry, date-gate’ underscores the double-edged sword of social media appearances",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-shag-marry-date-kylie-minogue-nikki-osborne-podcast-australian-prime-minister-social-media",
+    "pubDate": "06.07.2026 06:38:27",
+    "sortDate": 1783319907000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Turkey blocks cruise ship carrying 2,000 LGBTQ+ passengers and a ‘furious’ Patti LuPone, citing ‘moral values’",
+    "link": "https://www.theguardian.com/world/2026/jul/06/turkey-blocks-lgbtq-cruise-ship-citing-moral-values-ntwnfb",
+    "pubDate": "06.07.2026 06:13:23",
+    "sortDate": 1783318403000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meta bosses grilled over decision to cut ‘censorship’ that has potentially unleashed more antisemitic content",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/06/meta-censorship-hate-speech-antisemitism-royal-commission-ntwnfb",
+    "pubDate": "06.07.2026 06:12:10",
+    "sortDate": 1783318330000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Melbourne teacher receiving end-of-life care after horror head clash during suburban football game",
+    "link": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
+    "pubDate": "06.07.2026 05:56:32",
+    "sortDate": 1783317392000,
     "source": "The Guardian"
   },
   {
@@ -11,69 +130,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/06/ukraine-drone-deals-seven-nato-countries-end-of-year",
     "pubDate": "06.07.2026 04:00:03",
     "sortDate": 1783310403000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Independent review announced as NSW police probe if cannibalism involved in four-year-old’s alleged murder",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/06/nsw-opposition-demands-child-protection-review-as-cannibalism-investigated-in-alleged-preschooler-ntwnfb",
-    "pubDate": "06.07.2026 03:41:00",
-    "sortDate": 1783309260000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russia launches deadly missile and drone attacks on Kyiv",
-    "link": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
-    "pubDate": "06.07.2026 03:13:19",
-    "sortDate": 1783307599000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Melbourne teacher receiving end-of-life care after horror head clash during suburban football game",
-    "link": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
-    "pubDate": "06.07.2026 02:37:18",
-    "sortDate": 1783305438000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Making public transport fully accessible ‘could boost UK economy by £176bn’",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/06/public-transport-fully-accessible-boost-uk-economy",
-    "pubDate": "05.07.2026 23:01:40",
-    "sortDate": 1783292500000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ministers to crack down on political donations as Farage faces calls for second inquiry",
-    "link": "https://www.theguardian.com/politics/2026/jul/06/political-donations-crackdown-nigel-farage-cottrell-gifts",
-    "pubDate": "05.07.2026 23:01:40",
-    "sortDate": 1783292500000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Nepotism and bias’ rife in England and Wales police leadership, report finds",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/06/nepotism-bias-england-wales-police-leadership-report",
-    "pubDate": "05.07.2026 23:01:40",
-    "sortDate": 1783292500000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Minister calls on Burnham to show path to 3.5% target on UK defence spending",
-    "link": "https://www.theguardian.com/politics/2026/jul/06/dan-jarvis-andy-burnham-uk-defence-spending",
-    "pubDate": "05.07.2026 23:01:40",
-    "sortDate": 1783292500000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NHS to rate English trusts on tackling violence and racism towards staff",
-    "link": "https://www.theguardian.com/society/2026/jul/06/nhs-trusts-england-ratings-staff-wellbeing-violence-racism",
-    "pubDate": "05.07.2026 23:01:39",
-    "sortDate": 1783292499000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Anthony Albanese apologises ‘unequivocally’ for podcast comment about Kylie Minogue",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/06/anthony-albanese-apologises-kylie-minogue-podcast-comment",
-    "pubDate": "05.07.2026 22:26:55",
-    "sortDate": 1783290415000,
     "source": "The Guardian"
   },
   {
@@ -133,32 +189,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Coal is back in AustralianSuper’s portfolio. What happened to that net zero pledge?",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/06/australiansuper-coal-investment-superannuation-net-zero-pledge-climate",
-    "pubDate": "05.07.2026 15:00:31",
-    "sortDate": 1783263631000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran seeks to tighten control over strait of Hormuz alongside Khamenei funeral",
     "link": "https://www.theguardian.com/world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral",
     "pubDate": "05.07.2026 14:50:09",
     "sortDate": 1783263009000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Gaza protests against two Democrats spark outcry and debate on tactics",
-    "link": "https://www.theguardian.com/us-news/2026/jul/05/gaza-protests-democrats-debate-on-tactics",
-    "pubDate": "05.07.2026 13:00:29",
-    "sortDate": 1783256429000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "As deadly as war and as powerful as governments, global organized crime remains in the shadows",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167867",
-    "pubDate": "05.07.2026 12:00:00",
-    "sortDate": 1783252800000,
-    "source": "UN News"
   },
   {
     "title": "Founder of prominent underground church released from prison in China",
@@ -172,13 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
     "pubDate": "04.07.2026 20:32:52",
     "sortDate": 1783197172000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ukrainian drones hit St Petersburg oil terminal and nearby port",
-    "link": "https://www.theguardian.com/world/2026/jul/04/ukrainian-drones-hit-st-petersburg-oil-terminal-and-nearby-port",
-    "pubDate": "04.07.2026 19:09:06",
-    "sortDate": 1783192146000,
     "source": "The Guardian"
   },
   {
@@ -196,45 +224,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "German riot police clash with protesters hoping to block far-right AfD conference",
-    "link": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
-    "pubDate": "04.07.2026 13:17:50",
-    "sortDate": 1783171070000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Crowds gather as six-day funeral for former Iranian supreme leader begins",
-    "link": "https://www.theguardian.com/world/2026/jul/04/crowds-gather-six-day-funeral-former-iranian-supreme-leader-ali-khamenei",
-    "pubDate": "04.07.2026 12:51:41",
-    "sortDate": 1783169501000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "A safe return home: Tackling stigma on Uganda's Ebola frontline",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167859",
-    "pubDate": "04.07.2026 12:00:00",
-    "sortDate": 1783166400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Invisible peacebuilders: How ‘diplomacy works’ to prevent conflict",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167866",
-    "pubDate": "04.07.2026 12:00:00",
-    "sortDate": 1783166400000,
-    "source": "UN News"
-  },
-  {
     "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
     "link": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
     "pubDate": "04.07.2026 11:40:31",
     "sortDate": 1783165231000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
-    "link": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
-    "pubDate": "04.07.2026 11:09:52",
-    "sortDate": 1783163392000,
     "source": "The Guardian"
   },
   {
@@ -245,39 +238,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Two Romanians jailed over stabbing of Iranian TV journalist in London",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/03/two-romanians-jailed-stabbing-iranian-journalist-in-london",
-    "pubDate": "03.07.2026 18:15:02",
-    "sortDate": 1783102502000,
-    "source": "The Guardian"
-  },
-  {
     "title": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
     "link": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline",
     "pubDate": "03.07.2026 15:34:32",
     "sortDate": 1783092872000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Civilian dangers multiply as drones transform Ukraine's battlefield",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167854",
-    "pubDate": "03.07.2026 12:00:00",
-    "sortDate": 1783080000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167871",
-    "pubDate": "03.07.2026 12:00:00",
-    "sortDate": 1783080000000,
-    "source": "UN News"
-  },
-  {
-    "title": "El Niño forecast to intensify, increasing likelihood of extreme weather",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167870",
-    "pubDate": "03.07.2026 12:00:00",
-    "sortDate": 1783080000000,
-    "source": "UN News"
   },
   {
     "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
@@ -308,95 +273,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Papua separatists kill American pilot in ‘message’ to US and Indonesia",
-    "link": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
-    "pubDate": "02.07.2026 12:18:48",
-    "sortDate": 1782994728000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Venezuela's earthquake-hit hospitals pushed to the brink as disease risk grows",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167868",
-    "pubDate": "02.07.2026 12:00:00",
-    "sortDate": 1782993600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Taking the world’s temperature: WHO chief spotlights global health emergencies",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167865",
-    "pubDate": "02.07.2026 12:00:00",
-    "sortDate": 1782993600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Racism significantly impacts access to sport: Independent expert",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167863",
-    "pubDate": "02.07.2026 12:00:00",
-    "sortDate": 1782993600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Emergency meeting on Iranian attack in Bahrain",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167860",
-    "pubDate": "02.07.2026 12:00:00",
-    "sortDate": 1782993600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167858",
-    "pubDate": "02.07.2026 12:00:00",
-    "sortDate": 1782993600000,
-    "source": "UN News"
-  },
-  {
     "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
     "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
     "pubDate": "02.07.2026 11:01:32",
     "sortDate": 1782990092000,
     "source": "The Guardian"
-  },
-  {
-    "title": "‘Everything blew up’: A baseball stadium becomes a refuge in Venezuela",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167857",
-    "pubDate": "01.07.2026 12:00:00",
-    "sortDate": 1782907200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167856",
-    "pubDate": "01.07.2026 12:00:00",
-    "sortDate": 1782907200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘The science is here’: UN chief welcomes first global AI assessment",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167853",
-    "pubDate": "01.07.2026 12:00:00",
-    "sortDate": 1782907200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167852",
-    "pubDate": "01.07.2026 12:00:00",
-    "sortDate": 1782907200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela earthquake disaster: needs ‘skyrocketing’, say relief agencies",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167850",
-    "pubDate": "01.07.2026 12:00:00",
-    "sortDate": 1782907200000,
-    "source": "UN News"
-  },
-  {
-    "title": "AI explained: Why the world needs to act now",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167848",
-    "pubDate": "01.07.2026 12:00:00",
-    "sortDate": 1782907200000,
-    "source": "UN News"
   },
   {
     "title": "Pakistan roof collapse kills 14 children at tutoring centre",
@@ -413,69 +294,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "UN scraps rule forcing it to repay money it never received",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167849",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Quake latest: Food grows scarcer for thousands of Venezuelan families",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167846",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Aid convoy attacked in South Sudan, Ebola threatens livelihoods, UN deplores death penalty",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167847",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167845",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167844",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
-    "title": "New WHO plan urges stronger action against fungal disease",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167842",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Children are turning to AI for homework – and life advice",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167841",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela quake: Key services crippled and health workers missing",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167840",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Amid crushing European heatwave, things are about to get hotter for transport systems",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167839",
-    "pubDate": "30.06.2026 12:00:00",
-    "sortDate": 1782820800000,
-    "source": "UN News"
-  },
-  {
     "title": "‘Humanity is a privilege’: Umar Khalid on his six years in an Indian jail without trial",
     "link": "https://www.theguardian.com/world/2026/jun/30/umar-khalid-interview-six-years-indian-jail-without-trial-modi-opposition-political-prisoner",
     "pubDate": "30.06.2026 00:00:32",
@@ -488,34 +306,6 @@
     "pubDate": "29.06.2026 12:34:19",
     "sortDate": 1782736459000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Sudan: UN welcomes extension of vital aid corridor amid rising insecurity",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167836",
-    "pubDate": "29.06.2026 12:00:00",
-    "sortDate": 1782734400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela earthquake death toll passes 1,700 as UN continues to scale up response",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167837",
-    "pubDate": "29.06.2026 12:00:00",
-    "sortDate": 1782734400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Afghanistan airstrikes, rights violations in DR Congo, Gaza displacement",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167835",
-    "pubDate": "29.06.2026 12:00:00",
-    "sortDate": 1782734400000,
-    "source": "UN News"
-  },
-  {
-    "title": "International cooperation critical as terrorism threat evolves",
-    "link": "https://news.un.org/feed/view/en/story/2026/06/1167834",
-    "pubDate": "29.06.2026 12:00:00",
-    "sortDate": 1782734400000,
-    "source": "UN News"
   },
   {
     "title": "Child malnutrition in Nepal has reached ‘alarming’ levels since aid cuts, survey finds",
