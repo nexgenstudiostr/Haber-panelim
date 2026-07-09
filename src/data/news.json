@@ -1,16 +1,72 @@
 [
   {
-    "title": "Australia news live: shadow minister stands by triple-zero test calls during Telstra outage; Sydney median house rents hit record $850 a week",
+    "title": "Australia news live: Telstra says Australians can now ‘feel confident’ calling triple zero; Neil the seal ‘returns to the sea’",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb",
-    "pubDate": "09.07.2026 00:09:25",
-    "sortDate": 1783555765000,
+    "pubDate": "09.07.2026 04:39:01",
+    "sortDate": 1783571941000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump says he has ‘no idea’ how hospitalized senator Mitch McConnell is doing – US politics live",
+    "title": "Telstra outage: triple-zero calls affected by network glitches as regional train services slowly resume",
+    "link": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update",
+    "pubDate": "09.07.2026 04:24:56",
+    "sortDate": 1783571096000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Taylor defends Sarah Henderson’s triple-zero calls amid questions about claimed Telstra-outage death in SA",
+    "link": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-triple-zero-calls-angus-taylor-sarah-henderson",
+    "pubDate": "09.07.2026 04:03:08",
+    "sortDate": 1783569788000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Western Europe records hottest-ever June as heatwaves intensify",
+    "link": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
+    "pubDate": "09.07.2026 04:00:52",
+    "sortDate": 1783569652000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ABC and SBS need ‘oversight’ committee to vet Israel coverage, Jillian Segal tells royal commission",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/09/abc-sbs-jillian-segel-israel-antisemitism-royal-commission-ntwnfb",
+    "pubDate": "09.07.2026 03:35:21",
+    "sortDate": 1783568121000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US launches strikes on Iran for a second day after Trump says agreement to end the war is ‘over’",
+    "link": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran",
+    "pubDate": "09.07.2026 02:42:09",
+    "sortDate": 1783564929000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ceasefire plunged into greater uncertainty amid fresh US strikes in Iran – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/jul/08/us-iran-strikes-trump-nato-summit-live-updates",
+    "pubDate": "09.07.2026 02:39:03",
+    "sortDate": 1783564743000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Platner calls sexual assault allegations ‘all false’ as he drops out of Senate race; Maine Democrats to choose new nominee – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/08/graham-platner-democrats-senate-bernie-sanders-maine-donald-trump-us-politics-live",
-    "pubDate": "08.07.2026 23:51:56",
-    "sortDate": 1783554716000,
+    "pubDate": "09.07.2026 02:03:32",
+    "sortDate": 1783562612000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Graham Platner ends Maine Senate campaign after sexual assault allegation",
+    "link": "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign",
+    "pubDate": "09.07.2026 01:37:30",
+    "sortDate": 1783561050000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump to ask US supreme court to reconsider birthright citizenship ruling",
+    "link": "https://www.theguardian.com/us-news/2026/jul/08/trump-supreme-court-birthright-citizenship",
+    "pubDate": "09.07.2026 00:38:20",
+    "sortDate": 1783557500000,
     "source": "The Guardian"
   },
   {
@@ -18,13 +74,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/08/graham-platner-senate-calls-withdraw",
     "pubDate": "08.07.2026 23:46:07",
     "sortDate": 1783554367000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US military launches fresh strikes on Iran as Donald Trump threatens ‘much worse’ to come – Middle East crisis live",
-    "link": "https://www.theguardian.com/world/live/2026/jul/08/us-iran-strikes-trump-nato-summit-live-updates",
-    "pubDate": "08.07.2026 23:45:15",
-    "sortDate": 1783554315000,
     "source": "The Guardian"
   },
   {
@@ -56,13 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Telstra outage: glitches continue as ‘secondary’ outages hit triple-zero calls and regional trains remain stranded",
-    "link": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update",
-    "pubDate": "08.07.2026 23:00:38",
-    "sortDate": 1783551638000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
     "link": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
     "pubDate": "08.07.2026 22:49:52",
@@ -77,24 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Louise Lasser, star of cult sitcom Mary Hartman, Mary Hartman and Woody Allen comedies, dies aged 87",
-    "link": "https://www.theguardian.com/film/2026/jul/08/louise-lasser-dies-aged-87-mary-hartman-woody-allen",
-    "pubDate": "08.07.2026 21:52:25",
-    "sortDate": 1783547545000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Burnham promises Labour MPs he will not use party discipline to ‘stifle debate’",
     "link": "https://www.theguardian.com/politics/2026/jul/08/andy-burnham-labour-mps-party-discipline-stifle-debate",
     "pubDate": "08.07.2026 21:44:43",
     "sortDate": 1783547083000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US stock markets fall amid Iran strikes and potential higher interest rates",
-    "link": "https://www.theguardian.com/us-news/2026/jul/08/us-stock-markets-iran-interest-rates",
-    "pubDate": "08.07.2026 21:19:16",
-    "sortDate": 1783545556000,
     "source": "The Guardian"
   },
   {
@@ -140,13 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Nato summit: Trump says US could let Ukraine make Patriots and renews criticism of Spain and UK – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates",
-    "pubDate": "08.07.2026 17:38:54",
-    "sortDate": 1783532334000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Aid worker who organised World Cup screenings in Gaza killed in Israeli strike",
     "link": "https://www.theguardian.com/world/2026/jul/08/aid-worker-world-cup-screenings-gaza-killed-israeli-strike",
     "pubDate": "08.07.2026 17:35:08",
@@ -168,20 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australians with cancer are living longer but diagnosis rates on the rise for younger people, report reveals",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/09/australians-with-cancer-are-living-longer-but-diagnosis-rates-on-the-rise-for-younger-people-report-reveals",
-    "pubDate": "08.07.2026 15:00:35",
-    "sortDate": 1783522835000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Photo of bound Palestinian detainee corroborates Israeli torture reports, say rights groups",
-    "link": "https://www.theguardian.com/world/2026/jul/08/photo-palestinian-prisoner-corroborates-israeli-torture-claims",
-    "pubDate": "08.07.2026 14:23:51",
-    "sortDate": 1783520631000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
     "link": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
     "pubDate": "08.07.2026 14:01:35",
@@ -189,11 +196,60 @@
     "source": "The Guardian"
   },
   {
-    "title": "Women and university graduates in Australia most at risk of losing jobs to AI, report finds",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/08/women-and-university-graduates-most-at-risk-ai-job-loss-australia-report",
-    "pubDate": "08.07.2026 09:43:03",
-    "sortDate": 1783503783000,
-    "source": "The Guardian"
+    "title": "Restoring dignity: Senegalese surgeon and Burundian foundation win reproductive health awards",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167903",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167901",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Help is coming’: UN relief chief briefs on Venezuela quake recovery",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167899",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war: Renewed attacks in Strait of Hormuz prompts another global energy alert",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167898",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167897",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Open debate on sexual violence in conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167894",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cancer cases could nearly double by 2050 without urgent action, WHO warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167890",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Grim homecoming: Devastation greets Lebanon's war-weary returnees",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167893",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
   },
   {
     "title": "‘Software glitch’ blamed for mass outage – as it happened",
@@ -222,6 +278,62 @@
     "pubDate": "07.07.2026 15:00:04",
     "sortDate": 1783436404000,
     "source": "The Guardian"
+  },
+  {
+    "title": "New coalition puts children’s rights at the centre of the AI age",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167891",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Southwest Pacific’s last tropical glacier could vanish within months",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167889",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Shared blueprint for peace’: Development goals deliver for billions, but challenges remain",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167888",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peace hinges on people-centred policing, global summit hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167887",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "When AI hurts people, who’s to blame? Global experts grapple with accountability",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167886",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Young people value partnership and parenthood but barriers block their dreams",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167885",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "General Assembly LIVE: Debating US sanctions against Cuba",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167883",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola continues to spread in DRC as death toll passes 500, WHO warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167882",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
   },
   {
     "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
@@ -294,11 +406,74 @@
     "source": "The Guardian"
   },
   {
+    "title": "Afghanistan among the world’s largest displacement crises",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167881",
+    "pubDate": "06.07.2026 12:00:00",
+    "sortDate": 1783339200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Occupied Palestinian Territory: Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+    "pubDate": "06.07.2026 12:00:00",
+    "sortDate": 1783339200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela quake: UN continues to scale up as damage estimate reaches $37 billion",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167879",
+    "pubDate": "06.07.2026 12:00:00",
+    "sortDate": 1783339200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN maritime agency seeks release of 44 detained seafarers as food runs low",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167876",
+    "pubDate": "06.07.2026 12:00:00",
+    "sortDate": 1783339200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Latest Russian assault leaves at least 14 dead in Kyiv",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167875",
+    "pubDate": "06.07.2026 12:00:00",
+    "sortDate": 1783339200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Amid lethal drone attacks, children bear brunt of escalating war",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167874",
+    "pubDate": "06.07.2026 12:00:00",
+    "sortDate": 1783339200000,
+    "source": "UN News"
+  },
+  {
+    "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167873",
+    "pubDate": "06.07.2026 12:00:00",
+    "sortDate": 1783339200000,
+    "source": "UN News"
+  },
+  {
     "title": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
     "link": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
     "pubDate": "06.07.2026 10:15:35",
     "sortDate": 1783332935000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Global push for AI governance amid warnings of ‘catastrophic harm’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167862",
+    "pubDate": "05.07.2026 12:00:00",
+    "sortDate": 1783252800000,
+    "source": "UN News"
+  },
+  {
+    "title": "As deadly as war and as powerful as governments, global organized crime remains in the shadows",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167867",
+    "pubDate": "05.07.2026 12:00:00",
+    "sortDate": 1783252800000,
+    "source": "UN News"
   },
   {
     "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
@@ -313,5 +488,40 @@
     "pubDate": "04.07.2026 15:14:18",
     "sortDate": 1783178058000,
     "source": "The Guardian"
+  },
+  {
+    "title": "A safe return home: Tackling stigma on Uganda's Ebola frontline",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167859",
+    "pubDate": "04.07.2026 12:00:00",
+    "sortDate": 1783166400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Invisible peacebuilders: How ‘diplomacy works’ to prevent conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167866",
+    "pubDate": "04.07.2026 12:00:00",
+    "sortDate": 1783166400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Civilian dangers multiply as drones transform Ukraine’s battlefield",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167854",
+    "pubDate": "03.07.2026 12:00:00",
+    "sortDate": 1783080000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167871",
+    "pubDate": "03.07.2026 12:00:00",
+    "sortDate": 1783080000000,
+    "source": "UN News"
+  },
+  {
+    "title": "El Niño forecast to intensify, increasing likelihood of extreme weather",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167870",
+    "pubDate": "03.07.2026 12:00:00",
+    "sortDate": 1783080000000,
+    "source": "UN News"
   }
 ]
