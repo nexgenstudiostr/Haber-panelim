@@ -1,23 +1,93 @@
 [
   {
-    "title": "Australia news live: Telstra says Australians can now ‘feel confident’ calling triple zero; Neil the seal ‘returns to the sea’",
+    "title": "Barcelona registers highest temperature in 112 years as UK health service urges children and elderly to ‘take weather seriously’ – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates",
+    "pubDate": "09.07.2026 08:11:52",
+    "sortDate": 1783584712000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Venomous snakes escape breeding farms in southern China during flooding",
+    "link": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
+    "pubDate": "09.07.2026 08:08:20",
+    "sortDate": 1783584500000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham calls for ‘more open’ public debate about defence spending – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/09/andy-burnham-keir-starmer-labour-nigel-farage-binface-reform-latest-news-updates",
+    "pubDate": "09.07.2026 08:07:14",
+    "sortDate": 1783584434000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: SA police investigating death during Telstra outage; Australia signs major uranium deal with India",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb",
-    "pubDate": "09.07.2026 04:39:01",
-    "sortDate": 1783571941000,
+    "pubDate": "09.07.2026 08:04:10",
+    "sortDate": 1783584250000,
     "source": "The Guardian"
   },
   {
-    "title": "Telstra outage: triple-zero calls affected by network glitches as regional train services slowly resume",
-    "link": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update",
-    "pubDate": "09.07.2026 04:24:56",
-    "sortDate": 1783571096000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Taylor defends Sarah Henderson’s triple-zero calls amid questions about claimed Telstra-outage death in SA",
+    "title": "Taylor defends Sarah Henderson’s triple-zero calls as SA police investigate claimed Telstra-outage death",
     "link": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-triple-zero-calls-angus-taylor-sarah-henderson",
-    "pubDate": "09.07.2026 04:03:08",
-    "sortDate": 1783569788000,
+    "pubDate": "09.07.2026 08:02:23",
+    "sortDate": 1783584143000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump says Iran truce is ‘over’ as US hits 170 targets over two nights – Middle East crisis live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates",
+    "pubDate": "09.07.2026 07:58:32",
+    "sortDate": 1783583912000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Great Britain’s grid operator issues another warning over power supplies in heatwave",
+    "link": "https://www.theguardian.com/environment/2026/jul/09/great-britain-grid-operator-issues-another-warning-over-power-supplies-in-heatwave",
+    "pubDate": "09.07.2026 07:48:35",
+    "sortDate": 1783583315000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ABC and SBS reject antisemitism envoy’s call for ‘oversight’ committee to vet Israel coverage",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/09/abc-sbs-jillian-segel-israel-antisemitism-royal-commission-ntwnfb",
+    "pubDate": "09.07.2026 07:33:18",
+    "sortDate": 1783582398000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Modi and Albanese ink major uranium deal as Indian leader’s visit expected to draw 30,000-strong crowd",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/09/modi-australia-visit-melbourne-marvel-stadium-ntwnfb",
+    "pubDate": "09.07.2026 06:55:49",
+    "sortDate": 1783580149000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Frump well and truly dumped: M&S to celebrate 100 years at London fashion week",
+    "link": "https://www.theguardian.com/business/2026/jul/09/goodbye-frump-hello-tiktok-ms-100-years-london-fashion-week-show",
+    "pubDate": "09.07.2026 06:44:53",
+    "sortDate": 1783579493000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "As the Telstra crisis unfolded, the Coalition fell victim to another communications failure",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/09/as-the-telstra-crisis-unfolded-the-coalition-fell-victim-to-another-communications-failure",
+    "pubDate": "09.07.2026 06:31:39",
+    "sortDate": 1783578699000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘They said: wear angelic white’: British women who accused US airman of rape tell of American military trial",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/09/british-women-accused-us-airman-rape-american-military-trial",
+    "pubDate": "09.07.2026 05:00:53",
+    "sortDate": 1783573253000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No evidence for ‘witches’ marks’ claims at old English buildings, historian says",
+    "link": "https://www.theguardian.com/culture/2026/jul/09/no-evidence-witches-marks-claims-historic-english-buildings",
+    "pubDate": "09.07.2026 05:00:52",
+    "sortDate": 1783573252000,
     "source": "The Guardian"
   },
   {
@@ -25,13 +95,6 @@
     "link": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
     "pubDate": "09.07.2026 04:00:52",
     "sortDate": 1783569652000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "ABC and SBS need ‘oversight’ committee to vet Israel coverage, Jillian Segal tells royal commission",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/09/abc-sbs-jillian-segel-israel-antisemitism-royal-commission-ntwnfb",
-    "pubDate": "09.07.2026 03:35:21",
-    "sortDate": 1783568121000,
     "source": "The Guardian"
   },
   {
@@ -77,34 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pet prescriptions could be capped at £21 under proposed vet sector reforms",
-    "link": "https://www.theguardian.com/science/2026/jul/09/pet-prescriptions-cap-proposed-vet-sector-reforms-uk",
-    "pubDate": "08.07.2026 23:01:45",
-    "sortDate": 1783551705000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "All lobbying should be publicly declared in transparency laws shake-up, watchdog says",
-    "link": "https://www.theguardian.com/politics/2026/jul/09/all-lobbying-publicly-declared-transparency-laws-shake-up-watchdog",
-    "pubDate": "08.07.2026 23:01:44",
-    "sortDate": 1783551704000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Disability benefits system ‘not working’ Timms review finds",
-    "link": "https://www.theguardian.com/society/2026/jul/09/disability-benefits-system-not-working-timms-review-finds",
-    "pubDate": "08.07.2026 23:01:44",
-    "sortDate": 1783551704000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ambassadorial appointments should be subject to veto by MPs, committee recommends",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/09/ambassador-appointments-veto-mps-committee-recommends",
-    "pubDate": "08.07.2026 23:01:44",
-    "sortDate": 1783551704000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
     "link": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
     "pubDate": "08.07.2026 22:49:52",
@@ -116,13 +151,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card",
     "pubDate": "08.07.2026 22:20:18",
     "sortDate": 1783549218000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham promises Labour MPs he will not use party discipline to ‘stifle debate’",
-    "link": "https://www.theguardian.com/politics/2026/jul/08/andy-burnham-labour-mps-party-discipline-stifle-debate",
-    "pubDate": "08.07.2026 21:44:43",
-    "sortDate": 1783547083000,
     "source": "The Guardian"
   },
   {
@@ -161,31 +189,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pierpaolo Piccioli’s couture debut reimagines Balenciaga in his own colourful image",
-    "link": "https://www.theguardian.com/fashion/2026/jul/08/pierpaolo-picciolis-couture-debut-reimagines-balenciaga-in-his-own-colourful-image",
-    "pubDate": "08.07.2026 17:50:37",
-    "sortDate": 1783533037000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Aid worker who organised World Cup screenings in Gaza killed in Israeli strike",
-    "link": "https://www.theguardian.com/world/2026/jul/08/aid-worker-world-cup-screenings-gaza-killed-israeli-strike",
-    "pubDate": "08.07.2026 17:35:08",
-    "sortDate": 1783532108000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pakistan locates wreckage of Boeing 737 cargo plane that went missing off coast",
     "link": "https://www.theguardian.com/world/2026/jul/08/boeing-737-cargo-plane-missing-near-karachi",
     "pubDate": "08.07.2026 15:56:38",
     "sortDate": 1783526198000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Contaminated children’s play sand sold in Australia can release toxic airborne asbestos, research finds",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/09/contaminated-childrens-play-sand-sold-in-australia-can-release-toxic-airborne-asbestos-research-finds",
-    "pubDate": "08.07.2026 15:00:35",
-    "sortDate": 1783522835000,
     "source": "The Guardian"
   },
   {
@@ -453,13 +460,6 @@
     "pubDate": "06.07.2026 12:00:00",
     "sortDate": 1783339200000,
     "source": "UN News"
-  },
-  {
-    "title": "China tests long-range missile in South Pacific in move Australia condemns as ‘destabilising to region’",
-    "link": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
-    "pubDate": "06.07.2026 10:15:35",
-    "sortDate": 1783332935000,
-    "source": "The Guardian"
   },
   {
     "title": "Global push for AI governance amid warnings of ‘catastrophic harm’",
