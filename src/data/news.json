@@ -1,20 +1,48 @@
 [
   {
+    "title": "Wally Funk, aviation pioneer and oldest woman to go into space, dies at 87",
+    "link": "https://www.theguardian.com/us-news/2026/jul/09/wally-funk-astronaut-dies",
+    "pubDate": "09.07.2026 22:48:10",
+    "sortDate": 1783637290000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: One Nation alliance ‘not our plan’, Taylor says; Hanson defends UK ‘fact-finding’ trip",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jul/10/australia-news-live-pauline-hanson-one-nation-modi-anthony-albanese-royal-commission-antisemitism-ntwnfb",
+    "pubDate": "09.07.2026 22:42:29",
+    "sortDate": 1783636949000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Maine says ‘no official withdrawal notice has yet been received’ from Graham Platner – live",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates",
-    "pubDate": "09.07.2026 21:12:05",
-    "sortDate": 1783631525000,
+    "pubDate": "09.07.2026 22:20:25",
+    "sortDate": 1783635625000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia news live: Hanson defends UK ‘fact-finding’ trip; Qantas tops airline punctuality table",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jul/10/australia-news-live-pauline-hanson-one-nation-modi-anthony-albanese-royal-commission-antisemitism-ntwnfb",
-    "pubDate": "09.07.2026 21:09:19",
-    "sortDate": 1783631359000,
+    "title": "US launches new airstrikes against Iran hours after Trump threatens to escalate",
+    "link": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
+    "pubDate": "09.07.2026 22:04:27",
+    "sortDate": 1783634667000,
     "source": "The Guardian"
   },
   {
-    "title": "Risks of historic El Niño persisting through spring 2027 rising, says NWS",
+    "title": "Eight charged with murder conspiracy over alleged White House UFC attack plot",
+    "link": "https://www.theguardian.com/us-news/2026/jul/09/white-house-ufc-drone-attack-plot",
+    "pubDate": "09.07.2026 22:00:13",
+    "sortDate": 1783634413000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Suspect in Charlie Kirk killing said ‘he wishes he hadn’t done it’, roommate testifies",
+    "link": "https://www.theguardian.com/us-news/2026/jul/09/erika-charlie-kirk-transparency-judge",
+    "pubDate": "09.07.2026 21:58:27",
+    "sortDate": 1783634307000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Historic El Nino able to supercharge extreme weather looks increasingly likely – researchers",
     "link": "https://www.theguardian.com/us-news/2026/jul/09/el-nino-risks-extreme-weather",
     "pubDate": "09.07.2026 21:06:22",
     "sortDate": 1783631182000,
@@ -25,13 +53,6 @@
     "link": "https://www.theguardian.com/politics/2026/jul/09/keir-starmer-prime-minister-resignation-honours-no-10-politics",
     "pubDate": "09.07.2026 20:43:56",
     "sortDate": 1783629836000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Suspect in Charlie Kirk killing said ‘he wishes he hadn’t done it’, roommate testifies",
-    "link": "https://www.theguardian.com/us-news/2026/jul/09/erika-charlie-kirk-transparency-judge",
-    "pubDate": "09.07.2026 20:35:50",
-    "sortDate": 1783629350000,
     "source": "The Guardian"
   },
   {
@@ -46,20 +67,6 @@
     "link": "https://www.theguardian.com/politics/2026/jul/09/burnhams-apology-over-gaza-marks-reset-moment-as-labour-seeks-to-win-back-progressive-voters",
     "pubDate": "09.07.2026 20:10:07",
     "sortDate": 1783627807000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US lawmakers urge stricter monitoring of medically assisted suicide in hospices",
-    "link": "https://www.theguardian.com/us-news/2026/jul/09/medically-assisted-suicide-hhs-rfk-jr",
-    "pubDate": "09.07.2026 18:55:33",
-    "sortDate": 1783623333000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns",
-    "link": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity",
-    "pubDate": "09.07.2026 18:48:23",
-    "sortDate": 1783622903000,
     "source": "The Guardian"
   },
   {
@@ -109,13 +116,6 @@
     "link": "https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
     "pubDate": "09.07.2026 17:39:03",
     "sortDate": 1783618743000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US launches new airstrikes against Iran hours after Trump threatens to escalate",
-    "link": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
-    "pubDate": "09.07.2026 17:05:21",
-    "sortDate": 1783616721000,
     "source": "The Guardian"
   },
   {
@@ -194,6 +194,13 @@
     "pubDate": "09.07.2026 12:20:09",
     "sortDate": 1783599609000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Diplomats go virtual to witness Gaza displacement site up close",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
   },
   {
     "title": "Peak heat in Europe just broke historic 1970s records",
@@ -513,13 +520,6 @@
   {
     "title": "Sudan: Amid lethal drone attacks, children bear brunt of escalating war",
     "link": "https://news.un.org/feed/view/en/story/2026/07/1167874",
-    "pubDate": "06.07.2026 12:00:00",
-    "sortDate": 1783339200000,
-    "source": "UN News"
-  },
-  {
-    "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167873",
     "pubDate": "06.07.2026 12:00:00",
     "sortDate": 1783339200000,
     "source": "UN News"
