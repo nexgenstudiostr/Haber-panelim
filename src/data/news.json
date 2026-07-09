@@ -1,44 +1,121 @@
 [
   {
-    "title": "Barcelona registers highest temperature in 112 years as UK health service urges children and elderly to ‘take weather seriously’ – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates",
-    "pubDate": "09.07.2026 11:40:51",
-    "sortDate": 1783597251000,
+    "title": "Maine Democrats plan convention to replace scandal-hit Graham Platner – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates",
+    "pubDate": "09.07.2026 14:29:52",
+    "sortDate": 1783607392000,
     "source": "The Guardian"
   },
   {
-    "title": "US and Iran trade most intense strikes since ceasefire was extended",
-    "link": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
-    "pubDate": "09.07.2026 11:39:38",
-    "sortDate": 1783597178000,
+    "title": "Farage launches preemptive attack on Commons standards committee, claiming it won’t judge him fairly – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/09/andy-burnham-keir-starmer-labour-nigel-farage-binface-reform-latest-news-updates",
+    "pubDate": "09.07.2026 14:28:26",
+    "sortDate": 1783607306000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Doreen Lawrence will not foot any of legal bill in failed attempt to sue Daily Mail",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/09/doreen-lawrence-legal-bill-failed-sue-daily-mail-prince-harry",
+    "pubDate": "09.07.2026 14:18:18",
+    "sortDate": 1783606698000,
     "source": "The Guardian"
   },
   {
     "title": "Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates",
-    "pubDate": "09.07.2026 11:33:16",
-    "sortDate": 1783596796000,
+    "pubDate": "09.07.2026 14:03:43",
+    "sortDate": 1783605823000,
     "source": "The Guardian"
   },
   {
-    "title": "Maine Democrats plan convention to replace scandal-hit Platner – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates",
-    "pubDate": "09.07.2026 11:33:11",
-    "sortDate": 1783596791000,
+    "title": "US and Iran trade most intense strikes since ceasefire extended",
+    "link": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump",
+    "pubDate": "09.07.2026 14:03:20",
+    "sortDate": 1783605800000,
     "source": "The Guardian"
   },
   {
-    "title": "Brian Potter, British songwriter behind hits for Glen Campbell, Take That and more, dies aged 87",
-    "link": "https://www.theguardian.com/music/2026/jul/09/brian-potter-british-songwriter-rhinestone-cowboy-dies",
-    "pubDate": "09.07.2026 11:20:44",
-    "sortDate": 1783596044000,
+    "title": "Legionnaires’ outbreak rocks New York as experts warn of rising climate threat",
+    "link": "https://www.theguardian.com/us-news/2026/jul/09/new-york-legionnaires-outbreak",
+    "pubDate": "09.07.2026 14:00:08",
+    "sortDate": 1783605608000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flight of fancy: San Francisco moves to build private luxury airport terminal",
+    "link": "https://www.theguardian.com/us-news/2026/jul/09/san-francisco-airport-private-terminal",
+    "pubDate": "09.07.2026 14:00:06",
+    "sortDate": 1783605606000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Licensed to drill? How a Trump-linked Texas oil company is elbowing its way into Greenland",
+    "link": "https://www.theguardian.com/world/2026/jul/09/licence-to-drill-trump-linked-texas-oil-company-elbowing-into-greenland",
+    "pubDate": "09.07.2026 13:52:19",
+    "sortDate": 1783605139000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Five pressing questions for Reform UK about its finances",
+    "link": "https://www.theguardian.com/politics/2026/jul/09/five-pressing-questions-farage-reform-uk-finances",
+    "pubDate": "09.07.2026 13:45:27",
+    "sortDate": 1783604727000,
     "source": "The Guardian"
   },
   {
     "title": "Reform activists urged to switch focus from Manchester to Farage’s Clacton contest",
     "link": "https://www.theguardian.com/politics/2026/jul/09/reform-activists-manchester-farage-clacton-byelection-contest",
-    "pubDate": "09.07.2026 11:20:43",
-    "sortDate": 1783596043000,
+    "pubDate": "09.07.2026 13:43:02",
+    "sortDate": 1783604582000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Barcelona registers highest temperature in 112 years as French nuclear reactor shuts down due to extreme heat – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates",
+    "pubDate": "09.07.2026 13:39:48",
+    "sortDate": 1783604388000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham urged to scrap income tax and NI in radical fiscal overhaul",
+    "link": "https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul",
+    "pubDate": "09.07.2026 13:27:57",
+    "sortDate": 1783603677000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Germany set to make rental e-scooter operators liable for accidents",
+    "link": "https://www.theguardian.com/world/2026/jul/09/germany-set-to-make-rental-e-scooter-operators-liable-for-accidents",
+    "pubDate": "09.07.2026 13:06:32",
+    "sortDate": 1783602392000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "LGBTQ+ inclusion in film at a three-year low, Glaad survey suggests",
+    "link": "https://www.theguardian.com/film/2026/jul/09/lgbtq-film-representation-glaad-study",
+    "pubDate": "09.07.2026 13:00:02",
+    "sortDate": 1783602002000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term",
+    "link": "https://www.theguardian.com/us-news/2026/jul/09/ice-immigration-shooting-deaths-trump",
+    "pubDate": "09.07.2026 13:00:02",
+    "sortDate": 1783602002000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
+    "link": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+    "pubDate": "09.07.2026 12:59:24",
+    "sortDate": 1783601964000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
+    "link": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+    "pubDate": "09.07.2026 12:20:09",
+    "sortDate": 1783599609000,
     "source": "The Guardian"
   },
   {
@@ -49,52 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Farage launches preemptive attack on Commons standards committee, claiming it won’t judge him fairly – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jul/09/andy-burnham-keir-starmer-labour-nigel-farage-binface-reform-latest-news-updates",
-    "pubDate": "09.07.2026 11:11:51",
-    "sortDate": 1783595511000,
-    "source": "The Guardian"
-  },
-  {
     "title": "EU’s ‘unpleasant and dangerous’ border checks need overhaul, says Greek airports boss",
     "link": "https://www.theguardian.com/business/2026/jul/09/eu-unpleasant-and-dangerous-border-checks-need-overhaul-says-greek-airports-boss",
     "pubDate": "09.07.2026 11:02:31",
     "sortDate": 1783594951000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labour MPs to rebel on political funding reforms, demanding tougher measures",
-    "link": "https://www.theguardian.com/politics/2026/jul/09/labour-mps-rebel-political-funding-reforms-demanding-tougher-measures",
-    "pubDate": "09.07.2026 11:00:03",
-    "sortDate": 1783594803000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US chemical accidents rising as Trump rolls back protections, report finds",
-    "link": "https://www.theguardian.com/us-news/2026/jul/09/us-chemical-accidents-trump",
-    "pubDate": "09.07.2026 11:00:03",
-    "sortDate": 1783594803000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sharp rise in domestic abusers using finances for coercion, UK charities say",
-    "link": "https://www.theguardian.com/society/2026/jul/09/domestic-abuse-technology-finances-control-uk-charities",
-    "pubDate": "09.07.2026 11:00:02",
-    "sortDate": 1783594802000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "What is cyclosporiasis, the parasitic illness causing ‘explosive’ diarrhea?",
-    "link": "https://www.theguardian.com/us-news/2026/jul/09/cyclosporiasis-illness-explainer",
-    "pubDate": "09.07.2026 10:00:03",
-    "sortDate": 1783591203000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump immigration cuts could worsen US caregiver shortage, experts say",
-    "link": "https://www.theguardian.com/us-news/2026/jul/09/trump-tps-haiti-syria-immigration",
-    "pubDate": "09.07.2026 10:00:00",
-    "sortDate": 1783591200000,
     "source": "The Guardian"
   },
   {
@@ -109,13 +144,6 @@
     "link": "https://www.theguardian.com/business/2026/jul/09/vw-protests-germany-proposed-job-cuts-factory-closures",
     "pubDate": "09.07.2026 09:19:26",
     "sortDate": 1783588766000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "France national team uses ICE deportation planes for World Cup travel",
-    "link": "https://www.theguardian.com/us-news/2026/jul/09/french-national-team-ice-deportation-planes-world-cup",
-    "pubDate": "09.07.2026 09:00:01",
-    "sortDate": 1783587601000,
     "source": "The Guardian"
   },
   {
@@ -147,13 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Western Europe records hottest-ever June as heatwaves intensify",
-    "link": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
-    "pubDate": "09.07.2026 04:00:52",
-    "sortDate": 1783569652000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US launches strikes on Iran for a second day after Trump says agreement to end the war is ‘over’",
     "link": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran",
     "pubDate": "09.07.2026 02:42:09",
@@ -165,13 +186,6 @@
     "link": "https://www.theguardian.com/world/live/2026/jul/08/us-iran-strikes-trump-nato-summit-live-updates",
     "pubDate": "09.07.2026 02:39:03",
     "sortDate": 1783564743000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump switches back to flying on older Air Force One for England trip instead of new Qatari jet",
-    "link": "https://www.theguardian.com/us-news/2026/jul/08/trump-air-force-one-england-trip",
-    "pubDate": "08.07.2026 22:49:52",
-    "sortDate": 1783550992000,
     "source": "The Guardian"
   },
   {
@@ -298,20 +312,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
     "pubDate": "06.07.2026 15:58:26",
     "sortDate": 1783353506000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
-    "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-    "pubDate": "04.07.2026 20:32:52",
-    "sortDate": 1783197172000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-    "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-    "pubDate": "04.07.2026 15:14:18",
-    "sortDate": 1783178058000,
     "source": "The Guardian"
   }
 ]
