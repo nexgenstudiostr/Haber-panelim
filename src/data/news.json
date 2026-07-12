@@ -2,8 +2,22 @@
   {
     "title": "Australia news live: auction clearances nudge up after weeks under 50%; state farewell for Richard Scolyer",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
-    "pubDate": "12.07.2026 21:27:07",
-    "sortDate": 1783891627000,
+    "pubDate": "12.07.2026 22:25:44",
+    "sortDate": 1783895144000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mitch McConnell reveals fall led to hospitalization after weeks of silence",
+    "link": "https://www.theguardian.com/us-news/2026/jul/12/mitch-mcconnell-hospitalization-fall",
+    "pubDate": "12.07.2026 22:11:09",
+    "sortDate": 1783894269000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lindsey Graham, key ally of Donald Trump, dies after sudden illness aged 71",
+    "link": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says",
+    "pubDate": "12.07.2026 21:48:38",
+    "sortDate": 1783892918000,
     "source": "The Guardian"
   },
   {
@@ -84,24 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Martha Lillard, last known US polio survivor using iron lung, dies aged 78",
-    "link": "https://www.theguardian.com/us-news/2026/jul/12/martha-lillard-last-polio-survivor-iron-lung-death",
-    "pubDate": "12.07.2026 18:37:11",
-    "sortDate": 1783881431000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Former Spanish PM accused of racism in remarks about French football team",
     "link": "https://www.theguardian.com/world/2026/jul/12/spain-mariano-rajoy-accused-of-racism-french-football-team-world-cup",
     "pubDate": "12.07.2026 17:39:13",
     "sortDate": 1783877953000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bull bison tosses Yellowstone tourist 8ft in air, with run-in caught on video",
-    "link": "https://www.theguardian.com/us-news/2026/jul/12/yellowstone-bull-bison-throws-tourist-in-air",
-    "pubDate": "12.07.2026 17:33:54",
-    "sortDate": 1783877634000,
     "source": "The Guardian"
   },
   {
@@ -126,7 +126,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australia to ditch paper arrrival cards for incoming travellers",
+    "title": "Australia to ditch paper arrival cards for incoming travellers",
     "link": "https://www.theguardian.com/australia-news/2026/jul/13/australia-travel-declaration-digital-to-replace-paper-customs-passenger-card-incoming-travellers",
     "pubDate": "12.07.2026 15:00:22",
     "sortDate": 1783868422000,
@@ -159,6 +159,20 @@
     "pubDate": "12.07.2026 12:00:18",
     "sortDate": 1783857618000,
     "source": "The Guardian"
+  },
+  {
+    "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167923",
+    "pubDate": "12.07.2026 12:00:00",
+    "sortDate": 1783857600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Reviving communities home by home in Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167921",
+    "pubDate": "12.07.2026 12:00:00",
+    "sortDate": 1783857600000,
+    "source": "UN News"
   },
   {
     "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
@@ -196,6 +210,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "Thai youth leaders push for inclusion, partnership and lasting change",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167917",
+    "pubDate": "11.07.2026 12:00:00",
+    "sortDate": 1783771200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+    "pubDate": "11.07.2026 12:00:00",
+    "sortDate": 1783771200000,
+    "source": "UN News"
+  },
+  {
     "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
     "link": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
     "pubDate": "11.07.2026 11:59:11",
@@ -215,6 +243,41 @@
     "pubDate": "10.07.2026 13:43:13",
     "sortDate": 1783690993000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167918",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
+  },
+  {
+    "title": "South Sudan: UN acts ahead of drought to protect thousands",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167915",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167914",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
+  },
+  {
+    "title": "New cholera outbreak alert for Sudan’s war-weary communities",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Aid cuts leave at least one million women and girls without vital support",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167908",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
   },
   {
     "title": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
@@ -273,6 +336,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "Diplomats go virtual to witness Gaza displacement site up close",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peak heat in Europe just broke historic 1970s records",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167911",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World must move faster on Ebola response for DR Congo: UN relief chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167910",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167909",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167906",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167905",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: ‘Urgent de-escalation’ needed now in Ukraine amid spike in civilian deaths",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167904",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
     "title": "Venomous snakes escape breeding farms in southern China during flooding",
     "link": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
     "pubDate": "09.07.2026 08:08:20",
@@ -301,11 +413,109 @@
     "source": "The Guardian"
   },
   {
+    "title": "Srebrenica survivors warn of genocide denial while safeguarding memory of the dead",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167892",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Restoring dignity: Senegalese surgeon and Burundian foundation win reproductive health awards",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167903",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167901",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Help is coming’: UN relief chief briefs on Venezuela quake recovery",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167899",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war: Renewed attacks in Strait of Hormuz prompt another global energy alert",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167898",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167897",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Open debate on sexual violence in conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167894",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cancer cases could nearly double by 2050 without urgent action, WHO warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167890",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Grim homecoming: Devastation greets Lebanon’s war-weary returnees",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167893",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
     "title": "A rock star welcome and human rights protests to greet India’s prime minister Narendra Modi in Australia",
     "link": "https://www.theguardian.com/australia-news/2026/jul/07/india-prime-minister-modi-australia-melbourne-visit-reaction-indian-diaspora-ntwnfb",
     "pubDate": "07.07.2026 15:00:04",
     "sortDate": 1783436404000,
     "source": "The Guardian"
+  },
+  {
+    "title": "New coalition puts children’s rights at the centre of the AI age",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167891",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Southwest Pacific’s last tropical glacier could vanish within months",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167889",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Shared blueprint for peace’: Development goals deliver for billions, but challenges remain",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167888",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peace hinges on people-centred policing, global summit hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167887",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "When AI hurts people, who’s to blame? Global experts grapple with accountability",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167886",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
   },
   {
     "title": "Dowry murders in India no longer spark public anger or debate, study finds",
