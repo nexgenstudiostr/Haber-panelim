@@ -1,51 +1,149 @@
 [
   {
-    "title": "Counter-terrorist police chief says ‘new evidence’ led to his team taking over investigation into Ann Widdecombe’s death – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
-    "pubDate": "13.07.2026 12:59:45",
-    "sortDate": 1783947585000,
+    "title": "Leaders arrive for Ukraine talks in Paris as Macron hosts ‘coalition of the willing’ – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
+    "pubDate": "13.07.2026 16:12:19",
+    "sortDate": 1783959139000,
     "source": "The Guardian"
   },
   {
-    "title": "Ursula von der Leyen pledges EU-wide social media ban for children",
+    "title": "Trump claims US will reinstate Iranian blockade and charge fee for ships crossing strait of Hormuz – Middle East crisis live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+    "pubDate": "13.07.2026 16:09:08",
+    "sortDate": 1783958948000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shabana Mahmood tells MPs suspect in Ann Widdecombe investigation ‘not known to Prevent’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
+    "pubDate": "13.07.2026 16:05:47",
+    "sortDate": 1783958747000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Person reported killed during ICE operation in Maine, state house speaker says – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates",
+    "pubDate": "13.07.2026 16:00:24",
+    "sortDate": 1783958424000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British couple confirmed to have been killed by deadly wildfires in Spain",
+    "link": "https://www.theguardian.com/world/2026/jul/13/british-couple-confirmed-to-have-been-killed-by-deadly-wildfires-in-spain",
+    "pubDate": "13.07.2026 15:54:04",
+    "sortDate": 1783958044000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump renews Iran blockade and again threatens to take control of strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
+    "pubDate": "13.07.2026 15:44:57",
+    "sortDate": 1783957497000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police arrest 12 over suspected far-right threat against Islamic event in Suffolk",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/13/police-arrests-suspected-far-right-threat-islamic-event-suffolk",
+    "pubDate": "13.07.2026 15:28:11",
+    "sortDate": 1783956491000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia banned vape ads more than two years ago – so why are they still all over social media?",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/14/australia-banned-vape-ads-more-than-two-years-ago-so-why-are-they-still-all-over-social-media",
+    "pubDate": "13.07.2026 15:00:52",
+    "sortDate": 1783954852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Layla Jeffery, 13, was ‘somewhat shy’ and ‘well-liked’. A Victorian town is struggling with her alleged murder",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/14/layla-jeffery-13-victorian-town-struggling-alleged-murder-ntwnfb",
+    "pubDate": "13.07.2026 15:00:52",
+    "sortDate": 1783954852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dolphin deaths in South Australia spike after algal bloom decimates food sources",
+    "link": "https://www.theguardian.com/environment/2026/jul/14/dolphin-deaths-south-australia-algal-bloom",
+    "pubDate": "13.07.2026 15:00:51",
+    "sortDate": 1783954851000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Albanese to compare pivotal moment in AI to renewable energy transition as he outlines approach",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence",
+    "pubDate": "13.07.2026 15:00:50",
+    "sortDate": 1783954850000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hello from the outside: heat domes impeding radio and other signals in US midwest",
+    "link": "https://www.theguardian.com/us-news/2026/jul/13/heat-dome-radio-signals-us-midwest",
+    "pubDate": "13.07.2026 15:00:50",
+    "sortDate": 1783954850000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Person killed in shooting involving ICE agents in Maine, reports say",
+    "link": "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death",
+    "pubDate": "13.07.2026 14:42:05",
+    "sortDate": 1783953725000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "JP Morgan boss pressed by US senator about bank’s contact with Jeffrey Epstein",
+    "link": "https://www.theguardian.com/business/2026/jul/13/jp-morgan-boss-jamie-dimon-us-uk-jeffrey-epstein-elizabeth-warren",
+    "pubDate": "13.07.2026 14:26:38",
+    "sortDate": 1783952798000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two teens arrested after five members of family killed in Illinois shooting",
+    "link": "https://www.theguardian.com/us-news/2026/jul/13/east-st-louis-illinois-shooting-arrests",
+    "pubDate": "13.07.2026 14:19:01",
+    "sortDate": 1783952341000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
+    "link": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
+    "pubDate": "13.07.2026 14:00:49",
+    "sortDate": 1783951249000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britons to use e-gates in Switzerland as Starmer seals £5.2bn trade deal",
+    "link": "https://www.theguardian.com/business/2026/jul/13/brits-e-gates-switzerland-keir-starmer-seals-trade-deal",
+    "pubDate": "13.07.2026 14:00:48",
+    "sortDate": 1783951248000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pilot fighting Colorado wildfire dies as plane crashes into reservoir",
+    "link": "https://www.theguardian.com/us-news/2026/jul/13/colorado-pilot-dies-wildfire",
+    "pubDate": "13.07.2026 14:00:35",
+    "sortDate": 1783951235000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "VW chief confirms plan to cut 50,000 jobs as board rejects plant closures",
+    "link": "https://www.theguardian.com/business/2026/jul/13/vw-cut-jobs-board-rejects-plant-closures-staff-restructuring",
+    "pubDate": "13.07.2026 13:42:21",
+    "sortDate": 1783950141000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham expected to vote in favour of Mahmood’s asylum system changes",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-expected-to-vote-shabana-mahmood-asylum-system-changes",
+    "pubDate": "13.07.2026 13:38:32",
+    "sortDate": 1783949912000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU chief pledges social media ban to protect children from ‘predatory algorithms’",
     "link": "https://www.theguardian.com/world/2026/jul/13/eu-social-media-ban-children-under-13-ursula-von-der-leyen",
     "pubDate": "13.07.2026 12:52:36",
     "sortDate": 1783947156000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Traffic through strait of Hormuz plummets after US and Iran trade strikes – Middle East crisis live",
-    "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-    "pubDate": "13.07.2026 12:50:32",
-    "sortDate": 1783947032000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lindsey Graham’s death triggers scramble to replace him as Congress returns – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates",
-    "pubDate": "13.07.2026 12:49:59",
-    "sortDate": 1783946999000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ukraine to present its anti-ballistic programme at Paris meeting today, Zelenskyy says – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/jul/13/emmanuel-macron-keir-starmer-friedrich-merz-volodymyr-zelenskyy-coalition-of-the-willing-ukraine-russia-latest-news-updates",
-    "pubDate": "13.07.2026 12:49:33",
-    "sortDate": 1783946973000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
-    "link": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
-    "pubDate": "13.07.2026 12:30:18",
-    "sortDate": 1783945818000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Keystone pipeline operator agrees to pay $26.9m penalty over Kansas oil spill",
-    "link": "https://www.theguardian.com/us-news/2026/jul/13/keystone-pipeline-operator-settlement-kansas-oil-spill",
-    "pubDate": "13.07.2026 12:16:01",
-    "sortDate": 1783944961000,
     "source": "The Guardian"
   },
   {
@@ -53,13 +151,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
     "pubDate": "13.07.2026 12:05:28",
     "sortDate": 1783944328000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump officials accused of stacking top chemical safety board with industry ‘mouthpieces’",
-    "link": "https://www.theguardian.com/us-news/2026/jul/13/trump-chemical-safety-board",
-    "pubDate": "13.07.2026 12:00:47",
-    "sortDate": 1783944047000,
     "source": "The Guardian"
   },
   {
@@ -84,59 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "US and Iran exchange fire and disagree on whether strait of Hormuz is open | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/jul/13/first-thing-us-iran-strikes-hormuz",
-    "pubDate": "13.07.2026 11:41:22",
-    "sortDate": 1783942882000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US launches new wave of strikes against Iran as Tehran says diplomacy has proven ‘futile’",
-    "link": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
-    "pubDate": "13.07.2026 11:35:55",
-    "sortDate": 1783942555000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Plan to restore nature in England by 2030 criticised as ‘completely insufficient’",
-    "link": "https://www.theguardian.com/environment/2026/jul/13/england-rewilding-plan-restore-nature-2030-criticised",
-    "pubDate": "13.07.2026 11:27:48",
-    "sortDate": 1783942068000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Chatsworth House pilots ‘community membership’ free entry scheme",
-    "link": "https://www.theguardian.com/culture/2026/jul/13/chatsworth-house-free-entry-derbyshire-libraries-scheme-access-britain-country-houses",
-    "pubDate": "13.07.2026 11:00:45",
-    "sortDate": 1783940445000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Weather tracker: Unusually warm rivers affect French nuclear power plants",
     "link": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants",
     "pubDate": "13.07.2026 10:53:56",
     "sortDate": 1783940036000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sam Neill tributes: actors, directors and leaders remember ‘a true gentleman’",
-    "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-tributes",
-    "pubDate": "13.07.2026 10:52:20",
-    "sortDate": 1783939940000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Wildfires burn in Wales and England as environment officials warn of ‘exceptional risk’",
-    "link": "https://www.theguardian.com/world/2026/jul/13/conwy-villagers-flee-homes-as-wildfires-burn-in-wales-and-england",
-    "pubDate": "13.07.2026 10:05:31",
-    "sortDate": 1783937131000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Beloved or not, Lindsey Graham was a critical dealmaker in Congress",
-    "link": "https://www.theguardian.com/us-news/2026/jul/13/lindsey-graham-dealmaker-congress",
-    "pubDate": "13.07.2026 10:00:45",
-    "sortDate": 1783936845000,
     "source": "The Guardian"
   },
   {
@@ -147,27 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "More than 120 families contacted as police investigate alleged abuse by Sydney childcare worker",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/13/more-than-120-families-contacted-as-police-investigate-alleged-abuse-by-sydney-childcare-worker-ntwnfb",
-    "pubDate": "13.07.2026 09:54:01",
-    "sortDate": 1783936441000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Queensland unlawfully detained children in adult watch house without private toilet access, tribunal finds",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/13/queensland-unlawfully-detained-children-in-adult-watch-house-without-private-toilet-access-tribunal-finds-ntwnfb",
-    "pubDate": "13.07.2026 09:00:09",
-    "sortDate": 1783933209000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UNSW academic subjected to Nazi salutes in class, antisemitism commission hears",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/13/unsw-academic-subjected-to-nazi-salutes-in-class-antisemitism-commission-hears-ntwnfb",
-    "pubDate": "13.07.2026 08:47:17",
-    "sortDate": 1783932437000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran launches retaliatory attacks after fresh US strikes – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/jul/13/middle-east-crisis-live-us-launches-new-wave-of-strikes-on-iran-tehran-says-attacks-render-diplomacy-futile",
     "pubDate": "13.07.2026 04:39:50",
@@ -175,18 +196,25 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mastermind of €88m Louvre heist thought they ‘could have taken more’",
-    "link": "https://www.theguardian.com/world/2026/jul/13/mastermind-of-88m-louvre-heist-thought-they-could-have-taken-more",
-    "pubDate": "13.07.2026 04:00:37",
-    "sortDate": 1783915237000,
-    "source": "The Guardian"
+    "title": "From NASA to the classroom: The engineer bringing AI to those left behind",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167920",
+    "pubDate": "12.07.2026 12:00:00",
+    "sortDate": 1783857600000,
+    "source": "UN News"
   },
   {
-    "title": "Swedish MEP files police complaint accusing Danish colleague of racist hate speech",
-    "link": "https://www.theguardian.com/world/2026/jul/13/swedish-mep-abir-al-sahlani-files-police-complaint-accusing-danish-mep-of-racist-hate-speech",
-    "pubDate": "13.07.2026 04:00:37",
-    "sortDate": 1783915237000,
-    "source": "The Guardian"
+    "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167923",
+    "pubDate": "12.07.2026 12:00:00",
+    "sortDate": 1783857600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Reviving communities home by home in Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167921",
+    "pubDate": "12.07.2026 12:00:00",
+    "sortDate": 1783857600000,
+    "source": "UN News"
   },
   {
     "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
@@ -217,6 +245,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "Thai youth leaders push for inclusion, partnership and lasting change",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167917",
+    "pubDate": "11.07.2026 12:00:00",
+    "sortDate": 1783771200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+    "pubDate": "11.07.2026 12:00:00",
+    "sortDate": 1783771200000,
+    "source": "UN News"
+  },
+  {
     "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
     "link": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
     "pubDate": "11.07.2026 11:59:11",
@@ -229,6 +271,41 @@
     "pubDate": "10.07.2026 13:43:13",
     "sortDate": 1783690993000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167918",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
+  },
+  {
+    "title": "South Sudan: UN acts ahead of drought to protect thousands",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167915",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167914",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
+  },
+  {
+    "title": "New cholera outbreak alert for Sudan’s war-weary communities",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Aid cuts leave at least one million women and girls without vital support",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167908",
+    "pubDate": "10.07.2026 12:00:00",
+    "sortDate": 1783684800000,
+    "source": "UN News"
   },
   {
     "title": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
@@ -273,11 +350,53 @@
     "source": "The Guardian"
   },
   {
-    "title": "LGBTQ+ cruise ship refused entry to Egypt days after Turkey turned it away",
-    "link": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
-    "pubDate": "09.07.2026 12:59:24",
-    "sortDate": 1783601964000,
-    "source": "The Guardian"
+    "title": "Diplomats go virtual to witness Gaza displacement site up close",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peak heat in Europe just broke historic 1970s records",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167911",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World must move faster on Ebola response for DR Congo: UN relief chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167910",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167909",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167906",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167905",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: ‘Urgent de-escalation’ needed now in Ukraine amid spike in civilian deaths",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167904",
+    "pubDate": "09.07.2026 12:00:00",
+    "sortDate": 1783598400000,
+    "source": "UN News"
   },
   {
     "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
@@ -301,11 +420,102 @@
     "source": "The Guardian"
   },
   {
+    "title": "Srebrenica survivors warn of genocide denial while safeguarding memory of the dead",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167892",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Restoring dignity: Senegalese surgeon and Burundian foundation win reproductive health awards",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167903",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167901",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Help is coming’: UN relief chief briefs on Venezuela quake recovery",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167899",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war: Renewed attacks in Strait of Hormuz prompt another global energy alert",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167898",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167897",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Open debate on sexual violence in conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167894",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cancer cases could nearly double by 2050 without urgent action, WHO warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167890",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Grim homecoming: Devastation greets Lebanon’s war-weary returnees",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167893",
+    "pubDate": "08.07.2026 12:00:00",
+    "sortDate": 1783512000000,
+    "source": "UN News"
+  },
+  {
     "title": "A rock star welcome and human rights protests to greet India’s prime minister Narendra Modi in Australia",
     "link": "https://www.theguardian.com/australia-news/2026/jul/07/india-prime-minister-modi-australia-melbourne-visit-reaction-indian-diaspora-ntwnfb",
     "pubDate": "07.07.2026 15:00:04",
     "sortDate": 1783436404000,
     "source": "The Guardian"
+  },
+  {
+    "title": "New coalition puts children’s rights at the centre of the AI age",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167891",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Southwest Pacific’s last tropical glacier could vanish within months",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167889",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Shared blueprint for peace’: Development goals deliver for billions, but challenges remain",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167888",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peace hinges on people-centred policing, global summit hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167887",
+    "pubDate": "07.07.2026 12:00:00",
+    "sortDate": 1783425600000,
+    "source": "UN News"
   },
   {
     "title": "Dowry murders in India no longer spark public anger or debate, study finds",
