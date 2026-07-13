@@ -1,9 +1,51 @@
 [
   {
-    "title": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
+    "title": "ICE fatally shoots 26-year-old Colombian man in Maine during immigration operation – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates",
+    "pubDate": "13.07.2026 22:46:44",
+    "sortDate": 1783982804000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: US launches new wave of strikes; UAE says two tankers in strait of Hormuz hit by Iranian missiles",
+    "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+    "pubDate": "13.07.2026 22:43:53",
+    "sortDate": 1783982633000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US launches third night of strikes on Iran as Trump announces Hormuz blockade",
+    "link": "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade",
+    "pubDate": "13.07.2026 22:43:12",
+    "sortDate": 1783982592000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: Four more charged over alleged murder of Chris Baghsarian; Labor says Australians may ‘pay the price’ of renewed US-Iran conflict",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
-    "pubDate": "13.07.2026 21:49:20",
-    "sortDate": 1783979360000,
+    "pubDate": "13.07.2026 22:39:16",
+    "sortDate": 1783982356000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ICE agents kill man in Maine as senator says victim not target of arrest",
+    "link": "https://www.theguardian.com/us-news/2026/jul/13/maine-ice-shooting-death",
+    "pubDate": "13.07.2026 22:27:19",
+    "sortDate": 1783981639000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police hope new photos will help find remains of British backpacker Peter Falconio 25 years after infamous murder",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/14/peter-falconio-murder-joanne-lees-abduction-anniversary-northern-territory-police-mystery-photos",
+    "pubDate": "13.07.2026 22:23:09",
+    "sortDate": 1783981389000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
+    "link": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+    "pubDate": "13.07.2026 22:06:01",
+    "sortDate": 1783980361000,
     "source": "The Guardian"
   },
   {
@@ -11,20 +53,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/13/lindsey-graham-sister-senate-seat-trump",
     "pubDate": "13.07.2026 21:38:36",
     "sortDate": 1783978716000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US launches new strikes on Iran following Trump’s threat amid fresh clashes over strait of Hormuz – Middle East crisis live",
-    "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-    "pubDate": "13.07.2026 21:34:52",
-    "sortDate": 1783978492000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "ICE fatally shoots 26-year-old Colombian man in Maine during immigration operation – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates",
-    "pubDate": "13.07.2026 21:33:34",
-    "sortDate": 1783978414000,
     "source": "The Guardian"
   },
   {
@@ -39,13 +67,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/13/cyclospora-outbreak-parasite-explosive-diarrhea",
     "pubDate": "13.07.2026 19:46:00",
     "sortDate": 1783971960000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man tossed into the air by ‘agitated’ bull bison was grandfather visiting Yellowstone with grandson",
-    "link": "https://www.theguardian.com/us-news/2026/jul/13/man-tossed-into-air-bison-grandfather-yellowstone",
-    "pubDate": "13.07.2026 19:32:29",
-    "sortDate": 1783971149000,
     "source": "The Guardian"
   },
   {
@@ -126,13 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK bans support for Iran’s Islamic Revolutionary Guard Corps",
-    "link": "https://www.theguardian.com/politics/2026/jul/13/uk-list-iran-islamic-revolutionary-guard-corps-irgc-terrorist-organisation",
-    "pubDate": "13.07.2026 16:56:05",
-    "sortDate": 1783961765000,
-    "source": "The Guardian"
-  },
-  {
     "title": "British couple named among 13 killed in Spanish wildfires",
     "link": "https://www.theguardian.com/world/2026/jul/13/british-couple-confirmed-to-have-been-killed-by-deadly-wildfires-in-spain",
     "pubDate": "13.07.2026 15:54:04",
@@ -158,13 +172,6 @@
     "link": "https://www.theguardian.com/environment/2026/jul/14/dolphin-deaths-south-australia-algal-bloom",
     "pubDate": "13.07.2026 15:00:51",
     "sortDate": 1783954851000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Albanese to compare pivotal moment in AI to renewable energy transition as he outlines approach",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence",
-    "pubDate": "13.07.2026 15:00:50",
-    "sortDate": 1783954850000,
     "source": "The Guardian"
   },
   {
@@ -347,13 +354,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/10/new-zealand-first-datacentre-concern-locals-makarewa-invercargill-datagrid",
     "pubDate": "10.07.2026 00:40:26",
     "sortDate": 1783644026000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mexico investigates whether US lied about role in capture of drug lord",
-    "link": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
-    "pubDate": "09.07.2026 18:17:49",
-    "sortDate": 1783621069000,
     "source": "The Guardian"
   },
   {
