@@ -1,16 +1,37 @@
 [
   {
-    "title": "Australia news live: Bill Shorten says anti-immigrant politics a sign of ‘creeping cultural dementia’; man found dead in car after Sydney shooting",
+    "title": "Australia news live: inquiry told pro-Palestine sit-in led to ‘sharp’ change in university policy; Tasmanian premier considers buying brewery",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese-palestine-gaza-ai-artificial-intelligence-datacentres-copyright-royal-commission-antisemitism-labor-ntwnfb",
-    "pubDate": "14.07.2026 23:32:12",
-    "sortDate": 1784071932000,
+    "pubDate": "15.07.2026 01:44:52",
+    "sortDate": 1784079892000,
     "source": "The Guardian"
   },
   {
     "title": "Trump threatens to strike Iran power plants unless deal reached – Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news",
-    "pubDate": "14.07.2026 23:27:26",
-    "sortDate": 1784071646000,
+    "pubDate": "15.07.2026 01:34:11",
+    "sortDate": 1784079251000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One person dead and two missing after boat sinks near San Francisco’s Alcatraz Island",
+    "link": "https://www.theguardian.com/us-news/2026/jul/14/san-francisco-boat-fire-alcatraz-island",
+    "pubDate": "15.07.2026 01:18:58",
+    "sortDate": 1784078338000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Florida executes one of its oldest prisoners in state’s 10th lethal injection this year",
+    "link": "https://www.theguardian.com/us-news/2026/jul/14/florida-executes-oldest-prisoners",
+    "pubDate": "15.07.2026 00:33:43",
+    "sortDate": 1784075623000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz",
+    "link": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
+    "pubDate": "14.07.2026 23:59:12",
+    "sortDate": 1784073552000,
     "source": "The Guardian"
   },
   {
@@ -42,7 +63,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "US House passes bill to make daylight saving time permanent",
+    "title": "Bill to make daylight saving time permanent passes US House vote: ‘Americans are tired of the clock change’",
     "link": "https://www.theguardian.com/us-news/2026/jul/14/house-committee-advances-daylight-saving-time-bill",
     "pubDate": "14.07.2026 21:59:11",
     "sortDate": 1784066351000,
@@ -56,24 +77,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Thousands flock to see brief and rare blooming of corpse flowers in California",
-    "link": "https://www.theguardian.com/us-news/2026/jul/14/corpse-flowers-huntington-los-angeles-california",
-    "pubDate": "14.07.2026 21:50:08",
-    "sortDate": 1784065808000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
     "link": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
     "pubDate": "14.07.2026 21:30:36",
     "sortDate": 1784064636000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Top House Democrats vow to oppose bid to cut US military aid to Israel",
-    "link": "https://www.theguardian.com/world/2026/jul/14/us-military-aid-israel-house-democrats",
-    "pubDate": "14.07.2026 21:07:48",
-    "sortDate": 1784063268000,
     "source": "The Guardian"
   },
   {
@@ -147,15 +154,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "Politically engaged – but ‘very much’ worried about buying a home: study reveals young Australians’ anxieties",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/15/young-australians-buying-home-housing-climate-change-concerns-report",
+    "title": "Coalition and One Nation’s plan to ditch net zero would not lower power prices, CSIRO report finds",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/15/coalition-and-one-nations-plan-to-ditch-net-zero-would-not-lower-power-prices-csiro-report-finds",
     "pubDate": "14.07.2026 14:01:27",
     "sortDate": 1784037687000,
     "source": "The Guardian"
   },
   {
-    "title": "Coalition and One Nation’s plan to ditch net zero would not lower power prices, CSIRO report finds",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/15/coalition-and-one-nations-plan-to-ditch-net-zero-would-not-lower-power-prices-csiro-report-finds",
+    "title": "Politically engaged – but ‘very much’ worried about buying a home: study reveals young Australians’ anxieties",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/15/young-australians-buying-home-housing-climate-change-concerns-report",
     "pubDate": "14.07.2026 14:01:27",
     "sortDate": 1784037687000,
     "source": "The Guardian"
@@ -263,13 +270,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies",
     "pubDate": "14.07.2026 01:10:26",
     "sortDate": 1783991426000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US launches third night of strikes on Iran as Trump announces Hormuz blockade",
-    "link": "https://www.theguardian.com/world/2026/jul/13/us-launches-third-night-of-strikes-on-iran-as-trump-announces-hormuz-blockade",
-    "pubDate": "13.07.2026 22:43:12",
-    "sortDate": 1783982592000,
     "source": "The Guardian"
   },
   {
