@@ -1,37 +1,93 @@
 [
   {
-    "title": "One small pen for one giant fee: Buzz Aldrin’s mission-saving felt-tip sells for over $850,000",
-    "link": "https://www.theguardian.com/science/2026/jul/15/buzz-aldrin-apollo-astronaut-mission-felt-tip-pen-auction",
-    "pubDate": "15.07.2026 15:17:34",
-    "sortDate": 1784128654000,
+    "title": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
+    "link": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
+    "pubDate": "15.07.2026 17:01:59",
+    "sortDate": 1784134919000,
     "source": "The Guardian"
   },
   {
-    "title": "Moscow warns that foreign troops in Ukraine would be seen as legitimate targets – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
-    "pubDate": "15.07.2026 15:15:38",
-    "sortDate": 1784128538000,
+    "title": "Trump’s barbed eulogy for Lindsey Graham reveals how fragile his ego is",
+    "link": "https://www.theguardian.com/us-news/2026/jul/15/trump-revealing-eulogy-lindsey-graham",
+    "pubDate": "15.07.2026 16:54:52",
+    "sortDate": 1784134492000,
     "source": "The Guardian"
   },
   {
-    "title": "Former Obama White House counsel faces House questioning over Epstein ties",
-    "link": "https://www.theguardian.com/us-news/2026/jul/15/obama-kathryn-ruemmler-epstein-questions",
-    "pubDate": "15.07.2026 15:11:52",
-    "sortDate": 1784128312000,
+    "title": "Nobby Stiles died with brain condition caused by repeatedly heading a football, coroner rules",
+    "link": "https://www.theguardian.com/football/2026/jul/15/nobby-stiles-died-with-brain-condition-caused-by-repeatedly-heading-a-football-coroner-rules",
+    "pubDate": "15.07.2026 16:43:56",
+    "sortDate": 1784133836000,
     "source": "The Guardian"
   },
   {
-    "title": "Starmer shares tributes and offers ‘full support’ to his successor in his final PMQs before stepping down – UK politics live",
+    "title": "Stonegate pub and bar chain investigated over ‘unfair’ treatment of landlords",
+    "link": "https://www.theguardian.com/business/2026/jul/15/stonegate-pub-and-bar-chain-investigated-over-unfair-treatment-of-landlords",
+    "pubDate": "15.07.2026 16:39:53",
+    "sortDate": 1784133593000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "DUP sets up review on what party knew about sex offender Jeffrey Donaldson – as it happened",
     "link": "https://www.theguardian.com/politics/live/2026/jul/15/keir-starmer-pmqs-andy-burnham-labour-leadership-kemi-badenoch-conservatives-nigel-farage-reform-uk-politics-live-news",
-    "pubDate": "15.07.2026 15:09:22",
-    "sortDate": 1784128162000,
+    "pubDate": "15.07.2026 16:31:40",
+    "sortDate": 1784133100000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Revealed: Farage’s £5m gift came after saying he needed ‘a million a year’ to stand as MP",
+    "link": "https://www.theguardian.com/politics/2026/jul/15/farage-said-he-would-need-a-million-a-year-to-stand-as-mp-in-2024",
+    "pubDate": "15.07.2026 16:30:16",
+    "sortDate": 1784133016000,
     "source": "The Guardian"
   },
   {
     "title": "Democrats grill Todd Blanche on ICE agents at polling sites and Kash Patel’s conduct at attorney general confirmation hearing – live",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
-    "pubDate": "15.07.2026 15:06:18",
-    "sortDate": 1784127978000,
+    "pubDate": "15.07.2026 16:29:56",
+    "sortDate": 1784132996000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wisconsin panel finds Elon Musk’s $1m state supreme court voter giveaway was likely illegal",
+    "link": "https://www.theguardian.com/technology/2026/jul/15/elon-musk-wisconsin-election-payments",
+    "pubDate": "15.07.2026 16:25:52",
+    "sortDate": 1784132752000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Social media curfew for teens: is it pointless? – The Latest",
+    "link": "https://www.theguardian.com/news/audio/2026/jul/15/social-media-curfew-for-teens-is-it-pointless-the-latest",
+    "pubDate": "15.07.2026 16:18:09",
+    "sortDate": 1784132289000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wildfires in Ontario make Toronto air quality worst in world",
+    "link": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
+    "pubDate": "15.07.2026 16:08:39",
+    "sortDate": 1784131719000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump intelligence pick Jay Clayton refuses to say Biden won 2020 election",
+    "link": "https://www.theguardian.com/us-news/2026/jul/15/jay-clayton-senate-intelligence-committee-hearing",
+    "pubDate": "15.07.2026 15:48:53",
+    "sortDate": 1784130533000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "White House overturns DHS halt to ICE traffic stops despite killings of two men",
+    "link": "https://www.theguardian.com/us-news/2026/jul/15/trump-ice-traffic-stops",
+    "pubDate": "15.07.2026 15:40:27",
+    "sortDate": 1784130027000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Moscow warns that foreign troops in Ukraine would be seen as legitimate targets – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
+    "pubDate": "15.07.2026 15:15:38",
+    "sortDate": 1784128538000,
     "source": "The Guardian"
   },
   {
@@ -63,59 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Farage said he would need ‘a million a year’ to stand as MP in 2024",
-    "link": "https://www.theguardian.com/politics/2026/jul/15/farage-said-he-would-need-a-million-a-year-to-stand-as-mp-in-2024",
-    "pubDate": "15.07.2026 15:00:58",
-    "sortDate": 1784127658000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump endorses MyPillow founder Mike Lindell in Minnesota governor’s race",
-    "link": "https://www.theguardian.com/us-news/2026/jul/15/trump-mike-lindell-minnesota-governor",
-    "pubDate": "15.07.2026 14:52:22",
-    "sortDate": 1784127142000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tripling US union membership would shift $1.2tn to workers annually – report",
-    "link": "https://www.theguardian.com/us-news/2026/jul/15/union-membership-rates",
-    "pubDate": "15.07.2026 14:37:02",
-    "sortDate": 1784126222000,
-    "source": "The Guardian"
-  },
-  {
     "title": "As Russia’s assault continues, Ukraine’s politics shift and an old alliance begins to fray",
     "link": "https://www.theguardian.com/world/2026/jul/15/as-russias-assault-continues-ukraines-politics-shift-and-an-old-alliance-begins-to-fray",
     "pubDate": "15.07.2026 14:30:56",
     "sortDate": 1784125856000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bristol declared ‘city of harm reduction’ as Greens seek less punitive drug policy",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/15/bristol-drug-policy-city-of-harm-reduction-greens",
-    "pubDate": "15.07.2026 14:23:08",
-    "sortDate": 1784125388000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Dale Vince to get damages from Daily Mail publisher over misleading article",
-    "link": "https://www.theguardian.com/business/2026/jul/15/dale-vince-damage-daily-mail-misleading",
-    "pubDate": "15.07.2026 14:06:19",
-    "sortDate": 1784124379000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Iran threatens to halt all Middle East energy exports amid renewed US blockade",
-    "link": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
-    "pubDate": "15.07.2026 14:06:01",
-    "sortDate": 1784124361000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Thames Water increases bonus payments to £4m despite uncertainty over future",
-    "link": "https://www.theguardian.com/business/2026/jul/15/thames-water-funding-survive-end-of-year",
-    "pubDate": "15.07.2026 13:33:03",
-    "sortDate": 1784122383000,
     "source": "The Guardian"
   },
   {
@@ -319,13 +326,6 @@
     "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
     "pubDate": "14.07.2026 03:27:16",
     "sortDate": 1783999636000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mexico to demand criminal complaints over migrants killed by ICE in US",
-    "link": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
-    "pubDate": "13.07.2026 22:06:01",
-    "sortDate": 1783980361000,
     "source": "The Guardian"
   },
   {
