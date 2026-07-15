@@ -1,9 +1,72 @@
 [
   {
-    "title": "Australia news live: Nicky Winmar removed from the Australian football hall of fame; Anthropic ‘takes seriously’ Labor’s proposed AI rules",
+    "title": "Andy Burnham urged to overhaul ‘timid and limited’ elections bill",
+    "link": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-strengthen-elections-bill",
+    "pubDate": "15.07.2026 07:00:47",
+    "sortDate": 1784098847000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump threatens to expand strikes on Iran’s civilian infrastructure",
+    "link": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
+    "pubDate": "15.07.2026 06:57:50",
+    "sortDate": 1784098670000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: Shoebridge criticises Labor for delay in responding to AI; five-year-old dead after crash in Perth",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese-palestine-gaza-ai-artificial-intelligence-datacentres-copyright-royal-commission-antisemitism-labor-ntwnfb",
-    "pubDate": "15.07.2026 04:33:45",
-    "sortDate": 1784090025000,
+    "pubDate": "15.07.2026 06:44:32",
+    "sortDate": 1784097872000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brisbane child accused of school stabbing allegedly faced ‘racist’ abuse, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/15/brisbane-school-alleged-stabbing-child-arrested-court-ntwnfb",
+    "pubDate": "15.07.2026 06:07:36",
+    "sortDate": 1784095656000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "England risks building new ‘death traps’ as experts warn of overheating crisis",
+    "link": "https://www.theguardian.com/politics/2026/jul/15/england-risks-building-death-traps-overheating-crisis-plans",
+    "pubDate": "15.07.2026 06:00:48",
+    "sortDate": 1784095248000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wednesday briefing: ​Do MPs have the will to stop mega-donors interfering in UK politics?",
+    "link": "https://www.theguardian.com/world/2026/jul/15/wednesday-briefing-do-mps-have-the-will-to-stop-mega-donors-interfering-in-uk-politics",
+    "pubDate": "15.07.2026 05:47:12",
+    "sortDate": 1784094432000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Alleged illegal donations by Catholic Schools NSW to Liberals raise questions over use of taxpayer funds",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/15/icac-catholic-schools-nsw-liberal-party",
+    "pubDate": "15.07.2026 05:28:00",
+    "sortDate": 1784093280000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "University of Melbourne ‘sharply’ changed protest policies after pro-Palestine sit-ins, commission hears",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/15/antisemitism-royal-commission-university-of-melbourne-protest-policies-ntwnfb",
+    "pubDate": "15.07.2026 05:14:10",
+    "sortDate": 1784092450000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
+    "link": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
+    "pubDate": "15.07.2026 05:00:46",
+    "sortDate": 1784091646000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Green-led council plans to ban cooperation with Home Office on immigration raids",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/15/green-led-council-plans-to-ban-cooperation-with-home-office-on-immigration-raids",
+    "pubDate": "15.07.2026 05:00:46",
+    "sortDate": 1784091646000,
     "source": "The Guardian"
   },
   {
@@ -14,38 +77,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Icac inquiry raises questions over whether taxpayer funds were used in alleged illegal political donations",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/15/icac-catholic-schools-nsw-liberal-party",
-    "pubDate": "15.07.2026 04:13:17",
-    "sortDate": 1784088797000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Melbourne council votes to scrap Lime ebikes for failing to meet ‘bare minimum standards’",
     "link": "https://www.theguardian.com/australia-news/2026/jul/15/lime-bikes-cancel-ban-yarra-city-council-melbourne",
     "pubDate": "15.07.2026 04:05:43",
     "sortDate": 1784088343000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Minister breaks ranks with Victorian premier by calling for explanation for alleged wrongdoing on project",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/15/melissa-horne-cfmeu-allegations-hospital-project-ntwnfb",
-    "pubDate": "15.07.2026 04:04:58",
-    "sortDate": 1784088298000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump again threatens to strike Iran’s power plants amid impasse over strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz",
-    "pubDate": "15.07.2026 04:04:47",
-    "sortDate": 1784088287000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Barnaby Joyce claims Australia is a ‘Christian nation’ and says many First Nations people would agree",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/15/barnaby-joyce-australia-christian-first-nations-ntwnfb",
-    "pubDate": "15.07.2026 03:53:02",
-    "sortDate": 1784087582000,
     "source": "The Guardian"
   },
   {
@@ -77,20 +112,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Unprecedented’ changes in UK climate are normalising extremes, report says",
-    "link": "https://www.theguardian.com/environment/2026/jul/15/uk-climate-extreme-weather-2025-hottest-year-on-record",
-    "pubDate": "14.07.2026 23:01:38",
-    "sortDate": 1784070098000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "MPs call for ban on fast food outlets opening near schools to tackle obesity",
-    "link": "https://www.theguardian.com/society/2026/jul/15/mp-ban-fast-food-outlets-schools-tackle-obesity",
-    "pubDate": "14.07.2026 23:01:38",
-    "sortDate": 1784070098000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
     "link": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
     "pubDate": "14.07.2026 22:38:04",
@@ -116,27 +137,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/14/supreme-court-justices-security-budget",
     "pubDate": "14.07.2026 21:54:30",
     "sortDate": 1784066070000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew",
-    "link": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
-    "pubDate": "14.07.2026 21:30:36",
-    "sortDate": 1784064636000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Global cooperation needed to tackle AI threats, says Bank of England governor",
-    "link": "https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor",
-    "pubDate": "14.07.2026 20:10:34",
-    "sortDate": 1784059834000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hillsborough law symbolises new era as power passes from Starmer to Burnham",
-    "link": "https://www.theguardian.com/politics/2026/jul/14/hillsborough-law-new-era-starmer-burnham-labour",
-    "pubDate": "14.07.2026 20:00:24",
-    "sortDate": 1784059224000,
     "source": "The Guardian"
   },
   {
@@ -196,62 +196,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "World Cup football’s other goal: Helping young people talk about mental health",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167941",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Gaza aid challenges persist, renewed push for clean energy, Sudan cholera update",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167939",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "West Africa and the Sahel: Terrorism is changing its face",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167940",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Independent expert urges UK leaders to uphold Supreme Court ruling on women’s rights",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167937",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167935",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167936",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "People continue to stand by refugees, Gen Z shows most empathy",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167934",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167933",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
     "title": "China’s monthly car ‌exports top 1m for first time as overall trade soars",
     "link": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs",
     "pubDate": "14.07.2026 10:32:23",
@@ -301,69 +245,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "International Criminal Court ‘a critical cog’ in global justice efforts",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167932",
-    "pubDate": "13.07.2026 12:00:00",
-    "sortDate": 1783944000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Aid deliveries to Gaza restricted, UN prepares El Nino response, El Salvador eliminates disease",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167930",
-    "pubDate": "13.07.2026 12:00:00",
-    "sortDate": 1783944000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167929",
-    "pubDate": "13.07.2026 12:00:00",
-    "sortDate": 1783944000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167924",
-    "pubDate": "13.07.2026 12:00:00",
-    "sortDate": 1783944000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Despite hurdles, don’t give up on Sustainable Development Goals, UN urges",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167927",
-    "pubDate": "13.07.2026 12:00:00",
-    "sortDate": 1783944000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Afghanistan: 3.7 million young lives at risk of malnutrition, UNICEF warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167925",
-    "pubDate": "13.07.2026 12:00:00",
-    "sortDate": 1783944000000,
-    "source": "UN News"
-  },
-  {
-    "title": "From NASA to the classroom: The engineer bringing AI to those left behind",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167920",
-    "pubDate": "12.07.2026 12:00:00",
-    "sortDate": 1783857600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167923",
-    "pubDate": "12.07.2026 12:00:00",
-    "sortDate": 1783857600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Reviving communities home by home in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167921",
-    "pubDate": "12.07.2026 12:00:00",
-    "sortDate": 1783857600000,
-    "source": "UN News"
-  },
-  {
     "title": "Experts warn of ways screwworm could spread in the US and new difficulties in keeping it at bay",
     "link": "https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry",
     "pubDate": "12.07.2026 11:00:17",
@@ -385,20 +266,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Thai youth leaders push for inclusion, partnership and lasting change",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167917",
-    "pubDate": "11.07.2026 12:00:00",
-    "sortDate": 1783771200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167922",
-    "pubDate": "11.07.2026 12:00:00",
-    "sortDate": 1783771200000,
-    "source": "UN News"
-  },
-  {
     "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
     "link": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
     "pubDate": "11.07.2026 11:59:11",
@@ -413,88 +280,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167918",
-    "pubDate": "10.07.2026 12:00:00",
-    "sortDate": 1783684800000,
-    "source": "UN News"
-  },
-  {
-    "title": "South Sudan: UN acts ahead of drought to protect thousands",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167915",
-    "pubDate": "10.07.2026 12:00:00",
-    "sortDate": 1783684800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167914",
-    "pubDate": "10.07.2026 12:00:00",
-    "sortDate": 1783684800000,
-    "source": "UN News"
-  },
-  {
-    "title": "New cholera outbreak alert for Sudan’s war-weary communities",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167913",
-    "pubDate": "10.07.2026 12:00:00",
-    "sortDate": 1783684800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Aid cuts leave at least one million women and girls without vital support",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167908",
-    "pubDate": "10.07.2026 12:00:00",
-    "sortDate": 1783684800000,
-    "source": "UN News"
-  },
-  {
     "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
     "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
     "pubDate": "10.07.2026 07:00:14",
     "sortDate": 1783666814000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Diplomats go virtual to witness Gaza displacement site up close",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167912",
-    "pubDate": "09.07.2026 12:00:00",
-    "sortDate": 1783598400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Peak heat in Europe just broke historic 1970s records",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167911",
-    "pubDate": "09.07.2026 12:00:00",
-    "sortDate": 1783598400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World must move faster on Ebola response for DR Congo: UN relief chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167910",
-    "pubDate": "09.07.2026 12:00:00",
-    "sortDate": 1783598400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167909",
-    "pubDate": "09.07.2026 12:00:00",
-    "sortDate": 1783598400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167906",
-    "pubDate": "09.07.2026 12:00:00",
-    "sortDate": 1783598400000,
-    "source": "UN News"
-  },
-  {
-    "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167905",
-    "pubDate": "09.07.2026 12:00:00",
-    "sortDate": 1783598400000,
-    "source": "UN News"
   },
   {
     "title": "US charges Indian criminal gang leader with organising murder of Canadian Sikh activist",
