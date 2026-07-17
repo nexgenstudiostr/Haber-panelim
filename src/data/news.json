@@ -1,16 +1,65 @@
 [
   {
-    "title": "Australia news live: Mark Butler ridicules Pauline Hanson’s NDIS claims on UK far-right activist’s podcast",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
-    "pubDate": "16.07.2026 23:39:22",
-    "sortDate": 1784245162000,
+    "title": "Sinkhole on Sunset Boulevard: broken water pipe floods LA-area hotspot",
+    "link": "https://www.theguardian.com/us-news/2026/jul/16/los-angeles-sinkhole-flooding",
+    "pubDate": "17.07.2026 01:53:31",
+    "sortDate": 1784253211000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump’s speech rumored to feature elections or Iran after president teases ‘really big news’ – live updates",
+    "title": "Australia news live: One Nation policy has ‘a bit of cray cray’, says Nationals senator Ross Cadell",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
+    "pubDate": "17.07.2026 01:52:59",
+    "sortDate": 1784253179000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Donald Trump accuses China of ‘sinister election meddling’ in primetime address – live updates",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/16/trump-speech-address-iran-election-latest-updates",
-    "pubDate": "16.07.2026 23:37:09",
-    "sortDate": 1784245029000,
+    "pubDate": "17.07.2026 01:52:23",
+    "sortDate": 1784253143000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pauline Hanson laments end of White Australia policy and talks up daughter’s leadership potential",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/17/pauline-hanson-laments-end-of-white-australia-policy-and-talks-up-daughters-leadership-potential-ntwnfb",
+    "pubDate": "17.07.2026 01:47:52",
+    "sortDate": 1784252872000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Telstra staff unaware of mass outage risk as critical software failure ‘rippled slowly across the network’",
+    "link": "https://www.theguardian.com/business/2026/jul/17/telstra-missing-software-update-undocumented-design-change-outage",
+    "pubDate": "17.07.2026 01:00:08",
+    "sortDate": 1784250008000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Family devastated by ‘unacceptable’ charges over methanol deaths of Australian teenagers in Laos",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/17/laos-methanol-poisoning-charges-bianca-jones-holly-bowles-deaths",
+    "pubDate": "17.07.2026 00:34:00",
+    "sortDate": 1784248440000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cyclosporiasis: officials looking at Taco Bell lettuce supplier as potential source of outbreak",
+    "link": "https://www.theguardian.com/us-news/2026/jul/16/taco-bell-lettuce-cyclosporiasis-outbreak",
+    "pubDate": "17.07.2026 00:23:45",
+    "sortDate": 1784247825000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Brazen corruption’: critics denounce Trump Media plan to sell priority access to Truth Social posts",
+    "link": "https://www.theguardian.com/us-news/2026/jul/16/trump-media-truth-social-posts",
+    "pubDate": "17.07.2026 00:13:18",
+    "sortDate": 1784247198000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘We are waiting with bated breath’: gathering El Niño could be the strongest on record, BoM says",
+    "link": "https://www.theguardian.com/environment/2026/jul/17/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
+    "pubDate": "16.07.2026 23:56:52",
+    "sortDate": 1784246212000,
     "source": "The Guardian"
   },
   {
@@ -21,31 +70,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Florida House write-in candidate arrested for allegedly threatening to kill Trump",
-    "link": "https://www.theguardian.com/us-news/2026/jul/16/marine-arrested-charged-allegedly-threatening-to-kill-trump",
-    "pubDate": "16.07.2026 22:47:09",
-    "sortDate": 1784242029000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
     "link": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
     "pubDate": "16.07.2026 22:21:08",
     "sortDate": 1784240468000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump to deliver TV address amid speculation over elections announcement",
-    "link": "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday",
-    "pubDate": "16.07.2026 22:00:50",
-    "sortDate": 1784239250000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘The pigeon came to them seeking help’: California firefighters give oxygen to suffering bird",
-    "link": "https://www.theguardian.com/us-news/2026/jul/16/pigeon-california-firefighters",
-    "pubDate": "16.07.2026 21:59:45",
-    "sortDate": 1784239185000,
     "source": "The Guardian"
   },
   {
@@ -133,20 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Smoking rates fall to historic low across Australia despite the rise of illicit tobacco",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/17/smoking-rate-australia-historic-low-illicit-tobacco",
-    "pubDate": "16.07.2026 15:00:43",
-    "sortDate": 1784214043000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘We are waiting with bated breath’: Super El Niño forecast could make 2027 hottest year on record, BoM says",
-    "link": "https://www.theguardian.com/environment/2026/jul/17/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
-    "pubDate": "16.07.2026 15:00:41",
-    "sortDate": 1784214041000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Target of Monaco bomb blames attack on Ukrainian spy agency",
     "link": "https://www.theguardian.com/world/2026/jul/16/target-of-monaco-bomb-blames-attack-on-ukrainian-spy-agency",
     "pubDate": "16.07.2026 14:51:34",
@@ -224,24 +238,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Assistant multicultural affairs minister ‘appalled’ by Tony Abbott’s anti-immigration video – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jul/16/divine-playhouse-josh-thomas-workplace-drug-survey-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-    "pubDate": "16.07.2026 07:47:06",
-    "sortDate": 1784188026000,
-    "source": "The Guardian"
-  },
-  {
     "title": "More than 500 feared dead after reports of two shipwrecks off Myanmar, UN says",
     "link": "https://www.theguardian.com/world/2026/jul/16/hundreds-of-refugees-feared-dead-after-two-suspected-shipwrecks-off-myanmar-un",
     "pubDate": "16.07.2026 07:22:41",
     "sortDate": 1784186561000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Snake in a chain: lucky escape for Australian woman after bite from deadly eastern brown caught in bike wheel",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/16/snake-bike-chain-northern-rivers-rail-trail-tweed-nsw-australia",
-    "pubDate": "16.07.2026 06:52:54",
-    "sortDate": 1784184774000,
     "source": "The Guardian"
   },
   {
