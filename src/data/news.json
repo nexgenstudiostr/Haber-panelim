@@ -1,5 +1,26 @@
 [
   {
+    "title": "What will Keir Starmer do next?",
+    "link": "https://www.theguardian.com/politics/2026/jul/18/what-will-keir-starmer-do-next",
+    "pubDate": "18.07.2026 11:00:02",
+    "sortDate": 1784372402000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+    "link": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+    "pubDate": "18.07.2026 10:54:07",
+    "sortDate": 1784372047000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham considers radical shake-up to cut energy bills",
+    "link": "https://www.theguardian.com/money/2026/jul/18/andy-burnham-cut-energy-bills-gas-heat-pumps",
+    "pubDate": "18.07.2026 10:45:01",
+    "sortDate": 1784371501000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Poultry sector growth plan risks UK national security, campaigners warn",
     "link": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
     "pubDate": "18.07.2026 10:00:01",
@@ -42,24 +63,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "London Underground users should know about toxic dust risk, whistleblower says",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/18/london-underground-passengers-should-know-about-toxic-dust-risks-whistleblower-says",
-    "pubDate": "18.07.2026 06:58:47",
-    "sortDate": 1784357927000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US launches seventh night of Iran strikes as Hormuz conflict escalates",
     "link": "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates",
     "pubDate": "18.07.2026 06:03:13",
     "sortDate": 1784354593000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Farage’s furious clash with Times editor stuns figures close to him",
-    "link": "https://www.theguardian.com/politics/2026/jul/18/nigel-farage-clash-times-editor-reform",
-    "pubDate": "18.07.2026 06:00:51",
-    "sortDate": 1784354451000,
     "source": "The Guardian"
   },
   {
@@ -196,6 +203,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167973",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Djibouti: Emergency alert spotlights sharp hunger spike",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167971",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, increased Ebola deaths in communities, 12th anniversary of MH17",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167970",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167967",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167965",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
     "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
     "link": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
     "pubDate": "17.07.2026 09:20:57",
@@ -259,17 +301,73 @@
     "source": "The Guardian"
   },
   {
+    "title": "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167956",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: Training the next generation to fight corruption",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167931",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167964",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peacekeepers step up support as families return to south Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167961",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167960",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167959",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "As aid dries up, countries pledge to close the $4 trillion development gap",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167957",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Heat deaths are not inevitable’: WHO pushes Europe to heat‑proof its hospitals",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167955",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "More than 500 people feared dead in double Myanmar shipwreck tragedy",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167951",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
     "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
     "link": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
     "pubDate": "16.07.2026 11:33:27",
     "sortDate": 1784201607000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner",
-    "link": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-    "pubDate": "16.07.2026 08:13:50",
-    "sortDate": 1784189630000,
     "source": "The Guardian"
   },
   {
@@ -285,6 +383,118 @@
     "pubDate": "16.07.2026 04:30:13",
     "sortDate": 1784176213000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Schools closed in West Bank, AI in healthcare, Indigenous rights",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167950",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to full-on war",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167949",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167945",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "New guidance offers hope for reducing the global toll of dementia",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167948",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Colombia: Pockets of insecurity challenge ‘vibrant democracy’, Security Council told",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167946",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Looted gold and gum arabic are bankrolling Sudan's war, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167944",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Childhood vaccination rate increases slightly, but millions remain unprotected",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167942",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Skills for an uncertain future: How youth can navigate a changing job market",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167943",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World Cup football’s other goal: Helping young people talk about mental health",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167941",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Gaza aid challenges persist, renewed push for clean energy, Sudan cholera update",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167939",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "West Africa and the Sahel: Terrorism is changing its face",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167940",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Independent expert urges UK leaders to uphold Supreme Court ruling on women’s rights",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167937",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167935",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167936",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "People continue to stand by refugees, Gen Z shows most empathy",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167934",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167933",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
   },
   {
     "title": "Protests engulf Indian state after rape and murder of 11-year-old girl",
