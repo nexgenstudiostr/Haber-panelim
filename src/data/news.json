@@ -1,9 +1,30 @@
 [
   {
-    "title": "DHS chief threatens states that refuse Trump’s election demands after president’s widely condemned speech – live",
+    "title": "San Francisco police find wreckage of boat that sank as body identified",
+    "link": "https://www.theguardian.com/us-news/2026/jul/17/san-francisco-boat-wreckage-alcatraz",
+    "pubDate": "18.07.2026 00:39:46",
+    "sortDate": 1784335186000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Election experts cast doubt on Trump and DHS chief’s claim 250,000 noncitizens are registered to vote in four US states – live",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
-    "pubDate": "17.07.2026 23:39:29",
-    "sortDate": 1784331569000,
+    "pubDate": "18.07.2026 00:37:02",
+    "sortDate": 1784335022000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Paul Pelosi faces hit-and-run charge after he allegedly crashed into parked vehicle",
+    "link": "https://www.theguardian.com/us-news/2026/jul/17/paul-pelosi-hit-and-run-charge",
+    "pubDate": "18.07.2026 00:12:45",
+    "sortDate": 1784333565000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One person dies amid legionnaires’ disease outbreak in New York City",
+    "link": "https://www.theguardian.com/us-news/2026/jul/17/one-person-dies-legionnaires-disease-outbreak-new-york-city",
+    "pubDate": "17.07.2026 23:40:32",
+    "sortDate": 1784331632000,
     "source": "The Guardian"
   },
   {
@@ -14,13 +35,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Republicans threaten Canada with sanctions over drifting wildfire smoke",
-    "link": "https://www.theguardian.com/us-news/2026/jul/17/republicans-canada-sanctions-wildfire-smoke",
-    "pubDate": "17.07.2026 22:32:21",
-    "sortDate": 1784327541000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
     "link": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
     "pubDate": "17.07.2026 22:28:42",
@@ -28,21 +42,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Off-duty employee at Colorado ICE facility arrested for shooting protester",
-    "link": "https://www.theguardian.com/us-news/2026/jul/17/colorado-ice-employee-arrested-shooting-protester",
-    "pubDate": "17.07.2026 22:11:14",
-    "sortDate": 1784326274000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Kidnapped US Forest Service employees released after more than 12 hours, say authorities",
-    "link": "https://www.theguardian.com/us-news/2026/jul/17/kidnapped-us-forest-service-employees-released",
-    "pubDate": "17.07.2026 21:43:20",
-    "sortDate": 1784324600000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Distillery owner could face only three months in jail over alleged poisoning Australian teenagers",
+    "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
     "link": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
     "pubDate": "17.07.2026 21:36:05",
     "sortDate": 1784324165000,
@@ -182,41 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167973",
-    "pubDate": "17.07.2026 12:00:00",
-    "sortDate": 1784289600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Djibouti: Emergency alert spotlights sharp hunger spike",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167971",
-    "pubDate": "17.07.2026 12:00:00",
-    "sortDate": 1784289600000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, increased Ebola deaths in communities, 12th anniversary of MH17",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167970",
-    "pubDate": "17.07.2026 12:00:00",
-    "sortDate": 1784289600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167967",
-    "pubDate": "17.07.2026 12:00:00",
-    "sortDate": 1784289600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167965",
-    "pubDate": "17.07.2026 12:00:00",
-    "sortDate": 1784289600000,
-    "source": "UN News"
-  },
-  {
     "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
     "link": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
     "pubDate": "17.07.2026 09:20:57",
@@ -259,6 +224,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Cyclist Rohan Dennis pleads guilty to driving with suspended licence after crash that killed wife",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/17/cyclist-rohan-dennis-pleads-guilty-to-driving-with-suspended-licence-after-crash-that-killed-wife-ntwnfb",
+    "pubDate": "17.07.2026 03:59:52",
+    "sortDate": 1784260792000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
     "link": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
     "pubDate": "16.07.2026 22:21:08",
@@ -278,69 +250,6 @@
     "pubDate": "16.07.2026 15:20:58",
     "sortDate": 1784215258000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167956",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Haiti: Training the next generation to fight corruption",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167931",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167964",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Peacekeepers step up support as families return to south Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167961",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167960",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
-  },
-  {
-    "title": "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167959",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
-  },
-  {
-    "title": "As aid dries up, countries pledge to close the $4 trillion development gap",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167957",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Heat deaths are not inevitable’: WHO pushes Europe to heat‑proof its hospitals",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167955",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
-  },
-  {
-    "title": "More than 500 people feared dead in double Myanmar shipwreck tragedy",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167951",
-    "pubDate": "16.07.2026 12:00:00",
-    "sortDate": 1784203200000,
-    "source": "UN News"
   },
   {
     "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
@@ -371,130 +280,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Fears for New Zealand’s native species as first bird flu case emerges",
-    "link": "https://www.theguardian.com/world/2026/jul/16/new-zealand-first-h5n1-bird-flu-case",
-    "pubDate": "16.07.2026 02:23:46",
-    "sortDate": 1784168626000,
-    "source": "The Guardian"
-  },
-  {
     "title": "How global heating supercharged floods in West Africa, displacing thousands",
     "link": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
     "pubDate": "16.07.2026 00:01:08",
     "sortDate": 1784160068000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: Schools closed in West Bank, AI in healthcare, Indigenous rights",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167950",
-    "pubDate": "15.07.2026 12:00:00",
-    "sortDate": 1784116800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to full-on war",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167949",
-    "pubDate": "15.07.2026 12:00:00",
-    "sortDate": 1784116800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167945",
-    "pubDate": "15.07.2026 12:00:00",
-    "sortDate": 1784116800000,
-    "source": "UN News"
-  },
-  {
-    "title": "New guidance offers hope for reducing the global toll of dementia",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167948",
-    "pubDate": "15.07.2026 12:00:00",
-    "sortDate": 1784116800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Colombia: Pockets of insecurity challenge ‘vibrant democracy’, Security Council told",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167946",
-    "pubDate": "15.07.2026 12:00:00",
-    "sortDate": 1784116800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Looted gold and gum arabic are bankrolling Sudan's war, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167944",
-    "pubDate": "15.07.2026 12:00:00",
-    "sortDate": 1784116800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Childhood vaccination rate increases slightly, but millions remain unprotected",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167942",
-    "pubDate": "15.07.2026 12:00:00",
-    "sortDate": 1784116800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Skills for an uncertain future: How youth can navigate a changing job market",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167943",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World Cup football’s other goal: Helping young people talk about mental health",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167941",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Gaza aid challenges persist, renewed push for clean energy, Sudan cholera update",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167939",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "West Africa and the Sahel: Terrorism is changing its face",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167940",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Independent expert urges UK leaders to uphold Supreme Court ruling on women’s rights",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167937",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167935",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167936",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "People continue to stand by refugees, Gen Z shows most empathy",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167934",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167933",
-    "pubDate": "14.07.2026 12:00:00",
-    "sortDate": 1784030400000,
-    "source": "UN News"
   },
   {
     "title": "Protests engulf Indian state after rape and murder of 11-year-old girl",
