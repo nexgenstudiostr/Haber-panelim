@@ -1,9 +1,79 @@
 [
   {
-    "title": "News live: Jewish Australians experienced ‘breach of sense of safety’ after 7 October, Mark Dreyfus tells royal commission",
+    "title": "Australia news live: Derryn Hinch remembered as ‘journalistic James Bond’; Australian woman who allegedly joined Islamic State granted bail",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
-    "pubDate": "20.07.2026 02:04:52",
-    "sortDate": 1784513092000,
+    "pubDate": "20.07.2026 05:48:39",
+    "sortDate": 1784526519000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran vows not a ‘single drop’ of oil or gas will pass strait of Hormuz as US carries out ninth night of strikes – Middle East crisis live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
+    "pubDate": "20.07.2026 05:42:53",
+    "sortDate": 1784526173000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rising numbers of younger midwives quitting NHS in England, data shows",
+    "link": "https://www.theguardian.com/society/2026/jul/20/younger-midwives-nhs-england-burnout-maternity-staffing",
+    "pubDate": "20.07.2026 05:00:49",
+    "sortDate": 1784523649000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham says he will go ‘faster’ than Starmer. Why is that so hard?",
+    "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-says-he-will-go-faster-than-keir-starmer",
+    "pubDate": "20.07.2026 05:00:48",
+    "sortDate": 1784523648000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘It’s total devastation’: inside the Amazonian war against illegal gold mining",
+    "link": "https://www.theguardian.com/world/2026/jul/20/brazil-gold-rush-illegal-mining-settlements-indigenous-lands",
+    "pubDate": "20.07.2026 05:00:47",
+    "sortDate": 1784523647000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Retired UK civil servants failed by pension outsourcing, government says",
+    "link": "https://www.theguardian.com/business/2026/jul/20/retired-uk-civil-servants-failed-pension-outsourcing-government-capita",
+    "pubDate": "20.07.2026 05:00:47",
+    "sortDate": 1784523647000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ban on protests outside synagogues and Jewish schools should be considered, Dreyfus tells royal commission",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/20/mark-dreyfus-protest-ban-synagogues-jewish-schools-antisemitism-royal-commission-ntwnfb",
+    "pubDate": "20.07.2026 05:00:39",
+    "sortDate": 1784523639000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
+    "link": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
+    "pubDate": "20.07.2026 04:43:37",
+    "sortDate": 1784522617000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Huge search operation after passenger ferry sinks off coast of Guyana",
+    "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
+    "pubDate": "20.07.2026 03:54:52",
+    "sortDate": 1784519692000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
+    "pubDate": "20.07.2026 03:12:01",
+    "sortDate": 1784517121000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘When I get home, my whole body aches’: extreme heat saps health and wages of India’s poorest workers",
+    "link": "https://www.theguardian.com/environment/2026/jul/20/extreme-heat-india-outdoor-workers-poverty",
+    "pubDate": "20.07.2026 03:00:44",
+    "sortDate": 1784516444000,
     "source": "The Guardian"
   },
   {
@@ -11,13 +81,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
     "pubDate": "20.07.2026 02:01:55",
     "sortDate": 1784512915000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US targets Iran in ninth night of strikes in wake of US troop deaths – Middle East crisis live",
-    "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-    "pubDate": "20.07.2026 01:58:41",
-    "sortDate": 1784512721000,
     "source": "The Guardian"
   },
   {
@@ -63,13 +126,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Dozens missing after passenger ferry sinks off coast of Guyana",
-    "link": "https://www.theguardian.com/world/2026/jul/19/dozens-missing-after-passenger-ferry-sinks-off-coast-of-guyana",
-    "pubDate": "19.07.2026 19:39:58",
-    "sortDate": 1784489998000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Mission in Iran war has pivoted toward ensuring oil flow, Trump official says",
     "link": "https://www.theguardian.com/us-news/2026/jul/19/trump-official-iran-war-oil-flow-strait-hormuz",
     "pubDate": "19.07.2026 18:48:12",
@@ -81,13 +137,6 @@
     "link": "https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm",
     "pubDate": "19.07.2026 18:32:36",
     "sortDate": 1784485956000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham’s vow to end Labour briefing wars will test his grip on the party",
-    "link": "https://www.theguardian.com/politics/2026/jul/19/burnham-vow-end-labour-briefing-wars-test",
-    "pubDate": "19.07.2026 18:00:33",
-    "sortDate": 1784484033000,
     "source": "The Guardian"
   },
   {
@@ -105,20 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Thames Water creditors seek talks with Burnham as nationalisation looms",
-    "link": "https://www.theguardian.com/business/2026/jul/19/thames-water-creditors-prepare-legal-fight-nationalisation",
-    "pubDate": "19.07.2026 16:17:11",
-    "sortDate": 1784477831000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘What has the BBC ever done for me?’ Romesh Ranganathan reboots corporation’s 1985 licence fee plea",
-    "link": "https://www.theguardian.com/media/2026/jul/19/bbc-advert-romesh-ranganathan-reboot-john-cleese-licence-fee-plea",
-    "pubDate": "19.07.2026 16:02:20",
-    "sortDate": 1784476940000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘He’s a war criminal’: Mamdani exploring whether he can arrest Netanyahu if he visits New York",
     "link": "https://www.theguardian.com/us-news/2026/jul/19/mamdani-netanyahu",
     "pubDate": "19.07.2026 15:38:11",
@@ -133,17 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Parents were told asbestos in play sand was low risk unless ‘pulverised’. But regulators hadn’t tested it themselves",
+    "title": "Parents were told asbestos in play sand was low risk unless ‘pulverised’. But regulators hadn’t tested it",
     "link": "https://www.theguardian.com/australia-news/2026/jul/20/play-sand-asbestos-safety-assurances-australia-nz-based-on-supplier-assessment",
     "pubDate": "19.07.2026 15:00:30",
     "sortDate": 1784473230000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
-    "pubDate": "19.07.2026 12:00:27",
-    "sortDate": 1784462427000,
     "source": "The Guardian"
   },
   {
@@ -165,13 +193,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
     "pubDate": "19.07.2026 08:35:16",
     "sortDate": 1784450116000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Victoria announces new social media ‘demasking’ powers for accounts accused of vilification",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
-    "pubDate": "19.07.2026 07:22:01",
-    "sortDate": 1784445721000,
     "source": "The Guardian"
   },
   {
@@ -207,13 +228,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
     "pubDate": "18.07.2026 14:13:36",
     "sortDate": 1784384016000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-    "link": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
-    "pubDate": "18.07.2026 13:14:57",
-    "sortDate": 1784380497000,
     "source": "The Guardian"
   },
   {
@@ -259,13 +273,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
-    "link": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied",
-    "pubDate": "17.07.2026 06:57:08",
-    "sortDate": 1784271428000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
     "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
     "pubDate": "16.07.2026 15:20:58",
@@ -305,13 +312,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/08/murder-canada-sikh-activist-hardeep-singh-nijjar-indian-criminal-gang-leader-charged",
     "pubDate": "08.07.2026 18:34:20",
     "sortDate": 1783535660000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pakistan locates wreckage of Boeing 737 cargo plane that went missing off coast",
-    "link": "https://www.theguardian.com/world/2026/jul/08/boeing-737-cargo-plane-missing-near-karachi",
-    "pubDate": "08.07.2026 15:56:38",
-    "sortDate": 1783526198000,
     "source": "The Guardian"
   }
 ]
