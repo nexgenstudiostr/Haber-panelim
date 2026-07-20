@@ -1,65 +1,114 @@
 [
   {
-    "title": "Andy Burnham gives first speech after becoming UK prime minister – UK politics live",
+    "title": "Andy Burnham pledges to end rough sleeping in first speech as prime minister – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-    "pubDate": "20.07.2026 11:53:35",
-    "sortDate": 1784548415000,
+    "pubDate": "20.07.2026 14:54:46",
+    "sortDate": 1784559286000,
     "source": "The Guardian"
   },
   {
-    "title": "US identifies soldiers killed in Iranian attack in Jordan after ninth night of strikes – Middle East crisis live",
+    "title": "Yemen’s Houthis declare naval blockade against Saudi Arabia as Kuwait says it is under fire from Iran – Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-    "pubDate": "20.07.2026 11:42:37",
-    "sortDate": 1784547757000,
+    "pubDate": "20.07.2026 14:48:42",
+    "sortDate": 1784558922000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
+    "pubDate": "20.07.2026 14:45:18",
+    "sortDate": 1784558718000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Big Bear’s missing bald eagle believed to have been found alive but injured",
+    "link": "https://www.theguardian.com/us-news/2026/jul/20/bald-eagle-jackie-big-bear-lake",
+    "pubDate": "20.07.2026 14:36:39",
+    "sortDate": 1784558199000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump acknowledges that jet from Qatar lacks defensive systems of Air Force One",
+    "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-air-force-one-qatar",
+    "pubDate": "20.07.2026 14:31:05",
+    "sortDate": 1784557865000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Double murder accused strangled Devon cellmate while awaiting trial, jury told",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/20/james-desborough-murder-killed-cellmate-devon-strangled",
+    "pubDate": "20.07.2026 14:19:44",
+    "sortDate": 1784557184000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Avengers: Doomsday trailer reveals star-packed Marvel adventure",
+    "link": "https://www.theguardian.com/film/2026/jul/20/avengers-doomsday-trailer",
+    "pubDate": "20.07.2026 14:17:20",
+    "sortDate": 1784557040000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Maine Democrats rally around Troy Jackson to replace Graham Platner in crucial Senate race – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates",
+    "pubDate": "20.07.2026 14:14:48",
+    "sortDate": 1784556888000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First Thing: US continues attacks on Iran ‘in honor’ of dead service members | Martin Belam",
+    "link": "https://www.theguardian.com/us-news/2026/jul/20/first-thing-us-attacks-iran-service-personnel-deaths",
+    "pubDate": "20.07.2026 14:05:50",
+    "sortDate": 1784556350000,
     "source": "The Guardian"
   },
   {
     "title": "Tens of thousands of Cockroach party protesters defy police with Delhi march",
     "link": "https://www.theguardian.com/world/2026/jul/20/cockroach-janta-party-protest-march-sonam-wangchuk-india-parliament",
-    "pubDate": "20.07.2026 11:37:57",
-    "sortDate": 1784547477000,
+    "pubDate": "20.07.2026 14:01:14",
+    "sortDate": 1784556074000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘My shirt was wringing’: National Express bus drivers speak out on 40C conditions",
+    "link": "https://www.theguardian.com/environment/2026/jul/20/national-express-bus-drivers-40c-conditions-heatwave-west-midlands",
+    "pubDate": "20.07.2026 13:51:42",
+    "sortDate": 1784555502000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham vows his arrival in power will be ‘circuit breaker’ moment for UK",
+    "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
+    "pubDate": "20.07.2026 13:01:22",
+    "sortDate": 1784552482000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Strategic move by Hungary’s Magyar as he picks chess prodigy for president",
+    "link": "https://www.theguardian.com/world/2026/jul/20/peter-magyar-judit-polgar-president-hungary-chess-prodigy-strategic-move",
+    "pubDate": "20.07.2026 12:42:50",
+    "sortDate": 1784551370000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167972",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Moon Day focuses growing concerns around space junk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167976",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
   },
   {
     "title": "Investigation of Nigel Farage over undeclared gifts is ‘kangaroo court’, says Reform MP",
     "link": "https://www.theguardian.com/politics/2026/jul/20/investigation-nigel-farage-undeclared-gifts-kangaroo-court-reform-mp-sarah-pochin",
     "pubDate": "20.07.2026 11:37:48",
     "sortDate": 1784547468000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Maine Democrats rally around Troy Jackson to replace Graham Platner in crucial Senate race – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates",
-    "pubDate": "20.07.2026 11:36:52",
-    "sortDate": 1784547412000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andy Burnham becomes UK prime minister after meeting King Charles",
-    "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
-    "pubDate": "20.07.2026 11:19:39",
-    "sortDate": 1784546379000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mother pleads for return of body of Indian woman killed as she slept in London",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/20/mother-pleads-return-body-indian-woman-killed-slept-london",
-    "pubDate": "20.07.2026 11:01:45",
-    "sortDate": 1784545305000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Experts warn of rise in sadistic online exploitation of vulnerable children",
-    "link": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning",
-    "pubDate": "20.07.2026 11:00:03",
-    "sortDate": 1784545203000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Complete shock and dismay’: scientists unite against Trump’s $1tn grant attack",
-    "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-grant-funding-attack-scientists",
-    "pubDate": "20.07.2026 11:00:02",
-    "sortDate": 1784545202000,
     "source": "The Guardian"
   },
   {
@@ -70,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "New York sculptor spent $100,000 to make a Charlie Kirk statue no one wants to buy",
-    "link": "https://www.theguardian.com/us-news/2026/jul/20/sculptor-charlie-kirk-statue-new-york",
-    "pubDate": "20.07.2026 10:00:52",
-    "sortDate": 1784541652000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US expands Iran offensive as diplomats claim talks ongoing",
     "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
     "pubDate": "20.07.2026 09:34:42",
@@ -84,24 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump could ‘do something positive’ rather than fixate on 2020 loss, Fetterman says",
-    "link": "https://www.theguardian.com/us-news/2026/jul/20/fetterman-trump-fixation-2020-loss",
-    "pubDate": "20.07.2026 09:00:51",
-    "sortDate": 1784538051000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Israel criticises Labor’s draft Palestine policy in rare foreign intervention ahead of party conference",
     "link": "https://www.theguardian.com/australia-news/2026/jul/20/israel-intervention-labor-national-conference-draft-policy-platform-palestine-ntwnfb",
     "pubDate": "20.07.2026 08:59:50",
     "sortDate": 1784537990000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI",
-    "link": "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai",
-    "pubDate": "20.07.2026 08:37:52",
-    "sortDate": 1784536672000,
     "source": "The Guardian"
   },
   {
@@ -168,7 +196,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "US says another troop killed as Israel warns Tehran’s attacks coming close",
+    "title": "New US military death as Israel warns Tehran’s attacks coming close",
     "link": "https://www.theguardian.com/us-news/2026/jul/19/military-service-member-death-iran-airstrikes",
     "pubDate": "19.07.2026 20:16:44",
     "sortDate": 1784492204000,
@@ -189,6 +217,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "Ukraine: UN condemns overnight attack on Kyiv",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167975",
+    "pubDate": "19.07.2026 12:00:00",
+    "sortDate": 1784462400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167963",
+    "pubDate": "19.07.2026 12:00:00",
+    "sortDate": 1784462400000,
+    "source": "UN News"
+  },
+  {
     "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
     "link": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
     "pubDate": "19.07.2026 11:00:25",
@@ -203,24 +245,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
-    "link": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
-    "pubDate": "19.07.2026 08:35:16",
-    "sortDate": 1784450116000,
-    "source": "The Guardian"
-  },
-  {
     "title": "São Tomé and Príncipe heads to polls in tense presidential election",
     "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
     "pubDate": "19.07.2026 04:00:16",
     "sortDate": 1784433616000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hungary’s president agrees to stand down after law change ends his term",
-    "link": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
-    "pubDate": "18.07.2026 22:17:51",
-    "sortDate": 1784413071000,
     "source": "The Guardian"
   },
   {
@@ -236,6 +264,13 @@
     "pubDate": "18.07.2026 14:13:36",
     "sortDate": 1784384016000,
     "source": "The Guardian"
+  },
+  {
+    "title": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167974",
+    "pubDate": "18.07.2026 12:00:00",
+    "sortDate": 1784376000000,
+    "source": "UN News"
   },
   {
     "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
@@ -266,6 +301,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "Baristas behind bars: Thai prisoners brew a path back to daily life",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167954",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167973",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Djibouti: Emergency alert spotlights sharp hunger spike",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167971",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, Ebola deaths mount, 12th anniversary of MH17",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167970",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167967",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167965",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
     "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
     "link": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
     "pubDate": "17.07.2026 09:20:57",
@@ -287,6 +364,69 @@
     "source": "The Guardian"
   },
   {
+    "title": "Haiti: Training the next generation to fight corruption",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167931",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167956",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167964",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peacekeepers step up support as families return to south Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167961",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167960",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167959",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "As aid dries up, countries pledge to close the $4 trillion development gap",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167957",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Heat deaths are not inevitable’: WHO pushes Europe to heat‑proof its hospitals",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167955",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "More than 500 people feared dead in double Myanmar shipwreck tragedy",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167951",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
     "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
     "link": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
     "pubDate": "16.07.2026 11:33:27",
@@ -299,6 +439,76 @@
     "pubDate": "16.07.2026 07:22:41",
     "sortDate": 1784186561000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Schools closed in West Bank, AI in healthcare, Indigenous rights",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167950",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to full-on war",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167949",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167945",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "New guidance offers hope for reducing the global toll of dementia",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167948",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Colombia: Pockets of insecurity challenge ‘vibrant democracy’, Security Council told",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167946",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Looted gold and gum arabic are bankrolling Sudan's war, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167944",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Childhood vaccination rate increases slightly, but millions remain unprotected",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167942",
+    "pubDate": "15.07.2026 12:00:00",
+    "sortDate": 1784116800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Skills for an uncertain future: How youth can navigate a changing job market",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167943",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World Cup football’s other goal: Helping young people talk about mental health",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167941",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Gaza aid challenges persist, renewed push for clean energy, Sudan cholera update",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167939",
+    "pubDate": "14.07.2026 12:00:00",
+    "sortDate": 1784030400000,
+    "source": "UN News"
   },
   {
     "title": "Protests engulf Indian state after rape and murder of 11-year-old girl",
