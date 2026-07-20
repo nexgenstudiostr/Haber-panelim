@@ -1,86 +1,156 @@
 [
   {
-    "title": "Andy Burnham pledges to end rough sleeping in first speech as prime minister – UK politics live",
+    "title": "Andy Burnham names John Healey as chancellor in first major reshuffle appointment – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-    "pubDate": "20.07.2026 14:54:46",
-    "sortDate": 1784559286000,
+    "pubDate": "20.07.2026 17:39:30",
+    "sortDate": 1784569170000,
     "source": "The Guardian"
   },
   {
-    "title": "Yemen’s Houthis declare naval blockade against Saudi Arabia as Kuwait says it is under fire from Iran – Middle East crisis live",
+    "title": "Afghanistan floods kill at least 20 people, with more than 100 missing",
+    "link": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
+    "pubDate": "20.07.2026 17:31:06",
+    "sortDate": 1784568666000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump says Iran ‘will pay’ for killing soldiers ‘many times over’ after Pezeshkian says country fighting ‘full-scale war’ – Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
-    "pubDate": "20.07.2026 14:48:42",
-    "sortDate": 1784558922000,
+    "pubDate": "20.07.2026 17:23:22",
+    "sortDate": 1784568202000,
     "source": "The Guardian"
   },
   {
-    "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – Europe live",
+    "title": "Ukraine’s army chief expected to lose job after week of protests",
+    "link": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests",
+    "pubDate": "20.07.2026 17:21:26",
+    "sortDate": 1784568086000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Maine Democrats rally around Troy Jackson to replace Graham Platner in crucial Senate race – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates",
+    "pubDate": "20.07.2026 17:18:42",
+    "sortDate": 1784567922000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weather warnings as tropical depression develops along US Gulf coast",
+    "link": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
+    "pubDate": "20.07.2026 16:55:04",
+    "sortDate": 1784566504000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Troy Jackson poised to replace Graham Platner as Democratic nominee in Maine Senate race",
+    "link": "https://www.theguardian.com/us-news/2026/jul/20/troy-jackson-maine-senate-race-graham-platner",
+    "pubDate": "20.07.2026 16:40:44",
+    "sortDate": 1784565644000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran’s president says country is in ‘full-scale war’ after expansion of US attacks",
+    "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
+    "pubDate": "20.07.2026 16:17:20",
+    "sortDate": 1784564240000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/21/antibiotic-resistant-bacteria-increasingly-leaving-children-vulnerable-to-common-infections-global-study-finds",
+    "pubDate": "20.07.2026 16:00:45",
+    "sortDate": 1784563245000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Civil rights groups sue Trump administration over childcare funding restrictions",
+    "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-administration-childcare-funding-restrictions-lawsuit",
+    "pubDate": "20.07.2026 16:00:45",
+    "sortDate": 1784563245000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham pledges to end rough sleeping in England in first speech as prime minister",
+    "link": "https://www.theguardian.com/society/2026/jul/20/andy-burnham-pledges-end-rough-sleeping-homelessness-prime-minister-first-speech",
+    "pubDate": "20.07.2026 15:55:21",
+    "sortDate": 1784562921000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
+    "link": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
+    "pubDate": "20.07.2026 15:52:58",
+    "sortDate": 1784562778000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Suspect held after explosion at FBI building in New York City",
+    "link": "https://www.theguardian.com/us-news/2026/jul/20/new-york-explosion-fbi-ice",
+    "pubDate": "20.07.2026 15:46:36",
+    "sortDate": 1784562396000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "GB News will not be investigated over ‘no riot in Belfast’ claim",
+    "link": "https://www.theguardian.com/media/2026/jul/20/gb-news-not-investigated-over-no-belfast-riot-claim-ofcom",
+    "pubDate": "20.07.2026 15:45:00",
+    "sortDate": 1784562300000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham promises ‘circuit breaker’ moment for UK as he becomes PM",
+    "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
+    "pubDate": "20.07.2026 15:41:20",
+    "sortDate": 1784562080000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russian attack on Odesa kills three after Ukraine targets Moscow with drones overnight – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/jul/20/ukraine-russia-drones-missiles-hungary-germany-latest-news-updates",
-    "pubDate": "20.07.2026 14:45:18",
-    "sortDate": 1784558718000,
+    "pubDate": "20.07.2026 15:08:45",
+    "sortDate": 1784560125000,
     "source": "The Guardian"
   },
   {
-    "title": "Big Bear’s missing bald eagle believed to have been found alive but injured",
-    "link": "https://www.theguardian.com/us-news/2026/jul/20/bald-eagle-jackie-big-bear-lake",
-    "pubDate": "20.07.2026 14:36:39",
-    "sortDate": 1784558199000,
+    "title": "Australian ski resorts smash July climate records with temperatures 12C above average",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average",
+    "pubDate": "20.07.2026 15:00:45",
+    "sortDate": 1784559645000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump acknowledges that jet from Qatar lacks defensive systems of Air Force One",
-    "link": "https://www.theguardian.com/us-news/2026/jul/20/trump-air-force-one-qatar",
-    "pubDate": "20.07.2026 14:31:05",
-    "sortDate": 1784557865000,
+    "title": "Manufacturing union says Australia’s tax system is ‘rigged’ in bold manifesto ahead of Labor conference",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/21/manufacturing-union-says-australias-tax-system-is-rigged-in-bold-manifesto-ahead-of-labor-conference",
+    "pubDate": "20.07.2026 15:00:44",
+    "sortDate": 1784559644000,
     "source": "The Guardian"
   },
   {
-    "title": "Double murder accused strangled Devon cellmate while awaiting trial, jury told",
+    "title": "At-home STI test pulled from Australian shelves after failing to detect infections",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/21/tga-suspension-touch-biotechnology-home-sti-test",
+    "pubDate": "20.07.2026 15:00:43",
+    "sortDate": 1784559643000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
+    "link": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods",
+    "pubDate": "20.07.2026 14:57:07",
+    "sortDate": 1784559427000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Double murder accused strangled HMP Exeter cellmate while awaiting trial",
     "link": "https://www.theguardian.com/uk-news/2026/jul/20/james-desborough-murder-killed-cellmate-devon-strangled",
     "pubDate": "20.07.2026 14:19:44",
     "sortDate": 1784557184000,
     "source": "The Guardian"
   },
   {
-    "title": "Avengers: Doomsday trailer reveals star-packed Marvel adventure",
-    "link": "https://www.theguardian.com/film/2026/jul/20/avengers-doomsday-trailer",
-    "pubDate": "20.07.2026 14:17:20",
-    "sortDate": 1784557040000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Maine Democrats rally around Troy Jackson to replace Graham Platner in crucial Senate race – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates",
-    "pubDate": "20.07.2026 14:14:48",
-    "sortDate": 1784556888000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "First Thing: US continues attacks on Iran ‘in honor’ of dead service members | Martin Belam",
-    "link": "https://www.theguardian.com/us-news/2026/jul/20/first-thing-us-attacks-iran-service-personnel-deaths",
-    "pubDate": "20.07.2026 14:05:50",
-    "sortDate": 1784556350000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tens of thousands of Cockroach party protesters defy police with Delhi march",
+    "title": "Tens of thousands of Cockroach movement protesters defy police with Delhi march",
     "link": "https://www.theguardian.com/world/2026/jul/20/cockroach-janta-party-protest-march-sonam-wangchuk-india-parliament",
     "pubDate": "20.07.2026 14:01:14",
     "sortDate": 1784556074000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘My shirt was wringing’: National Express bus drivers speak out on 40C conditions",
-    "link": "https://www.theguardian.com/environment/2026/jul/20/national-express-bus-drivers-40c-conditions-heatwave-west-midlands",
-    "pubDate": "20.07.2026 13:51:42",
-    "sortDate": 1784555502000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham vows his arrival in power will be ‘circuit breaker’ moment for UK",
-    "link": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
-    "pubDate": "20.07.2026 13:01:22",
-    "sortDate": 1784552482000,
     "source": "The Guardian"
   },
   {
@@ -105,59 +175,10 @@
     "source": "UN News"
   },
   {
-    "title": "Investigation of Nigel Farage over undeclared gifts is ‘kangaroo court’, says Reform MP",
-    "link": "https://www.theguardian.com/politics/2026/jul/20/investigation-nigel-farage-undeclared-gifts-kangaroo-court-reform-mp-sarah-pochin",
-    "pubDate": "20.07.2026 11:37:48",
-    "sortDate": 1784547468000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "AliExpress fined record €550m by EU for failing to stop sale of illegal and fake goods",
-    "link": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods",
-    "pubDate": "20.07.2026 10:56:16",
-    "sortDate": 1784544976000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US expands Iran offensive as diplomats claim talks ongoing",
-    "link": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
-    "pubDate": "20.07.2026 09:34:42",
-    "sortDate": 1784540082000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Israel criticises Labor’s draft Palestine policy in rare foreign intervention ahead of party conference",
     "link": "https://www.theguardian.com/australia-news/2026/jul/20/israel-intervention-labor-national-conference-draft-policy-platform-palestine-ntwnfb",
     "pubDate": "20.07.2026 08:59:50",
     "sortDate": 1784537990000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Derryn Hinch remembered as ‘journalistic James Bond’ – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
-    "pubDate": "20.07.2026 07:53:35",
-    "sortDate": 1784534015000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Taxpayers could pay millions to abuse survivors if Christian Brothers goes bankrupt, court documents reveal",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/20/christian-brothers-australia-abuse-survivors-ntwnfb",
-    "pubDate": "20.07.2026 07:19:53",
-    "sortDate": 1784531993000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
-    "pubDate": "20.07.2026 06:59:15",
-    "sortDate": 1784530755000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "British YouTuber Yung Filly appears in Australian court over rape allegations",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/20/yung-filly-australia-court-youtuber-rape-allegations-ntwnfb",
-    "pubDate": "20.07.2026 06:46:08",
-    "sortDate": 1784529968000,
     "source": "The Guardian"
   },
   {
@@ -238,13 +259,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Bad Bunny concert in Milan abandoned because of hailstorm",
-    "link": "https://www.theguardian.com/music/2026/jul/19/bad-bunny-milan-abandoned-hailstorm",
-    "pubDate": "19.07.2026 09:57:53",
-    "sortDate": 1784455073000,
-    "source": "The Guardian"
-  },
-  {
     "title": "São Tomé and Príncipe heads to polls in tense presidential election",
     "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
     "pubDate": "19.07.2026 04:00:16",
@@ -256,13 +270,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
     "pubDate": "18.07.2026 19:11:13",
     "sortDate": 1784401873000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-    "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
-    "pubDate": "18.07.2026 14:13:36",
-    "sortDate": 1784384016000,
     "source": "The Guardian"
   },
   {
@@ -515,13 +522,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/10/protests-west-bengal-state-india-girl-murder-rape",
     "pubDate": "10.07.2026 13:43:13",
     "sortDate": 1783690993000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
-    "link": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
-    "pubDate": "10.07.2026 09:18:01",
-    "sortDate": 1783675081000,
     "source": "The Guardian"
   }
 ]
