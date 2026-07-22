@@ -1,23 +1,100 @@
 [
   {
-    "title": "Australia news live: Hanson says domestic violence is ‘wrong but it’s also a two-way street’ and links it to cost-of-living pressures",
+    "title": "Australia news live: Origin Energy investigating potential data breach that could affect millions",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
-    "pubDate": "22.07.2026 01:58:50",
-    "sortDate": 1784685530000,
+    "pubDate": "22.07.2026 05:23:55",
+    "sortDate": 1784697835000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – US politics live",
+    "title": "Alleged rape victim ‘could have done a lot better’ if she had made up claims against well-connected Melbourne man, court told",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/22/well-connected-melbourne-man-alleged-rape-court-ntwnfb",
+    "pubDate": "22.07.2026 05:07:54",
+    "sortDate": 1784696874000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brittany Higgins accuses Pauline Hanson of victim-blaming for calling domestic violence a ‘two-way street’",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/22/brittany-higgins-pauline-hanson-domestic-violence-comments-ntwnfb",
+    "pubDate": "22.07.2026 05:03:41",
+    "sortDate": 1784696621000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran’s foreign minister describes moment of attack that killed Khamenei",
+    "link": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-abbas-aragchi-attack-killed-khamenei",
+    "pubDate": "22.07.2026 05:00:07",
+    "sortDate": 1784696407000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lack of defibrillators could put 16m at risk of death by cardiac arrest in England and Wales",
+    "link": "https://www.theguardian.com/society/2026/jul/22/lack-defibrillators-risk-dying-of-cardiac-arrest-england-wales",
+    "pubDate": "22.07.2026 05:00:06",
+    "sortDate": 1784696406000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rebel Wilson wins defamation case brought by co-star after bitter dispute",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb",
+    "pubDate": "22.07.2026 04:50:03",
+    "sortDate": 1784695803000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘A great thrill’: baby puffin is first one seen on Dorset coast in three decades",
+    "link": "https://www.theguardian.com/environment/2026/jul/22/baby-puffin-first-dorset-coast-three-decades",
+    "pubDate": "22.07.2026 04:00:06",
+    "sortDate": 1784692806000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat",
+    "link": "https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather",
+    "pubDate": "22.07.2026 03:48:04",
+    "sortDate": 1784692084000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs",
+    "link": "https://www.theguardian.com/us-news/2026/jul/22/arizona-republican-primary-andy-biggs-katie-hobbs",
+    "pubDate": "22.07.2026 03:17:10",
+    "sortDate": 1784690230000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hegseth estimates rising cost of Iran war now at $37.5bn – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
+    "pubDate": "22.07.2026 03:09:47",
+    "sortDate": 1784689787000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "India’s Rahul Gandhi briefly detained as cockroach protests rock Delhi",
+    "link": "https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained",
+    "pubDate": "22.07.2026 03:05:34",
+    "sortDate": 1784689534000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "House passes spending bill to head off government shutdown before midterms",
+    "link": "https://www.theguardian.com/us-news/2026/jul/22/house-passes-spending-bill",
+    "pubDate": "22.07.2026 02:31:39",
+    "sortDate": 1784687499000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US military identifies third service member killed in Iranian attack on Jordan base",
+    "link": "https://www.theguardian.com/us-news/2026/jul/21/us-military-third-service-member-jordan-attack",
+    "pubDate": "22.07.2026 02:10:30",
+    "sortDate": 1784686230000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump announces new tariffs on generic drugs to take effect in 2028 – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates",
     "pubDate": "22.07.2026 01:57:35",
     "sortDate": 1784685455000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: tankers carrying Saudi oil turned back after Houthi threats; Trump claims US will hit Iran nuclear storage facility ‘pretty soon’",
-    "link": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news",
-    "pubDate": "22.07.2026 01:50:08",
-    "sortDate": 1784685008000,
     "source": "The Guardian"
   },
   {
@@ -35,20 +112,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mamdani says New York City does not have legal authority to arrest Netanyahu",
-    "link": "https://www.theguardian.com/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority",
-    "pubDate": "22.07.2026 01:08:28",
-    "sortDate": 1784682508000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "India’s Cockroach protests: Rahul Gandhi detained after calling for PM Modi to resign",
-    "link": "https://www.theguardian.com/world/2026/jul/22/india-cockroach-janta-party-cjp-protests-rahul-gandhi-detained",
-    "pubDate": "22.07.2026 01:06:25",
-    "sortDate": 1784682385000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
     "link": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
     "pubDate": "22.07.2026 00:58:40",
@@ -63,24 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mistrial declared in case over Sacramento’s deadliest shooting",
-    "link": "https://www.theguardian.com/us-news/2026/jul/21/sacramento-k-street-shooting",
-    "pubDate": "21.07.2026 23:33:49",
-    "sortDate": 1784676829000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Hegseth tells Senate war on Iran has so far cost $37.5bn at hearing to request more funds",
     "link": "https://www.theguardian.com/us-news/2026/jul/21/hegseth-pentagon-supplemental-funding-request-senate",
     "pubDate": "21.07.2026 23:15:10",
     "sortDate": 1784675710000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US immigration agents arrested a record number of people in June, data shows",
-    "link": "https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data",
-    "pubDate": "21.07.2026 23:06:20",
-    "sortDate": 1784675180000,
     "source": "The Guardian"
   },
   {
@@ -126,24 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Fiscal hawk or big spender – what kind of chancellor will John Healey be?",
-    "link": "https://www.theguardian.com/politics/2026/jul/21/fiscal-hawk-or-big-spender-what-kind-of-chancellor-will-john-healey-be",
-    "pubDate": "21.07.2026 17:58:21",
-    "sortDate": 1784656701000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Airbus to test folding wings for next generation of bestselling planes",
     "link": "https://www.theguardian.com/business/2026/jul/21/airbus-to-test-folding-wings-for-next-generation-of-bestselling-planes",
     "pubDate": "21.07.2026 17:50:50",
     "sortDate": 1784656250000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Starmer allies see ‘hint of retribution’ in Burnham reshuffle",
-    "link": "https://www.theguardian.com/politics/2026/jul/21/keir-starmer-allies-retribution-andy-burnham-reshuffle",
-    "pubDate": "21.07.2026 17:40:18",
-    "sortDate": 1784655618000,
     "source": "The Guardian"
   },
   {
@@ -182,27 +217,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "RBA now twice as likely to hike interest rates as US-Iran war drives fuel prices higher",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
-    "pubDate": "21.07.2026 15:00:51",
-    "sortDate": 1784646051000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Kate Ellis is back – and the heat of political debate is higher than ever, incoming Labor president says",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/kate-ellis-is-back-and-this-time-the-heat-of-political-debate-is-higher-than-ever-the-incoming-labor-president-says",
-    "pubDate": "21.07.2026 15:00:50",
-    "sortDate": 1784646050000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "The Queensland government promised to put victims first. But it has buried a report from domestic violence survivors",
-    "link": "https://www.theguardian.com/society/2026/jul/21/the-queensland-government-promised-to-put-victims-first-instead-it-buried-a-report-from-domestic-violence-survivors",
-    "pubDate": "21.07.2026 15:00:50",
-    "sortDate": 1784646050000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Stand still, make eye contact: Denmark tells tourists how to behave in a wolf encounter",
     "link": "https://www.theguardian.com/world/2026/jul/21/denmark-advice-tourists-wolf-encounter",
     "pubDate": "21.07.2026 13:45:02",
@@ -217,6 +231,69 @@
     "source": "The Guardian"
   },
   {
+    "title": "‘Business as usual is a business of death’: UN adopts road safety pledge over US objection",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167993",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167992",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167991",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Critical minerals: The hidden resources powering the clean energy future",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167990",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167989",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Global hunger declines again but progress remains uneven across regions",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167987",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN refugee agency reports 144 migrants dead or missing off Mauritanian coast",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167985",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167984",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167983",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
     "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
     "link": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
     "pubDate": "21.07.2026 11:45:30",
@@ -228,13 +305,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
     "pubDate": "21.07.2026 10:09:22",
     "sortDate": 1784628562000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "IDF accused of working with settlers after latest deadly West Bank raid",
-    "link": "https://www.theguardian.com/world/2026/jul/20/israeli-settlers-partnership-army-palestinians-bury-dead-west-bank",
-    "pubDate": "21.07.2026 10:00:46",
-    "sortDate": 1784628046000,
     "source": "The Guardian"
   },
   {
@@ -252,6 +322,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "From the General Assembly to Harlem: Mandela’s call to action endures",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167981",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Health response brings lifesaving care closer to thousands in Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167982",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167980",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167979",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘I consider it a miracle’: Pregnant woman pulled from post-quake rubble in Venezuela",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167978",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167972",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Moon Day focuses growing concerns around space junk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167976",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
     "title": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
     "link": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
     "pubDate": "20.07.2026 04:43:37",
@@ -266,11 +385,32 @@
     "source": "The Guardian"
   },
   {
+    "title": "Ukraine: UN condemns overnight attack on Kyiv",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167975",
+    "pubDate": "19.07.2026 12:00:00",
+    "sortDate": 1784462400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167963",
+    "pubDate": "19.07.2026 12:00:00",
+    "sortDate": 1784462400000,
+    "source": "UN News"
+  },
+  {
     "title": "São Tomé and Príncipe heads to polls in tense presidential election",
     "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
     "pubDate": "19.07.2026 04:00:16",
     "sortDate": 1784433616000,
     "source": "The Guardian"
+  },
+  {
+    "title": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167974",
+    "pubDate": "18.07.2026 12:00:00",
+    "sortDate": 1784376000000,
+    "source": "UN News"
   },
   {
     "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
@@ -301,6 +441,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "Baristas behind bars: Thai prisoners brew a path back to daily life",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167954",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167973",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Djibouti: Emergency alert spotlights sharp hunger spike",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167971",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, Ebola deaths mount, 12th anniversary of MH17",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167970",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167967",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167965",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
     "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
     "link": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown",
     "pubDate": "17.07.2026 09:20:57",
@@ -308,10 +490,38 @@
     "source": "The Guardian"
   },
   {
-    "title": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
-    "link": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave",
-    "pubDate": "17.07.2026 08:35:56",
-    "sortDate": 1784277356000,
-    "source": "The Guardian"
+    "title": "Haiti: Training the next generation to fight corruption",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167931",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167956",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167964",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peacekeepers step up support as families return to south Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167961",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167960",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
   }
 ]
