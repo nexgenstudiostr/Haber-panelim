@@ -1,44 +1,128 @@
 [
   {
-    "title": "Middle East crisis live: US renews strikes on Iran as Trump threatens to attack nuclear site ‘very heavily’",
-    "link": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
-    "pubDate": "22.07.2026 10:39:59",
-    "sortDate": 1784716799000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham says main perpetrator in killing of PC Andrew Harper ‘will not be subject to early release’ – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jul/22/andy-burnham-labour-government-bus-fares-uk-politics-latest-news-updates",
-    "pubDate": "22.07.2026 10:39:08",
-    "sortDate": 1784716748000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "EU bids to finalise new Russia sanctions amid discontent from some member states – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
-    "pubDate": "22.07.2026 10:37:30",
-    "sortDate": 1784716650000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mahmood and Streeting accused of making ‘cheap jokes’ about prisoner early release scheme",
-    "link": "https://www.theguardian.com/law/2026/jul/22/streeting-mahmood-accused-cheap-jokes-prisoner-early-release-scheme",
-    "pubDate": "22.07.2026 10:37:16",
-    "sortDate": 1784716636000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump ally pledges to ‘work with people’ he disagrees with after Arizona primary win – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/22/us-politics-trump-arizona-primary-andy-biggs-hegseth-mamdani-netanyahu-latest-news-updates",
-    "pubDate": "22.07.2026 10:36:57",
-    "sortDate": 1784716617000,
+    "pubDate": "22.07.2026 13:07:26",
+    "sortDate": 1784725646000,
     "source": "The Guardian"
   },
   {
-    "title": "Lloyd’s of London says ex-boss broke compliance rules with ‘close relationship’",
-    "link": "https://www.theguardian.com/business/2026/jul/22/lloyds-of-london-says-ex-boss-broke-compliance-rules-with-close-relationship",
-    "pubDate": "22.07.2026 10:32:13",
-    "sortDate": 1784716333000,
+    "title": "US renews strikes on Iran as Tehran claims no nuclear activity at site threatened by Trump – Middle East crisis live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
+    "pubDate": "22.07.2026 13:02:26",
+    "sortDate": 1784725346000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
+    "link": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
+    "pubDate": "22.07.2026 13:00:15",
+    "sortDate": 1784725215000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Former Southern Water employees to face trial over alleged cover-up in wastewater testing",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/22/former-southern-water-employees-trial-alleged-cover-up-wastewater-testing",
+    "pubDate": "22.07.2026 12:58:10",
+    "sortDate": 1784725090000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham to review early prisoner release scheme amid anger over potential freeing of PC Harper’s killers – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/22/andy-burnham-labour-government-bus-fares-uk-politics-latest-news-updates",
+    "pubDate": "22.07.2026 12:49:36",
+    "sortDate": 1784724576000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Norway’s national oil company’s profits double to $11.5bn amid war on Iran",
+    "link": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
+    "pubDate": "22.07.2026 12:45:37",
+    "sortDate": 1784724337000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
+    "pubDate": "22.07.2026 12:40:39",
+    "sortDate": 1784724039000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NHS trust investigated for corporate manslaughter after Nottingham attacks",
+    "link": "https://www.theguardian.com/society/2026/jul/22/nhs-trust-corporate-manslaughter-investigation-nottingham-attacks-valdo-calocane",
+    "pubDate": "22.07.2026 12:32:12",
+    "sortDate": 1784723532000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ALP announces sweeping changes to student work placements as Gaza war looms large at party conference",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/22/alp-announces-sweeping-changes-to-student-work-placements-as-gaza-war-looms-large-at-party-conference",
+    "pubDate": "22.07.2026 12:30:14",
+    "sortDate": 1784723414000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
+    "link": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
+    "pubDate": "22.07.2026 12:28:15",
+    "sortDate": 1784723295000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jessica Morgan named new Tate director – with ‘big pay cut‘ to take job",
+    "link": "https://www.theguardian.com/artanddesign/2026/jul/22/jessica-morgan-named-new-tate-director-pay-cut",
+    "pubDate": "22.07.2026 12:11:31",
+    "sortDate": 1784722291000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167994",
+    "pubDate": "22.07.2026 12:00:00",
+    "sortDate": 1784721600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Critical minerals: The hidden resources powering the clean energy future",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167990",
+    "pubDate": "22.07.2026 12:00:00",
+    "sortDate": 1784721600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort",
+    "link": "https://www.theguardian.com/us-news/2026/jul/22/trump-science-funding-overhaul-ai",
+    "pubDate": "22.07.2026 11:51:44",
+    "sortDate": 1784721104000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "$37.5bn cost of Iran war revealed as senator warns of ‘another forever war’ | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/jul/22/first-thing-iran-war-cost-375bn-pete-hegseth-senator-another-forever-war",
+    "pubDate": "22.07.2026 11:50:13",
+    "sortDate": 1784721013000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham announces review of prisoner early release scheme",
+    "link": "https://www.theguardian.com/society/2026/jul/22/andy-burnham-announces-review-of-prisoner-early-release-scheme",
+    "pubDate": "22.07.2026 11:49:19",
+    "sortDate": 1784720959000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Six beluga whales finally leave embattled Canadian marine park",
+    "link": "https://www.theguardian.com/world/2026/jul/22/six-beluga-whales-finally-leave-embattled-canadian-marine-park",
+    "pubDate": "22.07.2026 11:48:32",
+    "sortDate": 1784720912000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
+    "pubDate": "22.07.2026 11:40:08",
+    "sortDate": 1784720408000,
     "source": "The Guardian"
   },
   {
@@ -56,13 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australia to warn China it won’t be bulled by ‘provocative‘ actions as it builds military and nuclear arsenal",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
-    "pubDate": "22.07.2026 10:00:13",
-    "sortDate": 1784714413000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Michelin-starred restaurant owner in South Korea faces jail over ant dessert",
     "link": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert",
     "pubDate": "22.07.2026 09:26:09",
@@ -70,45 +147,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Wetherspoon’s issues fourth profit warning in seven months",
-    "link": "https://www.theguardian.com/business/2026/jul/22/wetherspoons-issues-fourth-profit-warning-seven-months",
-    "pubDate": "22.07.2026 09:07:04",
-    "sortDate": 1784711224000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Americans far more likely to view politics as greatest threat to safety, study finds",
-    "link": "https://www.theguardian.com/us-news/2026/jul/22/americans-politics-threat-survey",
-    "pubDate": "22.07.2026 09:00:12",
-    "sortDate": 1784710812000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Norway’s national oil company profits double to $11.5bn amid war on Iran",
-    "link": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
-    "pubDate": "22.07.2026 08:39:12",
-    "sortDate": 1784709552000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
-    "link": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
-    "pubDate": "22.07.2026 08:37:47",
-    "sortDate": 1784709467000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Court win for low-paid Domino’s workers in underpayment class action – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
     "pubDate": "22.07.2026 08:31:47",
     "sortDate": 1784709107000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham announces bus fares across England to be capped at £2",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/22/burnham-announces-bus-fares-across-england-to-be-capped-at-2",
-    "pubDate": "22.07.2026 07:45:30",
-    "sortDate": 1784706330000,
     "source": "The Guardian"
   },
   {
@@ -161,24 +203,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Rebel Wilson wins defamation case brought by co-star after bitter dispute",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb",
-    "pubDate": "22.07.2026 04:50:03",
-    "sortDate": 1784695803000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat",
     "link": "https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather",
     "pubDate": "22.07.2026 03:48:04",
     "sortDate": 1784692084000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump ally wins Republican primary for Arizona governor, setting up race against Katie Hobbs",
-    "link": "https://www.theguardian.com/us-news/2026/jul/22/arizona-republican-primary-andy-biggs-katie-hobbs",
-    "pubDate": "22.07.2026 03:17:10",
-    "sortDate": 1784690230000,
     "source": "The Guardian"
   },
   {
@@ -245,11 +273,60 @@
     "source": "The Guardian"
   },
   {
-    "title": "We received no alert, say leaders of First Nations communities razed by Canadian wildfires",
-    "link": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
-    "pubDate": "21.07.2026 11:45:30",
-    "sortDate": 1784634330000,
-    "source": "The Guardian"
+    "title": "‘Business as usual is a business of death’: UN adopts road safety pledge over US objection",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167993",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167992",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167991",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167989",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Global hunger declines again but progress remains uneven across regions",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167987",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN refugee agency reports 144 migrants dead or missing off Mauritanian coast",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167985",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167984",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167983",
+    "pubDate": "21.07.2026 12:00:00",
+    "sortDate": 1784635200000,
+    "source": "UN News"
   },
   {
     "title": "Rescuers in Afghanistan search for missing and dead after flash floods destroy homes",
@@ -273,6 +350,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "From the General Assembly to Harlem: Mandela’s call to action endures",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167981",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Health response brings lifesaving care closer to thousands in Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167982",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167980",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167979",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘I consider it a miracle’: Pregnant woman pulled from post-quake rubble in Venezuela",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167978",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167972",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Moon Day focuses growing concerns around space junk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167976",
+    "pubDate": "20.07.2026 12:00:00",
+    "sortDate": 1784548800000,
+    "source": "UN News"
+  },
+  {
     "title": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
     "link": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
     "pubDate": "20.07.2026 04:43:37",
@@ -287,11 +413,32 @@
     "source": "The Guardian"
   },
   {
+    "title": "Ukraine: UN condemns overnight attack on Kyiv",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167975",
+    "pubDate": "19.07.2026 12:00:00",
+    "sortDate": 1784462400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167963",
+    "pubDate": "19.07.2026 12:00:00",
+    "sortDate": 1784462400000,
+    "source": "UN News"
+  },
+  {
     "title": "São Tomé and Príncipe heads to polls in tense presidential election",
     "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
     "pubDate": "19.07.2026 04:00:16",
     "sortDate": 1784433616000,
     "source": "The Guardian"
+  },
+  {
+    "title": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167974",
+    "pubDate": "18.07.2026 12:00:00",
+    "sortDate": 1784376000000,
+    "source": "UN News"
   },
   {
     "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
@@ -301,17 +448,80 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
-    "pubDate": "17.07.2026 21:36:05",
-    "sortDate": 1784324165000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
     "link": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
     "pubDate": "17.07.2026 12:17:14",
     "sortDate": 1784290634000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Baristas behind bars: Thai prisoners brew a path back to daily life",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167954",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167973",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Djibouti: Emergency alert spotlights sharp hunger spike",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167971",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, Ebola deaths mount, 12th anniversary of MH17",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167970",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167967",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167965",
+    "pubDate": "17.07.2026 12:00:00",
+    "sortDate": 1784289600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: Training the next generation to fight corruption",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167931",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167956",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167964",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peacekeepers step up support as families return to south Lebanon",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167961",
+    "pubDate": "16.07.2026 12:00:00",
+    "sortDate": 1784203200000,
+    "source": "UN News"
   }
 ]
