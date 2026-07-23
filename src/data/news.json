@@ -1,16 +1,100 @@
 [
   {
-    "title": "Australia news live: sex discrimination commissioner condemns Hanson’s DV comments; Macquarie CEO announces retirement",
+    "title": "Burnham offers 20% cut in business rates for pubs, clubs and live music in England – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/23/government-cuts-business-rates-essex-kemi-badenoch-latest-news-updates",
+    "pubDate": "23.07.2026 08:13:14",
+    "sortDate": 1784794394000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "News live: Ed Husic says Labor ‘allergic to dissent’ and Australians want to see politicians ‘stand up for something’",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
-    "pubDate": "23.07.2026 05:27:08",
-    "sortDate": 1784784428000,
+    "pubDate": "23.07.2026 08:12:23",
+    "sortDate": 1784794343000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Husic says Labor ‘allergic to dissent’ as he breaks ranks on key government positions at party conference",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/23/ed-husic-dissent-labor-party-national-conference-anthony-albanese-ntwnfb",
+    "pubDate": "23.07.2026 08:08:23",
+    "sortDate": 1784794103000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham to cut tax for pubs, clubs and live music in England and make vape shops pay more – business live",
+    "link": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
+    "pubDate": "23.07.2026 08:07:07",
+    "sortDate": 1784794027000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Marco Rubio says ‘new ideas’ needed to end war in Ukraine after meeting Russia’s Lavrov – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
+    "pubDate": "23.07.2026 08:04:27",
+    "sortDate": 1784793867000,
     "source": "The Guardian"
   },
   {
     "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-    "pubDate": "23.07.2026 05:16:29",
-    "sortDate": 1784783789000,
+    "pubDate": "23.07.2026 07:58:39",
+    "sortDate": 1784793519000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Business rates to be cut by 20% for pubs, clubs and music venues in England",
+    "link": "https://www.theguardian.com/business/2026/jul/23/business-rates-to-be-cut-by-20-for-england-pubs-clubs-and-music-venues",
+    "pubDate": "23.07.2026 07:52:01",
+    "sortDate": 1784793121000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Scottish police officer was rapist who attacked women over 14 years",
+    "link": "https://www.theguardian.com/society/2026/jul/23/scottish-police-officer-alan-greer-rapist-over-14-years",
+    "pubDate": "23.07.2026 07:29:17",
+    "sortDate": 1784791757000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Personal and banking details among customer data stolen in Origin Energy hack",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack",
+    "pubDate": "23.07.2026 07:18:17",
+    "sortDate": 1784791097000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Palestine Action trial lawyer’s prosecution criticised as ‘chilling’ for profession",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/23/palestine-action-trial-lawyer-prosecution-criticised-rajiv-menon-kc",
+    "pubDate": "23.07.2026 07:11:33",
+    "sortDate": 1784790693000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Politician’s claim Earth’s magnetic poles could flip if NT doesn’t use more groundwater criticised by experts",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/23/australia-politician-claims-northern-territory-water-could-flip-earths-magnetic-poles",
+    "pubDate": "23.07.2026 07:10:18",
+    "sortDate": 1784790618000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Carmakers lobbied UK to revoke ban on petrol and diesel cars after 2035",
+    "link": "https://www.theguardian.com/environment/2026/jul/23/carmakers-lobbied-uk-revoke-ban-petrol-diesel-cars-2035",
+    "pubDate": "23.07.2026 07:00:39",
+    "sortDate": 1784790039000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Cockroach’ protests: India’s Modi promises to punish corrupt officials in bid to quell anger",
+    "link": "https://www.theguardian.com/world/2026/jul/23/cockroach-janta-party-protest-cjp-india-modi-corrupt-officials",
+    "pubDate": "23.07.2026 05:49:05",
+    "sortDate": 1784785745000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pauline Hanson says domestic violence prevents police from dealing with ‘real crime’ in unearthed interview",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/23/pauline-hanson-said-domestic-violence-prevented-police-from-dealing-with-real-in-2025-podcast-ntwnfb",
+    "pubDate": "23.07.2026 05:47:48",
+    "sortDate": 1784785668000,
     "source": "The Guardian"
   },
   {
@@ -21,13 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘I would rather be poor’: man says money cannot compensate for partner’s death after failed cancer diagnosis",
-    "link": "https://www.theguardian.com/society/2026/jul/23/i-would-rather-be-poor-man-says-money-cannot-compensate-for-partners-death-after-failed-cancer-diagnosis",
-    "pubDate": "23.07.2026 04:00:35",
-    "sortDate": 1784779235000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US senator wants urgent answers from Barclays over Jes Staley’s ties to Jeffrey Epstein",
     "link": "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren",
     "pubDate": "23.07.2026 04:00:35",
@@ -35,24 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Orcas seen ramming prey so hard it explodes may be playing game",
-    "link": "https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game",
-    "pubDate": "23.07.2026 04:00:34",
-    "sortDate": 1784779234000,
-    "source": "The Guardian"
-  },
-  {
     "title": "House Democrat calls for congressional hearings on Trump administration’s nuclear deal with Saudi Arabia – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/22/us-politics-trump-arizona-primary-andy-biggs-hegseth-mamdani-netanyahu-latest-news-updates",
     "pubDate": "23.07.2026 02:00:24",
     "sortDate": 1784772024000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "AusAlert test date and time: emergency warning siren will blast over most phones in Australia on Monday. Here’s what to know",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
-    "pubDate": "23.07.2026 01:32:25",
-    "sortDate": 1784770345000,
     "source": "The Guardian"
   },
   {
@@ -77,31 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "One UK mosque attacked ‘every five days’, says British Muslim Trust",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/23/uk-mosque-attacks-british-muslim-trust",
-    "pubDate": "22.07.2026 23:01:27",
-    "sortDate": 1784761287000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Scottish Labour’s rivals decry ‘chancer’ Anas Sarwar for resigning to join Andy Burnham’s government",
-    "link": "https://www.theguardian.com/politics/2026/jul/22/scottish-labours-rivals-decry-chancer-anas-sarwar-for-resigning-to-join-andy-burnhams-government",
-    "pubDate": "22.07.2026 22:17:21",
-    "sortDate": 1784758641000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran warns of ‘eye for an eye’ response if US follows through on Trump’s threats to destroy infrastructure – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/jul/22/middle-east-us-iran-war-trump-houthis-strait-of-hormuz-nuclear-pickaxe-mountain-latest-news-updates",
     "pubDate": "22.07.2026 21:51:11",
     "sortDate": 1784757071000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Paramount’s £80bn takeover of Warner Brothers a step closer after EU approval",
-    "link": "https://www.theguardian.com/media/2026/jul/22/paramount-skydance-takeover-warner-brothers-eu-approval",
-    "pubDate": "22.07.2026 19:09:30",
-    "sortDate": 1784747370000,
     "source": "The Guardian"
   },
   {
@@ -137,41 +179,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/22/france-recorded-more-than-5700-excess-deaths-during-june-heatwave",
     "pubDate": "22.07.2026 15:34:27",
     "sortDate": 1784734467000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
-    "link": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
-    "pubDate": "22.07.2026 15:00:19",
-    "sortDate": 1784732419000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How will Australia’s emergency services cope if satellites go down? With a sextant and a street directory",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/23/australia-emergency-services-satellites-down",
-    "pubDate": "22.07.2026 15:00:19",
-    "sortDate": 1784732419000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Great Barrier Reef microbiome mapped as researchers discover 500 bacterial species previously unknown to science",
-    "link": "https://www.theguardian.com/environment/2026/jul/23/great-barrier-reef-microbiome-mapped-as-researchers-discover-500-bacterial-species-previously-unknown-to-science",
-    "pubDate": "22.07.2026 15:00:18",
-    "sortDate": 1784732418000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "​Andy Burnham’s ​domestic ​revolution ​could ​unobtrusively pull Britain ​closer to Europe",
-    "link": "https://www.theguardian.com/world/2026/jul/22/andy-burnhams-domestic-revolution-could-unobtrusively-pull-britain-closer-to-europe",
-    "pubDate": "22.07.2026 14:40:17",
-    "sortDate": 1784731217000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Food price fears after Europe’s heatwave destroys estimated €2bn of crops",
-    "link": "https://www.theguardian.com/environment/2026/jul/22/europe-heatwave-june-farming-lost-revenue-crop-damage",
-    "pubDate": "22.07.2026 14:12:47",
-    "sortDate": 1784729567000,
     "source": "The Guardian"
   },
   {
@@ -439,13 +446,6 @@
     "pubDate": "20.07.2026 12:00:00",
     "sortDate": 1784548800000,
     "source": "UN News"
-  },
-  {
-    "title": "‘When I get home, my whole body aches’: extreme heat saps health and wages of India’s poorest workers",
-    "link": "https://www.theguardian.com/environment/2026/jul/20/extreme-heat-india-outdoor-workers-poverty",
-    "pubDate": "20.07.2026 03:00:44",
-    "sortDate": 1784516444000,
-    "source": "The Guardian"
   },
   {
     "title": "Ukraine: UN condemns overnight attack on Kyiv",
