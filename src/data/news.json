@@ -1,16 +1,65 @@
 [
   {
-    "title": "Australia news live: Qantas’ new ultra-long-range test plane to land in Melbourne after 19-hour odyssey from Toulouse",
+    "title": "Australia news live: trade minister demands removal of ‘unjustified’ US tariffs; deadly bird flu detected in Queensland for the first time",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
-    "pubDate": "23.07.2026 21:42:36",
-    "sortDate": 1784842956000,
+    "pubDate": "23.07.2026 23:47:46",
+    "sortDate": 1784850466000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump administration announces new tariffs on more than 80 countries, claiming failed ‘forced labor’ enforcement – US politics live",
+    "title": "Donald Trump hits Australian exports to US with new higher trade tariff over claims of ‘forced labour’",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/24/donald-trump-hits-australian-exports-to-us-with-new-higher-trade-tariff-over-claims-of-forced-labour",
+    "pubDate": "23.07.2026 23:46:21",
+    "sortDate": 1784850381000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis is ‘getting out of control’, UN chief warns, as US launches another round of strikes on Iran – live updates",
+    "link": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
+    "pubDate": "23.07.2026 23:44:46",
+    "sortDate": 1784850286000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump to impose fresh wave of tariffs on more than 80 countries",
+    "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
+    "pubDate": "23.07.2026 23:30:32",
+    "sortDate": 1784849432000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s new tariffs designed as ‘end-run around the supreme court and Congress’, House Democrat says – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/23/us-house-defense-spending-bill-donald-trump-iran-rubio-latest-news-updates",
-    "pubDate": "23.07.2026 21:38:57",
-    "sortDate": 1784842737000,
+    "pubDate": "23.07.2026 23:02:39",
+    "sortDate": 1784847759000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US health panel recommends easing restrictions on controversial peptides",
+    "link": "https://www.theguardian.com/us-news/2026/jul/23/peptides-advisory-panel-rfk-jr",
+    "pubDate": "23.07.2026 22:45:13",
+    "sortDate": 1784846713000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK ‘ready to defend itself’ after Iranian threat over US bases",
+    "link": "https://www.theguardian.com/world/2026/jul/23/uk-ready-to-defend-itself-iran-threat-us-bases",
+    "pubDate": "23.07.2026 22:41:37",
+    "sortDate": 1784846497000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tesla stock suffers double-digit drop on carmaker’s worst day in years",
+    "link": "https://www.theguardian.com/technology/2026/jul/23/tesla-stock-drops-elon-musk",
+    "pubDate": "23.07.2026 22:35:25",
+    "sortDate": 1784846125000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump seizes on New Jersey election error to boost misleading fraud claims",
+    "link": "https://www.theguardian.com/us-news/2026/jul/23/new-jersey-noncitizen-republicans-election-fraud",
+    "pubDate": "23.07.2026 21:55:18",
+    "sortDate": 1784843718000,
     "source": "The Guardian"
   },
   {
@@ -18,41 +67,6 @@
     "link": "https://www.theguardian.com/politics/2026/jul/23/regional-mayors-to-take-key-roles-in-uk-policy-decisions-as-part-of-no-10-north-plans",
     "pubDate": "23.07.2026 21:30:55",
     "sortDate": 1784842255000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump administration to impose fresh wave of tariffs on more than 80 countries",
-    "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
-    "pubDate": "23.07.2026 21:29:51",
-    "sortDate": 1784842191000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Louisiana House candidate accused of rape says he hopes to again ‘earn’ Trump endorsement",
-    "link": "https://www.theguardian.com/us-news/2026/jul/23/blake-miguez-louisiana-house-trump",
-    "pubDate": "23.07.2026 21:13:24",
-    "sortDate": 1784841204000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis is ‘getting out of control’, UN chief warns, as fears mount of escalation spiral – live updates",
-    "link": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-    "pubDate": "23.07.2026 21:01:36",
-    "sortDate": 1784840496000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
-    "link": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
-    "pubDate": "23.07.2026 19:56:50",
-    "sortDate": 1784836610000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Southern California suburb alarmed as ‘exceptionally rare’ cancer sickens multiple children",
-    "link": "https://www.theguardian.com/us-news/2026/jul/23/child-cancer-california-ladera-ranch",
-    "pubDate": "23.07.2026 19:34:45",
-    "sortDate": 1784835285000,
     "source": "The Guardian"
   },
   {
@@ -217,13 +231,6 @@
     "source": "UN News"
   },
   {
-    "title": "Dubai offers £600 rewards to residents who lure friends to visit as tourist numbers plummet",
-    "link": "https://www.theguardian.com/world/2026/jul/23/dubai-offers-tourists-benefits",
-    "pubDate": "23.07.2026 11:28:23",
-    "sortDate": 1784806103000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Cockroach’ protests: India’s Modi promises to punish officials over exam leaks",
     "link": "https://www.theguardian.com/world/2026/jul/23/cockroach-janta-party-protest-cjp-india-modi-corrupt-officials",
     "pubDate": "23.07.2026 10:31:50",
@@ -242,13 +249,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/jul/23/pauline-hanson-said-domestic-violence-prevented-police-from-dealing-with-real-in-2025-podcast-ntwnfb",
     "pubDate": "23.07.2026 08:34:12",
     "sortDate": 1784795652000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former spy refused visa to give evidence at royal commission – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
-    "pubDate": "23.07.2026 08:20:30",
-    "sortDate": 1784794830000,
     "source": "The Guardian"
   },
   {
