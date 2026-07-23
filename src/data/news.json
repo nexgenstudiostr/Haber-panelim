@@ -1,23 +1,44 @@
 [
   {
+    "title": "Australia news live: Albanese attacks ‘attention-seeking culture wars’ of One Nation and announces new Fair Work court",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+    "pubDate": "23.07.2026 02:26:09",
+    "sortDate": 1784773569000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Yemen’s Houthis claim attacks on Red Sea tankers as US launches 12th night of strikes on Iran – Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news",
-    "pubDate": "22.07.2026 23:44:43",
-    "sortDate": 1784763883000,
+    "pubDate": "23.07.2026 02:18:40",
+    "sortDate": 1784773120000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia news live: Brisbane fog causes flight delays; Labor faces seven major challenges, Chalmers says",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
-    "pubDate": "22.07.2026 23:44:17",
-    "sortDate": 1784763857000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "House Democrat calls for congressional hearings on Trump administration’s nuclear deal with Saudi Arabia – US politics live",
+    "title": "House Democrat calls for congressional hearings on Trump administration’s nuclear deal with Saudi Arabia – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/22/us-politics-trump-arizona-primary-andy-biggs-hegseth-mamdani-netanyahu-latest-news-updates",
-    "pubDate": "22.07.2026 23:42:47",
-    "sortDate": 1784763767000,
+    "pubDate": "23.07.2026 02:00:24",
+    "sortDate": 1784772024000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "AusAlert test date and time: emergency warning siren will blast over most phones in Australia on Monday. Here’s what to know",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
+    "pubDate": "23.07.2026 01:32:25",
+    "sortDate": 1784770345000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police officer fatally shoots man in Madison, Wisconsin, sparking protests",
+    "link": "https://www.theguardian.com/us-news/2026/jul/22/madison-wisconsin-police-shooting",
+    "pubDate": "23.07.2026 01:27:15",
+    "sortDate": 1784770035000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US signs landmark nuclear deal with Saudi Arabia that could pave the way for domestic nuclear enrichment",
+    "link": "https://www.theguardian.com/us-news/2026/jul/22/trump-nuclear-agreement-saudi-arabia",
+    "pubDate": "23.07.2026 00:00:27",
+    "sortDate": 1784764827000,
     "source": "The Guardian"
   },
   {
@@ -39,20 +60,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/jul/23/uk-mosque-attacks-british-muslim-trust",
     "pubDate": "22.07.2026 23:01:27",
     "sortDate": 1784761287000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tesla’s profits slide despite growing revenue as it pivots to robotics and AI",
-    "link": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
-    "pubDate": "22.07.2026 23:00:17",
-    "sortDate": 1784761217000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "House Republicans to write $95bn bill to fund Iran war and aid farmers",
-    "link": "https://www.theguardian.com/us-news/2026/jul/22/iran-war-funding-bill",
-    "pubDate": "22.07.2026 22:56:48",
-    "sortDate": 1784761008000,
     "source": "The Guardian"
   },
   {
@@ -123,13 +130,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/22/france-recorded-more-than-5700-excess-deaths-during-june-heatwave",
     "pubDate": "22.07.2026 15:34:27",
     "sortDate": 1784734467000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "AusAlert test will blast emergency warning siren over most phones in Australia on Monday. Here’s what to know",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
-    "pubDate": "22.07.2026 15:00:20",
-    "sortDate": 1784732420000,
     "source": "The Guardian"
   },
   {
