@@ -1,23 +1,93 @@
 [
   {
-    "title": "Australia news live: NSW corruption inquiry hears of lengths allegedly gone to by witnesses to avoid scrutiny",
+    "title": "Australia news live: gasps in NSW State Library as AusAlert blares; some users report not receiving emergency warning test",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-    "pubDate": "27.07.2026 02:15:02",
-    "sortDate": 1785118502000,
+    "pubDate": "27.07.2026 06:19:40",
+    "sortDate": 1785133180000,
     "source": "The Guardian"
   },
   {
-    "title": "Jacinta Allan declares she’ll stand against any leadership challenger after Labor factions move against her",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-    "pubDate": "27.07.2026 00:42:05",
-    "sortDate": 1785112925000,
+    "title": "Senior politicians supported young NSW Liberal power brokers trying to shift party to right, corruption watchdog hears",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/27/icac-operation-rosny-nsw-liberals-corruption-investigation-ntwnfb",
+    "pubDate": "27.07.2026 06:08:17",
+    "sortDate": 1785132497000,
     "source": "The Guardian"
   },
   {
-    "title": "AusAlert test: what time will national emergency warning siren sound on phones in Australia today? Here’s what to know",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/27/ausalert-national-alert-test-sound-emergency-warning-system-time-date",
-    "pubDate": "27.07.2026 00:06:47",
-    "sortDate": 1785110807000,
+    "title": "Misleading AI-generated doctors pose ‘huge danger to public safety’",
+    "link": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
+    "pubDate": "27.07.2026 06:00:34",
+    "sortDate": 1785132034000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pauline Hanson loses bid to overturn Mehreen Faruqi racial discrimination finding",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/27/pauline-hanson-mehreen-faruqi-racial-discrimination-act-finding-ntwnfb",
+    "pubDate": "27.07.2026 05:59:34",
+    "sortDate": 1785131974000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Monday briefing: ​How the Cockroach ​protests ​have expose​d the ​cracks in ​India’s government",
+    "link": "https://www.theguardian.com/world/2026/jul/27/monday-briefing-how-the-cockroach-protests-have-exposed-the-cracks-in-indias-government",
+    "pubDate": "27.07.2026 05:47:17",
+    "sortDate": 1785131237000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Who is Ben Carroll, the man who wants to be Victoria’s next premier?",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/27/who-is-ben-carroll-mp-victoria-deputy-premier-faction-jacinta-allan",
+    "pubDate": "27.07.2026 05:34:24",
+    "sortDate": 1785130464000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Seven suspected new bird flu cases are ‘evidence of spread’ into Australian wildlife, experts warn",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/27/h5-bird-flu-suspected-new-cases-south-australia",
+    "pubDate": "27.07.2026 05:30:18",
+    "sortDate": 1785130218000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Palestine Action activists face being sentenced as terrorists over bank damage",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/27/palestine-action-activists-face-being-sentenced-terrorists-damage-barclays-bank-burnley",
+    "pubDate": "27.07.2026 05:00:32",
+    "sortDate": 1785128432000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Girlguiding redesigns uniforms to put focus on ‘self-expression and confidence’",
+    "link": "https://www.theguardian.com/society/2026/jul/27/girlguiding-redesigns-uniforms-to-put-focus-on-self-expression-and-confidence",
+    "pubDate": "27.07.2026 05:00:32",
+    "sortDate": 1785128432000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reform UK levy on employing overseas staff ‘would harm NHS and social care’",
+    "link": "https://www.theguardian.com/politics/2026/jul/27/reform-uk-levy-overseas-staff-nhs-social-care-schools-universities",
+    "pubDate": "27.07.2026 05:00:31",
+    "sortDate": 1785128431000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham vows to use his ‘political capital’ to fix social care system",
+    "link": "https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system",
+    "pubDate": "27.07.2026 05:00:31",
+    "sortDate": 1785128431000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
+    "link": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+    "pubDate": "27.07.2026 03:58:52",
+    "sortDate": 1785124732000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two dead in shootings at Bite of Seattle food festival, say authorities",
+    "link": "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival",
+    "pubDate": "27.07.2026 03:56:55",
+    "sortDate": 1785124615000,
     "source": "The Guardian"
   },
   {
@@ -28,38 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "RAF Chinook crash victims’ families ask Andy Burnham for review of disaster",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
-    "pubDate": "26.07.2026 23:01:24",
-    "sortDate": 1785106884000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rising oil prices could force up UK interest rates, say economists",
-    "link": "https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists",
-    "pubDate": "26.07.2026 23:01:23",
-    "sortDate": 1785106883000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pentagon reports more than 600 Iran war casualties in quiet database update",
     "link": "https://www.theguardian.com/us-news/2026/jul/26/pentagon-iran-war-troop-deaths-casualty-report",
     "pubDate": "26.07.2026 22:55:06",
     "sortDate": 1785106506000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Boy, 16, charged with murder of teenager stabbed in Luton park",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/26/boy-16-charged-with-of-teenager-stabbed-in-luton-park",
-    "pubDate": "26.07.2026 22:26:08",
-    "sortDate": 1785104768000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Water supply restored to Gatwick airport after hours without working toilets",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/26/water-supply-failure-gatwick-airport-toilets-bars-restaurants",
-    "pubDate": "26.07.2026 22:01:06",
-    "sortDate": 1785103266000,
     "source": "The Guardian"
   },
   {
@@ -105,20 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Industry star David Jonsson to play Black Panther in Marvel sequel",
-    "link": "https://www.theguardian.com/film/2026/jul/26/industry-star-david-jonsson-to-play-black-panther-in-marvel-sequel",
-    "pubDate": "26.07.2026 17:27:21",
-    "sortDate": 1785086841000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Katy Perry ‘deeply appalled’ over White House using her song in Iran war video",
-    "link": "https://www.theguardian.com/us-news/2026/jul/26/katy-perry-firework-song-iran-war-video",
-    "pubDate": "26.07.2026 17:19:10",
-    "sortDate": 1785086350000,
-    "source": "The Guardian"
-  },
-  {
     "title": "India’s Cockroach Janta party protest victory signals trouble ahead for Modi",
     "link": "https://www.theguardian.com/world/2026/jul/26/india-cockroach-protest-victory-signals-trouble-ahead-for-narendra-modi",
     "pubDate": "26.07.2026 16:42:31",
@@ -137,27 +165,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
     "pubDate": "26.07.2026 15:22:17",
     "sortDate": 1785079337000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Get rid of them’: One Nation senator claims party will ‘remigrate’ illegal visa holders in resurfaced interview",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/27/get-rid-of-them-one-nation-senator-claims-party-will-remigrate-visa-holders-in-resurfaced-interview-ntwnfb",
-    "pubDate": "26.07.2026 15:00:17",
-    "sortDate": 1785078017000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former NSW Liberal powerbroker at heart of Icac allegations now living in UK and not expected to appear",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/27/former-nsw-liberal-powerbroker-at-heart-of-icac-allegations-now-living-in-uk-and-not-expected-to-appear-ntwnfb",
-    "pubDate": "26.07.2026 15:00:17",
-    "sortDate": 1785078017000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sánchez as more than 300,000 flee homes in France and Spain – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
-    "pubDate": "26.07.2026 14:52:13",
-    "sortDate": 1785077533000,
     "source": "The Guardian"
   },
   {
@@ -221,13 +228,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/24/guyana-coastal-ferry-sinking-deaths-rescue",
     "pubDate": "24.07.2026 15:28:37",
     "sortDate": 1784906917000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Indian Cockroach activist ends hunger strike after 26 days as protests spread",
-    "link": "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike",
-    "pubDate": "24.07.2026 14:14:22",
-    "sortDate": 1784902462000,
     "source": "The Guardian"
   },
   {
