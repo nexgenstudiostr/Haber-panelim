@@ -1,16 +1,30 @@
 [
   {
-    "title": "News live: national AusAlert test to blare siren; latest US tariffs on Australia ‘unjustified’, James Paterson says",
+    "title": "Australia news live: NSW corruption inquiry hears of lengths allegedly gone to by witnesses to avoid scrutiny",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-    "pubDate": "26.07.2026 23:31:28",
-    "sortDate": 1785108688000,
+    "pubDate": "27.07.2026 02:15:02",
+    "sortDate": 1785118502000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jacinta Allan declares she’ll stand against any leadership challenger after Labor factions move against her",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
+    "pubDate": "27.07.2026 00:42:05",
+    "sortDate": 1785112925000,
     "source": "The Guardian"
   },
   {
     "title": "AusAlert test: what time will national emergency warning siren sound on phones in Australia today? Here’s what to know",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
-    "pubDate": "26.07.2026 23:09:42",
-    "sortDate": 1785107382000,
+    "link": "https://www.theguardian.com/australia-news/2026/jul/27/ausalert-national-alert-test-sound-emergency-warning-system-time-date",
+    "pubDate": "27.07.2026 00:06:47",
+    "sortDate": 1785110807000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Extraordinarily hot’: US heatwave stretches on with millions still under warnings",
+    "link": "https://www.theguardian.com/us-news/2026/jul/26/us-heat-wave-dome-weather",
+    "pubDate": "27.07.2026 00:04:47",
+    "sortDate": 1785110687000,
     "source": "The Guardian"
   },
   {
@@ -32,13 +46,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/26/pentagon-iran-war-troop-deaths-casualty-report",
     "pubDate": "26.07.2026 22:55:06",
     "sortDate": 1785106506000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jacinta Allan expected to face leadership challenge after Victorian Labor factions meet",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics",
-    "pubDate": "26.07.2026 22:41:58",
-    "sortDate": 1785105718000,
     "source": "The Guardian"
   },
   {
@@ -133,13 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "New Jersey governor signs law banning surveillance pricing to protect shoppers",
-    "link": "https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban",
-    "pubDate": "26.07.2026 15:08:40",
-    "sortDate": 1785078520000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Get rid of them’: One Nation senator claims party will ‘remigrate’ illegal visa holders in resurfaced interview",
     "link": "https://www.theguardian.com/australia-news/2026/jul/27/get-rid-of-them-one-nation-senator-claims-party-will-remigrate-visa-holders-in-resurfaced-interview-ntwnfb",
     "pubDate": "26.07.2026 15:00:17",
@@ -159,27 +159,6 @@
     "pubDate": "26.07.2026 14:52:13",
     "sortDate": 1785077533000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168028",
-    "pubDate": "26.07.2026 12:00:00",
-    "sortDate": 1785067200000,
-    "source": "UN News"
-  },
-  {
-    "title": "After war took her leg, this Ukrainian gymnast refused to give up",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168020",
-    "pubDate": "26.07.2026 12:00:00",
-    "sortDate": 1785067200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168026",
-    "pubDate": "26.07.2026 12:00:00",
-    "sortDate": 1785067200000,
-    "source": "UN News"
   },
   {
     "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
@@ -208,20 +187,6 @@
     "pubDate": "25.07.2026 12:28:31",
     "sortDate": 1784982511000,
     "source": "The Guardian"
-  },
-  {
-    "title": "‘I am somebody’: Street-smart youth take their declaration to the UN",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168015",
-    "pubDate": "25.07.2026 12:00:00",
-    "sortDate": 1784980800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168027",
-    "pubDate": "25.07.2026 12:00:00",
-    "sortDate": 1784980800000,
-    "source": "UN News"
   },
   {
     "title": "Treasure as trinkets: Zendaya’s earrings renew debate on ownership of ancient artefacts",
@@ -273,62 +238,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168023",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "International Criminal Court Prosecutor Karim Khan dismissed",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168025",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168024",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168021",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168018",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Wildfires surge across Europe as Spain and France battle major blazes",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168013",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168012",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
     "title": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
     "link": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
     "pubDate": "24.07.2026 11:49:19",
@@ -350,55 +259,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168010",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Iran urged to stop protest-related executions",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168009",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168008",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Satellites can now spot methane leaks in real time – but most go unfixed",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168007",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168005",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Stranded seafarers remain trapped as Hormuz shipping stalls",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168004",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
     "title": "Total solar eclipse books out hotels two years in advance in New Zealand city",
     "link": "https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin",
     "pubDate": "23.07.2026 04:59:08",
@@ -411,55 +271,6 @@
     "pubDate": "22.07.2026 12:28:15",
     "sortDate": 1784723295000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Thousands prevented from returning home to southern Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168003",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168000",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nicaragua continues to weaken political freedoms, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167999",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167996",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Can critical minerals fuel peace and prosperity instead of conflict?",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167995",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167994",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Critical minerals: The hidden resources powering the clean energy future",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167990",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
   },
   {
     "title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
@@ -488,27 +299,6 @@
     "pubDate": "21.07.2026 22:39:00",
     "sortDate": 1784673540000,
     "source": "The Guardian"
-  },
-  {
-    "title": "‘Business as usual is a business of death’: UN adopts road safety pledge over US objection",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167993",
-    "pubDate": "21.07.2026 12:00:00",
-    "sortDate": 1784635200000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167992",
-    "pubDate": "21.07.2026 12:00:00",
-    "sortDate": 1784635200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167991",
-    "pubDate": "21.07.2026 12:00:00",
-    "sortDate": 1784635200000,
-    "source": "UN News"
   },
   {
     "title": "Healthy diet too expensive for one in three people globally, UN report finds",
