@@ -1,13 +1,34 @@
 [
   {
-    "title": "Australia news live: Jacinta Allan was subjected to ‘vile sexism’ as premier, Julia Gillard says",
+    "title": "Australia news live: Allan was subjected to ‘vile sexism’ as premier, Gillard says; former Melbourne gangster sentenced to life in prison in Iraq",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
-    "pubDate": "28.07.2026 21:45:15",
-    "sortDate": 1785275115000,
+    "pubDate": "28.07.2026 22:44:11",
+    "sortDate": 1785278651000,
     "source": "The Guardian"
   },
   {
-    "title": "US diplomats staged UN walkout after France criticized human rights record under Trump",
+    "title": "Trump administration reportedly plans to end Medicare subsidy that tempers drug costs for seniors – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+    "pubDate": "28.07.2026 22:24:46",
+    "sortDate": 1785277486000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rescuers pick through wreckage after ‘devastating’ Wisconsin tornado",
+    "link": "https://www.theguardian.com/us-news/2026/jul/28/wisconsin-tornado",
+    "pubDate": "28.07.2026 22:16:26",
+    "sortDate": 1785276986000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Japan earthquake injures at least 100 and kills two inside shopping mall",
+    "link": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
+    "pubDate": "28.07.2026 22:14:45",
+    "sortDate": 1785276885000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US diplomats stage UN walkout after France criticizes human rights record under Trump",
     "link": "https://www.theguardian.com/us-news/2026/jul/28/diplomats-un-walkout-france-human-rights-trump-record",
     "pubDate": "28.07.2026 21:39:51",
     "sortDate": 1785274791000,
@@ -32,20 +53,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/28/seattle-police-mass-shooting-guns",
     "pubDate": "28.07.2026 21:29:37",
     "sortDate": 1785274177000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump administration reportedly plans to end Medicare subsidy that tempers drug costs for seniors – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-    "pubDate": "28.07.2026 21:23:14",
-    "sortDate": 1785273794000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former Gavin Newsom aide shares fresh details of affair",
-    "link": "https://www.theguardian.com/us-news/2026/jul/28/gavin-newsom-ruby-rippey-affair-vanity-fair",
-    "pubDate": "28.07.2026 21:15:14",
-    "sortDate": 1785273314000,
     "source": "The Guardian"
   },
   {
@@ -112,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Japan earthquake injures at least 100 and traps many inside shopping mall",
-    "link": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
-    "pubDate": "28.07.2026 15:43:42",
-    "sortDate": 1785253422000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Guardian Essential poll: Angus Taylor’s approval rating crashes and One Nation support plateaus",
     "link": "https://www.theguardian.com/australia-news/2026/jul/29/guardian-essential-poll-angus-taylors-approval-rating-crashes-and-one-nation-support-plateaus",
     "pubDate": "28.07.2026 15:00:09",
@@ -152,6 +152,20 @@
     "pubDate": "28.07.2026 13:00:04",
     "sortDate": 1785243604000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168043",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Climate alarm ‘blaring from every direction’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168042",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
   },
   {
     "title": "HIV, hepatitis, STI gains at risk as funding falls, WHO warns",
@@ -492,20 +506,6 @@
   {
     "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
     "link": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Satellites can now spot methane leaks in real time – but most go unfixed",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168007",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168005",
     "pubDate": "23.07.2026 12:00:00",
     "sortDate": 1784808000000,
     "source": "UN News"
