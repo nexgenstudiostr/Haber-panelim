@@ -1,9 +1,100 @@
 [
   {
-    "title": "Australia news live: shouting heard in heated meeting over Victorian Labor leadership after Jacinta Allan quits as premier",
+    "title": "Ben Carroll announces royal commission into construction sector as first act as new premier of Victoria",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
+    "pubDate": "28.07.2026 05:11:15",
+    "sortDate": 1785215475000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: new Victorian premier Ben Carroll announces construction royal commission; Angus Taylor donations raised in Icac",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb",
-    "pubDate": "28.07.2026 01:44:21",
-    "sortDate": 1785203061000,
+    "pubDate": "28.07.2026 05:09:48",
+    "sortDate": 1785215388000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "World-class Jodrell Bank is under threat and UK risks a physics brain drain",
+    "link": "https://www.theguardian.com/science/2026/jul/28/world-class-jodrell-bank-threat-uk-physics",
+    "pubDate": "28.07.2026 05:00:30",
+    "sortDate": 1785214830000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Blow to NHS as Royal Mail raises prices for bulk users by a third",
+    "link": "https://www.theguardian.com/business/2026/jul/28/nhs-royal-mail-price-rises-bulk-users-mail",
+    "pubDate": "28.07.2026 05:00:30",
+    "sortDate": 1785214830000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US airman accused of ‘spree’ of rapes on sleeping women avoided UK courts",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/28/us-airman-accused-of-spree-of-rapes-on-sleeping-women-avoided-uk-courts",
+    "pubDate": "28.07.2026 05:00:30",
+    "sortDate": 1785214830000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cottage pie and glass of red, anyone? Britons shun salad despite heat in ‘reverse comfort eating’",
+    "link": "https://www.theguardian.com/food/2026/jul/28/britons-shun-salad-despite-heat-reverse-comfort-eating",
+    "pubDate": "28.07.2026 05:00:29",
+    "sortDate": 1785214829000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons",
+    "link": "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change",
+    "pubDate": "28.07.2026 04:00:28",
+    "sortDate": 1785211228000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "A dog saved Houssein Hamze from a bomb. When war returned, he stayed to care for Lebanon’s animals",
+    "link": "https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter",
+    "pubDate": "28.07.2026 04:00:28",
+    "sortDate": 1785211228000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Train drivers in Great Britain consider strike action over lack of toilets",
+    "link": "https://www.theguardian.com/business/2026/jul/28/train-drivers-consider-strike-action-lack-of-toilets",
+    "pubDate": "28.07.2026 04:00:28",
+    "sortDate": 1785211228000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hotelier stopped funding NSW Liberal ‘Reformers’ after deciding Morrison and Perrottet had ‘gone woke’, Icac hears",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/28/icac-nsw-liberals-reformers-morrison-perrottet-woke-alleged-payments-angus-taylor-ntwnfb",
+    "pubDate": "28.07.2026 03:31:07",
+    "sortDate": 1785209467000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Who is Ben Carroll, the man who has become Victoria’s new premier?",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/27/who-is-ben-carroll-mp-victoria-deputy-premier-faction-jacinta-allan",
+    "pubDate": "28.07.2026 03:20:36",
+    "sortDate": 1785208836000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "It’s the vibe: Australian comedy classic The Castle set to become a stage play",
+    "link": "https://www.theguardian.com/stage/2026/jul/28/the-castle-stage-play-working-dog-film-rob-sitch-tom-gleisner-santo-cilauro-jane-kennedy",
+    "pubDate": "28.07.2026 02:40:16",
+    "sortDate": 1785206416000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+    "link": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+    "pubDate": "28.07.2026 02:37:27",
+    "sortDate": 1785206247000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
+    "pubDate": "28.07.2026 02:00:18",
+    "sortDate": 1785204018000,
     "source": "The Guardian"
   },
   {
@@ -28,24 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Well-connected Melbourne man found guilty of raping former staffer",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/28/well-connected-melbourne-man-guilty-ntwnfb",
-    "pubDate": "28.07.2026 01:19:40",
-    "sortDate": 1785201580000,
-    "source": "The Guardian"
-  },
-  {
     "title": "At least three suspects involved in Bite of Seattle shooting, police say",
     "link": "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival",
     "pubDate": "28.07.2026 01:17:02",
     "sortDate": 1785201422000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
-    "pubDate": "28.07.2026 01:07:27",
-    "sortDate": 1785200847000,
     "source": "The Guardian"
   },
   {
@@ -56,73 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "PM praises Sally McManus and Michele O’Neil as ‘giants’ as they resign from ACTU",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/28/sally-mcmanus-michele-oneil-resign-actu-union-leaders",
-    "pubDate": "28.07.2026 00:34:52",
-    "sortDate": 1785198892000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Who is Ben Carroll, the man about to become Victoria’s next premier?",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/27/who-is-ben-carroll-mp-victoria-deputy-premier-faction-jacinta-allan",
-    "pubDate": "28.07.2026 00:22:41",
-    "sortDate": 1785198161000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jacinta Allan resigns as Victorian premier in face of leadership challenge by Ben Carroll",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll",
-    "pubDate": "27.07.2026 23:40:10",
-    "sortDate": 1785195610000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
-    "link": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
-    "pubDate": "27.07.2026 22:25:39",
-    "sortDate": 1785191139000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
     "link": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
     "pubDate": "27.07.2026 22:14:33",
     "sortDate": 1785190473000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham to tell schools in England to adapt teaching to local business needs",
-    "link": "https://www.theguardian.com/politics/2026/jul/27/burnham-to-tell-schools-in-england-to-adapt-teaching-to-local-business-needs",
-    "pubDate": "27.07.2026 21:30:20",
-    "sortDate": 1785187820000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Police make inquiries after Farage reports Polanski post for ‘inciting murder’",
-    "link": "https://www.theguardian.com/politics/2026/jul/27/police-make-inquiries-after-farage-reports-polanski-post-for-inciting",
-    "pubDate": "27.07.2026 21:01:19",
-    "sortDate": 1785186079000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andy Burnham appoints Bridget Phillipson as Labour party chair",
-    "link": "https://www.theguardian.com/politics/2026/jul/27/andy-burnham-appoints-bridget-phillipson-labour-party-chair",
-    "pubDate": "27.07.2026 20:13:23",
-    "sortDate": 1785183203000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andrew and Tristan Tate to remain in jail until next extradition hearing",
-    "link": "https://www.theguardian.com/news/2026/jul/27/andrew-tristan-tate-jail-next-extradition-hearing",
-    "pubDate": "27.07.2026 20:06:16",
-    "sortDate": 1785182776000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham’s Ukraine gambit is a symbolic start for PM who wants to look inward",
-    "link": "https://www.theguardian.com/politics/2026/jul/27/andy-burnham-ukraine-symbolic-start-pm-home",
-    "pubDate": "27.07.2026 18:32:00",
-    "sortDate": 1785177120000,
     "source": "The Guardian"
   },
   {
@@ -175,48 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168034",
-    "pubDate": "27.07.2026 12:00:00",
-    "sortDate": 1785153600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168035",
-    "pubDate": "27.07.2026 12:00:00",
-    "sortDate": 1785153600000,
-    "source": "UN News"
-  },
-  {
-    "title": "High prices and funding cuts stall HIV prevention revolution",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168033",
-    "pubDate": "27.07.2026 12:00:00",
-    "sortDate": 1785153600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Conflict and crisis put six World Heritage sites at risk",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168031",
-    "pubDate": "27.07.2026 12:00:00",
-    "sortDate": 1785153600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168030",
-    "pubDate": "27.07.2026 12:00:00",
-    "sortDate": 1785153600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168029",
-    "pubDate": "27.07.2026 12:00:00",
-    "sortDate": 1785153600000,
-    "source": "UN News"
-  },
-  {
     "title": "Home Office blocking evacuation of dozens of women and children from Gaza",
     "link": "https://www.theguardian.com/uk-news/2026/jul/27/home-office-blocking-evacuation-women-children-gaza-refugee-family-reunion",
     "pubDate": "27.07.2026 11:32:48",
@@ -245,39 +217,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Netanyahu accuses Mamdani of ‘fomenting hate’ in calls for PM’s arrest",
-    "link": "https://www.theguardian.com/us-news/2026/jul/26/netanyahu-mamdani-icc-arrest-gaza-war-united-nations",
-    "pubDate": "26.07.2026 20:43:20",
-    "sortDate": 1785098600000,
-    "source": "The Guardian"
-  },
-  {
     "title": "India’s Cockroach Janta party protest victory signals trouble ahead for Modi",
     "link": "https://www.theguardian.com/world/2026/jul/26/india-cockroach-protest-victory-signals-trouble-ahead-for-narendra-modi",
     "pubDate": "26.07.2026 16:42:31",
     "sortDate": 1785084151000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168028",
-    "pubDate": "26.07.2026 12:00:00",
-    "sortDate": 1785067200000,
-    "source": "UN News"
-  },
-  {
-    "title": "After war took her leg, this Ukrainian gymnast refused to give up",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168020",
-    "pubDate": "26.07.2026 12:00:00",
-    "sortDate": 1785067200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168026",
-    "pubDate": "26.07.2026 12:00:00",
-    "sortDate": 1785067200000,
-    "source": "UN News"
   },
   {
     "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
@@ -301,20 +245,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘I am somebody’: Street-smart youth take their declaration to the UN",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168015",
-    "pubDate": "25.07.2026 12:00:00",
-    "sortDate": 1784980800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168027",
-    "pubDate": "25.07.2026 12:00:00",
-    "sortDate": 1784980800000,
-    "source": "UN News"
-  },
-  {
     "title": "Family of missing Rohingya footballer fear he is among 500 believed dead in Myanmar shipwrecks",
     "link": "https://www.theguardian.com/global-development/2026/jul/25/family-of-missing-rohingya-footballer-fear-he-is-among-500-believed-dead-in-myanmar-shipwrecks",
     "pubDate": "25.07.2026 09:00:38",
@@ -336,62 +266,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168023",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "International Criminal Court Prosecutor Karim Khan dismissed",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168025",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168024",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168021",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168018",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Wildfires surge across Europe as Spain and France battle major blazes",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168013",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
-    "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168012",
-    "pubDate": "24.07.2026 12:00:00",
-    "sortDate": 1784894400000,
-    "source": "UN News"
-  },
-  {
     "title": "Two Russian men jailed in Angola for terrorism and spying",
     "link": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
     "pubDate": "23.07.2026 14:24:01",
@@ -404,55 +278,6 @@
     "pubDate": "23.07.2026 14:06:01",
     "sortDate": 1784815561000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168010",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Iran urged to stop protest-related executions",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168009",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168008",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Satellites can now spot methane leaks in real time – but most go unfixed",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168007",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168005",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Stranded seafarers remain trapped as Hormuz shipping stalls",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168004",
-    "pubDate": "23.07.2026 12:00:00",
-    "sortDate": 1784808000000,
-    "source": "UN News"
   },
   {
     "title": "Total solar eclipse books out hotels two years in advance in New Zealand city",
@@ -469,45 +294,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Thousands prevented from returning home to southern Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168003",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168000",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nicaragua continues to weaken political freedoms, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167999",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167996",
-    "pubDate": "22.07.2026 12:00:00",
-    "sortDate": 1784721600000,
-    "source": "UN News"
-  },
-  {
     "title": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
     "link": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
     "pubDate": "22.07.2026 11:40:08",
     "sortDate": 1784720408000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Michelin-starred restaurant owner in South Korea faces jail over ant dessert",
-    "link": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert",
-    "pubDate": "22.07.2026 09:26:09",
-    "sortDate": 1784712369000,
     "source": "The Guardian"
   },
   {
