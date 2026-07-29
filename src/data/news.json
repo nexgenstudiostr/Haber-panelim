@@ -1,30 +1,93 @@
 [
   {
-    "title": "Greggs sales jump as iced matcha lattes and chicken rolls become heatwave hits",
-    "link": "https://www.theguardian.com/business/2026/jul/29/greggs-sales-jump-iced-matcha-lattes-chicken-rolls-heatwave-hits",
-    "pubDate": "29.07.2026 10:10:25",
-    "sortDate": 1785319825000,
+    "title": "Fauci faces Republican questions over Covid pandemic origins – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
+    "pubDate": "29.07.2026 12:44:45",
+    "sortDate": 1785329085000,
     "source": "The Guardian"
   },
   {
-    "title": "Burnham says it’s ’shameful’ politicians have failed to fix social care, as he fast-tracks Louise Casey’s review – UK politics live",
+    "title": "Burnham does not rule out tax rises for social care reform as he fast-tracks Louise Casey’s review – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
-    "pubDate": "29.07.2026 10:09:53",
-    "sortDate": 1785319793000,
+    "pubDate": "29.07.2026 12:42:21",
+    "sortDate": 1785328941000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+    "link": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
+    "pubDate": "29.07.2026 12:38:38",
+    "sortDate": 1785328718000,
     "source": "The Guardian"
   },
   {
     "title": "Pedro Sánchez says next 12 hours will be ‘decisive’ in battle to contain wildfires – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-    "pubDate": "29.07.2026 10:08:26",
-    "sortDate": 1785319706000,
+    "pubDate": "29.07.2026 12:31:19",
+    "sortDate": 1785328279000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Boy, seven, dies after Essex coast incident that killed cousin and aunt",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/29/boy-seven-dies-essex-coast-incident-killed-cousin-aunt",
+    "pubDate": "29.07.2026 12:20:07",
+    "sortDate": 1785327607000,
     "source": "The Guardian"
   },
   {
     "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
     "link": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-    "pubDate": "29.07.2026 09:58:15",
-    "sortDate": 1785319095000,
+    "pubDate": "29.07.2026 12:19:07",
+    "sortDate": 1785327547000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lib Dem MP calls for investigation into Reform deputy leader’s £80,000 loan",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/29/richard-tice-reform-loan-george-cottrell-investigation-standards-watchdog",
+    "pubDate": "29.07.2026 12:18:23",
+    "sortDate": 1785327503000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
+    "link": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
+    "pubDate": "29.07.2026 12:02:20",
+    "sortDate": 1785326540000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Half of England officially in ‘exceptionally serious’ drought",
+    "link": "https://www.theguardian.com/environment/2026/jul/29/half-england-officially-drought-environment-agency",
+    "pubDate": "29.07.2026 12:00:50",
+    "sortDate": 1785326450000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French music producer Kavinsky, known for Drive soundtrack hit Nightcall, dies aged 50",
+    "link": "https://www.theguardian.com/music/2026/jul/29/kavinsky-french-music-producer-dies-aged-50-drive-soundtrack-nightcall",
+    "pubDate": "29.07.2026 11:55:17",
+    "sortDate": 1785326117000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hotter summers may force RHS to move hydrangeas to north of England",
+    "link": "https://www.theguardian.com/environment/2026/jul/29/heatwaves-hydrangeas-risk-south-of-england-rhs-warns",
+    "pubDate": "29.07.2026 11:22:05",
+    "sortDate": 1785324125000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US schools are struggling to keep the yellow bus running amid shortages and cuts",
+    "link": "https://www.theguardian.com/us-news/2026/jul/29/us-school-bus-cuts",
+    "pubDate": "29.07.2026 11:00:31",
+    "sortDate": 1785322831000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US blocks Iranian missile barrage as pause in fighting falters | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/jul/29/first-thing-us-blocks-iranian-missile-barrage",
+    "pubDate": "29.07.2026 10:27:41",
+    "sortDate": 1785320861000,
     "source": "The Guardian"
   },
   {
@@ -35,24 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Heathrow passengers face higher fares as airport can recover early expansion plan costs",
-    "link": "https://www.theguardian.com/business/2026/jul/29/heathrow-passengers-higher-fares-expansion-plan-costs",
-    "pubDate": "29.07.2026 09:09:27",
-    "sortDate": 1785316167000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘The shaking was terrifying’: stories of survival and loss emerge after Japan earthquake",
     "link": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki",
     "pubDate": "29.07.2026 09:08:57",
     "sortDate": 1785316137000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Why US military prosecutes alleged rapes of women in UK as ‘sexual assaults’",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/29/why-us-military-prosecutes-alleged-rapes-of-women-in-uk-as-sexual-assaults",
-    "pubDate": "29.07.2026 09:00:28",
-    "sortDate": 1785315628000,
     "source": "The Guardian"
   },
   {
@@ -74,13 +123,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/jul/29/sa-police-helena-wright-toddler-death-missing-baby-port-macdonnell-ntwnfb",
     "pubDate": "29.07.2026 08:27:31",
     "sortDate": 1785313651000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Zack Polanski will not say sorry to Farage for sharing guillotine image",
-    "link": "https://www.theguardian.com/politics/2026/jul/29/zack-polanski-will-not-apologise-to-nigel-farage-for-sharing-image",
-    "pubDate": "29.07.2026 08:16:26",
-    "sortDate": 1785312986000,
     "source": "The Guardian"
   },
   {
@@ -126,38 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "US Senate votes to advance Russia sanctions bill that would give Trump new tariff powers – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-    "pubDate": "29.07.2026 02:01:58",
-    "sortDate": 1785290518000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu",
-    "link": "https://www.theguardian.com/us-news/2026/jul/28/trump-netanyahu-zelenskyy-meetings",
-    "pubDate": "29.07.2026 01:09:51",
-    "sortDate": 1785287391000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
     "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
     "pubDate": "29.07.2026 00:48:07",
     "sortDate": 1785286087000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "ICE agents used racial slurs during Los Angeles crackdown, court files show",
-    "link": "https://www.theguardian.com/us-news/2026/jul/28/ice-agents-racial-slurs-los-angeles-documents",
-    "pubDate": "29.07.2026 00:27:49",
-    "sortDate": 1785284869000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "White House teleprompter operator accused over Trump bets no longer in job, official says",
-    "link": "https://www.theguardian.com/us-news/2026/jul/28/white-house-telemprompter-trump-bets",
-    "pubDate": "28.07.2026 23:42:32",
-    "sortDate": 1785282152000,
     "source": "The Guardian"
   },
   {
@@ -186,20 +200,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/28/pakistan-accused-firing-unarmed-protesters-kashmir-killings",
     "pubDate": "28.07.2026 16:41:14",
     "sortDate": 1785256874000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
-    "pubDate": "28.07.2026 16:15:06",
-    "sortDate": 1785255306000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Qantas plane flies for more than 24 hours in record-breaking flight",
-    "link": "https://www.theguardian.com/business/2026/jul/28/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight",
-    "pubDate": "28.07.2026 14:02:31",
-    "sortDate": 1785247351000,
     "source": "The Guardian"
   },
   {
