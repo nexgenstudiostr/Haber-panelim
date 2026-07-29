@@ -1,9 +1,79 @@
 [
   {
-    "title": "Australia news live: Dan Tehan sidesteps questions on Angus Taylor’s links to Icac inquiry; former Melbourne gangster sentenced to life in prison in Iraq",
+    "title": "Australia news live: Icac hears of ‘shit sheet’ on former NSW Liberal minister’s alleged affair; police treating mother and child’s deaths as murder-suicide",
     "link": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
-    "pubDate": "28.07.2026 23:43:47",
-    "sortDate": 1785282227000,
+    "pubDate": "29.07.2026 03:55:38",
+    "sortDate": 1785297338000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US thwarts ‘surprise’ Iran missile attack, and joins forces with Saudis to hit targets in Iraq",
+    "link": "https://www.theguardian.com/world/2026/jul/29/iran-missile-attack-us-base-forces",
+    "pubDate": "29.07.2026 03:36:14",
+    "sortDate": 1785296174000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy",
+    "pubDate": "29.07.2026 03:19:17",
+    "sortDate": 1785295157000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
+    "pubDate": "29.07.2026 02:48:11",
+    "sortDate": 1785293291000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Dodged a bullet’: inflation eases to 3.8%, reducing chances of interest rate rise for Australia’s mortgage holders",
+    "link": "https://www.theguardian.com/business/2026/jul/29/cpi-rate-inflation-rba-reserve-bank-australia-interest-rates",
+    "pubDate": "29.07.2026 02:45:51",
+    "sortDate": 1785293151000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Prioritising profit’: Australians regularly prescribed medicinal cannabis with very high THC levels",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/29/cannabis-prescription-australia-doctors",
+    "pubDate": "29.07.2026 02:45:20",
+    "sortDate": 1785293120000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing",
+    "link": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks",
+    "pubDate": "29.07.2026 02:40:23",
+    "sortDate": 1785292823000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US Senate votes to advance Russia sanctions bill that would give Trump new tariff powers – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+    "pubDate": "29.07.2026 02:01:58",
+    "sortDate": 1785290518000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu",
+    "link": "https://www.theguardian.com/us-news/2026/jul/28/trump-netanyahu-zelenskyy-meetings",
+    "pubDate": "29.07.2026 01:09:51",
+    "sortDate": 1785287391000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+    "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+    "pubDate": "29.07.2026 00:48:07",
+    "sortDate": 1785286087000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ICE agents used racial slurs during Los Angeles crackdown, court files show",
+    "link": "https://www.theguardian.com/us-news/2026/jul/28/ice-agents-racial-slurs-los-angeles-documents",
+    "pubDate": "29.07.2026 00:27:49",
+    "sortDate": 1785284869000,
     "source": "The Guardian"
   },
   {
@@ -11,13 +81,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/28/white-house-telemprompter-trump-bets",
     "pubDate": "28.07.2026 23:42:32",
     "sortDate": 1785282152000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US Senate confirms Jay Clayton as intelligence director, after Wyden calls him Trump’s ‘election conspiracy wingman’ – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-    "pubDate": "28.07.2026 23:37:29",
-    "sortDate": 1785281849000,
     "source": "The Guardian"
   },
   {
@@ -35,24 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Florida becomes first state in nearly a decade to execute two people on same day",
-    "link": "https://www.theguardian.com/us-news/2026/jul/28/florida-executes-first-of-two-men-single-day",
-    "pubDate": "28.07.2026 23:16:16",
-    "sortDate": 1785280576000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
     "link": "https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation",
     "pubDate": "28.07.2026 23:01:15",
     "sortDate": 1785279675000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump pausing Iran attacks shows US military power is not enough on its own",
-    "link": "https://www.theguardian.com/world/2026/jul/29/trump-iran-attacks-us-military-power",
-    "pubDate": "28.07.2026 23:00:16",
-    "sortDate": 1785279616000,
     "source": "The Guardian"
   },
   {
@@ -126,31 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Guardian Essential poll: Angus Taylor’s approval rating crashes and One Nation support plateaus",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/29/guardian-essential-poll-angus-taylors-approval-rating-crashes-and-one-nation-support-plateaus",
-    "pubDate": "28.07.2026 15:00:09",
-    "sortDate": 1785250809000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/29/royal-commission-into-victorian-construction-sector-could-boost-labors-chances-at-state-election-expert-says",
-    "pubDate": "28.07.2026 15:00:09",
-    "sortDate": 1785250809000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Anger at Labor as Rex Patrick faces potential six-figure legal fee if he loses Aukus documents battle",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/29/anger-at-labor-as-rex-patrick-faces-potential-six-figure-legal-fee-if-he-loses-aukus-documents-battle",
-    "pubDate": "28.07.2026 15:00:08",
-    "sortDate": 1785250808000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Angus Taylor has inadvertently taken centre stage in an Icac hearing – and the fallout could be profound",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/29/angus-taylor-centre-stage-in-icac-hearing-fall-out-could-be-profound-ntwnfb",
-    "pubDate": "28.07.2026 15:00:06",
-    "sortDate": 1785250806000,
+    "title": "Qantas plane flies for more than 24 hours in record-breaking flight",
+    "link": "https://www.theguardian.com/business/2026/jul/28/qantas-plane-flies-for-more-than-24-hours-in-record-breaking-flight",
+    "pubDate": "28.07.2026 14:02:31",
+    "sortDate": 1785247351000,
     "source": "The Guardian"
   },
   {
@@ -159,6 +187,48 @@
     "pubDate": "28.07.2026 13:00:04",
     "sortDate": 1785243604000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168043",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Climate alarm ‘blaring from every direction’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168042",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "HIV, hepatitis, STI gains at risk as funding falls, WHO warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168040",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168039",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Forced online scams: IOM warns trafficking networks are booming",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168038",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168037",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
   },
   {
     "title": "Dawn raid targets ‘umbrella cheaters’ reserving beach spots in Naples",
@@ -210,24 +280,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Asia ‘scraping the bottom of the barrel’ as Red Sea oil blockade worsens energy crisis",
-    "link": "https://www.theguardian.com/world/2026/jul/28/asia-energy-oil-crisis-red-sea-blockade-houthis",
-    "pubDate": "28.07.2026 01:37:05",
-    "sortDate": 1785202625000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump warns of return to ‘strong military action’ if Iran diplomacy fails",
     "link": "https://www.theguardian.com/world/2026/jul/27/trump-warns-return-strong-military-action-iran-diplomacy-fails",
     "pubDate": "27.07.2026 22:14:33",
     "sortDate": 1785190473000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Off-duty police officer detains man who attacked three women with knives in Paris",
-    "link": "https://www.theguardian.com/world/2026/jul/27/off-duty-police-officer-detains-man-attacked-women-knives-paris",
-    "pubDate": "27.07.2026 16:59:39",
-    "sortDate": 1785171579000,
     "source": "The Guardian"
   },
   {
@@ -252,11 +308,53 @@
     "source": "The Guardian"
   },
   {
-    "title": "Home Office blocking evacuation of dozens of women and children from Gaza",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/27/home-office-blocking-evacuation-women-children-gaza-refugee-family-reunion",
-    "pubDate": "27.07.2026 11:32:48",
-    "sortDate": 1785151968000,
-    "source": "The Guardian"
+    "title": "75 years later, the promise to protect refugees faces its greatest test",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168036",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168034",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168035",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "High prices and funding cuts stall HIV prevention revolution",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168033",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Conflict and crisis put six World Heritage sites at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168031",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168030",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168029",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
   },
   {
     "title": "Weather tracker: Why Europe’s wildfires are proving so fierce and difficult to stop",
@@ -287,6 +385,97 @@
     "source": "The Guardian"
   },
   {
+    "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168028",
+    "pubDate": "26.07.2026 12:00:00",
+    "sortDate": 1785067200000,
+    "source": "UN News"
+  },
+  {
+    "title": "After war took her leg, this Ukrainian gymnast refused to give up",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168020",
+    "pubDate": "26.07.2026 12:00:00",
+    "sortDate": 1785067200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168026",
+    "pubDate": "26.07.2026 12:00:00",
+    "sortDate": 1785067200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘I am somebody’: Street-smart youth take their declaration to the UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168015",
+    "pubDate": "25.07.2026 12:00:00",
+    "sortDate": 1784980800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168027",
+    "pubDate": "25.07.2026 12:00:00",
+    "sortDate": 1784980800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168023",
+    "pubDate": "24.07.2026 12:00:00",
+    "sortDate": 1784894400000,
+    "source": "UN News"
+  },
+  {
+    "title": "International Criminal Court Prosecutor Karim Khan dismissed",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168025",
+    "pubDate": "24.07.2026 12:00:00",
+    "sortDate": 1784894400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168024",
+    "pubDate": "24.07.2026 12:00:00",
+    "sortDate": 1784894400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168021",
+    "pubDate": "24.07.2026 12:00:00",
+    "sortDate": 1784894400000,
+    "source": "UN News"
+  },
+  {
+    "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168018",
+    "pubDate": "24.07.2026 12:00:00",
+    "sortDate": 1784894400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168016",
+    "pubDate": "24.07.2026 12:00:00",
+    "sortDate": 1784894400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Wildfires surge across Europe as Spain and France battle major blazes",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168013",
+    "pubDate": "24.07.2026 12:00:00",
+    "sortDate": 1784894400000,
+    "source": "UN News"
+  },
+  {
+    "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168012",
+    "pubDate": "24.07.2026 12:00:00",
+    "sortDate": 1784894400000,
+    "source": "UN News"
+  },
+  {
     "title": "Two Russian men jailed in Angola for terrorism and spying",
     "link": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
     "pubDate": "23.07.2026 14:24:01",
@@ -301,17 +490,38 @@
     "source": "The Guardian"
   },
   {
+    "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168010",
+    "pubDate": "23.07.2026 12:00:00",
+    "sortDate": 1784808000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Iran urged to stop protest-related executions",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168009",
+    "pubDate": "23.07.2026 12:00:00",
+    "sortDate": 1784808000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168008",
+    "pubDate": "23.07.2026 12:00:00",
+    "sortDate": 1784808000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168006",
+    "pubDate": "23.07.2026 12:00:00",
+    "sortDate": 1784808000000,
+    "source": "UN News"
+  },
+  {
     "title": "Health worker monitored for Ebola in London hospital after working in DRC",
     "link": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
     "pubDate": "21.07.2026 22:39:00",
     "sortDate": 1784673540000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-    "link": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-    "pubDate": "21.07.2026 10:00:42",
-    "sortDate": 1784628042000,
     "source": "The Guardian"
   }
 ]
