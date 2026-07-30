@@ -1,37 +1,93 @@
 [
   {
-    "title": "‘Grey lump with orange wings’: migrating moth descends on UK gardens",
-    "link": "https://www.theguardian.com/environment/2026/jul/30/hummingbird-hawk-moth-sightings-migrating-uk",
-    "pubDate": "30.07.2026 08:00:01",
-    "sortDate": 1785398401000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: Kumanjayi Little Baby murder trial delayed until December; two Victorian Labor ministers to quit politics",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-    "pubDate": "30.07.2026 07:59:08",
-    "sortDate": 1785398348000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reform UK to hold press conference after Met rules out investigating Polanski over anti-Farage message – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jul/30/reform-nigel-farage-robert-jenrick-labour-prisons-andy-burnham-latest-news-updates",
-    "pubDate": "30.07.2026 07:52:55",
-    "sortDate": 1785397975000,
+    "title": "Three people found dead on small boat in Channel crossing attempt",
+    "link": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+    "pubDate": "30.07.2026 10:42:11",
+    "sortDate": 1785408131000,
     "source": "The Guardian"
   },
   {
     "title": "Middle East crisis live: Jordan says it foiled Iranian missile attack as US launches ‘heavy’ strikes on Iran after pause",
     "link": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-    "pubDate": "30.07.2026 07:48:20",
-    "sortDate": 1785397700000,
+    "pubDate": "30.07.2026 10:36:31",
+    "sortDate": 1785407791000,
     "source": "The Guardian"
   },
   {
-    "title": "More deaths and injuries in major Russian attacks on Ukraine as Poland investigates airspace violation – Europe live",
+    "title": "UK on track for record heat-related deaths this summer, official data shows",
+    "link": "https://www.theguardian.com/environment/2026/jul/30/excess-deaths-caused-by-heatwaves-in-england-almost-double-so-far-this-year",
+    "pubDate": "30.07.2026 10:33:19",
+    "sortDate": 1785407599000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tusk says ‘no reason to think’ Poland was the target of Russian missiles that violated airspace – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
-    "pubDate": "30.07.2026 07:47:25",
-    "sortDate": 1785397645000,
+    "pubDate": "30.07.2026 10:29:25",
+    "sortDate": 1785407365000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Blanche’s attorney-general nomination stalls over Trump’s IRS lawsuit – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/jul/30/donald-trump-todd-blanche-irs-justice-immigration-iran-latest-news-updates",
+    "pubDate": "30.07.2026 10:29:23",
+    "sortDate": 1785407363000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lloyds Bank to cut £2bn in costs as part of AI-powered strategy",
+    "link": "https://www.theguardian.com/business/2026/jul/30/lloyds-bank-cut-2bn-costs-part-ai-powered-strategy",
+    "pubDate": "30.07.2026 10:22:52",
+    "sortDate": 1785406972000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russia accused of violating Polish airspace after missile explodes near village",
+    "link": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
+    "pubDate": "30.07.2026 10:21:23",
+    "sortDate": 1785406883000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jenrick ducks question on why George Cottrell gave $2m to his mother days before her big donations to Reform UK – politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/jul/30/reform-nigel-farage-robert-jenrick-labour-prisons-andy-burnham-latest-news-updates",
+    "pubDate": "30.07.2026 10:04:57",
+    "sortDate": 1785405897000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Republican disenfranchisement bid drives Black voters to polls, study finds",
+    "link": "https://www.theguardian.com/us-news/2026/jul/30/black-voters-south-republican-maps",
+    "pubDate": "30.07.2026 10:00:11",
+    "sortDate": 1785405611000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US borrowing costs hit 19-year high as Fed holds interest rates",
+    "link": "https://www.theguardian.com/business/2026/jul/30/us-borrowing-costs-19-year-high-fed-holds-interest-rates",
+    "pubDate": "30.07.2026 08:54:59",
+    "sortDate": 1785401699000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kumanjayi Little Baby murder trial delayed until December – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+    "pubDate": "30.07.2026 08:08:59",
+    "sortDate": 1785398939000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Major incident declared in Suffolk as 90 firefighters tackle wildfire on heathland",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
+    "pubDate": "30.07.2026 08:01:32",
+    "sortDate": 1785398492000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Grey lump with orange wings’: hummingbird hawk-moths descend on UK gardens",
+    "link": "https://www.theguardian.com/environment/2026/jul/30/hummingbird-hawk-moth-sightings-migrating-uk",
+    "pubDate": "30.07.2026 08:00:01",
+    "sortDate": 1785398401000,
     "source": "The Guardian"
   },
   {
@@ -39,20 +95,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/jul/30/robert-assaf-nsw-liberal-party-braveheart-icac-hearings-angus-taylor-ntwnfb",
     "pubDate": "30.07.2026 07:38:39",
     "sortDate": 1785397119000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Major incident declared in Suffolk as 90 firefighters tackle wildfire on heathland",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
-    "pubDate": "30.07.2026 07:37:48",
-    "sortDate": 1785397068000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Shell’s profits more than double after jump in oil and gas prices",
-    "link": "https://www.theguardian.com/business/2026/jul/30/shell-profits-double-jump-oil-gas-prices",
-    "pubDate": "30.07.2026 07:08:01",
-    "sortDate": 1785395281000,
     "source": "The Guardian"
   },
   {
@@ -77,20 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘It’s irreplaceable’: Fury over Reform plans to expand quarry in ancient Kent woodland",
-    "link": "https://www.theguardian.com/environment/2026/jul/30/oaken-wood-ancient-woodland-kent-quarry-expansion-reform-council",
-    "pubDate": "30.07.2026 06:00:54",
-    "sortDate": 1785391254000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Polls open in Greater Manchester mayoral byelection overshadowed by new PM and Farage’s antics",
-    "link": "https://www.theguardian.com/politics/2026/jul/30/greater-manchester-mayoral-byelection-overshadowed-labour-andy-burnham-bev-craig",
-    "pubDate": "30.07.2026 06:00:53",
-    "sortDate": 1785391253000,
-    "source": "The Guardian"
-  },
-  {
     "title": "NSW to send paramedics not police to some mental health emergencies after multiple deaths",
     "link": "https://www.theguardian.com/australia-news/2026/jul/30/nsw-to-send-paramedics-not-police-to-some-mental-health-emergencies-after-multiple-deaths",
     "pubDate": "30.07.2026 05:05:16",
@@ -105,24 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Lenin was an enemy of humanity’: Why Kyiv wants to put Cossack chief statue in place of Soviet leader",
-    "link": "https://www.theguardian.com/world/2026/jul/30/ukraine-kyiv-replace-lenin-statue-with-cossack-chief-ivan-mazepa",
-    "pubDate": "30.07.2026 05:00:53",
-    "sortDate": 1785387653000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Anthony Fauci’s diaries take aim at News Corp journalist Sharri Markson’s ‘nonsense’ Covid-19 investigation",
     "link": "https://www.theguardian.com/us-news/2026/jul/30/anthony-faucis-diaries-take-aim-at-news-corp-journalist-sharri-marksons-nonsense-covid-19-investigation",
     "pubDate": "30.07.2026 04:10:53",
     "sortDate": 1785384653000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Deadly strikes on Ukrainian cities after Zelenskyy warns of ‘massive’ Russian attack",
-    "link": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
-    "pubDate": "30.07.2026 03:19:54",
-    "sortDate": 1785381594000,
     "source": "The Guardian"
   },
   {
@@ -151,20 +165,6 @@
     "link": "https://www.theguardian.com/us-news/2026/jul/29/seattle-food-festival-bullets-gun-police",
     "pubDate": "30.07.2026 00:39:21",
     "sortDate": 1785371961000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology",
-    "link": "https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology",
-    "pubDate": "30.07.2026 00:02:03",
-    "sortDate": 1785369723000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Meta misses earnings forecasts after Zuckerberg media push to promote AI",
-    "link": "https://www.theguardian.com/technology/2026/jul/29/meta-earnings-mark-zuckerberg",
-    "pubDate": "29.07.2026 21:26:49",
-    "sortDate": 1785360409000,
     "source": "The Guardian"
   },
   {
