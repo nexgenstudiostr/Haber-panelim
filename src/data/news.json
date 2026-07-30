@@ -1,37 +1,107 @@
 [
   {
+    "title": "Middle East crisis live: US launches ‘heavy waves of strikes’ on Iran after days-long pause in attacks",
+    "link": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
+    "pubDate": "30.07.2026 05:14:51",
+    "sortDate": 1785388491000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Judge orders Amy Winehouse’s father to pay nearly £1m to her friends",
+    "link": "https://www.theguardian.com/music/2026/jul/30/amy-winehouse-mitch-father-judge-orders-pay-nearly-1m-to-friends",
+    "pubDate": "30.07.2026 05:09:27",
+    "sortDate": 1785388167000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NSW to send paramedics not police to some mental health emergencies after multiple deaths",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/30/nsw-to-send-paramedics-not-police-to-some-mental-health-emergencies-after-multiple-deaths",
+    "pubDate": "30.07.2026 05:05:16",
+    "sortDate": 1785387916000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: Taylor ‘definitely wasn’t opposed’ to rightwing Liberal faction’s activities, Icac hears; Neil the seal’s Tasmanian antics cost $36,000",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
+    "pubDate": "30.07.2026 05:04:25",
+    "sortDate": 1785387865000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Warring kingdoms’: cofounder of religious Reformers compares NSW Liberal party factionalism to Braveheart",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/30/robert-assaf-nsw-liberal-party-braveheart-icac-hearings-angus-taylor-ntwnfb",
+    "pubDate": "30.07.2026 05:03:39",
+    "sortDate": 1785387819000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK government reviews why police ceding criminal cases to US military",
+    "link": "https://www.theguardian.com/uk-news/2026/jul/30/uk-ministers-police-justice-review-us-military",
+    "pubDate": "30.07.2026 05:00:54",
+    "sortDate": 1785387654000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
+    "link": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
+    "pubDate": "30.07.2026 05:00:53",
+    "sortDate": 1785387653000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Lenin was an enemy of humanity’: Why Kyiv wants to put Cossack chief statue in place of Soviet leader",
+    "link": "https://www.theguardian.com/world/2026/jul/30/ukraine-kyiv-replace-lenin-statue-with-cossack-chief-ivan-mazepa",
+    "pubDate": "30.07.2026 05:00:53",
+    "sortDate": 1785387653000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Death toll in Japan earthquake rises to 28 as aftershock and heat complicate rescue efforts",
+    "link": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
+    "pubDate": "30.07.2026 04:42:33",
+    "sortDate": 1785386553000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Anthony Fauci’s diaries take aim at News Corp journalist Sharri Markson’s ‘nonsense’ Covid-19 investigation",
+    "link": "https://www.theguardian.com/us-news/2026/jul/30/anthony-faucis-diaries-take-aim-at-news-corp-journalist-sharri-marksons-nonsense-covid-19-investigation",
+    "pubDate": "30.07.2026 04:10:53",
+    "sortDate": 1785384653000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Carmakers ‘delaying investment in UK factories until EV sales rules relaxed’",
+    "link": "https://www.theguardian.com/business/2026/jul/30/carmakers-delaying-investment-in-uk-factories-until-ev-sales-rules-relaxed",
+    "pubDate": "30.07.2026 04:00:52",
+    "sortDate": 1785384052000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Federal Labor MP Luke Gosling charged with assaulting NT administrator",
+    "link": "https://www.theguardian.com/australia-news/2026/jul/30/luke-gosling-labor-mp-arrested-northern-territory-nt-ntwnfb",
+    "pubDate": "30.07.2026 03:23:04",
+    "sortDate": 1785381784000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Deadly strikes on Ukrainian cities after Zelenskyy warns of ‘massive’ Russian attack",
+    "link": "https://www.theguardian.com/world/2026/jul/30/ukraine-russia-missile-strikes-attack-kyiv",
+    "pubDate": "30.07.2026 03:19:54",
+    "sortDate": 1785381594000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US launches fresh strikes on Iran after days-long pause, amid fears the war is widening",
+    "link": "https://www.theguardian.com/world/2026/jul/30/us-strikes-iran-war-widening-iraq",
+    "pubDate": "30.07.2026 03:17:22",
+    "sortDate": 1785381442000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Senate committee delays vote on Todd Blanche attorney general nomination – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates",
     "pubDate": "30.07.2026 01:56:41",
     "sortDate": 1785376601000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: US launches fresh strikes on Iran after days-long pause in attacks",
-    "link": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news",
-    "pubDate": "30.07.2026 01:54:34",
-    "sortDate": 1785376474000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: Icac witness compares Liberal factional fighting to Braveheart; Acma takes Optus to court over triple-zero outage",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
-    "pubDate": "30.07.2026 01:52:55",
-    "sortDate": 1785376375000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bird flu has reached Victoria and more wildlife deaths loom. How bad could it get?",
-    "link": "https://www.theguardian.com/world/2026/jul/30/bird-flu-australia-h5n1-how-will-it-affect-wildlife",
-    "pubDate": "30.07.2026 01:07:04",
-    "sortDate": 1785373624000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Federal Labor MP Luke Gosling arrested over alleged assault of NT administrator",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/30/luke-gosling-labor-mp-arrested-northern-territory-nt-ntwnfb",
-    "pubDate": "30.07.2026 01:04:45",
-    "sortDate": 1785373485000,
     "source": "The Guardian"
   },
   {
@@ -53,13 +123,6 @@
     "link": "https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology",
     "pubDate": "30.07.2026 00:02:03",
     "sortDate": 1785369723000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Gina Rinehart lobbied for controversial plan to move 2032 Olympic rowing to crocodile-inhabited river",
-    "link": "https://www.theguardian.com/australia-news/2026/jul/30/gina-rinehart-fitzroy-river-rowing-crocodiles-brisbane-olympics-2032",
-    "pubDate": "29.07.2026 23:23:23",
-    "sortDate": 1785367403000,
     "source": "The Guardian"
   },
   {
@@ -91,31 +154,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Hackers steal sensitive data from UK Department for Education and police",
-    "link": "https://www.theguardian.com/technology/2026/jul/29/department-for-education-police-hackers-cybercrime",
-    "pubDate": "29.07.2026 19:10:32",
-    "sortDate": 1785352232000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
     "link": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
     "pubDate": "29.07.2026 18:30:27",
     "sortDate": 1785349827000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Brave New World or Groundhog Day? Burnham revisits old ground in speech on social care",
-    "link": "https://www.theguardian.com/politics/2026/jul/29/patrick-butler-andy-burnham-revisits-old-ground-in-speech-on-social-care",
-    "pubDate": "29.07.2026 18:15:54",
-    "sortDate": 1785348954000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Parliamentary watchdog decides against inquiry into £80,000 loan to Reform’s deputy leader",
-    "link": "https://www.theguardian.com/uk-news/2026/jul/29/richard-tice-reform-loan-george-cottrell-investigation-standards-watchdog",
-    "pubDate": "29.07.2026 17:57:24",
-    "sortDate": 1785347844000,
     "source": "The Guardian"
   },
   {
@@ -130,27 +172,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/jul/29/norwegian-teenager-johannes-kongsnes-natland-guilty-uk-contract-killing",
     "pubDate": "29.07.2026 17:02:07",
     "sortDate": 1785344527000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russia accuses Telegram founder of aiding terrorism in its latest online crackdown",
-    "link": "https://www.theguardian.com/world/2026/jul/29/russia-accuses-telegram-founder-of-aiding-terrorism-pavel-durov",
-    "pubDate": "29.07.2026 16:36:09",
-    "sortDate": 1785342969000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-    "pubDate": "29.07.2026 16:04:42",
-    "sortDate": 1785341082000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "The population of an endangered Australian bat suddenly dropped by up to 16%. No one knows why",
-    "link": "https://www.theguardian.com/environment/2026/jul/30/southern-bent-wing-bat-population-decline",
-    "pubDate": "29.07.2026 15:00:37",
-    "sortDate": 1785337237000,
     "source": "The Guardian"
   },
   {
@@ -196,13 +217,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Japan earthquake injures at least 100 and kills two inside shopping mall",
-    "link": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
-    "pubDate": "28.07.2026 22:14:45",
-    "sortDate": 1785276885000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
     "link": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
     "pubDate": "28.07.2026 16:46:05",
@@ -242,13 +256,6 @@
     "link": "https://www.theguardian.com/world/2026/jul/28/india-cockroach-janta-party-cjp-demands-protesters-release",
     "pubDate": "28.07.2026 07:23:37",
     "sortDate": 1785223417000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "A dog saved Houssein Hamze from a bomb. When war returned, he stayed to care for Lebanon’s animals",
-    "link": "https://www.theguardian.com/world/2026/jul/28/man-who-stayed-to-save-lebanon-wartime-animals-mashala-shelter",
-    "pubDate": "28.07.2026 04:00:28",
-    "sortDate": 1785211228000,
     "source": "The Guardian"
   },
   {
@@ -305,13 +312,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
     "pubDate": "23.07.2026 14:06:01",
     "sortDate": 1784815561000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-    "link": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-    "pubDate": "21.07.2026 22:39:00",
-    "sortDate": 1784673540000,
     "source": "The Guardian"
   }
 ]
