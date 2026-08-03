@@ -1,9 +1,44 @@
 [
   {
-    "title": "News live: Australian company ‘deeply saddened’ by fatal collision of its two firefighting helicopters in Greece",
+    "title": "Australia news live: petrol prices push above $2 a litre as excise discount ends; NSW Icac hearings resume",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-    "pubDate": "02.08.2026 23:48:43",
-    "sortDate": 1785714523000,
+    "pubDate": "03.08.2026 02:03:55",
+    "sortDate": 1785722635000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One Nation unveils eight Victorian election candidates including former Liberal and anti-woke film animator",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/03/one-nation-candidates-victoria-state-election-2026-ntwnfb",
+    "pubDate": "03.08.2026 01:53:05",
+    "sortDate": 1785721985000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Malaysia cracks down on social media hiking trend after jump in numbers needing rescue",
+    "link": "https://www.theguardian.com/world/2026/aug/03/malaysia-hiking-rescue-rules-social-media-bagging-peaks-trend",
+    "pubDate": "03.08.2026 01:03:29",
+    "sortDate": 1785719009000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Luke Bateman tells inquiry gambling companies supplied him with cocaine and alcohol",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/03/ex-rugby-league-star-says-gambling-companies-fuelled-his-betting-addiction",
+    "pubDate": "03.08.2026 00:39:59",
+    "sortDate": 1785717599000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK’s first ‘super-university’, merging Greenwich and Kent, to launch in September",
+    "link": "https://www.theguardian.com/education/2026/aug/03/uk-first-super-university-merger-greenwich-kent-september-launch",
+    "pubDate": "03.08.2026 00:00:35",
+    "sortDate": 1785715235000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
+    "link": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
+    "pubDate": "02.08.2026 23:54:50",
+    "sortDate": 1785714890000,
     "source": "The Guardian"
   },
   {
@@ -46,13 +81,6 @@
     "link": "https://www.theguardian.com/us-news/2026/aug/02/idaho-shooting-suspect-gunshot-wound-death",
     "pubDate": "02.08.2026 22:27:31",
     "sortDate": 1785709651000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rupert Lowe urges Nigel Farage to work with Restore Britain",
-    "link": "https://www.theguardian.com/politics/2026/aug/02/rupert-lowe-urges-nigel-farage-to-work-with-restore-britain",
-    "pubDate": "02.08.2026 21:05:52",
-    "sortDate": 1785704752000,
     "source": "The Guardian"
   },
   {
@@ -112,13 +140,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "House prices slide across Australia as Middle East conflict and tax changes begin to bite",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/03/house-prices-slide-across-australia-as-middle-east-conflict-and-tax-changes-begin-to-bite",
-    "pubDate": "02.08.2026 14:01:23",
-    "sortDate": 1785679283000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Moscow bomb kills at least three as device carried by woman explodes",
     "link": "https://www.theguardian.com/world/2026/aug/02/moscow-restaurant-bombing-kills-three-people-as-device-carried-by-woman-explodes",
     "pubDate": "02.08.2026 13:51:41",
@@ -147,11 +168,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Queensland reveals concept plans for Brisbane Olympic stadium precinct – but critics say they are ‘fantasy vision’",
-    "link": "https://www.theguardian.com/sport/2026/aug/02/queensland-reveals-concept-plans-for-brisbane-olympic-stadium-precinct-but-critics-say-they-are-fantasy-vision",
-    "pubDate": "02.08.2026 06:40:41",
-    "sortDate": 1785652841000,
-    "source": "The Guardian"
+    "title": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168058",
+    "pubDate": "02.08.2026 12:00:00",
+    "sortDate": 1785672000000,
+    "source": "UN News"
   },
   {
     "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -180,6 +201,13 @@
     "pubDate": "01.08.2026 13:41:44",
     "sortDate": 1785591704000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Recovery in Ukraine, one life at a time",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168053",
+    "pubDate": "01.08.2026 12:00:00",
+    "sortDate": 1785585600000,
+    "source": "UN News"
   },
   {
     "title": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout",
@@ -252,6 +280,27 @@
     "source": "The Guardian"
   },
   {
+    "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168062",
+    "pubDate": "31.07.2026 12:00:00",
+    "sortDate": 1785499200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Strong El Niño ahead, UN weather agency warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168059",
+    "pubDate": "31.07.2026 12:00:00",
+    "sortDate": 1785499200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Wildfire smoke poses hidden health threat",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168060",
+    "pubDate": "31.07.2026 12:00:00",
+    "sortDate": 1785499200000,
+    "source": "UN News"
+  },
+  {
     "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
     "link": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
     "pubDate": "31.07.2026 11:38:46",
@@ -259,18 +308,74 @@
     "source": "The Guardian"
   },
   {
-    "title": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
-    "link": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
-    "pubDate": "30.07.2026 06:49:55",
-    "sortDate": 1785394195000,
-    "source": "The Guardian"
+    "title": "The climate pattern putting millions at risk: El Niño explained",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168056",
+    "pubDate": "30.07.2026 12:00:00",
+    "sortDate": 1785412800000,
+    "source": "UN News"
   },
   {
-    "title": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-    "pubDate": "29.07.2026 14:27:33",
-    "sortDate": 1785335253000,
-    "source": "The Guardian"
+    "title": "Fear grows as freedoms shrink in Uganda",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168057",
+    "pubDate": "30.07.2026 12:00:00",
+    "sortDate": 1785412800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168055",
+    "pubDate": "30.07.2026 12:00:00",
+    "sortDate": 1785412800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Wildfires: Prevention is the best defence, UN says",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168054",
+    "pubDate": "30.07.2026 12:00:00",
+    "sortDate": 1785412800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168052",
+    "pubDate": "30.07.2026 12:00:00",
+    "sortDate": 1785412800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Returning Afghans face growing risk of trafficking as crises deepen",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168051",
+    "pubDate": "30.07.2026 12:00:00",
+    "sortDate": 1785412800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168049",
+    "pubDate": "29.07.2026 12:00:00",
+    "sortDate": 1785326400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168048",
+    "pubDate": "29.07.2026 12:00:00",
+    "sortDate": 1785326400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168047",
+    "pubDate": "29.07.2026 12:00:00",
+    "sortDate": 1785326400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168045",
+    "pubDate": "29.07.2026 12:00:00",
+    "sortDate": 1785326400000,
+    "source": "UN News"
   },
   {
     "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
@@ -294,6 +399,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168043",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Climate alarm ‘blaring from every direction’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168042",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "HIV, hepatitis, STI gains at risk as funding falls, WHO warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168040",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168039",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Forced online scams: IOM warns trafficking networks are booming",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168038",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168037",
+    "pubDate": "28.07.2026 12:00:00",
+    "sortDate": 1785240000000,
+    "source": "UN News"
+  },
+  {
     "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
     "link": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
     "pubDate": "28.07.2026 10:21:46",
@@ -313,5 +460,68 @@
     "pubDate": "28.07.2026 04:00:28",
     "sortDate": 1785211228000,
     "source": "The Guardian"
+  },
+  {
+    "title": "75 years later, the promise to protect refugees faces its greatest test",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168036",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168034",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168035",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "High prices and funding cuts stall HIV prevention revolution",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168033",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Conflict and crisis put six World Heritage sites at risk",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168031",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168030",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168029",
+    "pubDate": "27.07.2026 12:00:00",
+    "sortDate": 1785153600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168028",
+    "pubDate": "26.07.2026 12:00:00",
+    "sortDate": 1785067200000,
+    "source": "UN News"
+  },
+  {
+    "title": "After war took her leg, this Ukrainian gymnast refused to give up",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168020",
+    "pubDate": "26.07.2026 12:00:00",
+    "sortDate": 1785067200000,
+    "source": "UN News"
   }
 ]
