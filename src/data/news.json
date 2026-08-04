@@ -1,23 +1,107 @@
 [
   {
-    "title": "Australia news live: St Kilda may lose hundreds of little penguins to bird flu; corruption inquiry told of $50,000 branch stacking scheme",
+    "title": "Australia news live: NSW will not implement recommendation of long-awaited hate speech report; Victorian doctors to go on strike",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
-    "pubDate": "04.08.2026 03:47:10",
-    "sortDate": 1785815230000,
+    "pubDate": "04.08.2026 07:10:48",
+    "sortDate": 1785827448000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump wants ‘fair treatment’ in fight over Labor’s levy on tech giants to pay for news, US trade group warns",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/04/australia-news-bargaining-incentive-us-trade-trump-albanese",
+    "pubDate": "04.08.2026 07:06:24",
+    "sortDate": 1785827184000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Daphne Caruana Galizia was investigating suspected corruption when killed, jury told",
+    "link": "https://www.theguardian.com/world/2026/aug/04/daphne-caruana-galizia-investigating-suspected-corruption-when-killed-jury-told",
+    "pubDate": "04.08.2026 07:00:16",
+    "sortDate": 1785826816000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "BP profits more than double as Iran war sends oil prices soaring",
+    "link": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
+    "pubDate": "04.08.2026 06:54:30",
+    "sortDate": 1785826470000,
     "source": "The Guardian"
   },
   {
     "title": "Alan Jones trial live updates: former radio broadcaster in Sydney court for day two of indecent assault case – latest news",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/04/alan-jones-trial-live-updates-day-2-sydney-court-case-latest-news-ntwnfb",
-    "pubDate": "04.08.2026 03:21:52",
-    "sortDate": 1785813712000,
+    "pubDate": "04.08.2026 06:33:37",
+    "sortDate": 1785825217000,
     "source": "The Guardian"
   },
   {
-    "title": "Sportsbet and Tabcorp deny allegations they sourced drugs and sex workers to encourage VIP clients to bet more",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
-    "pubDate": "04.08.2026 02:55:00",
-    "sortDate": 1785812100000,
+    "title": "PM to tighten early release rules but men jailed over PC Harper’s death can be freed",
+    "link": "https://www.theguardian.com/society/2026/aug/03/rapists-child-abusers-and-groomers-will-not-leave-prison-early-says-pm",
+    "pubDate": "04.08.2026 06:19:21",
+    "sortDate": 1785824361000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Metro Bank customer fights for £14,000 refund after AI-linked fraud",
+    "link": "https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud",
+    "pubDate": "04.08.2026 06:00:15",
+    "sortDate": 1785823215000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
+    "link": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
+    "pubDate": "04.08.2026 05:46:06",
+    "sortDate": 1785822366000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
+    "link": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
+    "pubDate": "04.08.2026 05:45:57",
+    "sortDate": 1785822357000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Scott and Damien are afraid’: senior Liberal quizzed at Icac about former staffer’s message",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/04/scott-and-damien-are-afraid-senior-liberal-quizzed-about-former-staffers-message-at-icac-ntwnfb",
+    "pubDate": "04.08.2026 05:45:53",
+    "sortDate": 1785822353000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tuesday briefing: Inside the right’s heated climate-denial debate",
+    "link": "https://www.theguardian.com/world/2026/aug/04/tuesday-briefing-inside-the-rights-heated-climate-denial-debate",
+    "pubDate": "04.08.2026 05:45:05",
+    "sortDate": 1785822305000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Charity cyclist Bob Montgomery, 82, dies one day after 5,200km ride across Australia",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/04/bob-montgomery-mnd-cyclist-dies-aged-82-death-after-one-last-ride-charity",
+    "pubDate": "04.08.2026 05:32:58",
+    "sortDate": 1785821578000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cancer survivors need protection from future discrimination, say German politicians",
+    "link": "https://www.theguardian.com/world/2026/aug/04/cancer-survivors-need-protection-from-future-discrimination-say-german-politicians",
+    "pubDate": "04.08.2026 05:00:14",
+    "sortDate": 1785819614000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Approval of east London datacentre labelled ‘slap in the face’ for local democracy",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/04/brick-lane-redevelopment-approval-datacentre-london",
+    "pubDate": "04.08.2026 05:00:14",
+    "sortDate": 1785819614000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Price of olive oil expected to rise again as European crops feel the heat",
+    "link": "https://www.theguardian.com/business/2026/aug/04/price-olive-oil-expected-rise-again-european-crops-heat-drought-wildfires",
+    "pubDate": "04.08.2026 04:00:13",
+    "sortDate": 1785816013000,
     "source": "The Guardian"
   },
   {
@@ -70,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "NHS radiographers report rise in overt racist abuse by patients",
-    "link": "https://www.theguardian.com/society/2026/aug/04/noticeable-rise-racist-abuse-nhs-radiographers-past-18-months",
-    "pubDate": "03.08.2026 23:01:05",
-    "sortDate": 1785798065000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Ukrainian drone attacks on Black Sea resort and Crimea kill 11, Russia claims",
     "link": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
     "pubDate": "03.08.2026 22:04:10",
@@ -88,13 +165,6 @@
     "link": "https://www.theguardian.com/world/live/2026/aug/03/us-iran-trump-strait-of-hormuz-talks-israel-gaza-lebanon-latest-news-updates",
     "pubDate": "03.08.2026 22:03:21",
     "sortDate": 1785794601000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rapists, child abusers and groomers will not leave prison early, says PM",
-    "link": "https://www.theguardian.com/society/2026/aug/03/rapists-child-abusers-and-groomers-will-not-leave-prison-early-says-pm",
-    "pubDate": "03.08.2026 21:30:03",
-    "sortDate": 1785792603000,
     "source": "The Guardian"
   },
   {
@@ -112,31 +182,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
-    "link": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
-    "pubDate": "03.08.2026 18:45:20",
-    "sortDate": 1785782720000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rupert Lowe’s ‘olive branch’ to Farage piles more pressure on Reform leader",
-    "link": "https://www.theguardian.com/politics/2026/aug/03/rupert-lowe-restore-britain-olive-branch-reform-uk",
-    "pubDate": "03.08.2026 18:37:55",
-    "sortDate": 1785782275000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump meets his obstinate match in Iran’s hardball regime",
     "link": "https://www.theguardian.com/world/2026/aug/03/trump-meets-his-obstinate-match-in-irans-hardball-regime",
     "pubDate": "03.08.2026 18:27:41",
     "sortDate": 1785781661000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Judge orders return of alleged victim of trafficking sent to France under ‘one in one out’ scheme",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/03/judge-orders-return-of-alleged-victim-of-trafficking-sent-to-france-under-one-in-one-out-scheme",
-    "pubDate": "03.08.2026 17:52:12",
-    "sortDate": 1785779532000,
     "source": "The Guardian"
   },
   {
@@ -151,41 +200,6 @@
     "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
     "pubDate": "03.08.2026 16:05:20",
     "sortDate": 1785773120000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Anti-war politician flees Russia amid pre-election crackdown on dissent",
-    "link": "https://www.theguardian.com/world/2026/aug/03/anti-war-politician-flees-russia-pre-election-crackdown-dissent-boris-nadezhdin",
-    "pubDate": "03.08.2026 15:49:50",
-    "sortDate": 1785772190000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Paris prosecutor investigates alleged bullying in government departments after suicide attempt",
-    "link": "https://www.theguardian.com/world/2026/aug/03/paris-prosecutor-investigates-alleged-bullying-government-departments-suicide-attempt",
-    "pubDate": "03.08.2026 15:06:48",
-    "sortDate": 1785769608000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Kmart sells out of low-cost rival to Meta camera glasses across Australia amid warnings of ‘privacy nightmare’",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/04/kmart-camera-glasses-anko-meta-smartglasses-australia",
-    "pubDate": "03.08.2026 15:00:22",
-    "sortDate": 1785769222000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Most Sydney road tolls to keep rising after Transurban accused of blocking reforms",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/03/most-sydney-road-tolls-to-keep-rising-after-transurban-accused-of-blocking-reforms",
-    "pubDate": "03.08.2026 15:00:21",
-    "sortDate": 1785769221000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "South-eastern Europe faces heatwave energy crunch as Romania detonates Danube rock to increase water flow – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
-    "pubDate": "03.08.2026 15:00:00",
-    "sortDate": 1785769200000,
     "source": "The Guardian"
   },
   {
@@ -263,20 +277,6 @@
     "link": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
     "pubDate": "03.08.2026 08:16:38",
     "sortDate": 1785744998000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
-    "link": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
-    "pubDate": "03.08.2026 05:17:47",
-    "sortDate": 1785734267000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "New Zealand legislation recognising English an official language ridiculed as ‘pathetic’",
-    "link": "https://www.theguardian.com/world/2026/aug/03/new-zealand-english-an-official-language-bill",
-    "pubDate": "03.08.2026 04:06:41",
-    "sortDate": 1785730001000,
     "source": "The Guardian"
   },
   {
