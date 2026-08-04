@@ -1,5 +1,61 @@
 [
   {
+    "title": "Australia news live: Pocock says falling house prices a ‘good thing for our country’; Labor expands solar discount to commercial buildings",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
+    "pubDate": "04.08.2026 22:43:15",
+    "sortDate": 1785883395000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "SpaceX beats revenue expectations in first earnings report after IPO crash",
+    "link": "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
+    "pubDate": "04.08.2026 22:43:05",
+    "sortDate": 1785883385000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "MI6 is top European foreign intelligence service, finds peer review",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
+    "pubDate": "04.08.2026 22:40:53",
+    "sortDate": 1785883253000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
+    "pubDate": "04.08.2026 22:13:58",
+    "sortDate": 1785881638000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "House committee launches investigation into Republican lawmaker amid domestic abuse allegations – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
+    "pubDate": "04.08.2026 21:54:36",
+    "sortDate": 1785880476000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jetstar to charge passengers up to $52 to put baggage in overhead lockers",
+    "link": "https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers",
+    "pubDate": "04.08.2026 21:42:15",
+    "sortDate": 1785879735000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Government contracts to require job creation instead of green targets under new rules",
+    "link": "https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules",
+    "pubDate": "04.08.2026 21:30:00",
+    "sortDate": 1785879000000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US stock market hits record highs as AI profits pile and oil prices ease",
+    "link": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
+    "pubDate": "04.08.2026 20:56:59",
+    "sortDate": 1785877019000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Man charged in Washington state with starting largest wildfire in the area",
     "link": "https://www.theguardian.com/us-news/2026/aug/04/washington-state-arson-charge-old-trails-wildfire",
     "pubDate": "04.08.2026 20:52:04",
@@ -7,38 +63,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "House committee launches investigation into Republican lawmaker amid domestic abuse allegations – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
-    "pubDate": "04.08.2026 20:33:29",
-    "sortDate": 1785875609000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East crisis live: Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made",
-    "link": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
-    "pubDate": "04.08.2026 20:26:08",
-    "sortDate": 1785875168000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Jay Clayton sworn in as US director of national intelligence",
     "link": "https://www.theguardian.com/us-news/2026/aug/04/jay-clayton-sworn-in-director-of-national-intelligence",
     "pubDate": "04.08.2026 20:05:19",
     "sortDate": 1785873919000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "New York deputy police commissioner fired after attempted murder arrest",
-    "link": "https://www.theguardian.com/us-news/2026/aug/04/new-york-police-official-fired-attempted-murder-arrest",
-    "pubDate": "04.08.2026 19:51:16",
-    "sortDate": 1785873076000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "After share price crash following IPO, SpaceX to report first earnings as a public company",
-    "link": "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
-    "pubDate": "04.08.2026 19:45:27",
-    "sortDate": 1785872727000,
     "source": "The Guardian"
   },
   {
@@ -105,13 +133,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Labour members ‘have tougher view on welfare than you might think’, poll suggests",
-    "link": "https://www.theguardian.com/politics/2026/aug/04/labour-members-view-welfare-health-economy-poll-survey",
-    "pubDate": "04.08.2026 17:17:38",
-    "sortDate": 1785863858000,
-    "source": "The Guardian"
-  },
-  {
     "title": "EU chief criticises Spain’s migrant plan after Ceuta crisis meeting",
     "link": "https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting",
     "pubDate": "04.08.2026 16:51:51",
@@ -161,25 +182,32 @@
     "source": "The Guardian"
   },
   {
-    "title": "Mentions of ‘gender’ scrubbed from Queensland Office for Women website amid alleged effort to ‘dewokify’",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/05/queensland-office-for-women-website-gender-ntwnfb",
-    "pubDate": "04.08.2026 15:00:04",
-    "sortDate": 1785855604000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Aboriginal community police officers sue NT authorities over alleged racial abuse and discrimination",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/05/aboriginal-community-police-officers-sue-nt-authorities-over-alleged-racial-abuse-and-discrimination-ntwnfb",
-    "pubDate": "04.08.2026 15:00:03",
-    "sortDate": 1785855603000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UN experts urge Canada to protect Sikh activist amid credible threats to his life",
     "link": "https://www.theguardian.com/world/2026/aug/04/un-experts-urge-canada-to-protect-sikh-activist-amid-credible-threats-to-his-life",
     "pubDate": "04.08.2026 12:17:38",
     "sortDate": 1785845858000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Africans bear the brunt of biodiversity loss",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168076",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
   },
   {
     "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
@@ -214,13 +242,6 @@
     "link": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
     "pubDate": "04.08.2026 09:00:18",
     "sortDate": 1785834018000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Daphne Caruana Galizia was investigating suspected corruption when killed, jury told",
-    "link": "https://www.theguardian.com/world/2026/aug/04/daphne-caruana-galizia-investigating-suspected-corruption-when-killed-jury-told",
-    "pubDate": "04.08.2026 07:00:16",
-    "sortDate": 1785826816000,
     "source": "The Guardian"
   },
   {
@@ -501,27 +522,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/07/1168039",
     "pubDate": "28.07.2026 12:00:00",
     "sortDate": 1785240000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Forced online scams: IOM warns trafficking networks are booming",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168038",
-    "pubDate": "28.07.2026 12:00:00",
-    "sortDate": 1785240000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168037",
-    "pubDate": "28.07.2026 12:00:00",
-    "sortDate": 1785240000000,
-    "source": "UN News"
-  },
-  {
-    "title": "75 years later, the promise to protect refugees faces its greatest test",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168036",
-    "pubDate": "27.07.2026 12:00:00",
-    "sortDate": 1785153600000,
     "source": "UN News"
   }
 ]
