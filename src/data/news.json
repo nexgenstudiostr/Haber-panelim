@@ -1,9 +1,79 @@
 [
   {
-    "title": "Australia news live: Pocock says falling house prices a ‘good thing for our country’; Labor expands solar discount to commercial buildings",
+    "title": "Australia news live: ASX hits record high, with investors bullish on peace; brother of former premier Dominic Perrottet appears before Icac inquiry",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
-    "pubDate": "04.08.2026 23:39:23",
-    "sortDate": 1785886763000,
+    "pubDate": "05.08.2026 02:54:24",
+    "sortDate": 1785898464000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Daniel Andrews’ government engaged in ‘concerning’ conduct but no evidence of firefighter union blackmail: Ibac report",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/05/ibac-report-daniel-andrews-victoria-government-firefighter-union-ntwnfb",
+    "pubDate": "05.08.2026 02:33:00",
+    "sortDate": 1785897180000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labor plans migration cuts as Tony Burke pulls out of major speech",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/05/labor-plans-migration-cuts-as-tony-burke-pulls-out-of-major-speech",
+    "pubDate": "05.08.2026 02:29:21",
+    "sortDate": 1785896961000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Our new champion’: Philippines swept up in tennis fever after Alex Eala’s historic win",
+    "link": "https://www.theguardian.com/world/2026/aug/05/alex-eala-philippines-tennis-fever",
+    "pubDate": "05.08.2026 02:10:17",
+    "sortDate": 1785895817000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wesley Bell wins Missouri House primary as Cori Bush comeback bid fails",
+    "link": "https://www.theguardian.com/us-news/2026/aug/04/wesley-bell-missouri-democratic-primary-congress",
+    "pubDate": "05.08.2026 02:02:08",
+    "sortDate": 1785895328000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Armed man arrested at Trump’s California golf course",
+    "link": "https://www.theguardian.com/us-news/2026/aug/04/man-arrested-trump-california-golf-course",
+    "pubDate": "05.08.2026 01:48:42",
+    "sortDate": 1785894522000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Missouri rejects citizens’ bid for vote on Trump-backed redistricting plan",
+    "link": "https://www.theguardian.com/us-news/2026/aug/04/missouri-redistricting-plan-vote",
+    "pubDate": "05.08.2026 01:47:33",
+    "sortDate": 1785894453000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+    "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+    "pubDate": "05.08.2026 01:41:07",
+    "sortDate": 1785894067000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Penguins and dolphins among nearly 400 Australian species under threat from bird flu as ‘true extent of disaster’ revealed",
+    "link": "https://www.theguardian.com/world/2026/aug/05/penguins-dolphins-nearly-400-australian-species-threat-bird-flu-true-extent-disaster",
+    "pubDate": "05.08.2026 01:36:21",
+    "sortDate": 1785893781000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states",
+    "link": "https://www.theguardian.com/us-news/2026/aug/04/cyclosporiasis-outbreak-15-states-cdc",
+    "pubDate": "05.08.2026 01:29:10",
+    "sortDate": 1785893350000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mike Lindell, MyPillow CEO, steps down from post to run for Minnesota governor",
+    "link": "https://www.theguardian.com/us-news/2026/aug/04/mike-lindell-mypillow-ceo-minnesota-governor",
+    "pubDate": "05.08.2026 01:11:49",
+    "sortDate": 1785892309000,
     "source": "The Guardian"
   },
   {
@@ -11,20 +81,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/aug/05/did-you-send-that-report-the-icac-bombshell-that-came-late-for-damien-tudehope",
     "pubDate": "04.08.2026 23:34:51",
     "sortDate": 1785886491000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "SpaceX beats revenue expectations in first earnings report after IPO crash",
-    "link": "https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report",
-    "pubDate": "04.08.2026 23:34:17",
-    "sortDate": 1785886457000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ohio Republican Max Miller faces growing calls to resign over domestic abuse allegations",
-    "link": "https://www.theguardian.com/us-news/2026/aug/04/max-miller-resign-domestic-abuse-allegations",
-    "pubDate": "04.08.2026 23:04:44",
-    "sortDate": 1785884684000,
     "source": "The Guardian"
   },
   {
@@ -42,27 +98,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "ICE detainee reveals video of drinking water apparently contaminated with worm-like creatures",
-    "link": "https://www.theguardian.com/us-news/2026/aug/03/ice-detention-water-video",
-    "pubDate": "04.08.2026 22:56:39",
-    "sortDate": 1785884199000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jetstar to charge fees up to $52 to put carry-on baggage in overhead lockers",
-    "link": "https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers",
-    "pubDate": "04.08.2026 22:54:18",
-    "sortDate": 1785884058000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Naplan results 2026: reading and writing worsens in Australian schools as one in three students fail to meet benchmarks",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/04/naplan-results-2026-reading-writing-australian-school-standards",
-    "pubDate": "04.08.2026 22:45:42",
-    "sortDate": 1785883542000,
-    "source": "The Guardian"
-  },
-  {
     "title": "MI6 is top European foreign intelligence service, peer review finds",
     "link": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
     "pubDate": "04.08.2026 22:40:53",
@@ -77,24 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "House committee launches investigation into Republican lawmaker amid domestic abuse allegations – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates",
-    "pubDate": "04.08.2026 21:54:36",
-    "sortDate": 1785880476000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Government contracts to require job creation instead of green targets under new rules",
     "link": "https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules",
     "pubDate": "04.08.2026 21:30:00",
     "sortDate": 1785879000000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US stock market hits record highs as AI profits pile and oil prices ease",
-    "link": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
-    "pubDate": "04.08.2026 20:56:59",
-    "sortDate": 1785877019000,
     "source": "The Guardian"
   },
   {
@@ -175,60 +196,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Vandalism of Melbourne defence manufacturer being investigated as terrorist act by ‘far-left extremists’",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/05/melbourne-anti-weapons-protest-terrorism-investigation-ntwnfb",
-    "pubDate": "04.08.2026 15:00:04",
-    "sortDate": 1785855604000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UN experts urge Canada to protect Sikh activist amid credible threats to his life",
     "link": "https://www.theguardian.com/world/2026/aug/04/un-experts-urge-canada-to-protect-sikh-activist-amid-credible-threats-to-his-life",
     "pubDate": "04.08.2026 12:17:38",
     "sortDate": 1785845858000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Africans bear the brunt of biodiversity loss",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168076",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168074",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168072",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Afghanistan hunger crisis intensifies as millions left without food aid",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168069",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
   },
   {
     "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
@@ -287,41 +259,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Drone strikes threaten civilians and aid operations in Sudan",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168068",
-    "pubDate": "03.08.2026 12:00:00",
-    "sortDate": 1785758400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168067",
-    "pubDate": "03.08.2026 12:00:00",
-    "sortDate": 1785758400000,
-    "source": "UN News"
-  },
-  {
-    "title": "In Somalia, AI is helping deliver food to hungry families",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
-    "pubDate": "03.08.2026 12:00:00",
-    "sortDate": 1785758400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Mothers still lack support to breastfeed, UN warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168065",
-    "pubDate": "03.08.2026 12:00:00",
-    "sortDate": 1785758400000,
-    "source": "UN News"
-  },
-  {
-    "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168064",
-    "pubDate": "03.08.2026 12:00:00",
-    "sortDate": 1785758400000,
-    "source": "UN News"
-  },
-  {
     "title": "Red Cross visits Aung San Suu Kyi after Myanmar military pushed to prove she is alive",
     "link": "https://www.theguardian.com/world/2026/aug/03/myanmar-detained-former-leader-aung-san-suu-kyi-red-cross",
     "pubDate": "03.08.2026 11:00:52",
@@ -333,13 +270,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero",
     "pubDate": "03.08.2026 09:45:45",
     "sortDate": 1785750345000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Yen hits three-month high after Trump helps prop up currency",
-    "link": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
-    "pubDate": "03.08.2026 08:34:06",
-    "sortDate": 1785746046000,
     "source": "The Guardian"
   },
   {
@@ -355,13 +285,6 @@
     "pubDate": "02.08.2026 13:11:56",
     "sortDate": 1785676316000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168058",
-    "pubDate": "02.08.2026 12:00:00",
-    "sortDate": 1785672000000,
-    "source": "UN News"
   },
   {
     "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -385,143 +308,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Recovery in Ukraine, one life at a time",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168053",
-    "pubDate": "01.08.2026 12:00:00",
-    "sortDate": 1785585600000,
-    "source": "UN News"
-  },
-  {
     "title": "India’s monsoon rains in danger as UN chief warns planet is ‘on fire’",
     "link": "https://www.theguardian.com/environment/2026/jul/31/india-monsoon-el-nino-hot-dry-conditions-meteorologists",
     "pubDate": "31.07.2026 17:37:32",
     "sortDate": 1785519452000,
     "source": "The Guardian"
-  },
-  {
-    "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-    "link": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-    "pubDate": "31.07.2026 16:29:14",
-    "sortDate": 1785515354000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168062",
-    "pubDate": "31.07.2026 12:00:00",
-    "sortDate": 1785499200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Strong El Niño ahead, UN weather agency warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168059",
-    "pubDate": "31.07.2026 12:00:00",
-    "sortDate": 1785499200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Wildfire smoke poses hidden health threat",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168060",
-    "pubDate": "31.07.2026 12:00:00",
-    "sortDate": 1785499200000,
-    "source": "UN News"
-  },
-  {
-    "title": "The climate pattern putting millions at risk: El Niño explained",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168056",
-    "pubDate": "30.07.2026 12:00:00",
-    "sortDate": 1785412800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Fear grows as freedoms shrink in Uganda",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168057",
-    "pubDate": "30.07.2026 12:00:00",
-    "sortDate": 1785412800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168055",
-    "pubDate": "30.07.2026 12:00:00",
-    "sortDate": 1785412800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Wildfires: Prevention is the best defence, UN says",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168054",
-    "pubDate": "30.07.2026 12:00:00",
-    "sortDate": 1785412800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168052",
-    "pubDate": "30.07.2026 12:00:00",
-    "sortDate": 1785412800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Returning Afghans face growing risk of trafficking as crises deepen",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168051",
-    "pubDate": "30.07.2026 12:00:00",
-    "sortDate": 1785412800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168049",
-    "pubDate": "29.07.2026 12:00:00",
-    "sortDate": 1785326400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168048",
-    "pubDate": "29.07.2026 12:00:00",
-    "sortDate": 1785326400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168047",
-    "pubDate": "29.07.2026 12:00:00",
-    "sortDate": 1785326400000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168045",
-    "pubDate": "29.07.2026 12:00:00",
-    "sortDate": 1785326400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168043",
-    "pubDate": "28.07.2026 12:00:00",
-    "sortDate": 1785240000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Climate alarm ‘blaring from every direction’",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168042",
-    "pubDate": "28.07.2026 12:00:00",
-    "sortDate": 1785240000000,
-    "source": "UN News"
-  },
-  {
-    "title": "HIV, hepatitis, STI gains at risk as funding falls, WHO warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168040",
-    "pubDate": "28.07.2026 12:00:00",
-    "sortDate": 1785240000000,
-    "source": "UN News"
-  },
-  {
-    "title": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168039",
-    "pubDate": "28.07.2026 12:00:00",
-    "sortDate": 1785240000000,
-    "source": "UN News"
   }
 ]
