@@ -1,16 +1,100 @@
 [
   {
-    "title": "Justice minister defends early release of PC Andrew Harper’s killers amid possible legal challenge – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
-    "pubDate": "05.08.2026 09:08:27",
-    "sortDate": 1785920907000,
+    "title": "Michigan Democratic race to close to call with El-Sayed in narrow lead  First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/aug/05/first-thing-michigan-democratic-primary-too-close-to-call-el-sayed-narrow-lead",
+    "pubDate": "05.08.2026 11:38:14",
+    "sortDate": 1785929894000,
     "source": "The Guardian"
   },
   {
-    "title": "Zelenskyy rails at lack of anti-missile defences amid deadly Russian attack on Kyiv – Europe live",
+    "title": "Nato confirms drone sighting near Ukrainian plane at German airport after ‘security incident’ – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
-    "pubDate": "05.08.2026 09:02:51",
-    "sortDate": 1785920571000,
+    "pubDate": "05.08.2026 11:37:25",
+    "sortDate": 1785929845000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Drone found at German airport after cargo plane collides with object mid-air",
+    "link": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+    "pubDate": "05.08.2026 11:37:05",
+    "sortDate": 1785929825000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Michigan Senate Democratic primary race remains too close to call as El-Sayed holds narrow lead – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates",
+    "pubDate": "05.08.2026 11:32:44",
+    "sortDate": 1785929564000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jewish leaders turn down meeting with Conservative council candidate jailed for antisemitism – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
+    "pubDate": "05.08.2026 11:32:35",
+    "sortDate": 1785929555000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Former Pakistani minister arrested over alleged child rape in 1990s Manchester",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/05/former-pakistani-minister-arrested-alleged-child-rape-1990s-manchester",
+    "pubDate": "05.08.2026 11:30:48",
+    "sortDate": 1785929448000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man charged in connection with death of girl on camping trip in Scotland",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/05/man-charged-girl-death-arbroath-scotland",
+    "pubDate": "05.08.2026 11:06:22",
+    "sortDate": 1785927982000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘They’re selling the safety of the traveling public’: TSA workers decry Trump privatization push",
+    "link": "https://www.theguardian.com/us-news/2026/aug/05/tsa-trump-privatization-push",
+    "pubDate": "05.08.2026 11:00:18",
+    "sortDate": 1785927618000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham reveals wife’s reaction to third Labour leadership bid",
+    "link": "https://www.theguardian.com/politics/2026/aug/05/andy-burnham-wife-marie-france-van-heel-reaction-third-labour-leadership-bid",
+    "pubDate": "05.08.2026 10:59:05",
+    "sortDate": 1785927545000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
+    "link": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
+    "pubDate": "05.08.2026 10:43:44",
+    "sortDate": 1785926624000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
+    "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+    "pubDate": "05.08.2026 10:40:03",
+    "sortDate": 1785926403000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham not considering public inquiry into UK activities of Jeffrey Epstein",
+    "link": "https://www.theguardian.com/us-news/2026/aug/05/burnham-considering-public-inquiry-jeffrey-epstein-mohamed-al-fayed",
+    "pubDate": "05.08.2026 10:19:30",
+    "sortDate": 1785925170000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
+    "link": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+    "pubDate": "05.08.2026 10:09:27",
+    "sortDate": 1785924567000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘What they’re doing qualifies as torture’: new details of ICE force-feeding revealed",
+    "link": "https://www.theguardian.com/us-news/2026/aug/05/ice-force-feeding-hunger-strike",
+    "pubDate": "05.08.2026 10:00:17",
+    "sortDate": 1785924017000,
     "source": "The Guardian"
   },
   {
@@ -18,34 +102,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
     "pubDate": "05.08.2026 09:00:15",
     "sortDate": 1785920415000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham considering public inquiry into UK activities of Jeffrey Epstein",
-    "link": "https://www.theguardian.com/us-news/2026/aug/05/burnham-considering-public-inquiry-jeffrey-epstein-mohamed-al-fayed",
-    "pubDate": "05.08.2026 08:42:21",
-    "sortDate": 1785919341000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "OpenAI and Anthropic models ‘went rogue’ during UK cybersecurity test",
-    "link": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
-    "pubDate": "05.08.2026 08:40:45",
-    "sortDate": 1785919245000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Badenoch defends decision to allow man jailed for antisemitism to stand as councillor",
-    "link": "https://www.theguardian.com/politics/2026/aug/05/kemi-badenoch-conservatives-joshua-bonehill-paine-somerset-councillor",
-    "pubDate": "05.08.2026 08:37:19",
-    "sortDate": 1785919039000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Next upgrades profit outlook again as it benefits from summer spending",
-    "link": "https://www.theguardian.com/business/2026/aug/05/next-upgrades-profit-outlook-again-benefits-from-summer-spending",
-    "pubDate": "05.08.2026 08:30:34",
-    "sortDate": 1785918634000,
     "source": "The Guardian"
   },
   {
@@ -60,13 +116,6 @@
     "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
     "pubDate": "05.08.2026 08:00:13",
     "sortDate": 1785916813000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russian attack on Kyiv kills at least 17 as Zelenskyy calls for better air defences",
-    "link": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
-    "pubDate": "05.08.2026 07:58:14",
-    "sortDate": 1785916694000,
     "source": "The Guardian"
   },
   {
@@ -105,24 +154,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Perez Hilton hospitalised after livestreaming self-harm on Tiktok",
-    "link": "https://www.theguardian.com/media/2026/aug/05/perez-hilton-hospitalised-after-live-streaming-self-harm-on-tiktok",
-    "pubDate": "05.08.2026 06:15:38",
-    "sortDate": 1785910538000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
     "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
     "pubDate": "05.08.2026 05:54:54",
     "sortDate": 1785909294000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "El-Sayed holds narrow lead in Michigan Senate primary but race too close to call",
-    "link": "https://www.theguardian.com/us-news/2026/aug/05/abdul-el-sayed-haley-stevens-michigan-primary-election",
-    "pubDate": "05.08.2026 05:06:45",
-    "sortDate": 1785906405000,
     "source": "The Guardian"
   },
   {
@@ -147,13 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary",
-    "link": "https://www.theguardian.com/us-news/2026/aug/04/marie-gluesenkamp-perez-washington-primary-election",
-    "pubDate": "05.08.2026 03:32:07",
-    "sortDate": 1785900727000,
-    "source": "The Guardian"
-  },
-  {
     "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest street",
     "link": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
     "pubDate": "05.08.2026 03:27:37",
@@ -168,31 +196,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Wesley Bell wins Missouri House primary as Cori Bush comeback bid fails",
-    "link": "https://www.theguardian.com/us-news/2026/aug/04/wesley-bell-missouri-democratic-primary-congress",
-    "pubDate": "05.08.2026 02:02:08",
-    "sortDate": 1785895328000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Armed man arrested at Trump’s California golf course",
-    "link": "https://www.theguardian.com/us-news/2026/aug/04/man-arrested-trump-california-golf-course",
-    "pubDate": "05.08.2026 01:48:42",
-    "sortDate": 1785894522000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
     "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
     "pubDate": "05.08.2026 01:41:07",
     "sortDate": 1785894067000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "MI6 is top European foreign intelligence service, peer review finds",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
-    "pubDate": "04.08.2026 22:40:53",
-    "sortDate": 1785883253000,
     "source": "The Guardian"
   },
   {
@@ -298,13 +305,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/03/myanmar-detained-former-leader-aung-san-suu-kyi-red-cross",
     "pubDate": "03.08.2026 11:00:52",
     "sortDate": 1785754852000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
-    "link": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-    "pubDate": "03.08.2026 08:16:38",
-    "sortDate": 1785744998000,
     "source": "The Guardian"
   },
   {
