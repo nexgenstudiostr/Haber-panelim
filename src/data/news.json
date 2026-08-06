@@ -1,6 +1,104 @@
 [
   {
-    "title": "Australia news live: Icac witness asked about ‘filthy schools money’ messages; evacuation declared after industrial shed fire creates toxic smoke in Adelaide",
+    "title": "Diageo shares bounce back as new CEO Dave Lewis lifts spirits with $1bn savings plan",
+    "link": "https://www.theguardian.com/business/2026/aug/06/diageo-strategy-cost-cuts-dave-lewis",
+    "pubDate": "06.08.2026 10:56:22",
+    "sortDate": 1786013782000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lithuania warns Russia could be considering possible ‘false flag’ strike on the Baltics – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
+    "pubDate": "06.08.2026 10:55:56",
+    "sortDate": 1786013756000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – Middle East crisis live",
+    "link": "https://www.theguardian.com/world/live/2026/aug/06/iran-oman-strait-of-hormuz-yemen-houthis-israel-lebanon-gaza-us-donald-trump-middle-east-crisis-live-news",
+    "pubDate": "06.08.2026 10:48:02",
+    "sortDate": 1786013282000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reform will jail directors of companies employing illegal workers for up to five years, says Yusuf – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/aug/06/labour-reform-nigel-farage-zia-yusuf-conservatives-kemi-badenoch-joshua-bonehill-paine-uk-politics-live-news",
+    "pubDate": "06.08.2026 10:48:00",
+    "sortDate": 1786013280000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Senate committee set to vote on holding Anthony Fauci in contempt of Congress – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/06/senators-anthony-fauci-contempt-of-congress-michiganu-democrats-republicans-trump-politics-latest-news-updates",
+    "pubDate": "06.08.2026 10:44:38",
+    "sortDate": 1786013078000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Positive Persimmon looks to tap into ‘Burnham bounce’ on housebuilding",
+    "link": "https://www.theguardian.com/business/2026/aug/06/persimmon-housebuilding-burnham-new-homes",
+    "pubDate": "06.08.2026 10:44:06",
+    "sortDate": 1786013046000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
+    "link": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+    "pubDate": "06.08.2026 10:22:47",
+    "sortDate": 1786011767000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Is King Charles a ‘white Briton’? Restore Britain leader Rupert Lowe won’t say",
+    "link": "https://www.theguardian.com/politics/2026/aug/06/is-king-charles-a-white-briton-restore-britain-rupert-lowe-will-not-say",
+    "pubDate": "06.08.2026 10:21:09",
+    "sortDate": 1786011669000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "All bodies of water in England polluted with toxic chemicals, official data shows",
+    "link": "https://www.theguardian.com/environment/2026/aug/06/all-bodies-of-water-england-polluted-toxic-chemicals",
+    "pubDate": "06.08.2026 10:03:50",
+    "sortDate": 1786010630000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Virginia teens at golf tryouts rescue family from drowning and then make squad",
+    "link": "https://www.theguardian.com/us-news/2026/aug/06/virginia-teens-save-drowning-family-school-golf-team",
+    "pubDate": "06.08.2026 10:00:46",
+    "sortDate": 1786010446000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Top Democrats accuse Trump officials over Israeli settlers’ ‘unbridled violence’",
+    "link": "https://www.theguardian.com/us-news/2026/aug/06/democrats-trump-west-bank-israeli-settlers",
+    "pubDate": "06.08.2026 10:00:45",
+    "sortDate": 1786010445000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Morocco feels emboldened’: Trump’s influence in spotlight after Ceuta disaster",
+    "link": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
+    "pubDate": "06.08.2026 09:45:54",
+    "sortDate": 1786009554000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Texts suggest Angus Taylor ‘paid money to the Reformers … or was refusing to’, Icac inquiry hears",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/06/jean-claude-perrottet-icac-angus-taylor-reformers-ntwnfb",
+    "pubDate": "06.08.2026 08:51:57",
+    "sortDate": 1786006317000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Performative reductions’: Labor MPs and business groups urge Burke against sweeping immigration changes",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/06/performative-reductions-labor-mps-and-business-groups-urge-burke-against-sweeping-immigration-changes",
+    "pubDate": "06.08.2026 08:37:44",
+    "sortDate": 1786005464000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Icac witness asked about ‘filthy schools money’ messages – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
     "pubDate": "06.08.2026 08:14:32",
     "sortDate": 1786004072000,
@@ -14,17 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ukraine strikes Russian oil refineries as Moscow continues attacks on Ukrainian cities – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/aug/06/ukraine-volodymyr-zelenskyy-russia-nato-germany-leipzig-wildfires-heatwaves-europe-live-news",
-    "pubDate": "06.08.2026 08:09:12",
-    "sortDate": 1786003752000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Positive Persimmon looks to tap into ‘Burnham bounce’ on housebuilding",
-    "link": "https://www.theguardian.com/business/2026/aug/06/persimmon-housebuilding-burnham-new-homes",
-    "pubDate": "06.08.2026 08:07:32",
-    "sortDate": 1786003652000,
+    "title": "High-profile Indian investigative journalist convicted of raping colleague",
+    "link": "https://www.theguardian.com/world/2026/aug/06/indian-journalist-tarun-tejpal-convicted-raping-colleague",
+    "pubDate": "06.08.2026 08:05:15",
+    "sortDate": 1786003515000,
     "source": "The Guardian"
   },
   {
@@ -39,27 +130,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/aug/06/alleged-victim-alan-jones-denies-fabricating-claims-broadcaster-cross-examination-ntwnfb",
     "pubDate": "06.08.2026 07:32:01",
     "sortDate": 1786001521000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Orange elephant in the room’: Pauline Hanson’s political rise is inspiring racism, inquiry hears",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/06/pauline-hanson-one-nation-leader-rise-inspiring-racism-parliament-inquiry-hears-ntwnfb",
-    "pubDate": "06.08.2026 07:05:28",
-    "sortDate": 1785999928000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australian politician admits to sending text saying ‘my job is boring’ during a hearing",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/06/australian-politician-mark-parton-admits-to-sending-text-saying-my-job-is-boring-during-a-hearing-ntwnfb",
-    "pubDate": "06.08.2026 06:55:23",
-    "sortDate": 1785999323000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Healey urged to be bold on borrowing in first test of Burnham’s growth pledge",
-    "link": "https://www.theguardian.com/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
-    "pubDate": "06.08.2026 06:00:41",
-    "sortDate": 1785996041000,
     "source": "The Guardian"
   },
   {
@@ -98,20 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Winner of Florida python hunting contest nabs 96 snakes: ‘I was on a mission’",
-    "link": "https://www.theguardian.com/us-news/2026/aug/05/florida-python-hunting-contest-winner-2026",
-    "pubDate": "05.08.2026 23:50:36",
-    "sortDate": 1785973836000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lindsay Clancy murder trial: toxicologist testifies about medications found in defendant’s blood",
-    "link": "https://www.theguardian.com/us-news/2026/aug/05/lindsay-clancy-trial-toxicologist-testimony",
-    "pubDate": "05.08.2026 23:27:38",
-    "sortDate": 1785972458000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
     "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
     "pubDate": "05.08.2026 22:16:20",
@@ -123,27 +179,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
     "pubDate": "05.08.2026 20:56:06",
     "sortDate": 1785963366000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cambridge professor Jason Arday resigns amid accusations of plagiarism",
-    "link": "https://www.theguardian.com/education/2026/aug/05/cambridge-professor-jason-arday-resigns-amid-accusations-of-plagiarism",
-    "pubDate": "05.08.2026 20:08:47",
-    "sortDate": 1785960527000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
-    "link": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
-    "pubDate": "05.08.2026 20:00:28",
-    "sortDate": 1785960028000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Adapting to global heating: which UK public services are struggling in hot weather?",
-    "link": "https://www.theguardian.com/environment/2026/aug/05/global-heating-public-services-struggling-heatwaves",
-    "pubDate": "05.08.2026 20:00:27",
-    "sortDate": 1785960027000,
     "source": "The Guardian"
   },
   {
@@ -203,18 +238,18 @@
     "source": "The Guardian"
   },
   {
-    "title": "Israel strikes southern Lebanon killing one and injuring 11",
-    "link": "https://www.theguardian.com/world/2026/aug/05/israel-strikes-southern-lebanon-deadliest-ceasefire",
-    "pubDate": "05.08.2026 16:34:58",
-    "sortDate": 1785947698000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pakistan precinct suspends all 78 officers and staff over alleged rape at police station",
     "link": "https://www.theguardian.com/world/2026/aug/05/pakistan-precinct-suspends-all-officers-and-staff",
     "pubDate": "05.08.2026 15:23:06",
     "sortDate": 1785943386000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Hiroshima fosters hope, 81 years on from nuclear catastrophe",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168087",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
   },
   {
     "title": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
@@ -322,20 +357,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates",
-    "pubDate": "04.08.2026 22:13:58",
-    "sortDate": 1785881638000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "India’s ruling BJP loses byelection in stronghold after Cockroach student protests",
-    "link": "https://www.theguardian.com/world/2026/aug/04/india-bjp-rare-byelection-loss-cockroach-student-protests",
-    "pubDate": "04.08.2026 17:59:46",
-    "sortDate": 1785866386000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Africans bear the brunt of biodiversity loss",
     "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
     "pubDate": "04.08.2026 12:00:00",
@@ -382,20 +403,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
     "pubDate": "04.08.2026 05:46:06",
     "sortDate": 1785822366000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
-    "link": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
-    "pubDate": "04.08.2026 05:45:57",
-    "sortDate": 1785822357000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
-    "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-    "pubDate": "03.08.2026 17:44:01",
-    "sortDate": 1785779041000,
     "source": "The Guardian"
   },
   {
@@ -513,13 +520,6 @@
   {
     "title": "World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
     "link": "https://news.un.org/feed/view/en/story/2026/07/1168049",
-    "pubDate": "29.07.2026 12:00:00",
-    "sortDate": 1785326400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168048",
     "pubDate": "29.07.2026 12:00:00",
     "sortDate": 1785326400000,
     "source": "UN News"
