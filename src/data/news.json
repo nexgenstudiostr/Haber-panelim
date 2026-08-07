@@ -1,9 +1,37 @@
 [
   {
-    "title": "Australia news live: airlines blame lack of traffic controllers for morning of cancellations and long delays at Sydney Airport",
+    "title": "Australia news live: Attorney General warns women and children at risk of ‘harmful conduct’ from smartglasses users; major delays at Sydney airport",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb",
-    "pubDate": "07.08.2026 03:29:29",
-    "sortDate": 1786073369000,
+    "pubDate": "07.08.2026 05:28:15",
+    "sortDate": 1786080495000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Extreme heat breaks temperature records in central and eastern Europe",
+    "link": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+    "pubDate": "07.08.2026 05:00:08",
+    "sortDate": 1786078808000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "July’s heatwaves kept UK shoppers away from high street",
+    "link": "https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street",
+    "pubDate": "07.08.2026 05:00:07",
+    "sortDate": 1786078807000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump unbound: the making of an imperial presidency – podcast",
+    "link": "https://www.theguardian.com/politics/audio/2026/aug/07/trump-unbound-the-making-of-an-imperial-presidency-podcast",
+    "pubDate": "07.08.2026 04:00:06",
+    "sortDate": 1786075206000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man dies after suspected dog attack at rural property in outer Sydney",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
+    "pubDate": "07.08.2026 03:53:52",
+    "sortDate": 1786074832000,
     "source": "The Guardian"
   },
   {
@@ -32,20 +60,6 @@
     "link": "https://www.theguardian.com/us-news/2026/aug/06/trump-birthright-citizenship-attack",
     "pubDate": "07.08.2026 01:57:42",
     "sortDate": 1786067862000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man dies after suspected dog attack at rural property in Sydney suburb",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
-    "pubDate": "07.08.2026 01:33:38",
-    "sortDate": 1786066418000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump administration plans overhaul of antipoverty program for children",
-    "link": "https://www.theguardian.com/us-news/2026/aug/06/trump-administration-head-start-changes",
-    "pubDate": "06.08.2026 23:27:43",
-    "sortDate": 1786058863000,
     "source": "The Guardian"
   },
   {
@@ -81,13 +95,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/aug/06/two-men-arrested-norfolk-police-injured-unrest-thetford-asylum-plans",
     "pubDate": "06.08.2026 18:06:14",
     "sortDate": 1786039574000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Foster + Partners cleared over man’s death when window fell from London penthouse",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/06/foster-partners-cleared-death-window-fell-london-penthouse",
-    "pubDate": "06.08.2026 18:06:05",
-    "sortDate": 1786039565000,
     "source": "The Guardian"
   },
   {
@@ -182,6 +189,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola virus reaches displacement camps in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168092",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168090",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace deal frays",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168089",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168088",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
     "title": "Danish pupils will have to orally defend essays in attempt to combat AI cheating",
     "link": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
     "pubDate": "06.08.2026 11:58:15",
@@ -231,13 +280,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
-    "link": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot",
-    "pubDate": "06.08.2026 02:00:35",
-    "sortDate": 1785981635000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
     "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
     "pubDate": "05.08.2026 22:16:20",
@@ -271,6 +313,55 @@
     "pubDate": "05.08.2026 15:23:06",
     "sortDate": 1785943386000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Hiroshima fosters hope, 81 years on from nuclear catastrophe",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168087",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168086",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Tate brothers’ US extradition case a ‘step towards accountability,’ says independent expert",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168085",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN reports deadly month for Ukrainian civilians as Russian attacks intensify",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168082",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sharp spike in executions, death sentences in Iran",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168081",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168080",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Strengthening El Niño to push 49 million more people into acute hunger",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168079",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
   },
   {
     "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
@@ -308,10 +399,129 @@
     "source": "The Guardian"
   },
   {
+    "title": "Africans bear the brunt of biodiversity loss",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168076",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168074",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168072",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan hunger crisis intensifies as millions left without food aid",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168069",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
     "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
     "link": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
     "pubDate": "04.08.2026 05:46:06",
     "sortDate": 1785822366000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Drone strikes threaten civilians and aid operations in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168068",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168067",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Somalia, AI is helping deliver food to hungry families",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Mothers still lack support to breastfeed, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168065",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168064",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168058",
+    "pubDate": "02.08.2026 12:00:00",
+    "sortDate": 1785672000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Recovery in Ukraine, one life at a time",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168053",
+    "pubDate": "01.08.2026 12:00:00",
+    "sortDate": 1785585600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168062",
+    "pubDate": "31.07.2026 12:00:00",
+    "sortDate": 1785499200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Strong El Niño ahead, UN weather agency warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168059",
+    "pubDate": "31.07.2026 12:00:00",
+    "sortDate": 1785499200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Wildfire smoke poses hidden health threat",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168060",
+    "pubDate": "31.07.2026 12:00:00",
+    "sortDate": 1785499200000,
+    "source": "UN News"
+  },
+  {
+    "title": "The climate pattern putting millions at risk: El Niño explained",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168056",
+    "pubDate": "30.07.2026 12:00:00",
+    "sortDate": 1785412800000,
+    "source": "UN News"
   }
 ]
