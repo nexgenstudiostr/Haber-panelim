@@ -1,6 +1,55 @@
 [
   {
-    "title": "A pretty penny: three Banksy artworks cost taxpayers £150,000 in upkeep",
+    "title": "Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia",
+    "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+    "pubDate": "09.08.2026 15:11:28",
+    "sortDate": 1786288288000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+    "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+    "pubDate": "09.08.2026 15:02:09",
+    "sortDate": 1786287729000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
+    "pubDate": "09.08.2026 15:00:18",
+    "sortDate": 1786287618000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies",
+    "link": "https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies",
+    "pubDate": "09.08.2026 14:59:39",
+    "sortDate": 1786287579000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Captain charged after woman and five-month-old die in New York boat capsizing",
+    "link": "https://www.theguardian.com/us-news/2026/aug/09/man-charged-new-york-harbor-boat-capsized-deaths",
+    "pubDate": "09.08.2026 14:47:37",
+    "sortDate": 1786286857000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
+    "link": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts",
+    "pubDate": "09.08.2026 14:33:46",
+    "sortDate": 1786286026000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
+    "link": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
+    "pubDate": "09.08.2026 14:30:58",
+    "sortDate": 1786285858000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Three Banksy artworks in London cost taxpayers nearly £150,000 in upkeep",
     "link": "https://www.theguardian.com/artanddesign/2026/aug/09/banksy-artworks-huge-upkeep-costs-taxpayer",
     "pubDate": "09.08.2026 14:09:47",
     "sortDate": 1786284587000,
@@ -14,24 +63,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-    "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-    "pubDate": "09.08.2026 13:54:33",
-    "sortDate": 1786283673000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
     "link": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
     "pubDate": "09.08.2026 13:00:16",
     "sortDate": 1786280416000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Yemen’s Houthis claim responsibility for attack on Saudi oil refinery",
-    "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-    "pubDate": "09.08.2026 12:29:39",
-    "sortDate": 1786278579000,
     "source": "The Guardian"
   },
   {
@@ -112,20 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Not enough air traffic controllers’: safety concerns at Sydney airport after Jetstar and Qatar planes involved in near-miss",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/09/sydney-airport-jetstar-qatar-airways-planes-collision-near-miss-air-traffic-controllers-safety-chris-minns",
-    "pubDate": "09.08.2026 02:49:12",
-    "sortDate": 1786243752000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pilots of helicopter that crashed while fighting Utah wildfire confirmed dead, officials say",
-    "link": "https://www.theguardian.com/us-news/2026/aug/08/utah-helicopter-crash-wildfire",
-    "pubDate": "09.08.2026 02:36:43",
-    "sortDate": 1786243003000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Thailand school shooting toll rises to nine after 12-year-old dies, police say",
     "link": "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
     "pubDate": "09.08.2026 02:11:34",
@@ -147,13 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
-    "link": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
-    "pubDate": "08.08.2026 19:21:14",
-    "sortDate": 1786216874000,
-    "source": "The Guardian"
-  },
-  {
     "title": "For Brazil’s Indigenous youth, visibility is resistance",
     "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
     "pubDate": "08.08.2026 12:00:00",
@@ -172,13 +186,6 @@
     "link": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat",
     "pubDate": "08.08.2026 10:55:15",
     "sortDate": 1786186515000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "High divers take the plunge in Paris for a new test of reclaimed Seine’s water",
-    "link": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
-    "pubDate": "08.08.2026 09:00:44",
-    "sortDate": 1786179644000,
     "source": "The Guardian"
   },
   {
@@ -439,13 +446,6 @@
     "pubDate": "05.08.2026 12:00:00",
     "sortDate": 1785931200000,
     "source": "UN News"
-  },
-  {
-    "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest street",
-    "link": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
-    "pubDate": "05.08.2026 03:27:37",
-    "sortDate": 1785900457000,
-    "source": "The Guardian"
   },
   {
     "title": "Africans bear the brunt of biodiversity loss",
