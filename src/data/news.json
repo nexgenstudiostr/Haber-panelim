@@ -1,5 +1,26 @@
 [
   {
+    "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+    "pubDate": "09.08.2026 22:10:51",
+    "sortDate": 1786313451000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Alexandria Ocasio-Cortez announces decision to freeze her eggs",
+    "link": "https://www.theguardian.com/us-news/2026/aug/09/alexandria-ocasio-cortez-eggs-fertility",
+    "pubDate": "09.08.2026 22:06:49",
+    "sortDate": 1786313209000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham vows crackdown on ‘rip-off’ business practices to ease cost of living",
+    "link": "https://www.theguardian.com/business/2026/aug/09/burnham-vows-crackdown-on-rip-off-business-practices-to-ease-cost-of-living",
+    "pubDate": "09.08.2026 21:30:26",
+    "sortDate": 1786311026000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
     "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
     "pubDate": "09.08.2026 20:00:48",
@@ -98,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Taylor Swift songs removed from Trump and White House’s social media posts",
-    "link": "https://www.theguardian.com/us-news/2026/aug/09/taylor-swift-songs-removed-trump-white-house-posts",
-    "pubDate": "09.08.2026 14:33:46",
-    "sortDate": 1786286026000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
     "link": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
     "pubDate": "09.08.2026 14:30:58",
@@ -123,13 +137,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/09/x-accounts-posts-belfast-southampton-riots-june-2026-analysis",
     "pubDate": "09.08.2026 14:00:55",
     "sortDate": 1786284055000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
-    "link": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
-    "pubDate": "09.08.2026 13:00:16",
-    "sortDate": 1786280416000,
     "source": "The Guardian"
   },
   {
@@ -168,13 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Labor open to ‘sensible amendments’ to gambling laws after inquiry hears alcohol and cocaine offered to punters",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/09/labor-amendments-gambling-laws-inquiry-hears-alcohol-cocaine-offered-punters",
-    "pubDate": "09.08.2026 03:58:42",
-    "sortDate": 1786247922000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Thailand school shooting toll rises to nine after 12-year-old dies, police say",
     "link": "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
     "pubDate": "09.08.2026 02:11:34",
@@ -194,6 +194,13 @@
     "pubDate": "08.08.2026 20:03:34",
     "sortDate": 1786219414000,
     "source": "The Guardian"
+  },
+  {
+    "title": "For Brazil’s Indigenous youth, visibility is resistance",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168097",
+    "pubDate": "08.08.2026 12:00:00",
+    "sortDate": 1786190400000,
+    "source": "UN News"
   },
   {
     "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
@@ -252,6 +259,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168084",
+    "pubDate": "07.08.2026 12:00:00",
+    "sortDate": 1786104000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Sudan is losing another generation’ to war, Mohammed warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168101",
+    "pubDate": "07.08.2026 12:00:00",
+    "sortDate": 1786104000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Peacock party takes pride of place in nod to decades of turbulent history",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168099",
+    "pubDate": "07.08.2026 12:00:00",
+    "sortDate": 1786104000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168100",
+    "pubDate": "07.08.2026 12:00:00",
+    "sortDate": 1786104000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Food prices edged up in July amid heatwaves and energy price hikes",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168096",
+    "pubDate": "07.08.2026 12:00:00",
+    "sortDate": 1786104000000,
+    "source": "UN News"
+  },
+  {
     "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
     "link": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
     "pubDate": "06.08.2026 16:18:46",
@@ -278,6 +320,48 @@
     "pubDate": "06.08.2026 14:30:32",
     "sortDate": 1786026632000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168095",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168094",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola virus reaches displacement camps in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168092",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168090",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace deal frays",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168089",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168088",
+    "pubDate": "06.08.2026 12:00:00",
+    "sortDate": 1786017600000,
+    "source": "UN News"
   },
   {
     "title": "High-profile Indian journalist jailed for 10 years for raping colleague",
@@ -313,5 +397,131 @@
     "pubDate": "05.08.2026 15:23:06",
     "sortDate": 1785943386000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Hiroshima fosters hope, 81 years on from nuclear catastrophe",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168087",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Cambodia human rights, Hormuz invasive species risk, IOM lauds 2025 progress",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168086",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Tate brothers’ US extradition case a ‘step towards accountability,’ says independent expert",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168085",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN reports deadly month for Ukrainian civilians as Russian attacks intensify",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168082",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sharp spike in executions, death sentences in Iran",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168081",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168080",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Strengthening El Niño to push 49 million more people into acute hunger",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168079",
+    "pubDate": "05.08.2026 12:00:00",
+    "sortDate": 1785931200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Africans bear the brunt of biodiversity loss",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168078",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168077",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168076",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168074",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168072",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan hunger crisis intensifies as millions left without food aid",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168069",
+    "pubDate": "04.08.2026 12:00:00",
+    "sortDate": 1785844800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Drone strikes threaten civilians and aid operations in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168068",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168067",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Somalia, AI is helping deliver food to hungry families",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Mothers still lack support to breastfeed, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168065",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168064",
+    "pubDate": "03.08.2026 12:00:00",
+    "sortDate": 1785758400000,
+    "source": "UN News"
   }
 ]
