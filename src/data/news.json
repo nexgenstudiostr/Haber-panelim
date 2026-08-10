@@ -2,15 +2,15 @@
   {
     "title": "Trump signs executive order to split measles, mumps and rubella vaccine into separate jabs in sweeping change – live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-    "pubDate": "10.08.2026 19:29:29",
-    "sortDate": 1786390169000,
+    "pubDate": "10.08.2026 20:16:16",
+    "sortDate": 1786392976000,
     "source": "The Guardian"
   },
   {
     "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
     "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-    "pubDate": "10.08.2026 19:19:27",
-    "sortDate": 1786389567000,
+    "pubDate": "10.08.2026 20:10:00",
+    "sortDate": 1786392600000,
     "source": "The Guardian"
   },
   {
@@ -145,6 +145,27 @@
     "pubDate": "10.08.2026 13:54:04",
     "sortDate": 1786370044000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168108",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN offers support to Colombia after magnitude 7.4 earthquake kills dozens",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168106",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: Ebola is killing people before they ever reach a doctor",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168105",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
   },
   {
     "title": "Afghanistan: UN tells Taliban to open up on abuses committed by security forces",
@@ -501,27 +522,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/08/1168074",
     "pubDate": "04.08.2026 12:00:00",
     "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168072",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Afghanistan hunger crisis intensifies as millions left without food aid",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168069",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Drone strikes threaten civilians and aid operations in Sudan",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168068",
-    "pubDate": "03.08.2026 12:00:00",
-    "sortDate": 1785758400000,
     "source": "UN News"
   }
 ]
