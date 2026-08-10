@@ -1,9 +1,37 @@
 [
   {
-    "title": "Australia politics live: parliament returns as Labor seeks deals on NDIS, gambling ads and news bargaining reforms",
+    "title": "Trump signs executive order to split measles, mumps and rubella vaccine into separate shots in sweeping change – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
+    "pubDate": "10.08.2026 22:07:47",
+    "sortDate": 1786399667000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia politics live: gambling lobby talking points ‘coming out the PM’s mouth’, Chaney says; RBA tipped to hold interest rates",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-    "pubDate": "10.08.2026 21:19:46",
-    "sortDate": 1786396786000,
+    "pubDate": "10.08.2026 22:01:07",
+    "sortDate": 1786399267000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
+    "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+    "pubDate": "10.08.2026 22:00:05",
+    "sortDate": 1786399205000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham to give councils more powers to block vape and betting shops",
+    "link": "https://www.theguardian.com/society/2026/aug/10/burnham-to-give-councils-more-powers-to-block-vape-and-betting-shops",
+    "pubDate": "10.08.2026 21:30:05",
+    "sortDate": 1786397405000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Boat operator faces federal charges after mother and infant killed in New York capsizing",
+    "link": "https://www.theguardian.com/us-news/2026/aug/10/man-charged-new-york-harbor-boat-capsizing",
+    "pubDate": "10.08.2026 21:25:16",
+    "sortDate": 1786397116000,
     "source": "The Guardian"
   },
   {
@@ -11,20 +39,6 @@
     "link": "https://www.theguardian.com/us-news/2026/aug/10/pine-trees-poisoned-lake-tahoe-nevada",
     "pubDate": "10.08.2026 21:08:14",
     "sortDate": 1786396094000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump signs executive order to split measles, mumps and rubella vaccine into separate jabs in sweeping change – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-    "pubDate": "10.08.2026 21:02:27",
-    "sortDate": 1786395747000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
-    "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-    "pubDate": "10.08.2026 20:52:18",
-    "sortDate": 1786395138000,
     "source": "The Guardian"
   },
   {
@@ -56,13 +70,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "July was hottest month ever recorded in US as heatwaves scorched country",
-    "link": "https://www.theguardian.com/us-news/2026/aug/10/july-hottest-month-ever-recorded-heatwaves",
-    "pubDate": "10.08.2026 18:49:51",
-    "sortDate": 1786387791000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Ann Widdecombe police investigate whether accused had role in Farage incident",
     "link": "https://www.theguardian.com/uk-news/2026/aug/10/ann-widdecombe-nigel-farage-police",
     "pubDate": "10.08.2026 18:46:20",
@@ -91,7 +98,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Benjamin Netanyahu’s rejection of US deal for Gaza is risky move",
+    "title": "Flip-flopping Netanyahu rejects Gaza plan but cannot placate all his allies",
     "link": "https://www.theguardian.com/world/2026/aug/10/benjamin-netanyahu-rejection-us-deal-gaza-risky-gamble",
     "pubDate": "10.08.2026 17:27:54",
     "sortDate": 1786382874000,
@@ -102,13 +109,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/10/indian-police-use-force-to-disperse-youth-protesters-calling-for-exam-overhaul",
     "pubDate": "10.08.2026 17:16:28",
     "sortDate": 1786382188000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Three-quarters of England in drought as summer’s fifth heatwave looms",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
-    "pubDate": "10.08.2026 16:32:53",
-    "sortDate": 1786379573000,
     "source": "The Guardian"
   },
   {
@@ -159,6 +159,13 @@
     "pubDate": "10.08.2026 13:54:04",
     "sortDate": 1786370044000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Fighting deepens needs and fuels further displacement in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168109",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
   },
   {
     "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
@@ -513,13 +520,6 @@
   {
     "title": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
     "link": "https://news.un.org/feed/view/en/story/2026/08/1168076",
-    "pubDate": "04.08.2026 12:00:00",
-    "sortDate": 1785844800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168074",
     "pubDate": "04.08.2026 12:00:00",
     "sortDate": 1785844800000,
     "source": "UN News"
