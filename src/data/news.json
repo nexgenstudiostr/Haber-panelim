@@ -1,20 +1,41 @@
 [
   {
-    "title": "Europe solar eclipse live: millions flock to viewing spots in Spain, UK and Iceland",
+    "title": "Europe solar eclipse live: millions watch rare spectacle across Spain, UK and Iceland",
     "link": "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates",
-    "pubDate": "12.08.2026 18:36:56",
-    "sortDate": 1786559816000,
+    "pubDate": "12.08.2026 19:49:35",
+    "sortDate": 1786564175000,
     "source": "The Guardian"
   },
   {
-    "title": "Francesca Hong backs David Crowley for Wisconsin governor as Democratic nominee vows to earn support from progressives – live",
+    "title": "Trump’s press secretary Karoline Leavitt leaving role, president says – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
-    "pubDate": "12.08.2026 18:35:17",
-    "sortDate": 1786559717000,
+    "pubDate": "12.08.2026 19:48:23",
+    "sortDate": 1786564103000,
     "source": "The Guardian"
   },
   {
-    "title": "Broadcasters to be barred from Eurovision song contest if state involved in ‘armed conflict’",
+    "title": "Double murderer and rapist Simon Levy sentenced to whole-life tariff",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/12/serial-sex-offender-simon-levy-sentenced-double-muder",
+    "pubDate": "12.08.2026 19:46:32",
+    "sortDate": 1786563992000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s justice department arrests expert on far right as part of SPLC crackdown",
+    "link": "https://www.theguardian.com/us-news/2026/aug/12/doj-arrests-far-right-expert-splc",
+    "pubDate": "12.08.2026 19:19:37",
+    "sortDate": 1786562377000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+    "link": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+    "pubDate": "12.08.2026 18:46:30",
+    "sortDate": 1786560390000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Countries in ‘armed conflict’ barred from hosting Eurovision",
     "link": "https://www.theguardian.com/tv-and-radio/2026/aug/12/broadcasters-to-be-barred-from-eurovision-song-contest-if-state-involved-in-armed-conflict",
     "pubDate": "12.08.2026 18:20:55",
     "sortDate": 1786558855000,
@@ -56,24 +77,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Perez Hilton’s mother files for temporary custody of his three children",
-    "link": "https://www.theguardian.com/media/2026/aug/12/perez-hilton-mother-files-temporary-custody-children",
-    "pubDate": "12.08.2026 17:50:16",
-    "sortDate": 1786557016000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Politicians among mourners at funeral service for Ann Widdecombe",
     "link": "https://www.theguardian.com/politics/2026/aug/12/mourners-funeral-ann-widdecombe-buckfast-abbey",
     "pubDate": "12.08.2026 17:21:06",
     "sortDate": 1786555266000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Double murderer and rapist Simon Levy sentenced to whole-life tariff",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/12/serial-sex-offender-simon-levy-sentenced-double-muder",
-    "pubDate": "12.08.2026 17:14:04",
-    "sortDate": 1786554844000,
     "source": "The Guardian"
   },
   {
@@ -376,13 +383,6 @@
     "pubDate": "10.08.2026 12:00:00",
     "sortDate": 1786363200000,
     "source": "UN News"
-  },
-  {
-    "title": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
-    "link": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
-    "pubDate": "10.08.2026 10:00:43",
-    "sortDate": 1786356043000,
-    "source": "The Guardian"
   },
   {
     "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
