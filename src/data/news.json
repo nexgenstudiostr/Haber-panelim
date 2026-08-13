@@ -2,22 +2,36 @@
   {
     "title": "Australia news live: Albanese says he argued for tariff exemption in ‘substantial’ call with Trump",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
-    "pubDate": "13.08.2026 22:17:34",
-    "sortDate": 1786659454000,
+    "pubDate": "13.08.2026 23:20:24",
+    "sortDate": 1786663224000,
     "source": "The Guardian"
   },
   {
     "title": "Trump-led board reportedly votes again to close Kennedy Center for renovations – live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
-    "pubDate": "13.08.2026 22:12:15",
-    "sortDate": 1786659135000,
+    "pubDate": "13.08.2026 23:20:05",
+    "sortDate": 1786663205000,
     "source": "The Guardian"
   },
   {
-    "title": "US government extensively spied on anti-ICE protesters and leftwing groups, records reveal",
+    "title": "CPS director apologises for failings in case of rapist-murderer Simon Levy",
+    "link": "https://www.theguardian.com/law/2026/aug/14/cps-director-apologises-for-failings-in-case-of-rapist-murderer-simon-levy",
+    "pubDate": "13.08.2026 23:06:56",
+    "sortDate": 1786662416000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US conducted ‘mass spying campaign’ against leftwing groups and anti-ICE protesters, records reveal",
     "link": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
-    "pubDate": "13.08.2026 22:00:49",
-    "sortDate": 1786658449000,
+    "pubDate": "13.08.2026 23:06:04",
+    "sortDate": 1786662364000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Unemployed young people to join AI boot camps to get job-ready",
+    "link": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+    "pubDate": "13.08.2026 23:01:10",
+    "sortDate": 1786662070000,
     "source": "The Guardian"
   },
   {
@@ -44,8 +58,8 @@
   {
     "title": "Two seriously injured after passenger train derails near Lewes in East Sussex",
     "link": "https://www.theguardian.com/uk-news/2026/aug/13/train-derailment-east-sussex-closes-several-routes-lewes",
-    "pubDate": "13.08.2026 21:20:17",
-    "sortDate": 1786656017000,
+    "pubDate": "13.08.2026 21:20:16",
+    "sortDate": 1786656016000,
     "source": "The Guardian"
   },
   {
@@ -60,13 +74,6 @@
     "link": "https://www.theguardian.com/us-news/2026/aug/13/uss-abraham-conditions-hegseth",
     "pubDate": "13.08.2026 20:06:25",
     "sortDate": 1786651585000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Four taken to hospital and homes damaged in West Midlands fires",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/13/several-homes-ablaze-as-firefighters-try-to-contain-west-midlands-grassfire",
-    "pubDate": "13.08.2026 19:56:54",
-    "sortDate": 1786651014000,
     "source": "The Guardian"
   },
   {
@@ -88,13 +95,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
     "pubDate": "13.08.2026 18:54:09",
     "sortDate": 1786647249000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Behind England’s bumper A-level results lie record levels of regional disparities",
-    "link": "https://www.theguardian.com/education/2026/aug/13/england-a-level-results-record-levels-regional-disparities",
-    "pubDate": "13.08.2026 18:22:09",
-    "sortDate": 1786645329000,
     "source": "The Guardian"
   },
   {
@@ -161,6 +161,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168138",
+    "pubDate": "13.08.2026 12:00:00",
+    "sortDate": 1786622400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168137",
+    "pubDate": "13.08.2026 12:00:00",
+    "sortDate": 1786622400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168135",
+    "pubDate": "13.08.2026 12:00:00",
+    "sortDate": 1786622400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Civilian casualties hit highest level since March 2022",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168134",
+    "pubDate": "13.08.2026 12:00:00",
+    "sortDate": 1786622400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168132",
+    "pubDate": "13.08.2026 12:00:00",
+    "sortDate": 1786622400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168131",
+    "pubDate": "13.08.2026 12:00:00",
+    "sortDate": 1786622400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168130",
+    "pubDate": "13.08.2026 12:00:00",
+    "sortDate": 1786622400000,
+    "source": "UN News"
+  },
+  {
     "title": "‘Melancholic fantasy’: Wong escalates Labor rhetoric against Hanson, condemning ‘monoculture’ comment",
     "link": "https://www.theguardian.com/australia-news/2026/aug/13/penny-wong-labor-rhetoric-pauline-hanson-monoculture-ntwnfb",
     "pubDate": "13.08.2026 11:00:57",
@@ -224,6 +273,62 @@
     "source": "The Guardian"
   },
   {
+    "title": "Youth advocates gather in New York to launch new AI standards",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168129",
+    "pubDate": "12.08.2026 12:00:00",
+    "sortDate": 1786536000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN continues scaling up response to earthquake in Colombia",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168128",
+    "pubDate": "12.08.2026 12:00:00",
+    "sortDate": 1786536000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Migrant deaths climb sharply in 2026, new UN data shows",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168127",
+    "pubDate": "12.08.2026 12:00:00",
+    "sortDate": 1786536000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Attacks and further displacement in Blue Nile and North Kordofan",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168126",
+    "pubDate": "12.08.2026 12:00:00",
+    "sortDate": 1786536000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cholera spreads across borders in West and Central Africa",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168125",
+    "pubDate": "12.08.2026 12:00:00",
+    "sortDate": 1786536000000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO chief voices concern over Trump Administration’s executive order on vaccines",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168124",
+    "pubDate": "12.08.2026 12:00:00",
+    "sortDate": 1786536000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Five years after Taliban takeover, Afghan women ‘erased from public life’",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168123",
+    "pubDate": "12.08.2026 12:00:00",
+    "sortDate": 1786536000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168121",
+    "pubDate": "12.08.2026 12:00:00",
+    "sortDate": 1786536000000,
+    "source": "UN News"
+  },
+  {
     "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
     "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
     "pubDate": "12.08.2026 11:00:27",
@@ -266,6 +371,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "After post-pandemic improvement, youth unemployment is rising again",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168120",
+    "pubDate": "11.08.2026 12:00:00",
+    "sortDate": 1786449600000,
+    "source": "UN News"
+  },
+  {
+    "title": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168118",
+    "pubDate": "11.08.2026 12:00:00",
+    "sortDate": 1786449600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola deaths top 2,000 as scientists race to develop vaccine",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168117",
+    "pubDate": "11.08.2026 12:00:00",
+    "sortDate": 1786449600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World marks second warmest July on record",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168115",
+    "pubDate": "11.08.2026 12:00:00",
+    "sortDate": 1786449600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168113",
+    "pubDate": "11.08.2026 12:00:00",
+    "sortDate": 1786449600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Colombia earthquake: UN joins national response",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168112",
+    "pubDate": "11.08.2026 12:00:00",
+    "sortDate": 1786449600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Myanmar: UN investigators document deliberate military attacks on civilians",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168110",
+    "pubDate": "11.08.2026 12:00:00",
+    "sortDate": 1786449600000,
+    "source": "UN News"
+  },
+  {
     "title": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes",
     "link": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
     "pubDate": "11.08.2026 10:40:45",
@@ -301,11 +455,67 @@
     "source": "The Guardian"
   },
   {
+    "title": "Fighting deepens needs and fuels further displacement in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168109",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168108",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN offers support to Colombia after magnitude 7.4 earthquake kills dozens",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168106",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: Ebola is killing people before they ever reach a doctor",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168105",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan: UN tells Taliban to open up on abuses committed by security forces",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168104",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN calls for urgent action to protect children from online information risks",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168103",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Humanitarian aid warehouses come under attack in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168102",
+    "pubDate": "10.08.2026 12:00:00",
+    "sortDate": 1786363200000,
+    "source": "UN News"
+  },
+  {
     "title": "British national shot dead in Kashmir by Pakistani security forces",
     "link": "https://www.theguardian.com/world/2026/aug/10/british-national-shot-dead-in-kashmir-by-pakistani-security-forces",
     "pubDate": "10.08.2026 05:00:36",
     "sortDate": 1786338036000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168093",
+    "pubDate": "09.08.2026 12:00:00",
+    "sortDate": 1786276800000,
+    "source": "UN News"
   },
   {
     "title": "India-Bangladesh relations hit new low over exiled PM’s speech to press in Delhi",
