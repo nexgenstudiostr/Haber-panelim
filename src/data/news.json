@@ -1,13 +1,34 @@
 [
   {
-    "title": "Australia news live: KPMG apologises to whistleblower as firm fronts inquiry over ethical failures",
+    "title": "Australia news live: Albanese and Trump speak overnight; KPMG apologises to whistleblower ahead of inquiry",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
-    "pubDate": "13.08.2026 20:22:28",
-    "sortDate": 1786652548000,
+    "pubDate": "13.08.2026 21:25:06",
+    "sortDate": 1786656306000,
     "source": "The Guardian"
   },
   {
-    "title": "Flock Safety attempts to curb police abuse of its surveillance cameras after scandals",
+    "title": "Two seriously injured after passenger train derails near Lewes in East Sussex",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/13/train-derailment-east-sussex-closes-several-routes-lewes",
+    "pubDate": "13.08.2026 21:20:17",
+    "sortDate": 1786656017000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Polls close in Clacton byelection where Nigel Farage faces slew of fringe candidates",
+    "link": "https://www.theguardian.com/politics/2026/aug/13/clacton-byelection-polls-open",
+    "pubDate": "13.08.2026 21:18:06",
+    "sortDate": 1786655886000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump-led board reportedly votes again to close Kennedy Center for renovations – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
+    "pubDate": "13.08.2026 21:10:26",
+    "sortDate": 1786655426000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flock Safety tries to curb police abuse of its surveillance cameras after scandals",
     "link": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
     "pubDate": "13.08.2026 20:20:04",
     "sortDate": 1786652404000,
@@ -28,17 +49,17 @@
     "source": "The Guardian"
   },
   {
-    "title": "Who will be the next White House press secretary?",
+    "title": "Who will be the next White House press secretary after Karoline Leavitt’s exit?",
     "link": "https://www.theguardian.com/us-news/2026/aug/13/next-white-house-press-secretary-leavitt",
     "pubDate": "13.08.2026 19:54:14",
     "sortDate": 1786650854000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump-led board reportedly votes again to close Kennedy Center for renovations – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
-    "pubDate": "13.08.2026 19:52:16",
-    "sortDate": 1786650736000,
+    "title": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+    "link": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm",
+    "pubDate": "13.08.2026 19:32:39",
+    "sortDate": 1786649559000,
     "source": "The Guardian"
   },
   {
@@ -63,13 +84,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Two seriously injured after passenger train derails near Lewes in East Sussex",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/13/train-derailment-east-sussex-closes-several-routes-lewes",
-    "pubDate": "13.08.2026 18:38:54",
-    "sortDate": 1786646334000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Behind England’s bumper A-level results lie record levels of regional disparities",
     "link": "https://www.theguardian.com/education/2026/aug/13/england-a-level-results-record-levels-regional-disparities",
     "pubDate": "13.08.2026 18:22:09",
@@ -91,13 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK universities face ‘financial crisis’ amid collapse in international students",
-    "link": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
-    "pubDate": "13.08.2026 17:49:56",
-    "sortDate": 1786643396000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Ukraine ‘offering Russia deal to halt attacks on civilian ships in Black Sea’",
     "link": "https://www.theguardian.com/world/2026/aug/13/ukraine-proposes-deal-with-russia-to-halt-attacks-on-civilian-ships-in-black-sea",
     "pubDate": "13.08.2026 17:13:33",
@@ -109,13 +116,6 @@
     "link": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
     "pubDate": "13.08.2026 15:48:53",
     "sortDate": 1786636133000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘The colander worked best!’ Guardian readers share their experience of the solar eclipse",
-    "link": "https://www.theguardian.com/science/2026/aug/13/guardian-readers-share-solar-eclipse-experience",
-    "pubDate": "13.08.2026 15:19:13",
-    "sortDate": 1786634353000,
     "source": "The Guardian"
   },
   {
@@ -133,7 +133,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Is Australia’s Buy Now Pay Later boom at an end?",
+    "title": "Is Australia’s buy now, pay later boom at an end?",
     "link": "https://www.theguardian.com/business/2026/aug/14/is-australias-buy-now-pay-later-boom-at-an-end",
     "pubDate": "13.08.2026 15:00:03",
     "sortDate": 1786633203000,
