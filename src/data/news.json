@@ -1,5 +1,47 @@
 [
   {
+    "title": "Cambridge University defends its mental health support for Jason Arday",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+    "pubDate": "16.08.2026 14:09:13",
+    "sortDate": 1786889353000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Logies 2026: Sam Pang wins gold and Sam Neill wins posthumous best actor at Australia’s TV awards",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/aug/17/logies-2026-sam-pang-gold-logie-sam-neill-win-awards",
+    "pubDate": "16.08.2026 14:01:53",
+    "sortDate": 1786888913000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+    "pubDate": "16.08.2026 14:01:27",
+    "sortDate": 1786888887000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘She is a hero’: 13-year-old survivor of Michigan shooting rampage called 911",
+    "link": "https://www.theguardian.com/us-news/2026/aug/16/michigan-shooting-girl-survives",
+    "pubDate": "16.08.2026 14:01:06",
+    "sortDate": 1786888866000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Absolutely manic’: hot weather puts unprecedented pressure on Greater Manchester police",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/16/absolutely-manic-hot-weather-puts-unprecedented-pressure-on-greater-manchester-police",
+    "pubDate": "16.08.2026 14:00:27",
+    "sortDate": 1786888827000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+    "link": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
+    "pubDate": "16.08.2026 13:44:29",
+    "sortDate": 1786887869000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Hurricane Lala skirts Hawaii’s Big Island as heavy wind and rain lash region",
     "link": "https://www.theguardian.com/world/2026/aug/16/hurricane-lala-hawaii-big-island-avoids-landfall",
     "pubDate": "16.08.2026 13:09:03",
@@ -39,27 +81,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/aug/16/whitstable-plans-to-expand-oyster-shack-kent-coast-opposition",
     "pubDate": "16.08.2026 12:00:24",
     "sortDate": 1786881624000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
-    "link": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday",
-    "pubDate": "16.08.2026 11:42:52",
-    "sortDate": 1786880572000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham urged to crack down on gig economy firms to protect 4m workers",
-    "link": "https://www.theguardian.com/business/2026/aug/16/andy-burnham-gig-economy-companies-employment-rights",
-    "pubDate": "16.08.2026 11:29:41",
-    "sortDate": 1786879781000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man under threat of deportation to Jamaica wins right to rejoin his British family",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/16/man-under-threat-of-deportation-to-jamaica-wins-right-to-rejoin-his-british-family",
-    "pubDate": "16.08.2026 11:27:22",
-    "sortDate": 1786879642000,
     "source": "The Guardian"
   },
   {
@@ -126,13 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "New York City man charged with hate crimes after alleged synagogue assault",
-    "link": "https://www.theguardian.com/us-news/2026/aug/15/hate-crime-charges-new-york-synagogue-assault",
-    "pubDate": "15.08.2026 20:02:27",
-    "sortDate": 1786824147000,
-    "source": "The Guardian"
-  },
-  {
     "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
     "link": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
     "pubDate": "15.08.2026 20:00:06",
@@ -189,24 +203,10 @@
     "source": "UN News"
   },
   {
-    "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
-    "link": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island",
-    "pubDate": "15.08.2026 07:01:50",
-    "sortDate": 1786777310000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
     "link": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
     "pubDate": "15.08.2026 05:00:49",
     "sortDate": 1786770049000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
-    "pubDate": "15.08.2026 04:58:20",
-    "sortDate": 1786769900000,
     "source": "The Guardian"
   },
   {
