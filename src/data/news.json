@@ -2,22 +2,36 @@
   {
     "title": "Tupac Shakur murder trial: former security officer describes witnessing aftermath of shooting – latest updates",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
-    "pubDate": "18.08.2026 19:14:37",
-    "sortDate": 1787080477000,
+    "pubDate": "18.08.2026 19:59:33",
+    "sortDate": 1787083173000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US woman sentenced to six years in prison over plot to kill treasury secretary",
+    "link": "https://www.theguardian.com/us-news/2026/aug/18/riley-english-sentenced-scott-bessent",
+    "pubDate": "18.08.2026 19:48:41",
+    "sortDate": 1787082521000,
     "source": "The Guardian"
   },
   {
     "title": "ABC is ‘right to stand up to pressure tactics’ from Trump administration, say media advocacy organizations – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/18/donald-trump-florida-alaska-wyoming-primaries-midterms-white-house-ballroom-iran-cnn-latest-news-updates",
-    "pubDate": "18.08.2026 18:59:16",
-    "sortDate": 1787079556000,
+    "pubDate": "18.08.2026 19:45:03",
+    "sortDate": 1787082303000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump administration to rescind rule protecting old growth forests",
-    "link": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
-    "pubDate": "18.08.2026 18:51:47",
-    "sortDate": 1787079107000,
+    "title": "Man accused of attacking duo at New York synagogue charged with federal hate crimes",
+    "link": "https://www.theguardian.com/us-news/2026/aug/18/nyc-synagogue-federal-hate-crime-charges",
+    "pubDate": "18.08.2026 19:38:00",
+    "sortDate": 1787081880000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Minnesota sues Texas to force extradition of ICE agent accused of lying about shooting",
+    "link": "https://www.theguardian.com/us-news/2026/aug/18/minnesota-ice-agent-lawsuit-texas",
+    "pubDate": "18.08.2026 19:35:37",
+    "sortDate": 1787081737000,
     "source": "The Guardian"
   },
   {
@@ -25,20 +39,6 @@
     "link": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
     "pubDate": "18.08.2026 18:44:06",
     "sortDate": 1787078646000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US sanctions international criminal court president and prosecutor",
-    "link": "https://www.theguardian.com/us-news/2026/aug/18/us-icc-sanctions",
-    "pubDate": "18.08.2026 18:37:59",
-    "sortDate": 1787078279000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "San Diego Padres minor-league staffer detained by ICE after arrest in Texas",
-    "link": "https://www.theguardian.com/sport/2026/aug/18/padres-coach-oswaldo-pirela-detained-ice-el-paso",
-    "pubDate": "18.08.2026 18:00:48",
-    "sortDate": 1787076048000,
     "source": "The Guardian"
   },
   {
@@ -117,41 +117,6 @@
     "pubDate": "18.08.2026 12:13:35",
     "sortDate": 1787055215000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Colombia earthquake: UN ramps up aid for 100,000 people",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168161",
-    "pubDate": "18.08.2026 12:00:00",
-    "sortDate": 1787054400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Only three per cent of cropland available to grow food",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168160",
-    "pubDate": "18.08.2026 12:00:00",
-    "sortDate": 1787054400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of death penalty",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168159",
-    "pubDate": "18.08.2026 12:00:00",
-    "sortDate": 1787054400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168158",
-    "pubDate": "18.08.2026 12:00:00",
-    "sortDate": 1787054400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168157",
-    "pubDate": "18.08.2026 12:00:00",
-    "sortDate": 1787054400000,
-    "source": "UN News"
   },
   {
     "title": "‘Our task is to laugh at these enemies’: the Ukrainian unit posting drone videos of Russian soldiers’ last moments",
@@ -252,34 +217,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Protecting our ‘most vital infrastructure’: Pushing back on desertification",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168156",
-    "pubDate": "17.08.2026 12:00:00",
-    "sortDate": 1786968000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168155",
-    "pubDate": "17.08.2026 12:00:00",
-    "sortDate": 1786968000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola outbreak becomes deadliest in DR Congo’s history",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168154",
-    "pubDate": "17.08.2026 12:00:00",
-    "sortDate": 1786968000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Yemen: Türk alarmed by rising civilian toll, urges restraint",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168151",
-    "pubDate": "17.08.2026 12:00:00",
-    "sortDate": 1786968000000,
-    "source": "UN News"
-  },
-  {
     "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
     "link": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
     "pubDate": "16.08.2026 18:44:41",
@@ -294,13 +231,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168136",
-    "pubDate": "16.08.2026 12:00:00",
-    "sortDate": 1786881600000,
-    "source": "UN News"
-  },
-  {
     "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
     "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
     "pubDate": "15.08.2026 19:39:07",
@@ -313,20 +243,6 @@
     "pubDate": "15.08.2026 18:08:21",
     "sortDate": 1786817301000,
     "source": "The Guardian"
-  },
-  {
-    "title": "The grass beneath our feet: Why rangelands matter",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-    "pubDate": "15.08.2026 12:00:00",
-    "sortDate": 1786795200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-    "pubDate": "15.08.2026 12:00:00",
-    "sortDate": 1786795200000,
-    "source": "UN News"
   },
   {
     "title": "Concerns grow over increased global ties with Taliban in Afghanistan",
@@ -364,109 +280,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168149",
-    "pubDate": "14.08.2026 12:00:00",
-    "sortDate": 1786708800000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-    "pubDate": "14.08.2026 12:00:00",
-    "sortDate": 1786708800000,
-    "source": "UN News"
-  },
-  {
-    "title": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-    "pubDate": "14.08.2026 12:00:00",
-    "sortDate": 1786708800000,
-    "source": "UN News"
-  },
-  {
-    "title": "An attack on healthcare every six hours, and no one held to account",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168144",
-    "pubDate": "14.08.2026 12:00:00",
-    "sortDate": 1786708800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-    "pubDate": "14.08.2026 12:00:00",
-    "sortDate": 1786708800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan: The harrowing reality of giving birth in a war zone",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168141",
-    "pubDate": "14.08.2026 12:00:00",
-    "sortDate": 1786708800000,
-    "source": "UN News"
-  },
-  {
     "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
     "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
     "pubDate": "13.08.2026 15:17:13",
     "sortDate": 1786634233000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168139",
-    "pubDate": "13.08.2026 12:00:00",
-    "sortDate": 1786622400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168138",
-    "pubDate": "13.08.2026 12:00:00",
-    "sortDate": 1786622400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168137",
-    "pubDate": "13.08.2026 12:00:00",
-    "sortDate": 1786622400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Afghanistan education, Myanmar flooding, Syria recovery, homecare workers in New York",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168135",
-    "pubDate": "13.08.2026 12:00:00",
-    "sortDate": 1786622400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ukraine: Civilian casualties hit highest level since March 2022",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168134",
-    "pubDate": "13.08.2026 12:00:00",
-    "sortDate": 1786622400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168132",
-    "pubDate": "13.08.2026 12:00:00",
-    "sortDate": 1786622400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168131",
-    "pubDate": "13.08.2026 12:00:00",
-    "sortDate": 1786622400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168130",
-    "pubDate": "13.08.2026 12:00:00",
-    "sortDate": 1786622400000,
-    "source": "UN News"
   },
   {
     "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -481,34 +299,6 @@
     "pubDate": "12.08.2026 18:01:51",
     "sortDate": 1786557711000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Youth advocates gather in New York to launch new AI standards",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168129",
-    "pubDate": "12.08.2026 12:00:00",
-    "sortDate": 1786536000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN continues scaling up response to earthquake in Colombia",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168128",
-    "pubDate": "12.08.2026 12:00:00",
-    "sortDate": 1786536000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Migrant deaths climb sharply in 2026, new UN data shows",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168127",
-    "pubDate": "12.08.2026 12:00:00",
-    "sortDate": 1786536000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan: Attacks and further displacement in Blue Nile and North Kordofan",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168126",
-    "pubDate": "12.08.2026 12:00:00",
-    "sortDate": 1786536000000,
-    "source": "UN News"
   },
   {
     "title": "The return of the caspian tiger: how a species feared extinct has come back to Kazakhstan",
