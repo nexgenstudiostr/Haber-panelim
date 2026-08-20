@@ -1,5 +1,40 @@
 [
   {
+    "title": "Australia politics live: Penny Wong says IDF’s Zomi Frankcom decision ‘falls short of accountability we expect’ and Australia’s relationship with Israel ‘difficult’",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
+    "pubDate": "20.08.2026 04:20:20",
+    "sortDate": 1787199620000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
+    "pubDate": "20.08.2026 04:18:32",
+    "sortDate": 1787199512000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Larry David says former friend Alan Dershowitz ‘made a deal with the devil’ as Trump’s lawyer",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
+    "pubDate": "20.08.2026 04:06:54",
+    "sortDate": 1787198814000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Zomi Frankcom: Penny Wong condemns ‘insulting’ decision to clear IDF over Gaza strikes that killed Australian aid worker",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
+    "pubDate": "20.08.2026 03:51:16",
+    "sortDate": 1787197876000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kyiv comes under Russian missile attack, killing at least six",
+    "link": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+    "pubDate": "20.08.2026 03:38:25",
+    "sortDate": 1787197105000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Two 17-year-olds from Sydney private school among three charged over alleged rape of teenage girl",
     "link": "https://www.theguardian.com/australia-news/2026/aug/20/three-boys-charged-alleged-rape-teenage-girl-sydney-ntwnfb",
     "pubDate": "20.08.2026 03:29:40",
@@ -7,24 +42,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australia politics live: Israel ambassador says to ‘respect the process’ after IDF rules out criminal investigation of Zomi Frankcom killing",
-    "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
-    "pubDate": "20.08.2026 03:22:17",
-    "sortDate": 1787196137000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Impassioned Jacqui Lambie reveals health struggle as she condemns Labor’s ‘callous disregard for veterans’",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/20/jacqui-lambie-prolapse-emotional-speech-female-veterans-cap",
-    "pubDate": "20.08.2026 03:14:02",
-    "sortDate": 1787195642000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
-    "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
-    "pubDate": "20.08.2026 03:09:01",
-    "sortDate": 1787195341000,
+    "title": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
+    "pubDate": "20.08.2026 03:19:25",
+    "sortDate": 1787195965000,
     "source": "The Guardian"
   },
   {
@@ -77,24 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "California becomes first US state to set efficiency rules for replacement tires",
-    "link": "https://www.theguardian.com/us-news/2026/aug/19/california-replacement-tires",
-    "pubDate": "19.08.2026 23:48:06",
-    "sortDate": 1787183286000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Young vapers ‘at risk of breathing problems and becoming smokers’",
     "link": "https://www.theguardian.com/society/2026/aug/20/young-vapers-at-risk-of-breathing-problems-and-becoming-smokers",
     "pubDate": "19.08.2026 23:01:36",
     "sortDate": 1787180496000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Zomi Frankcom: Penny Wong condemns ‘insulting’ decision to clear IDF over Gaza strikes that killed Australian aid worker",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
-    "pubDate": "19.08.2026 22:39:32",
-    "sortDate": 1787179172000,
     "source": "The Guardian"
   },
   {
@@ -186,13 +193,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/19/germanys-firewall-was-meant-to-hold-the-far-right-at-bay-it-may-have-done-the-reverse",
     "pubDate": "19.08.2026 14:30:13",
     "sortDate": 1787149813000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ukrainian diver arrested in Croatia over Nord Stream pipeline bombings",
-    "link": "https://www.theguardian.com/business/2026/aug/19/ukrainian-diver-arrested-in-croatia-over-nord-stream-pipeline-bombings",
-    "pubDate": "19.08.2026 14:14:54",
-    "sortDate": 1787148894000,
     "source": "The Guardian"
   },
   {
