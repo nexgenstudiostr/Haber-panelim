@@ -1,23 +1,65 @@
 [
   {
-    "title": "GCSE results: hundreds of thousands of pupils across England, Wales and Northern Ireland receive grades – latest updates",
-    "link": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
-    "pubDate": "20.08.2026 08:03:56",
-    "sortDate": 1787213036000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: NSW police commissioner says ‘I unreservedly apologise’ for miscommunication over 18-year-old bushwalker Lily Hooper’s death",
-    "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
-    "pubDate": "20.08.2026 08:01:50",
-    "sortDate": 1787212910000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-    "pubDate": "20.08.2026 08:01:32",
-    "sortDate": 1787212892000,
+    "pubDate": "20.08.2026 09:10:07",
+    "sortDate": 1787217007000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+    "pubDate": "20.08.2026 09:05:01",
+    "sortDate": 1787216701000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "GCSE results: hundreds of thousands of pupils across England, Wales and Northern Ireland receive grades – latest updates",
+    "link": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
+    "pubDate": "20.08.2026 09:03:51",
+    "sortDate": 1787216631000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sales of trainers dive as cost of living pressures hit JD Sports performance",
+    "link": "https://www.theguardian.com/business/2026/aug/20/trainers-sales-dive-cost-of-living-inflation-jd-sports",
+    "pubDate": "20.08.2026 09:03:50",
+    "sortDate": 1787216630000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
+    "link": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
+    "pubDate": "20.08.2026 09:01:47",
+    "sortDate": 1787216507000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
+    "link": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
+    "pubDate": "20.08.2026 08:51:39",
+    "sortDate": 1787215899000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "GCSE results: almost one in four boys in England get top grades in maths",
+    "link": "https://www.theguardian.com/education/2026/aug/20/gcse-results-almost-one-in-four-boys-in-england-get-top-grades-in-maths",
+    "pubDate": "20.08.2026 08:30:47",
+    "sortDate": 1787214647000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NSW police commissioner says ‘I unreservedly apologise’ for miscommunication over 18-year-old bushwalker Lily Hooper’s death – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
+    "pubDate": "20.08.2026 08:16:06",
+    "sortDate": 1787213766000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘An insult’: Zomi Frankcom’s family issues strongly-worded statement as Israel rejects criminal investigation into her killing",
+    "link": "https://www.theguardian.com/world/2026/aug/20/zomi-frankcom-deserved-more-slain-aid-workers-family-says-after-israel-rejects-criminal-investigation-ntwnfb",
+    "pubDate": "20.08.2026 08:09:32",
+    "sortDate": 1787213372000,
     "source": "The Guardian"
   },
   {
@@ -35,20 +77,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
-    "link": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
-    "pubDate": "20.08.2026 07:29:30",
-    "sortDate": 1787210970000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Travelodge boss quits amid fallout over hotel chain’s security failings",
-    "link": "https://www.theguardian.com/business/2026/aug/20/travelodge-boss-quits-amid-fallout-over-hotel-chains-security-failings",
-    "pubDate": "20.08.2026 07:27:29",
-    "sortDate": 1787210849000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Kyiv comes under heavy Russian missile attack, killing at least 13",
     "link": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
     "pubDate": "20.08.2026 07:08:50",
@@ -63,31 +91,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Erin Patterson’s mushroom murders sentence too lenient and she should die behind bars, prosecutors argue",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/20/erin-patterson-appeal-mushroom-murders-ntwnfb",
-    "pubDate": "20.08.2026 06:44:17",
-    "sortDate": 1787208257000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Farage using Christianity ‘to stir anti-Muslim feeling’, says Rowan Williams",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/20/nigel-farage-rowan-williams-tommy-robinson-christianity-anti-muslim-feeling",
-    "pubDate": "20.08.2026 06:00:45",
-    "sortDate": 1787205645000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Melancholy made in Hungary is fuelling bestsellers across the globe – and widely misunderstood",
     "link": "https://www.theguardian.com/books/2026/aug/20/melancholy-made-in-hungary-is-fuelling-bestsellers-across-the-globe-and-widely-misunderstood",
     "pubDate": "20.08.2026 06:00:44",
     "sortDate": 1787205644000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Monstera magic: Barbican hands out cuttings as ‘green lung of the city’ closes",
-    "link": "https://www.theguardian.com/culture/2026/aug/20/barbican-hands-out-plant-cuttings-green-lung-city-closes",
-    "pubDate": "20.08.2026 05:00:44",
-    "sortDate": 1787202044000,
     "source": "The Guardian"
   },
   {
@@ -179,13 +186,6 @@
     "link": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
     "pubDate": "19.08.2026 16:42:08",
     "sortDate": 1787157728000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sacking turns former Zelenskyy loyalist into potent political opponent",
-    "link": "https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zelenskyy-loyalist-opponent-ukraine",
-    "pubDate": "19.08.2026 15:52:04",
-    "sortDate": 1787154724000,
     "source": "The Guardian"
   },
   {
