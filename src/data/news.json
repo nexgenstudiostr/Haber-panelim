@@ -1,5 +1,40 @@
 [
   {
+    "title": "Police not ruling out links to A66 crash after two killed in Middlesbrough house fire",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/26/murder-investigation-middlesbrough-house-fire",
+    "pubDate": "26.08.2026 14:28:25",
+    "sortDate": 1787754505000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
+    "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+    "pubDate": "26.08.2026 14:07:38",
+    "sortDate": 1787753258000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
+    "pubDate": "26.08.2026 14:02:11",
+    "sortDate": 1787752931000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump claims CIA director’s surprise visit to Russia is ‘semi-routine’ despite mounting speculation – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+    "pubDate": "26.08.2026 14:00:07",
+    "sortDate": 1787752807000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Devon man becomes first person to swim Switzerland’s 10 largest lakes",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/26/devon-man-becomes-first-person-to-swim-switzerlands-10-largest-lakes",
+    "pubDate": "26.08.2026 13:58:06",
+    "sortDate": 1787752686000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Inquest opens into death of former Cambridge professor Jason Arday",
     "link": "https://www.theguardian.com/uk-news/2026/aug/26/coroner-opens-inquest-due-to-circumstances-surrounding-jason-arday-death",
     "pubDate": "26.08.2026 13:44:13",
@@ -7,31 +42,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump claims CIA director’s surprise visit to Russia is ‘semi-routine’ despite mounting speculation – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
-    "pubDate": "26.08.2026 13:43:59",
-    "sortDate": 1787751839000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Police not ruling out links to A66 crash after two killed in Middlesbrough house fire",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/26/murder-investigation-middlesbrough-house-fire",
-    "pubDate": "26.08.2026 13:39:01",
-    "sortDate": 1787751541000,
-    "source": "The Guardian"
-  },
-  {
     "title": "ICE agent embroiled in interstate extradition dispute after allegedly shooting Venezuelan man",
     "link": "https://www.theguardian.com/us-news/2026/aug/26/ice-agent-shooting-texas-minnesota-extradition",
     "pubDate": "26.08.2026 13:34:09",
     "sortDate": 1787751249000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
-    "pubDate": "26.08.2026 13:32:42",
-    "sortDate": 1787751162000,
     "source": "The Guardian"
   },
   {
@@ -49,13 +63,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
-    "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-    "pubDate": "26.08.2026 12:51:08",
-    "sortDate": 1787748668000,
-    "source": "The Guardian"
-  },
-  {
     "title": "First Thing: Pause on US immigrant visa leaves thousands of applicants in limbo",
     "link": "https://www.theguardian.com/us-news/2026/aug/26/first-thing-pause-us-immigrant-visa-leaves-thousands-applicants-in-limbo",
     "pubDate": "26.08.2026 12:33:09",
@@ -68,6 +75,13 @@
     "pubDate": "26.08.2026 12:00:12",
     "sortDate": 1787745612000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Security Council LIVE: Rising tensions in Gaza, West Bank",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168204",
+    "pubDate": "26.08.2026 12:00:00",
+    "sortDate": 1787745600000,
+    "source": "UN News"
   },
   {
     "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
@@ -221,13 +235,6 @@
     "link": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
     "pubDate": "25.08.2026 16:09:08",
     "sortDate": 1787674148000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "CIA director John Ratcliffe reportedly on Moscow visit",
-    "link": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
-    "pubDate": "25.08.2026 16:00:09",
-    "sortDate": 1787673609000,
     "source": "The Guardian"
   },
   {
@@ -499,13 +506,6 @@
   {
     "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
     "link": "https://news.un.org/feed/view/en/story/2026/08/1168168",
-    "pubDate": "19.08.2026 12:00:00",
-    "sortDate": 1787140800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Zambia: Arrests and detention of political opponents following election raises concern",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168169",
     "pubDate": "19.08.2026 12:00:00",
     "sortDate": 1787140800000,
     "source": "UN News"
