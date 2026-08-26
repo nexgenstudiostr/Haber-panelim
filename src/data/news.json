@@ -1,16 +1,44 @@
 [
   {
-    "title": "Australia news live: Chalmers hits back at WA premier’s ‘east coast clowns’ sledge; NSW police investigate alleged theft of 400,000 oysters",
+    "title": "Australia news live: PM, premiers and chief ministers sign firearms agreement; Sarah Hanson-Young scathing on Malcolm Roberts’ gay rights comments",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
-    "pubDate": "26.08.2026 06:14:07",
-    "sortDate": 1787724847000,
+    "pubDate": "26.08.2026 07:29:54",
+    "sortDate": 1787729394000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
+    "pubDate": "26.08.2026 07:17:56",
+    "sortDate": 1787728676000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "At least 14 newborn babies die in fire at Pakistan hospital’s maternity ward",
+    "link": "https://www.theguardian.com/world/2026/aug/26/newborn-babies-die-fire-pakistan-hospital-maternity-ward",
+    "pubDate": "26.08.2026 07:05:43",
+    "sortDate": 1787727943000,
     "source": "The Guardian"
   },
   {
     "title": "Tributes pour in after country music legend Dolly Parton dies – latest updates",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
-    "pubDate": "26.08.2026 06:06:03",
-    "sortDate": 1787724363000,
+    "pubDate": "26.08.2026 07:03:24",
+    "sortDate": 1787727804000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Heatwaves show UK must do more to promote cycling and walking, campaigners say",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/26/heatwaves-uk-promote-cycling-walking",
+    "pubDate": "26.08.2026 07:00:37",
+    "sortDate": 1787727637000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
+    "pubDate": "26.08.2026 06:44:23",
+    "sortDate": 1787726663000,
     "source": "The Guardian"
   },
   {
@@ -77,13 +105,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Nine CEO sees ‘world of growth in publishing’ as network slashes costs",
-    "link": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
-    "pubDate": "26.08.2026 04:18:16",
-    "sortDate": 1787717896000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Call to ban marmot hunting in France as campaigners say they are ‘killed for fun’",
     "link": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
     "pubDate": "26.08.2026 04:00:35",
@@ -102,13 +123,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
     "pubDate": "26.08.2026 04:00:33",
     "sortDate": 1787716833000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Antisemitism royal commission ends hearings but delays report to avoid ‘distraction’ from Bondi anniversary",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
-    "pubDate": "26.08.2026 03:55:27",
-    "sortDate": 1787716527000,
     "source": "The Guardian"
   },
   {
@@ -144,13 +158,6 @@
     "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
     "pubDate": "25.08.2026 20:23:55",
     "sortDate": 1787689435000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labour MPs will push Burnham to back voting reform in first 100 days",
-    "link": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
-    "pubDate": "25.08.2026 20:00:23",
-    "sortDate": 1787688023000,
     "source": "The Guardian"
   },
   {
@@ -194,55 +201,6 @@
     "pubDate": "25.08.2026 12:31:53",
     "sortDate": 1787661113000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168203",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "One million children in Afghanistan face deadly malnutrition",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168202",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "As wars spread, the global food system unravels",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168201",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Rohingyas in Myanmar suffering ‘heartbreaking’ misery and cruelty",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168200",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Land degradation is costing far more than restoring: UN deputy chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168198",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Japan’s ‘2050 Weather Forecast’ highlights extreme heat in the future",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168197",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief, Red Cross renew call for rules on lethal autonomous weapons",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168196",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
   },
   {
     "title": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
@@ -301,62 +259,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Can restoring land create jobs? These young entrepreneurs are proving it",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168194",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "100 days of Ebola and the race to stop the spread",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168195",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Children still at risk despite drop in acute hunger",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168193",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Two UN peacekeepers killed in South Sudan ambush",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168192",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168191",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Global food supply has become ‘collateral damage’ in conflicts: Secretary-General",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168190",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168188",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan war: $22 million education boost to help 200,000 children",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168187",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
     "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
     "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
     "pubDate": "24.08.2026 10:11:34",
@@ -385,41 +287,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Breaking the silence over sexual violence against men and boys in war",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168150",
-    "pubDate": "22.08.2026 12:00:00",
-    "sortDate": 1787400000000,
-    "source": "UN News"
-  },
-  {
-    "title": "AI for Good: How the UN uses AI to advance human rights",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168177",
-    "pubDate": "21.08.2026 12:00:00",
-    "sortDate": 1787313600000,
-    "source": "UN News"
-  },
-  {
-    "title": "New initiative launched to shield terrorism victims from online harm",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168186",
-    "pubDate": "21.08.2026 12:00:00",
-    "sortDate": 1787313600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
-    "pubDate": "21.08.2026 12:00:00",
-    "sortDate": 1787313600000,
-    "source": "UN News"
-  },
-  {
-    "title": "DR Congo Ebola outbreak spreading exponentially, UN responders warn",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168182",
-    "pubDate": "21.08.2026 12:00:00",
-    "sortDate": 1787313600000,
-    "source": "UN News"
-  },
-  {
     "title": "Jailed ex-Pakistan PM Imran Khan allowed brief hospital visit after uproar over health",
     "link": "https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan",
     "pubDate": "20.08.2026 23:07:10",
@@ -434,76 +301,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168181",
-    "pubDate": "20.08.2026 12:00:00",
-    "sortDate": 1787227200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168180",
-    "pubDate": "20.08.2026 12:00:00",
-    "sortDate": 1787227200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Colombia earthquake: 1.2 million need aid as some communities remain out of reach",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168178",
-    "pubDate": "20.08.2026 12:00:00",
-    "sortDate": 1787227200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Mpox: Children account for half of suspected cases in Guinea-Bissau",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168176",
-    "pubDate": "20.08.2026 12:00:00",
-    "sortDate": 1787227200000,
-    "source": "UN News"
-  },
-  {
-    "title": "DR Congo receives 70,000 Ebola vaccine doses as Bundibugyo outbreak spreads",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168174",
-    "pubDate": "20.08.2026 12:00:00",
-    "sortDate": 1787227200000,
-    "source": "UN News"
-  },
-  {
-    "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168173",
-    "pubDate": "20.08.2026 12:00:00",
-    "sortDate": 1787227200000,
-    "source": "UN News"
-  },
-  {
-    "title": "The clean energy transition needs land. Can it help restore it too?",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168172",
-    "pubDate": "19.08.2026 12:00:00",
-    "sortDate": 1787140800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitement against Palestinians",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168171",
-    "pubDate": "19.08.2026 12:00:00",
-    "sortDate": 1787140800000,
-    "source": "UN News"
-  },
-  {
-    "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168168",
-    "pubDate": "19.08.2026 12:00:00",
-    "sortDate": 1787140800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Zambia: Arrests and detention of political opponents following election raises concern",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168169",
-    "pubDate": "19.08.2026 12:00:00",
-    "sortDate": 1787140800000,
-    "source": "UN News"
-  },
-  {
     "title": "Taliban threaten former Afghan police worker after MoD leak reveals identity",
     "link": "https://www.theguardian.com/world/2026/aug/16/taliban-threaten-former-afghan-police-worker-after-mod-leak-reveals-identity",
     "pubDate": "16.08.2026 13:00:28",
@@ -515,13 +312,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/15/concern-grow-global-ties-taliban-afghanistan-human-rights",
     "pubDate": "15.08.2026 05:00:49",
     "sortDate": 1786770049000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ex-Myanmar ambassador to UK on trial for trespassing in diplomatic residence",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/12/ex-myanmar-ambassador-uk-kyaw-zwar-minn-trial-trespassing-diplomatic-residence",
-    "pubDate": "12.08.2026 18:01:51",
-    "sortDate": 1786557711000,
     "source": "The Guardian"
   }
 ]
