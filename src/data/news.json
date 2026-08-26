@@ -1,23 +1,65 @@
 [
   {
+    "title": "Inquest opens into death of former Cambridge professor Jason Arday",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/26/coroner-opens-inquest-due-to-circumstances-surrounding-jason-arday-death",
+    "pubDate": "26.08.2026 13:44:13",
+    "sortDate": 1787751853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump claims CIA director’s surprise visit to Russia is ‘semi-routine’ despite mounting speculation – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
+    "pubDate": "26.08.2026 13:43:59",
+    "sortDate": 1787751839000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police not ruling out links to A66 crash after two killed in Middlesbrough house fire",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/26/murder-investigation-middlesbrough-house-fire",
+    "pubDate": "26.08.2026 13:39:01",
+    "sortDate": 1787751541000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ICE agent embroiled in interstate extradition dispute after allegedly shooting Venezuelan man",
+    "link": "https://www.theguardian.com/us-news/2026/aug/26/ice-agent-shooting-texas-minnesota-extradition",
+    "pubDate": "26.08.2026 13:34:09",
+    "sortDate": 1787751249000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
-    "pubDate": "26.08.2026 12:28:46",
-    "sortDate": 1787747326000,
+    "pubDate": "26.08.2026 13:32:42",
+    "sortDate": 1787751162000,
     "source": "The Guardian"
   },
   {
-    "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in US Senate – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/26/darline-graham-lindsey-south-carolina-gop-post-office-voting-senate-midterms-donald-trump-latest-news-updates",
-    "pubDate": "26.08.2026 12:16:45",
-    "sortDate": 1787746605000,
+    "title": "Women using HRT at lower risk of dementia, study suggests",
+    "link": "https://www.theguardian.com/society/2026/aug/26/women-hrt-lower-risk-dementia-study",
+    "pubDate": "26.08.2026 13:16:30",
+    "sortDate": 1787750190000,
     "source": "The Guardian"
   },
   {
-    "title": "Murder investigation launched after two die in Middlesbrough house fire",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/26/murder-investigation-middlesbrough-house-fire",
-    "pubDate": "26.08.2026 12:09:08",
-    "sortDate": 1787746148000,
+    "title": "Duke and Duchess of Sussex have arrived back in UK, say reports",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/26/duke-duchess-sussex-back-in-uk-prince-harry-meghan",
+    "pubDate": "26.08.2026 13:08:56",
+    "sortDate": 1787749736000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
+    "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+    "pubDate": "26.08.2026 12:51:08",
+    "sortDate": 1787748668000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First Thing: Pause on US immigrant visa leaves thousands of applicants in limbo",
+    "link": "https://www.theguardian.com/us-news/2026/aug/26/first-thing-pause-us-immigrant-visa-leaves-thousands-applicants-in-limbo",
+    "pubDate": "26.08.2026 12:33:09",
+    "sortDate": 1787747589000,
     "source": "The Guardian"
   },
   {
@@ -25,13 +67,6 @@
     "link": "https://www.theguardian.com/us-news/2026/aug/26/ohio-datacenter-reaction",
     "pubDate": "26.08.2026 12:00:12",
     "sortDate": 1787745612000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
-    "link": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
-    "pubDate": "26.08.2026 11:45:41",
-    "sortDate": 1787744741000,
     "source": "The Guardian"
   },
   {
@@ -53,27 +88,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/26/gaza-farmers-struggle-scraps-of-land-constant-threat",
     "pubDate": "26.08.2026 11:00:11",
     "sortDate": 1787742011000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-    "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-    "pubDate": "26.08.2026 11:00:11",
-    "sortDate": 1787742011000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
-    "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-    "pubDate": "26.08.2026 10:45:44",
-    "sortDate": 1787741144000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bill Gates calls for ‘human reserved’ jobs in face of AI takeover",
-    "link": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
-    "pubDate": "26.08.2026 10:33:43",
-    "sortDate": 1787740423000,
     "source": "The Guardian"
   },
   {
@@ -102,20 +116,6 @@
     "link": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
     "pubDate": "26.08.2026 09:00:39",
     "sortDate": 1787734839000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
-    "link": "https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve",
-    "pubDate": "26.08.2026 08:48:43",
-    "sortDate": 1787734123000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Raheem Sterling charged with dangerous driving and nitrous oxide possession",
-    "link": "https://www.theguardian.com/football/2026/aug/26/raheem-sterling-charged-with-dangerous-driving-and-nitrous-oxide-possession",
-    "pubDate": "26.08.2026 08:34:29",
-    "sortDate": 1787733269000,
     "source": "The Guardian"
   },
   {
