@@ -1,9 +1,156 @@
 [
   {
-    "title": "Australia news live: One Nation announces investment banker as NSW leader ahead of election",
+    "title": "Nepal-Tibet flash flood: helicopter rescue operations suspended as lake overflows; death toll rises to 469 – latest updates",
+    "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+    "pubDate": "28.08.2026 08:07:55",
+    "sortDate": 1787904475000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
+    "link": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
+    "pubDate": "28.08.2026 08:02:51",
+    "sortDate": 1787904171000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dolphin dies from H5 bird flu in SA as researchers withdrawn from sub-Antarctic island over ‘psychosocial risk’",
+    "link": "https://www.theguardian.com/environment/2026/aug/28/dolphin-dies-from-h5-bird-flu-in-sa-as-researchers-withdrawn-from-sub-antarctic-island-over-psychosocial-risk",
+    "pubDate": "28.08.2026 07:39:03",
+    "sortDate": 1787902743000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘So desperately loved’: ADF member among dozens of Australians missing in Nepal floods as families pray for safe return",
+    "link": "https://www.theguardian.com/world/2026/aug/28/family-missing-australians-nepal-tibet-flash-floods",
+    "pubDate": "28.08.2026 07:33:33",
+    "sortDate": 1787902413000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Norway’s King Harald dies at age of 89",
+    "link": "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
+    "pubDate": "28.08.2026 07:18:35",
+    "sortDate": 1787901515000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nicola Coughlan and Matt Lucas among stars backing campaign against AI voice cloning",
+    "link": "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas",
+    "pubDate": "28.08.2026 07:15:00",
+    "sortDate": 1787901300000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hanson tells star One Nation candidate to stop speaking Japanese – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb",
-    "pubDate": "27.08.2026 23:09:24",
-    "sortDate": 1787872164000,
+    "pubDate": "28.08.2026 06:13:44",
+    "sortDate": 1787897624000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘We execute the prick’: wife can’t say if Charles Perrottet text was plotting downfall of NSW Liberal minister, Icac hears",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/28/icac-hears-charles-perrottet-plotted-downfall-nsw-liberal-minister-david-elliott-ntwnfb",
+    "pubDate": "28.08.2026 06:02:58",
+    "sortDate": 1787896978000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rescues suspended on Tibet-Nepal border as flood death toll hits 469",
+    "link": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
+    "pubDate": "28.08.2026 05:45:36",
+    "sortDate": 1787895936000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Please don’t rearrange our shoes when we turn up, paramedics in Japan urge",
+    "link": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
+    "pubDate": "28.08.2026 05:25:07",
+    "sortDate": 1787894707000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Identity of high-profile Queensland man drawn into extortion case to remain secret after court ruling",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/28/identity-of-high-profile-queensland-man-drawn-into-extortion-case-to-remain-secret-after-court-ruling-ntwnfb",
+    "pubDate": "28.08.2026 05:20:49",
+    "sortDate": 1787894449000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Race to get aid into Nepal and Tibet amid warnings flood lake could burst",
+    "link": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-floods-aid",
+    "pubDate": "28.08.2026 04:48:52",
+    "sortDate": 1787892532000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Seven charged with damaging Trump’s Scottish golf course accused of ‘terrorist connection’",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/28/seven-charged-damaging-trump-scottish-golf-course-accused-terrorist-connection",
+    "pubDate": "28.08.2026 04:00:50",
+    "sortDate": 1787889650000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+    "link": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+    "pubDate": "28.08.2026 04:00:48",
+    "sortDate": 1787889648000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘No precedent’: Lorde and Little Simz to star at world-first festival run on clean power",
+    "link": "https://www.theguardian.com/culture/2026/aug/28/lorde-little-simz-star-at-world-first-festival-run-on-clean-power",
+    "pubDate": "28.08.2026 04:00:48",
+    "sortDate": 1787889648000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Nature thrives when given a chance’: restored Cheshire wetland now a haven for rare grebe",
+    "link": "https://www.theguardian.com/environment/2026/aug/28/woolston-eyes-cheshire-wetland-black-necked-grebe",
+    "pubDate": "28.08.2026 04:00:47",
+    "sortDate": 1787889647000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "South Korea to re-examine 310,000 missing person cases after fake record scandal",
+    "link": "https://www.theguardian.com/world/2026/aug/28/south-korea-missing-persons-police-scandal-bodies-jeju",
+    "pubDate": "28.08.2026 03:06:40",
+    "sortDate": 1787886400000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Federal judge again halts Trump’s executive order limiting mail voting in midterms",
+    "link": "https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms",
+    "pubDate": "28.08.2026 02:31:24",
+    "sortDate": 1787884284000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Warning of fresh danger from rising lake water in Nepal – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
+    "pubDate": "28.08.2026 02:29:56",
+    "sortDate": 1787884196000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Canadian prime minister and New York lawmaker denounce Trump’s move to rename Lake Ontario as Lake America – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates",
+    "pubDate": "28.08.2026 02:00:27",
+    "sortDate": 1787882427000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "FDA approves updated Covid-19 vaccines for dominant XFG variant",
+    "link": "https://www.theguardian.com/us-news/2026/aug/27/fda-approves-updated-covid-19-vaccines",
+    "pubDate": "28.08.2026 01:19:48",
+    "sortDate": 1787879988000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Three journalists sue Pentagon after being fired from military news outlet",
+    "link": "https://www.theguardian.com/us-news/2026/aug/27/journalists-sue-pentagon-stars-and-stripes",
+    "pubDate": "27.08.2026 23:33:27",
+    "sortDate": 1787873607000,
     "source": "The Guardian"
   },
   {
@@ -11,20 +158,6 @@
     "link": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
     "pubDate": "27.08.2026 22:55:04",
     "sortDate": 1787871304000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nepal flash flood: death toll nears 400 amid warning of fresh danger from rising lake water – latest updates",
-    "link": "https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news",
-    "pubDate": "27.08.2026 22:51:16",
-    "sortDate": 1787871076000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Canadian prime minister and New York lawmaker denounce Trump’s move to rename Lake Ontario as Lake America – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates",
-    "pubDate": "27.08.2026 22:44:48",
-    "sortDate": 1787870688000,
     "source": "The Guardian"
   },
   {
@@ -42,38 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Florida grand jury finds DeSantis administration ‘misappropriated’ funds from Medicaid settlement",
-    "link": "https://www.theguardian.com/us-news/2026/aug/27/florida-grand-jury-desantis-administration-misappropriated-funds-medicaid",
-    "pubDate": "27.08.2026 19:51:55",
-    "sortDate": 1787860315000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
     "link": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
     "pubDate": "27.08.2026 19:26:01",
     "sortDate": 1787858761000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Georgia senator Jon Ossoff slams racist posts allegedly from Republican opponent’s ex-staffer",
-    "link": "https://www.theguardian.com/us-news/2026/aug/27/ossoff-racist-posts-mike-collins-staffer",
-    "pubDate": "27.08.2026 19:12:21",
-    "sortDate": 1787857941000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Actor Peter Cullen, voice of Optimus Prime and Eeyore, dies aged 85",
-    "link": "https://www.theguardian.com/film/2026/aug/27/actor-peter-cullen-voice-optimus-prime-and-eeyore-dies",
-    "pubDate": "27.08.2026 18:56:50",
-    "sortDate": 1787857010000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham accused of U-turn after initially backing political donations cap to fall below £500k",
-    "link": "https://www.theguardian.com/politics/2026/aug/27/andy-burnham-political-donation-reduced-over-time",
-    "pubDate": "27.08.2026 18:51:40",
-    "sortDate": 1787856700000,
     "source": "The Guardian"
   },
   {
@@ -84,20 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Australian officials ‘working around the clock’ to check welfare of tourists missing in Nepal",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
-    "pubDate": "27.08.2026 18:18:50",
-    "sortDate": 1787854730000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Race to get aid into Nepal and Tibet amid warnings flood lake could burst",
-    "link": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-floods-aid",
-    "pubDate": "27.08.2026 18:03:09",
-    "sortDate": 1787853789000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Search is on for at least 33 Britons missing after flash floods in Nepal and Tibet",
     "link": "https://www.theguardian.com/world/2026/aug/27/britons-missing-flash-floods-nepal-tibet",
     "pubDate": "27.08.2026 18:02:15",
@@ -105,31 +196,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Woman found guilty of indecent assault against two pupils at London boys’ school in 1980s",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/27/woman-found-guilty-indecent-assault-two-pupils-london-boys-school-1980s",
-    "pubDate": "27.08.2026 17:23:48",
-    "sortDate": 1787851428000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ex-Barclays boss denies having sex with woman dressed as Snow White after Epstein emails",
-    "link": "https://www.theguardian.com/business/2026/aug/27/jes-staley-denies-sex-snow-white-barclays",
-    "pubDate": "27.08.2026 17:21:00",
-    "sortDate": 1787851260000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Greek Orthodox priest and cult musician clarifies views on homosexuality",
     "link": "https://www.theguardian.com/music/2026/aug/27/greek-orthodox-priest-and-cult-musician-clarifies-views-on-homosexuality",
     "pubDate": "27.08.2026 17:11:53",
     "sortDate": 1787850713000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Teesside MPs call for more police help after Middlesbrough and A66 deaths",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/27/teesside-mps-police-fire-service-resources-middlesbrough-a66",
-    "pubDate": "27.08.2026 16:46:17",
-    "sortDate": 1787849177000,
     "source": "The Guardian"
   },
   {
@@ -144,34 +214,6 @@
     "link": "https://www.theguardian.com/culture/2026/aug/27/thieves-steal-bronze-age-treasure-of-villena-in-four-minute-heist",
     "pubDate": "27.08.2026 15:47:31",
     "sortDate": 1787845651000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport",
-    "link": "https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany",
-    "pubDate": "27.08.2026 15:23:22",
-    "sortDate": 1787844202000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea",
-    "link": "https://www.theguardian.com/us-news/2026/aug/27/uss-abraham-lincoln-thailand-visit",
-    "pubDate": "27.08.2026 15:05:55",
-    "sortDate": 1787843155000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "One Nation’s immigration policy is clear as mud – but that ambiguity could be a secret weapon for Pauline Hanson",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/28/one-nation-confusing-immigration-policy-secret-weapon-for-pauline-hanson-ntwnfb",
-    "pubDate": "27.08.2026 15:00:33",
-    "sortDate": 1787842833000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 356",
-    "link": "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border",
-    "pubDate": "27.08.2026 12:41:41",
-    "sortDate": 1787834501000,
     "source": "The Guardian"
   },
   {
@@ -217,20 +259,6 @@
     "source": "UN News"
   },
   {
-    "title": "Queensland concedes law imposing mandatory jail on some offenders as young as 10 breaches human rights",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/27/queensland-concedes-law-imposing-mandatory-jail-on-some-offenders-as-young-as-10-breaches-human-rights-ntwnfb",
-    "pubDate": "27.08.2026 11:33:27",
-    "sortDate": 1787830407000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nepal floods: children as young as 11 among 39 Australians missing after disaster",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
-    "pubDate": "27.08.2026 11:00:48",
-    "sortDate": 1787828448000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
     "link": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
     "pubDate": "27.08.2026 08:00:09",
@@ -238,24 +266,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
-    "link": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead",
-    "pubDate": "27.08.2026 02:17:59",
-    "sortDate": 1787797079000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Girl, 13, among missing British citizens after flash flood in Nepal",
-    "link": "https://www.theguardian.com/world/2026/aug/26/missing-british-citizens-flash-flood-nepal",
-    "pubDate": "26.08.2026 19:12:51",
-    "sortDate": 1787771571000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
-    "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-    "pubDate": "26.08.2026 18:28:51",
-    "sortDate": 1787768931000,
+    "title": "Trump downplays Moscow visit by CIA director as ‘semi-routine’",
+    "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-cia-director-moscow-visit",
+    "pubDate": "26.08.2026 18:21:52",
+    "sortDate": 1787768512000,
     "source": "The Guardian"
   },
   {
@@ -378,6 +392,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "China denounces US threat of sanctions over trade with Iran",
+    "link": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+    "pubDate": "25.08.2026 17:11:21",
+    "sortDate": 1787677881000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
     "link": "https://news.un.org/feed/view/en/story/2026/08/1168203",
     "pubDate": "25.08.2026 12:00:00",
@@ -425,20 +446,6 @@
     "pubDate": "25.08.2026 12:00:00",
     "sortDate": 1787659200000,
     "source": "UN News"
-  },
-  {
-    "title": "US threatens severe sanctions against countries with economic ties to Iran",
-    "link": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
-    "pubDate": "24.08.2026 18:57:57",
-    "sortDate": 1787597877000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-    "pubDate": "24.08.2026 17:34:50",
-    "sortDate": 1787592890000,
-    "source": "The Guardian"
   },
   {
     "title": "Can restoring land create jobs? These young entrepreneurs are proving it",
@@ -495,13 +502,6 @@
     "pubDate": "24.08.2026 12:00:00",
     "sortDate": 1787572800000,
     "source": "UN News"
-  },
-  {
-    "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-    "link": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-    "pubDate": "24.08.2026 11:53:10",
-    "sortDate": 1787572390000,
-    "source": "The Guardian"
   },
   {
     "title": "Breaking the silence over sexual violence against men and boys in war",
