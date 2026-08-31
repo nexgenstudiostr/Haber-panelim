@@ -1,30 +1,135 @@
 [
   {
-    "title": "Australia news live: new regulations planned for smartglasses will include ‘right to erasure’, Rowland says",
+    "title": "Uber driver takes TfL to court over ‘pain‘ caused by licence renewal delay",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/31/uber-driver-tfl-court-licence-renewal-delay",
+    "pubDate": "31.08.2026 09:01:28",
+    "sortDate": 1788166888000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran hostilities flare after US strike in strait of Hormuz; supertanker hits mines and catches fire – Middle East crisis live",
+    "link": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
+    "pubDate": "31.08.2026 09:00:58",
+    "sortDate": 1788166858000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British Museum hosted Palantir founder Peter Thiel in private viewing of Bayeux tapestry",
+    "link": "https://www.theguardian.com/culture/2026/aug/31/british-museum-hosted-palantir-founder-peter-thiel-private-viewing-bayeux-tapestry",
+    "pubDate": "31.08.2026 08:50:38",
+    "sortDate": 1788166238000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Bhutan hosts first ‘conscious food summit’ amid threats to global supplies",
+    "link": "https://www.theguardian.com/environment/2026/aug/31/bhutan-first-conscious-food-summit-climate",
+    "pubDate": "31.08.2026 08:38:18",
+    "sortDate": 1788165498000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weather tracker: Warm Yellow Sea strengthens storms in South Korea",
+    "link": "https://www.theguardian.com/environment/2026/aug/31/weather-tracker-warm-yellow-sea-storms-south-korea",
+    "pubDate": "31.08.2026 07:57:24",
+    "sortDate": 1788163044000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Qantas ground crews vote for right to strike amid pay dispute – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-    "pubDate": "31.08.2026 02:49:40",
-    "sortDate": 1788144580000,
+    "pubDate": "31.08.2026 07:48:10",
+    "sortDate": 1788162490000,
     "source": "The Guardian"
   },
   {
-    "title": "Victorian prisoners to be sent out to repair roads under Labor’s pothole plan",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan",
-    "pubDate": "31.08.2026 01:04:00",
-    "sortDate": 1788138240000,
+    "title": "Newborn baby’s body found in Sydney rubbish bin as police hold ‘serious concerns’ for mother",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/31/baby-body-found-garbage-rubbish-bin-harrow-road-auburn-sydney-ntwnfb",
+    "pubDate": "31.08.2026 07:35:20",
+    "sortDate": 1788161720000,
     "source": "The Guardian"
   },
   {
-    "title": "At least 15 people may be missing after flash flood in Arizona’s Grand Canyon",
+    "title": "Man who murdered Molly Ticehurst unlikely to face life in jail, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
+    "pubDate": "31.08.2026 07:11:07",
+    "sortDate": 1788160267000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Breakthrough’ as Turkmenistan starts fixing ‘mindboggling’ methane mega-leaks",
+    "link": "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars",
+    "pubDate": "31.08.2026 07:00:18",
+    "sortDate": 1788159618000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australians missing in Nepal targeted by ‘heartbreaking’ and ‘abhorrent’ racist slurs",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/31/australians-missing-in-nepal-targeted-by-heartbreaking-and-abhorrent-racist-slurs",
+    "pubDate": "31.08.2026 06:32:15",
+    "sortDate": 1788157935000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics",
+    "pubDate": "31.08.2026 06:00:18",
+    "sortDate": 1788156018000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Icac lawyer tells Charles Perrottet the key to lying is ‘you have to be really good at remembering it’",
+    "link": "https://www.theguardian.com/australia-news/2026/aug/31/icac-charles-perrottet-lawyer-ntwnfb",
+    "pubDate": "31.08.2026 05:49:18",
+    "sortDate": 1788155358000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Monday briefing: Nepal and Tibet’s floods are a warning for the future",
+    "link": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future",
+    "pubDate": "31.08.2026 05:44:13",
+    "sortDate": 1788155053000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One dead and 15 people may be missing after flash flood in Arizona’s Grand Canyon",
     "link": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
-    "pubDate": "31.08.2026 00:01:41",
-    "sortDate": 1788134501000,
+    "pubDate": "31.08.2026 05:26:53",
+    "sortDate": 1788154013000,
     "source": "The Guardian"
   },
   {
-    "title": "US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan",
+    "title": "US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan and UAE",
     "link": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
-    "pubDate": "30.08.2026 22:55:22",
-    "sortDate": 1788130522000,
+    "pubDate": "31.08.2026 05:25:13",
+    "sortDate": 1788153913000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NHS to offer free high-street cholesterol tests in England",
+    "link": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+    "pubDate": "31.08.2026 05:00:16",
+    "sortDate": 1788152416000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
+    "link": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
+    "pubDate": "31.08.2026 04:00:17",
+    "sortDate": 1788148817000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Properties in UK national parks command 24% premium, study finds",
+    "link": "https://www.theguardian.com/business/2026/aug/31/properties-uk-national-parks-premium-nationwide",
+    "pubDate": "31.08.2026 04:00:16",
+    "sortDate": 1788148816000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
+    "link": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
+    "pubDate": "31.08.2026 04:00:15",
+    "sortDate": 1788148815000,
     "source": "The Guardian"
   },
   {
@@ -39,13 +144,6 @@
     "link": "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams",
     "pubDate": "30.08.2026 20:42:36",
     "sortDate": 1788122556000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Sad day in Australian sport’: tributes flow for trailblazing boxing great Tony Mundine",
-    "link": "https://www.theguardian.com/sport/2026/aug/31/australian-boxing-great-tony-mundine-dies-aged-75-ntwnfb",
-    "pubDate": "30.08.2026 20:25:15",
-    "sortDate": 1788121515000,
     "source": "The Guardian"
   },
   {
@@ -77,31 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Man killed by falling sign at Christian festival named as church pays tribute",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/30/man-killed-christian-festival-named-church-tribute",
-    "pubDate": "30.08.2026 18:42:34",
-    "sortDate": 1788115354000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Nepal-Tibet deaths from flash flooding rise amid race to free workers in tunnel",
     "link": "https://www.theguardian.com/world/2026/aug/30/nepal-tibet-floods-china-search-rescue-operations-looking-for-survivors",
     "pubDate": "30.08.2026 18:34:21",
     "sortDate": 1788114861000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘GB News wouldn’t touch him’: Milo Yiannopoulos will struggle to fit in with UK right wing",
-    "link": "https://www.theguardian.com/us-news/2026/aug/30/milo-yiannopoulos-struggle-fit-uk-right-wing",
-    "pubDate": "30.08.2026 17:50:02",
-    "sortDate": 1788112202000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC",
-    "link": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
-    "pubDate": "30.08.2026 17:16:52",
-    "sortDate": 1788110212000,
     "source": "The Guardian"
   },
   {
@@ -119,20 +196,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Devastated by floods and overwhelmed by bodies, Nepalis weep for what remains of their homes",
-    "link": "https://www.theguardian.com/world/2026/aug/30/people-return-remains-homes-nepal-floods-devighat-trishuli-river",
-    "pubDate": "30.08.2026 16:39:38",
-    "sortDate": 1788107978000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cleverly avoids culture war issues in pitch to be next London mayor",
-    "link": "https://www.theguardian.com/politics/2026/aug/30/james-cleverly-london-mayor-classically-conservative-campaign",
-    "pubDate": "30.08.2026 16:25:02",
-    "sortDate": 1788107102000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Jason Arday accuser given three-month teaching ban but can continue research",
     "link": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
     "pubDate": "30.08.2026 15:35:11",
@@ -140,52 +203,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "At least eight dead and 18 missing after ferry capsizes off northern Cyprus",
-    "link": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
-    "pubDate": "30.08.2026 15:12:02",
-    "sortDate": 1788102722000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
     "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
     "pubDate": "30.08.2026 15:08:33",
     "sortDate": 1788102513000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cash settlements on home insurance claims leaving vulnerable Australians short-changed, Asic says",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/31/cash-settlements-home-insurance-cyclone-disaster-repairs-vulnerable-australians-asic",
-    "pubDate": "30.08.2026 15:01:00",
-    "sortDate": 1788102060000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Woman, 22, killed and five injured in shooting at Swiss rave",
-    "link": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
-    "pubDate": "30.08.2026 15:00:51",
-    "sortDate": 1788102051000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Smartglasses should automatically blur people’s faces while filming, Australia’s online safety regulator says",
-    "link": "https://www.theguardian.com/technology/2026/aug/31/smart-glasses-automatic-blur-faces-meta-ray-ban-kmart-privacy",
-    "pubDate": "30.08.2026 15:00:01",
-    "sortDate": 1788102001000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Iceland rejects EU accession talks after divisive referendum campaign",
-    "link": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
-    "pubDate": "30.08.2026 14:57:49",
-    "sortDate": 1788101869000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
-    "link": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
-    "pubDate": "30.08.2026 14:38:00",
-    "sortDate": 1788100680000,
     "source": "The Guardian"
   },
   {
@@ -200,13 +221,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
     "pubDate": "30.08.2026 06:00:48",
     "sortDate": 1788069648000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Number of missing in Nepal and Tibet rises to 3,000 as bad weather hampers search",
-    "link": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-    "pubDate": "30.08.2026 01:25:41",
-    "sortDate": 1788053141000,
     "source": "The Guardian"
   },
   {
@@ -320,13 +334,6 @@
     "pubDate": "28.08.2026 12:00:00",
     "sortDate": 1787918400000,
     "source": "UN News"
-  },
-  {
-    "title": "Nepal-Tibet flood rescue efforts resume after being halted by overflowing lake",
-    "link": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
-    "pubDate": "28.08.2026 10:17:07",
-    "sortDate": 1787912227000,
-    "source": "The Guardian"
   },
   {
     "title": "Bondi library returns book How to Sell a Genocide to shelves after State Library ‘outlines the law’",
@@ -446,13 +453,6 @@
     "pubDate": "26.08.2026 12:00:00",
     "sortDate": 1787745600000,
     "source": "UN News"
-  },
-  {
-    "title": "On scraps of land and under constant threat, Gaza farmers struggle to survive",
-    "link": "https://www.theguardian.com/world/2026/aug/26/gaza-farmers-struggle-scraps-of-land-constant-threat",
-    "pubDate": "26.08.2026 11:00:11",
-    "sortDate": 1787742011000,
-    "source": "The Guardian"
   },
   {
     "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
