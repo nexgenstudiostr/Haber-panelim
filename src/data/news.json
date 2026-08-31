@@ -1,23 +1,170 @@
 [
   {
-    "title": "Uber driver takes TfL to court over ‘pain‘ caused by licence renewal delay",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/31/uber-driver-tfl-court-licence-renewal-delay",
-    "pubDate": "31.08.2026 09:01:28",
-    "sortDate": 1788166888000,
+    "title": "Viktor Orbán’s favourite thinktank MCC Brussels in fresh crisis as its head quits",
+    "link": "https://www.theguardian.com/politics/2026/aug/31/viktor-orbans-thinktank-mcc-brussels-crisis-frank-furedi-quits",
+    "pubDate": "31.08.2026 17:01:08",
+    "sortDate": 1788195668000,
     "source": "The Guardian"
   },
   {
-    "title": "Iran hostilities flare after US strike in strait of Hormuz; supertanker hits mines and catches fire – Middle East crisis live",
+    "title": "Trump says US will ‘hit Iran hard’ as hostilities resume – Middle East crisis live",
     "link": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
-    "pubDate": "31.08.2026 09:00:58",
-    "sortDate": 1788166858000,
+    "pubDate": "31.08.2026 17:00:01",
+    "sortDate": 1788195601000,
     "source": "The Guardian"
   },
   {
-    "title": "British Museum hosted Palantir founder Peter Thiel in private viewing of Bayeux tapestry",
-    "link": "https://www.theguardian.com/culture/2026/aug/31/british-museum-hosted-palantir-founder-peter-thiel-private-viewing-bayeux-tapestry",
-    "pubDate": "31.08.2026 08:50:38",
-    "sortDate": 1788166238000,
+    "title": "House lawmakers return to Capitol Hill as Republicans hope to pass stopgap spending bill – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates",
+    "pubDate": "31.08.2026 16:50:16",
+    "sortDate": 1788195016000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "James Clyburn says supporting Clarence Thomas for supreme court ‘was mistake’",
+    "link": "https://www.theguardian.com/us-news/2026/aug/31/james-clyburn-clarence-thomas-supreme-court",
+    "pubDate": "31.08.2026 16:37:14",
+    "sortDate": 1788194234000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two dead and at least 15 missing after flash flood in Arizona’s Grand Canyon",
+    "link": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
+    "pubDate": "31.08.2026 16:36:55",
+    "sortDate": 1788194215000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Thousands of cans of Pabst beer stolen in two separate heists in California",
+    "link": "https://www.theguardian.com/us-news/2026/aug/31/pabst-beer-stolen-southern-california",
+    "pubDate": "31.08.2026 16:30:07",
+    "sortDate": 1788193807000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dolly Parton laid to rest in private Nashville funeral",
+    "link": "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+    "pubDate": "31.08.2026 16:17:24",
+    "sortDate": 1788193044000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
+    "link": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+    "pubDate": "31.08.2026 16:00:29",
+    "sortDate": 1788192029000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nepal rescuers race to reach hundreds feared trapped in hydropower tunnels",
+    "link": "https://www.theguardian.com/world/2026/aug/31/nepal-tibet-floods-rescuers-hundreds-trapped-hydropower",
+    "pubDate": "31.08.2026 15:56:31",
+    "sortDate": 1788191791000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Border area between Nepal and China where 33 Australians are missing still almost entirely cut off",
+    "link": "https://www.theguardian.com/world/2026/sep/01/nepal-china-border-area-gyirong-port-almost-entirely-cut-off-missing-australians-ntwnfb",
+    "pubDate": "31.08.2026 15:00:28",
+    "sortDate": 1788188428000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane",
+    "link": "https://www.theguardian.com/world/2026/aug/31/germany-leipzig-drone-attack-ukrainian-plane",
+    "pubDate": "31.08.2026 14:14:56",
+    "sortDate": 1788185696000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "BT on track for estimated £2bn windfall from selling old copper amid AI boom",
+    "link": "https://www.theguardian.com/business/2026/aug/31/bt-windfall-selling-old-copper-cables-telecoms-broadband-metal",
+    "pubDate": "31.08.2026 14:06:29",
+    "sortDate": 1788185189000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "South African airline defends dramatic low-level flyby before rugby union clash",
+    "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
+    "pubDate": "31.08.2026 13:44:39",
+    "sortDate": 1788183879000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British family pleads with French authorities to release body of relative who died in Channel",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/31/british-family-plead-with-french-authorities-to-release-body-of-relative-who-died-in-the-channel",
+    "pubDate": "31.08.2026 13:36:18",
+    "sortDate": 1788183378000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran’s economy in crisis as US launches new sanctions campaign",
+    "link": "https://www.theguardian.com/world/2026/aug/31/iran-economy-crisis-usa-launches-sanctions-inflation-trump",
+    "pubDate": "31.08.2026 13:00:26",
+    "sortDate": 1788181226000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Smelling test: children need education in sniffing aromas, scientist says",
+    "link": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
+    "pubDate": "31.08.2026 13:00:25",
+    "sortDate": 1788181225000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Badenoch appoints Andrew Griffith shadow chancellor in sweeping reshuffle",
+    "link": "https://www.theguardian.com/politics/2026/aug/31/kemi-badenoch-reshuffle-shadow-cabinet-patel-cleverly-resignations",
+    "pubDate": "31.08.2026 12:36:28",
+    "sortDate": 1788179788000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ministers consider closing social mobility watchdog as part of planned shake-up",
+    "link": "https://www.theguardian.com/society/2026/aug/31/ministers-consider-closing-social-mobility-watchdog-as-part-of-planned-shake-up",
+    "pubDate": "31.08.2026 12:23:02",
+    "sortDate": 1788178982000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Countries legally obliged to consider slavery reparations, says UN committee",
+    "link": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
+    "pubDate": "31.08.2026 11:54:16",
+    "sortDate": 1788177256000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French high schools rush to put Macron’s phone ban into force",
+    "link": "https://www.theguardian.com/world/2026/aug/31/french-high-schools-phone-ban-macron",
+    "pubDate": "31.08.2026 10:41:39",
+    "sortDate": 1788172899000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+    "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
+    "pubDate": "31.08.2026 10:21:56",
+    "sortDate": 1788171716000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nearly 20 people still missing after ferry capsizes ⁠off northern Cyprus",
+    "link": "https://www.theguardian.com/world/2026/aug/31/missing-ferry-capsizes-cyprus",
+    "pubDate": "31.08.2026 09:49:15",
+    "sortDate": 1788169755000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First US military attacks on Iran in a month prompt retaliation",
+    "link": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
+    "pubDate": "31.08.2026 09:37:19",
+    "sortDate": 1788169039000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "China is concealing scale of flood disaster, say Tibet campaigners",
+    "link": "https://www.theguardian.com/world/2026/aug/31/china-concealing-scale-nepal-flood-disaster-say-tibet-campaigners",
+    "pubDate": "31.08.2026 09:18:28",
+    "sortDate": 1788167908000,
     "source": "The Guardian"
   },
   {
@@ -56,31 +203,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Breakthrough’ as Turkmenistan starts fixing ‘mindboggling’ methane mega-leaks",
-    "link": "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars",
-    "pubDate": "31.08.2026 07:00:18",
-    "sortDate": 1788159618000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Australians missing in Nepal targeted by ‘heartbreaking’ and ‘abhorrent’ racist slurs",
     "link": "https://www.theguardian.com/australia-news/2026/aug/31/australians-missing-in-nepal-targeted-by-heartbreaking-and-abhorrent-racist-slurs",
     "pubDate": "31.08.2026 06:32:15",
     "sortDate": 1788157935000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Goodbye to Babylon Berlin, the 1920s TV drama that has eerily foreshadowed real-life politics",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/aug/31/goodbye-to-babylon-berlin-the-1920s-tv-drama-that-has-eerily-foreshadowed-real-life-politics",
-    "pubDate": "31.08.2026 06:00:18",
-    "sortDate": 1788156018000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Icac lawyer tells Charles Perrottet the key to lying is ‘you have to be really good at remembering it’",
-    "link": "https://www.theguardian.com/australia-news/2026/aug/31/icac-charles-perrottet-lawyer-ntwnfb",
-    "pubDate": "31.08.2026 05:49:18",
-    "sortDate": 1788155358000,
     "source": "The Guardian"
   },
   {
@@ -91,87 +217,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "One dead and 15 people may be missing after flash flood in Arizona’s Grand Canyon",
-    "link": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
-    "pubDate": "31.08.2026 05:26:53",
-    "sortDate": 1788154013000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan and UAE",
-    "link": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
-    "pubDate": "31.08.2026 05:25:13",
-    "sortDate": 1788153913000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NHS to offer free high-street cholesterol tests in England",
-    "link": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-    "pubDate": "31.08.2026 05:00:16",
-    "sortDate": 1788152416000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Everything’s smashed to bits’: Ukrainians turn anger on those storing weapons near their villages",
-    "link": "https://www.theguardian.com/world/2026/aug/31/ukraine-anger-weapons-storage-russian-bombing-myla",
-    "pubDate": "31.08.2026 04:00:17",
-    "sortDate": 1788148817000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Properties in UK national parks command 24% premium, study finds",
-    "link": "https://www.theguardian.com/business/2026/aug/31/properties-uk-national-parks-premium-nationwide",
-    "pubDate": "31.08.2026 04:00:16",
-    "sortDate": 1788148816000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
-    "link": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
-    "pubDate": "31.08.2026 04:00:15",
-    "sortDate": 1788148815000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "USDA reportedly shelves cyclospora research amid relocations and fund cuts",
-    "link": "https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved",
-    "pubDate": "30.08.2026 21:10:56",
-    "sortDate": 1788124256000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "All-time great Aaron Donald comes out of retirement to rejoin stacked LA Rams",
-    "link": "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams",
-    "pubDate": "30.08.2026 20:42:36",
-    "sortDate": 1788122556000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
-    "link": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
-    "pubDate": "30.08.2026 19:36:57",
-    "sortDate": 1788118617000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Captain and crew arrested after at least eight die in northern Cyprus ferry disaster – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
-    "pubDate": "30.08.2026 19:18:02",
-    "sortDate": 1788117482000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
     "link": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
     "pubDate": "30.08.2026 18:57:22",
     "sortDate": 1788116242000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Prisons ‘one major event from disaster’ after U-turn on early release scheme",
-    "link": "https://www.theguardian.com/society/2026/aug/30/pc-harper-killers-prison-early-release-scheme",
-    "pubDate": "30.08.2026 18:50:27",
-    "sortDate": 1788115827000,
     "source": "The Guardian"
   },
   {
@@ -196,25 +245,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Jason Arday accuser given three-month teaching ban but can continue research",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
-    "pubDate": "30.08.2026 15:35:11",
-    "sortDate": 1788104111000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
     "link": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
     "pubDate": "30.08.2026 15:08:33",
     "sortDate": 1788102513000,
     "source": "The Guardian"
-  },
-  {
-    "title": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168228",
-    "pubDate": "30.08.2026 12:00:00",
-    "sortDate": 1788091200000,
-    "source": "UN News"
   },
   {
     "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
@@ -229,13 +264,6 @@
     "pubDate": "29.08.2026 21:55:08",
     "sortDate": 1788040508000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Rising seas, rising stakes: What increasing sea-levels mean to humanity",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168206",
-    "pubDate": "29.08.2026 12:00:00",
-    "sortDate": 1788004800000,
-    "source": "UN News"
   },
   {
     "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
@@ -273,13 +301,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Families of 33 missing Britons rush to Nepal as fears grow of more floods",
-    "link": "https://www.theguardian.com/world/2026/aug/28/families-missing-britons-nepal-flash-floods",
-    "pubDate": "28.08.2026 15:44:38",
-    "sortDate": 1787931878000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
     "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
     "pubDate": "28.08.2026 14:46:25",
@@ -287,241 +308,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea",
-    "link": "https://www.theguardian.com/us-news/2026/aug/27/uss-abraham-lincoln-thailand-visit",
-    "pubDate": "28.08.2026 13:15:57",
-    "sortDate": 1787922957000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168229",
-    "pubDate": "28.08.2026 12:00:00",
-    "sortDate": 1787918400000,
-    "source": "UN News"
-  },
-  {
-    "title": "As the Himalayas melt, deadly floods become the new normal",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168227",
-    "pubDate": "28.08.2026 12:00:00",
-    "sortDate": 1787918400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168222",
-    "pubDate": "28.08.2026 12:00:00",
-    "sortDate": 1787918400000,
-    "source": "UN News"
-  },
-  {
-    "title": "WHO reports more than 3,200 attacks on Ukraine’s healthcare system since full-scale invasion",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168226",
-    "pubDate": "28.08.2026 12:00:00",
-    "sortDate": 1787918400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Risks of child recruitment by armed groups rise in post-quake Colombia",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168224",
-    "pubDate": "28.08.2026 12:00:00",
-    "sortDate": 1787918400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Immense impact’ of Nepal flood disaster highlighted as casualties mount",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168221",
-    "pubDate": "28.08.2026 12:00:00",
-    "sortDate": 1787918400000,
-    "source": "UN News"
-  },
-  {
     "title": "Bondi library returns book How to Sell a Genocide to shelves after State Library ‘outlines the law’",
     "link": "https://www.theguardian.com/australia-news/2026/aug/28/sydney-library-returns-book-how-to-sell-a-genocide-to-shelves-after-state-library-intervenes-ntwnfb",
     "pubDate": "28.08.2026 04:25:16",
     "sortDate": 1787891116000,
     "source": "The Guardian"
-  },
-  {
-    "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
-    "link": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-    "pubDate": "28.08.2026 04:00:48",
-    "sortDate": 1787889648000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168220",
-    "pubDate": "27.08.2026 12:00:00",
-    "sortDate": 1787832000000,
-    "source": "UN News"
-  },
-  {
-    "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168219",
-    "pubDate": "27.08.2026 12:00:00",
-    "sortDate": 1787832000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief condemns ‘indifference’ as Ebola cases mount in DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168217",
-    "pubDate": "27.08.2026 12:00:00",
-    "sortDate": 1787832000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Lebanon: Civilian risks grow as military activity continues, UN says",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168215",
-    "pubDate": "27.08.2026 12:00:00",
-    "sortDate": 1787832000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Tracking Syria’s transition",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168214",
-    "pubDate": "27.08.2026 12:00:00",
-    "sortDate": 1787832000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Shock and devastation remain, a day after Himalayan flood disaster",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168213",
-    "pubDate": "27.08.2026 12:00:00",
-    "sortDate": 1787832000000,
-    "source": "UN News"
-  },
-  {
-    "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
-    "link": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
-    "pubDate": "27.08.2026 08:00:09",
-    "sortDate": 1787817609000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump downplays Moscow visit by CIA director as ‘semi-routine’",
-    "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-cia-director-moscow-visit",
-    "pubDate": "26.08.2026 18:21:52",
-    "sortDate": 1787768512000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
-    "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
-    "pubDate": "26.08.2026 15:09:58",
-    "sortDate": 1787756998000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Land models sprout as degradation threatens billions of livelihoods",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168212",
-    "pubDate": "26.08.2026 12:00:00",
-    "sortDate": 1787745600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Red Sea nations step up maritime cooperation as regional threats grow",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168211",
-    "pubDate": "26.08.2026 12:00:00",
-    "sortDate": 1787745600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Explainer: UN peace operations work to create, preserve peace",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168210",
-    "pubDate": "26.08.2026 12:00:00",
-    "sortDate": 1787745600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Deadly floods cause widespread destruction in China, Nepal",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168208",
-    "pubDate": "26.08.2026 12:00:00",
-    "sortDate": 1787745600000,
-    "source": "UN News"
-  },
-  {
-    "title": "More health workers, stronger systems: Africa’s new ambitious goal",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168207",
-    "pubDate": "26.08.2026 12:00:00",
-    "sortDate": 1787745600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Rising tensions in Gaza, West Bank",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168204",
-    "pubDate": "26.08.2026 12:00:00",
-    "sortDate": 1787745600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168203",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "One million children in Afghanistan face deadly malnutrition",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168202",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "As wars spread, the global food system unravels",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168201",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Rohingyas in Myanmar suffering ‘heartbreaking’ misery and cruelty",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168200",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Land degradation is costing far more than restoring: UN deputy chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168198",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Japan’s ‘2050 Weather Forecast’ highlights extreme heat in the future",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168197",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief, Red Cross renew call for rules on lethal autonomous weapons",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168196",
-    "pubDate": "25.08.2026 12:00:00",
-    "sortDate": 1787659200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Can restoring land create jobs? These young entrepreneurs are proving it",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168194",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "100 days of Ebola and the race to stop the spread",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168195",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gaza: Children still at risk despite drop in acute hunger",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168193",
-    "pubDate": "24.08.2026 12:00:00",
-    "sortDate": 1787572800000,
-    "source": "UN News"
   }
 ]
