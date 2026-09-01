@@ -1,79 +1,135 @@
 [
   {
-    "title": "News live: South Australia says block on telehealth for voluntary assisted dying creates ‘barrier’ for equitable access",
+    "title": "Man, 23, charged with murder after fatal Teesside house fire",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/01/man-23-charged-fatal-teesside-house-fire",
+    "pubDate": "01.09.2026 06:40:08",
+    "sortDate": 1788244808000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: fugitive property developer won’t give evidence this week to Icac; SBS secures rights to 2030 Fifa World Cup",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/01/nepal-tibet-flooding-missing-australians-penny-wong-anthony-albanese-pacific-islands-forum-liberal-national-coalition-one-nation-politics-reactions-ntwnfb",
-    "pubDate": "01.09.2026 01:19:03",
-    "sortDate": 1788225543000,
+    "pubDate": "01.09.2026 06:39:51",
+    "sortDate": 1788244791000,
     "source": "The Guardian"
   },
   {
-    "title": "Police fatally shoot woman who stabbed two people in Times Square",
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/new-york-city-stabbing-times-square",
-    "pubDate": "01.09.2026 00:41:45",
-    "sortDate": 1788223305000,
+    "title": "Wendell Berry, US author, farmer and environmentalist, dies aged 92",
+    "link": "https://www.theguardian.com/books/2026/sep/01/wendell-berry-us-author-dead",
+    "pubDate": "01.09.2026 06:34:17",
+    "sortDate": 1788244457000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump’s ballroom construction can resume at White House, supreme court rules – live",
+    "title": "‘The mountains are changing’: What the floods tell us about the future of India’s Himalayas",
+    "link": "https://www.theguardian.com/world/2026/aug/31/this-is-india-what-the-nepal-tibet-floods-tell-us-about-the-future-of-indias-himalayas",
+    "pubDate": "01.09.2026 06:30:46",
+    "sortDate": 1788244246000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Alarm bells were going off’: parents tell of ordeal at Send school closed down after abuse allegations",
+    "link": "https://www.theguardian.com/education/2026/sep/01/parents-tell-of-ordeal-at-send-school-closed-down-abuse",
+    "pubDate": "01.09.2026 06:00:46",
+    "sortDate": 1788242446000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tuesday briefing: Scotland has promised on violence against women – now it needs to deliver",
+    "link": "https://www.theguardian.com/world/2026/sep/01/tuesday-briefing-scotland-has-promised-on-violence-against-women-now-it-needs-to-deliver",
+    "pubDate": "01.09.2026 05:46:39",
+    "sortDate": 1788241599000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Relief as Australian missing in Nepal-Tibet flood disaster found alive",
+    "link": "https://www.theguardian.com/world/2026/sep/01/missing-australian-found-alive-nepal-tibet-floods",
+    "pubDate": "01.09.2026 05:43:15",
+    "sortDate": 1788241395000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "China warns of ‘consequences’ over Taiwan presence at Pacific Islands Forum",
+    "link": "https://www.theguardian.com/world/2026/sep/01/china-warns-of-consequences-taiwan-pacific-islands-forum-palau",
+    "pubDate": "01.09.2026 05:34:12",
+    "sortDate": 1788240852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meal deal: meth found hidden inside McMuffin during a police car search in Western Australia",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/01/meth-hidden-in-mcmuffin-burger-police-car-search-western-australia-ntwnfb",
+    "pubDate": "01.09.2026 05:32:48",
+    "sortDate": 1788240768000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rival Ray Hadley tells Alan Jones trial that alleged victim ‘broke down and sobbed’ when detailing assaults",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/01/2gb-rival-ray-hadley-evidence-alan-jones-trial-alleged-sexual-touching-ntwnfb",
+    "pubDate": "01.09.2026 05:20:40",
+    "sortDate": 1788240040000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Price rises gather pace in UK shops amid higher energy costs",
+    "link": "https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs",
+    "pubDate": "01.09.2026 05:00:46",
+    "sortDate": 1788238846000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham warned running prison capacity near limit is ‘big risk’",
+    "link": "https://www.theguardian.com/society/2026/sep/01/burnham-warned-running-prison-capacity-near-limit-is-big-risk",
+    "pubDate": "01.09.2026 05:00:45",
+    "sortDate": 1788238845000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Madrid residents brace for noise and disruption from new F1 circuit",
+    "link": "https://www.theguardian.com/world/2026/sep/01/madrid-f1-circuit-noise-levels-madring",
+    "pubDate": "01.09.2026 04:00:46",
+    "sortDate": 1788235246000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iceland’s close ties with EU mean no vote is not a Brexit-style rejection",
+    "link": "https://www.theguardian.com/world/2026/sep/01/iceland-ties-eu-no-vote-not-brexit-style-rejection",
+    "pubDate": "01.09.2026 04:00:43",
+    "sortDate": 1788235243000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot",
+    "link": "https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo",
+    "pubDate": "01.09.2026 02:57:21",
+    "sortDate": 1788231441000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s ballroom construction can resume at White House, supreme court rules – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates",
-    "pubDate": "01.09.2026 00:34:51",
-    "sortDate": 1788222891000,
+    "pubDate": "01.09.2026 01:58:00",
+    "sortDate": 1788227880000,
     "source": "The Guardian"
   },
   {
-    "title": "Two dead and at least 15 missing after flash flood in Grand Canyon",
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
-    "pubDate": "01.09.2026 00:15:04",
-    "sortDate": 1788221704000,
+    "title": "Thirty years of waiting, a memoir and a trial: conviction in Tupac Shakur killing brings closure",
+    "link": "https://www.theguardian.com/us-news/2026/aug/31/tupac-shakur-trial-conviction-duane-davis",
+    "pubDate": "01.09.2026 01:57:13",
+    "sortDate": 1788227833000,
     "source": "The Guardian"
   },
   {
-    "title": "Man shot and killed in Sydney home invasion was ‘targeted attack’, police believe",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/01/man-shot-killed-glen-alpine-sydney-home-invasion-nsw-police-ntwnfb",
-    "pubDate": "01.09.2026 00:09:59",
-    "sortDate": 1788221399000,
+    "title": "Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history",
+    "link": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-flash-flood-phantom-ranch",
+    "pubDate": "01.09.2026 01:54:41",
+    "sortDate": 1788227681000,
     "source": "The Guardian"
   },
   {
-    "title": "Investigation into Powerhouse Parramatta museum under way as stop-gap leader steps in",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/01/powerhouse-parramatta-western-sydney-investigation-ntwnfb",
-    "pubDate": "31.08.2026 23:42:51",
-    "sortDate": 1788219771000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US army secretary Dan Driscoll resigns over reported friction with Pete Hegseth",
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/army-secretary-dan-driscoll-resigns",
-    "pubDate": "31.08.2026 23:09:25",
-    "sortDate": 1788217765000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rising microplastics in soil a threat to UK food security, MPs and campaigners say",
-    "link": "https://www.theguardian.com/environment/2026/sep/01/rising-microplastics-in-soil-a-threat-to-uk-food-security-mps-and-campaigners-say",
-    "pubDate": "31.08.2026 23:01:38",
-    "sortDate": 1788217298000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK houses near top state secondary schools cost £40,000 more, research reveals",
-    "link": "https://www.theguardian.com/money/2026/sep/01/uk-houses-near-top-state-secondary-schools-cost-40000-more",
-    "pubDate": "31.08.2026 23:01:37",
-    "sortDate": 1788217297000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hiker, 91, becomes oldest person to complete grueling Appalachian Trail",
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/oldest-hiker-appalachian-trail",
-    "pubDate": "31.08.2026 22:17:52",
-    "sortDate": 1788214672000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Conservative reshuffle: who’s who in Kemi Badenoch’s top team?",
-    "link": "https://www.theguardian.com/politics/2026/aug/31/conservative-reshuffle-whos-who-in-kemi-badenochs-top-team",
-    "pubDate": "31.08.2026 18:45:40",
-    "sortDate": 1788201940000,
+    "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+    "pubDate": "01.09.2026 01:53:39",
+    "sortDate": 1788227619000,
     "source": "The Guardian"
   },
   {
@@ -81,20 +137,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/31/turkish-deep-sea-search-vessel-tcg-isin-retrieve-20-missing-cyprus-ferry",
     "pubDate": "31.08.2026 18:37:06",
     "sortDate": 1788201426000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "More public control is the way to grow UK economy, Burnham to tell MPs",
-    "link": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy",
-    "pubDate": "31.08.2026 18:13:31",
-    "sortDate": 1788200011000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andrew Griffith and Tom Tugendhat join Badenoch’s top team in Tory reshuffle",
-    "link": "https://www.theguardian.com/politics/2026/aug/31/kemi-badenoch-reshuffle-shadow-cabinet-patel-cleverly-resignations",
-    "pubDate": "31.08.2026 18:07:20",
-    "sortDate": 1788199640000,
     "source": "The Guardian"
   },
   {
@@ -126,13 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Border area between Nepal and China where 33 Australians are missing still almost entirely cut off",
-    "link": "https://www.theguardian.com/world/2026/sep/01/nepal-china-border-area-gyirong-port-almost-entirely-cut-off-missing-australians-ntwnfb",
-    "pubDate": "31.08.2026 15:00:28",
-    "sortDate": 1788188428000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Germany poised to identify suspect in Leipzig drone attack on Ukrainian plane",
     "link": "https://www.theguardian.com/world/2026/aug/31/germany-leipzig-drone-attack-ukrainian-plane",
     "pubDate": "31.08.2026 14:14:56",
@@ -144,13 +179,6 @@
     "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
     "pubDate": "31.08.2026 13:44:39",
     "sortDate": 1788183879000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "British family pleads with French authorities to release body of relative who died in Channel",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/31/british-family-plead-with-french-authorities-to-release-body-of-relative-who-died-in-the-channel",
-    "pubDate": "31.08.2026 13:36:18",
-    "sortDate": 1788183378000,
     "source": "The Guardian"
   },
   {
@@ -189,13 +217,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "French high schools rush to put Macron’s phone ban into force",
-    "link": "https://www.theguardian.com/world/2026/aug/31/french-high-schools-phone-ban-macron",
-    "pubDate": "31.08.2026 10:41:39",
-    "sortDate": 1788172899000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
     "link": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
     "pubDate": "31.08.2026 10:21:56",
@@ -231,13 +252,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Qantas ground crews vote for right to strike amid pay dispute – as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
-    "pubDate": "31.08.2026 07:48:10",
-    "sortDate": 1788162490000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Monday briefing: Nepal and Tibet’s floods are a warning for the future",
     "link": "https://www.theguardian.com/world/2026/aug/30/monday-briefing-nepal-and-tibets-floods-are-a-warning-for-the-future",
     "pubDate": "31.08.2026 05:44:13",
@@ -263,13 +277,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/30/headteacher-saves-children-flash-flood-nepal",
     "pubDate": "30.08.2026 17:15:01",
     "sortDate": 1788110101000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fifteen Britons among 261 foreigners missing in China after floods",
-    "link": "https://www.theguardian.com/world/2026/aug/30/britons-foreigners-missing-china-tibet-nepal-floods",
-    "pubDate": "30.08.2026 17:13:57",
-    "sortDate": 1788110037000,
     "source": "The Guardian"
   },
   {
@@ -333,13 +340,6 @@
     "link": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
     "pubDate": "28.08.2026 17:41:37",
     "sortDate": 1787938897000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
-    "link": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll",
-    "pubDate": "28.08.2026 15:55:41",
-    "sortDate": 1787932541000,
     "source": "The Guardian"
   },
   {
