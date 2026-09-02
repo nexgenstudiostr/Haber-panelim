@@ -1,30 +1,149 @@
 [
   {
-    "title": "Four charged with murder after newborn baby stabbed to death in Sheffield",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/02/charged-newborn-baby-stabbed-death-sheffield",
-    "pubDate": "02.09.2026 10:19:43",
-    "sortDate": 1788344383000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Germany’s move to blame Russia for Leipzig drone incident ‘a grave mistake,’ says Putin– Europe live",
+    "title": "Russia increasingly reckless, says Nato’s Rutte as Germany blames Moscow for Leipzig drone incident – Europe live",
     "link": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
-    "pubDate": "02.09.2026 10:19:02",
-    "sortDate": 1788344342000,
+    "pubDate": "02.09.2026 14:34:45",
+    "sortDate": 1788359685000,
     "source": "The Guardian"
   },
   {
     "title": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
     "link": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
-    "pubDate": "02.09.2026 10:18:10",
-    "sortDate": 1788344290000,
+    "pubDate": "02.09.2026 14:32:40",
+    "sortDate": 1788359560000,
     "source": "The Guardian"
   },
   {
-    "title": "Andy Burnham to face first PMQs as borrowing costs rise – UK politics live",
+    "title": "Hakeem Jeffries vows ‘serious response’ after two House Democrats vote with Republicans – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/02/us-politics-latest-news-updates-donald-trump-iran",
+    "pubDate": "02.09.2026 14:32:20",
+    "sortDate": 1788359540000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham pressed on borrowing costs and spending at first PMQs – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-    "pubDate": "02.09.2026 10:13:25",
-    "sortDate": 1788344005000,
+    "pubDate": "02.09.2026 14:31:08",
+    "sortDate": 1788359468000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "What’s really behind Trump’s deference to Putin?",
+    "link": "https://www.theguardian.com/world/2026/sep/02/whats-really-behind-trumps-deference-to-putin",
+    "pubDate": "02.09.2026 14:30:26",
+    "sortDate": 1788359426000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mass breeding of game birds without welfare checks may be curtailed in England",
+    "link": "https://www.theguardian.com/environment/2026/sep/02/mass-breeding-of-game-birds-without-welfare-checks-may-be-curtailed-in-england",
+    "pubDate": "02.09.2026 14:29:50",
+    "sortDate": 1788359390000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Architect of UK’s AI strategy joins Anthropic amid conflict of interest warning",
+    "link": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
+    "pubDate": "02.09.2026 14:29:43",
+    "sortDate": 1788359383000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
+    "link": "https://www.theguardian.com/film/2026/sep/02/maggie-gyllenhaal-says-film-industry-has-a-systemic-problem-with-sexism",
+    "pubDate": "02.09.2026 14:26:32",
+    "sortDate": 1788359192000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New York law requires hairdressers to learn how to work with all hair types",
+    "link": "https://www.theguardian.com/us-news/2026/sep/02/new-york-law-hairdressers-all-hair-types",
+    "pubDate": "02.09.2026 13:38:09",
+    "sortDate": 1788356289000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
+    "link": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
+    "pubDate": "02.09.2026 13:30:51",
+    "sortDate": 1788355851000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Timidity is a virus’: Paul Keating fights the fading of the light as he seeks to enshrine his legacy",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/02/timidity-is-a-virus-paul-keating-fights-the-fading-of-the-light-as-he-seeks-to-enshrine-his-legacy",
+    "pubDate": "02.09.2026 13:24:50",
+    "sortDate": 1788355490000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI",
+    "link": "https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting",
+    "pubDate": "02.09.2026 13:22:57",
+    "sortDate": 1788355377000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Four in court after newborn baby girl stabbed to death in Sheffield",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/02/charged-newborn-baby-stabbed-death-sheffield",
+    "pubDate": "02.09.2026 13:16:26",
+    "sortDate": 1788354986000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Swedish minister defends strict post-Brexit removals of Britons",
+    "link": "https://www.theguardian.com/world/2026/sep/02/swedish-minister-removals-deportations-britons-brexit",
+    "pubDate": "02.09.2026 12:59:23",
+    "sortDate": 1788353963000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US woman gets 38 stitches after being bitten by otter in Lake Tahoe",
+    "link": "https://www.theguardian.com/us-news/2026/sep/02/lake-tahoe-otter-attack",
+    "pubDate": "02.09.2026 12:55:45",
+    "sortDate": 1788353745000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tim Cook handed $47m package for new role as executive chair of Apple",
+    "link": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
+    "pubDate": "02.09.2026 12:28:08",
+    "sortDate": 1788352088000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Blackout risk rises as heatwave stresses largest US electric grids",
+    "link": "https://www.theguardian.com/us-news/2026/sep/02/heatwave-power-outage-risk",
+    "pubDate": "02.09.2026 12:16:52",
+    "sortDate": 1788351412000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sudan: Air attack destroys food aid for families in South Kordofan",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168251",
+    "pubDate": "02.09.2026 12:00:00",
+    "sortDate": 1788350400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Fight for humanity’: Avoiding a climate catastrophe means acting now",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168240",
+    "pubDate": "02.09.2026 12:00:00",
+    "sortDate": 1788350400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Iran accuses US of ‘war crime’ after missile blast kills four people at wedding",
+    "link": "https://www.theguardian.com/world/2026/sep/02/iran-us-missile-blast-wedding",
+    "pubDate": "02.09.2026 11:56:00",
+    "sortDate": 1788350160000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fatal Sydney shooting could be another case of mistaken identity, police say",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/02/sydney-fatal-shooting-merrylands-west-possible-mistaken-identity-police-say-ntwnfb",
+    "pubDate": "02.09.2026 10:32:16",
+    "sortDate": 1788345136000,
     "source": "The Guardian"
   },
   {
@@ -35,45 +154,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Family pays tribute to New Mexico man killed by bear: ‘He was a strong person’",
-    "link": "https://www.theguardian.com/us-news/2026/sep/02/new-mexico-man-fatal-bear-attack",
-    "pubDate": "02.09.2026 10:00:21",
-    "sortDate": 1788343221000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Guinea-Bissau voters approve new constitution expanding presidential powers",
+    "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
     "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
     "pubDate": "02.09.2026 09:20:55",
     "sortDate": 1788340855000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Range Rover launches its first electric vehicle, with starting price of £154,070",
-    "link": "https://www.theguardian.com/business/2026/sep/02/range-rover-launches-first-electric-vehicle",
-    "pubDate": "02.09.2026 09:08:23",
-    "sortDate": 1788340103000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "No eggs, no potatoes but ‘a lot of imagination’: how Spain cooked in war’s hunger years",
-    "link": "https://www.theguardian.com/world/2026/sep/02/how-spain-cooked-war-hunger-years",
-    "pubDate": "02.09.2026 09:00:27",
-    "sortDate": 1788339627000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ryanair warns air fares in Europe will jump next year if oil price stays high",
-    "link": "https://www.theguardian.com/business/2026/sep/02/ryanair-warns-air-fares-europe-jump-next-year-oil-price-stays-high",
-    "pubDate": "02.09.2026 08:58:04",
-    "sortDate": 1788339484000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Global bond sell-off intensifies as US-Iran tensions stoke inflation fears",
-    "link": "https://www.theguardian.com/business/2026/sep/02/global-bond-sell-off-us-iran-tensions-inflation-fears",
-    "pubDate": "02.09.2026 08:54:52",
-    "sortDate": 1788339292000,
     "source": "The Guardian"
   },
   {
@@ -88,20 +172,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/sep/02/ray-hadley-used-homophobic-slur-against-alan-jones-2gb-ntwnfb",
     "pubDate": "02.09.2026 08:33:17",
     "sortDate": 1788337997000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sadiq Khan fined by fast-track court over untaxed car City Hall says is not his",
-    "link": "https://www.theguardian.com/politics/2026/sep/02/sadiq-khan-fined-fast-track-court-untaxed-car-city-hall-says-he-doesnt-own",
-    "pubDate": "02.09.2026 08:30:27",
-    "sortDate": 1788337827000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fake 10 Downing Street listing on Booking.com highlights security failures",
-    "link": "https://www.theguardian.com/money/2026/sep/02/fake-10-downing-street-listing-booking-com-highlights-security-failures",
-    "pubDate": "02.09.2026 07:45:12",
-    "sortDate": 1788335112000,
     "source": "The Guardian"
   },
   {
@@ -126,24 +196,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘We have had enough’: thousands of University of Sydney staff walk off the job over AI and job security",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/02/we-have-had-enough-thousands-of-staff-at-the-university-of-sydney-walk-off-the-job-over-ai-job-security",
-    "pubDate": "02.09.2026 05:50:36",
-    "sortDate": 1788328236000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Japan halves speed limit to 30km/h on all narrow city streets",
     "link": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
     "pubDate": "02.09.2026 05:15:00",
     "sortDate": 1788326100000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jury in Bruce Lehrmann’s Queensland rape trial may face questions about prior knowledge of case",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/02/bruce-lehrmann-queensland-rape-trial-jury-prior-knowledge-ntwnfb",
-    "pubDate": "02.09.2026 05:02:08",
-    "sortDate": 1788325328000,
     "source": "The Guardian"
   },
   {
@@ -161,38 +217,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
-    "pubDate": "02.09.2026 02:01:09",
-    "sortDate": 1788314469000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities",
     "link": "https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch",
     "pubDate": "02.09.2026 01:06:08",
     "sortDate": 1788311168000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Senator Ed Markey wins Massachusetts Democratic primary",
-    "link": "https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary",
-    "pubDate": "02.09.2026 00:47:12",
-    "sortDate": 1788310032000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Federal judge tosses Trump lawsuit over young trans athletes in California school sports",
-    "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-trans-athletes-california-lawsuit-dismissed",
-    "pubDate": "02.09.2026 00:33:03",
-    "sortDate": 1788309183000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump nominates loyalist Hung Cao to be permanent navy secretary",
-    "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-navy-secretary-hung-cao-nomination",
-    "pubDate": "02.09.2026 00:31:03",
-    "sortDate": 1788309063000,
     "source": "The Guardian"
   },
   {
@@ -238,6 +266,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "Response must outpace spread of Ebola: UN relief chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168246",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "At SCO summit In Kyrgyzstan, Guterres calls for more representative global governance",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168239",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Decades of war have left ‘depth and breadth’ of trauma across Afghanistan, UN finds",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168238",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168237",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nepal floods: Mounting death toll and concern for women and girls",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168234",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
     "title": "Trump suggests he is reviewing US support for UK over Falkland Islands",
     "link": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
     "pubDate": "01.09.2026 08:31:35",
@@ -249,13 +312,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/01/thailand-pattaya-uss-abraham-lincoln-sailors-marines",
     "pubDate": "01.09.2026 08:30:51",
     "sortDate": 1788251451000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Canada’s ruling Liberals sweep byelections in boost to Mark Carney",
-    "link": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
-    "pubDate": "01.09.2026 07:42:50",
-    "sortDate": 1788248570000,
     "source": "The Guardian"
   },
   {
@@ -280,18 +336,32 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump threatens further action as US and Iran exchange fire in new flare-up",
-    "link": "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire",
-    "pubDate": "31.08.2026 17:13:55",
-    "sortDate": 1788196435000,
-    "source": "The Guardian"
-  },
-  {
     "title": "South African airline defends dramatic low-level flyby before rugby union clash",
     "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
     "pubDate": "31.08.2026 13:44:39",
     "sortDate": 1788183879000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Nepal flooding deaths surpass 900 as needs climb",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168233",
+    "pubDate": "31.08.2026 12:00:00",
+    "sortDate": 1788177600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Slavery is not a thing of the past’: UN supports call for reparations",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168232",
+    "pubDate": "31.08.2026 12:00:00",
+    "sortDate": 1788177600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Every step towards disarmament matters,’ nuclear testing survivors warn",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168231",
+    "pubDate": "31.08.2026 12:00:00",
+    "sortDate": 1788177600000,
+    "source": "UN News"
   },
   {
     "title": "Countries legally obliged to consider slavery reparations, says UN committee",
@@ -313,5 +383,145 @@
     "pubDate": "31.08.2026 08:38:18",
     "sortDate": 1788165498000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168228",
+    "pubDate": "30.08.2026 12:00:00",
+    "sortDate": 1788091200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Rising seas, rising stakes: What increasing sea levels mean to humanity",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168206",
+    "pubDate": "29.08.2026 12:00:00",
+    "sortDate": 1788004800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168229",
+    "pubDate": "28.08.2026 12:00:00",
+    "sortDate": 1787918400000,
+    "source": "UN News"
+  },
+  {
+    "title": "As the Himalayas melt, deadly floods become the new normal",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168227",
+    "pubDate": "28.08.2026 12:00:00",
+    "sortDate": 1787918400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168222",
+    "pubDate": "28.08.2026 12:00:00",
+    "sortDate": 1787918400000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO reports more than 3,200 attacks on Ukraine’s healthcare system since full-scale invasion",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168226",
+    "pubDate": "28.08.2026 12:00:00",
+    "sortDate": 1787918400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Risks of child recruitment by armed groups rise in post-quake Colombia",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168224",
+    "pubDate": "28.08.2026 12:00:00",
+    "sortDate": 1787918400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Immense impact’ of Nepal flood disaster highlighted as casualties mount",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168221",
+    "pubDate": "28.08.2026 12:00:00",
+    "sortDate": 1787918400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168220",
+    "pubDate": "27.08.2026 12:00:00",
+    "sortDate": 1787832000000,
+    "source": "UN News"
+  },
+  {
+    "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168219",
+    "pubDate": "27.08.2026 12:00:00",
+    "sortDate": 1787832000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN chief condemns ‘indifference’ as Ebola cases mount in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168217",
+    "pubDate": "27.08.2026 12:00:00",
+    "sortDate": 1787832000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon: Civilian risks grow as military activity continues, UN says",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168215",
+    "pubDate": "27.08.2026 12:00:00",
+    "sortDate": 1787832000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Tracking Syria’s transition",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168214",
+    "pubDate": "27.08.2026 12:00:00",
+    "sortDate": 1787832000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Shock and devastation remain, a day after Himalayan flood disaster",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168213",
+    "pubDate": "27.08.2026 12:00:00",
+    "sortDate": 1787832000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Land models sprout as degradation threatens billions of livelihoods",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168212",
+    "pubDate": "26.08.2026 12:00:00",
+    "sortDate": 1787745600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Red Sea nations step up maritime cooperation as regional threats grow",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168211",
+    "pubDate": "26.08.2026 12:00:00",
+    "sortDate": 1787745600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Explainer: UN peace operations work to create, preserve peace",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168210",
+    "pubDate": "26.08.2026 12:00:00",
+    "sortDate": 1787745600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Deadly floods cause widespread destruction in China, Nepal",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168208",
+    "pubDate": "26.08.2026 12:00:00",
+    "sortDate": 1787745600000,
+    "source": "UN News"
+  },
+  {
+    "title": "More health workers, stronger systems: Africa’s new ambitious goal",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168207",
+    "pubDate": "26.08.2026 12:00:00",
+    "sortDate": 1787745600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Rising tensions in Gaza, West Bank",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168204",
+    "pubDate": "26.08.2026 12:00:00",
+    "sortDate": 1787745600000,
+    "source": "UN News"
   }
 ]
