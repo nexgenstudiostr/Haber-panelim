@@ -1,16 +1,51 @@
 [
   {
-    "title": "Manhunt after alleged axe attack in Victoria leaves three people with serious injuries",
+    "title": "Victoria police release image of man on run after allegedly attacking three people with axe",
     "link": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
-    "pubDate": "06.09.2026 00:22:11",
-    "sortDate": 1788654131000,
+    "pubDate": "06.09.2026 05:14:08",
+    "sortDate": 1788671648000,
     "source": "The Guardian"
   },
   {
-    "title": "Australia news live: Taylor proposes laws against flag burning and to lock in 26 January as Australia Day",
+    "title": "Travellers to EU face renewed queues as border-check flexibility rules expire",
+    "link": "https://www.theguardian.com/business/2026/sep/06/travellers-eu-queues-border-check-flexibility-rules-expire-entry-exit-system-ees",
+    "pubDate": "06.09.2026 05:00:56",
+    "sortDate": 1788670856000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tupac trial spotlights decades of US police failures in solving the case",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation",
+    "pubDate": "06.09.2026 05:00:56",
+    "sortDate": 1788670856000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Up to 6,000 tradies to get free qualifications under Labor scheme – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
-    "pubDate": "06.09.2026 00:18:56",
-    "sortDate": 1788653936000,
+    "pubDate": "06.09.2026 04:25:37",
+    "sortDate": 1788668737000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
+    "pubDate": "06.09.2026 04:08:08",
+    "sortDate": 1788667688000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Nobody will win’: Zelenskyy adviser warns of mutual destruction if war with Russia continues",
+    "link": "https://www.theguardian.com/world/2026/sep/06/zelenskyy-advisor-warns-mutual-destruction-war-russia",
+    "pubDate": "06.09.2026 04:00:55",
+    "sortDate": 1788667255000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump envoys and Putin discussed ‘next steps’ for ending Ukraine war, White House says",
+    "link": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+    "pubDate": "06.09.2026 02:21:03",
+    "sortDate": 1788661263000,
     "source": "The Guardian"
   },
   {
@@ -42,13 +77,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
-    "link": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-    "pubDate": "05.09.2026 22:13:55",
-    "sortDate": 1788646435000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Prince William to represent King Charles at funeral of Norway’s King Harald V",
     "link": "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v",
     "pubDate": "05.09.2026 22:11:21",
@@ -67,13 +95,6 @@
     "link": "https://www.theguardian.com/society/2026/sep/05/mental-health-groups-have-failed-to-acknowledge-risk-of-violence-says-mind-chief",
     "pubDate": "05.09.2026 20:43:02",
     "sortDate": 1788640982000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss",
-    "link": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
-    "pubDate": "05.09.2026 20:00:47",
-    "sortDate": 1788638447000,
     "source": "The Guardian"
   },
   {
@@ -140,27 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lindsay Clancy murder trial ends in dramatic deadlock – what comes next?",
-    "link": "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial",
-    "pubDate": "05.09.2026 12:00:36",
-    "sortDate": 1788609636000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "As wildfires spread north, UN agencies race to help Europe adapt",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168273",
-    "pubDate": "05.09.2026 12:00:00",
-    "sortDate": 1788609600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Central Park adapts to climate change while helping New York stay cool",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168277",
-    "pubDate": "05.09.2026 12:00:00",
-    "sortDate": 1788609600000,
-    "source": "UN News"
-  },
-  {
     "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
     "link": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
     "pubDate": "05.09.2026 11:26:30",
@@ -196,24 +196,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
-    "link": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
-    "pubDate": "05.09.2026 09:16:01",
-    "sortDate": 1788599761000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
     "link": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
     "pubDate": "05.09.2026 07:27:24",
     "sortDate": 1788593244000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
-    "link": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
-    "pubDate": "05.09.2026 04:00:26",
-    "sortDate": 1788580826000,
     "source": "The Guardian"
   },
   {
@@ -245,34 +231,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "UN tells the world: Stop making Africa look small",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168284",
-    "pubDate": "04.09.2026 12:00:00",
-    "sortDate": 1788523200000,
-    "source": "UN News"
-  },
-  {
-    "title": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168282",
-    "pubDate": "04.09.2026 12:00:00",
-    "sortDate": 1788523200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN aims to raise nearly $50 million for Nepal flood response",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168281",
-    "pubDate": "04.09.2026 12:00:00",
-    "sortDate": 1788523200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168278",
-    "pubDate": "04.09.2026 12:00:00",
-    "sortDate": 1788523200000,
-    "source": "UN News"
-  },
-  {
     "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
     "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
     "pubDate": "04.09.2026 09:31:52",
@@ -301,62 +259,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "General Assembly backs creation of new UN learning institute under UN80 reforms",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168276",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168275",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gloria Steinem: A voice for women, to the very end",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168272",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168271",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Outside forces fuel Sudan war, new report finds",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168270",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nepal floods leave 22,000 children without safe water: UNICEF",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168269",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "El Niño is surging. Months of extreme heat could follow",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168265",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "One in five children in 21 nations faced tech-facilitated sexual abuse: UNICEF",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168236",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
     "title": "Dozens of trapped hydropower tunnel workers in Nepal could still be alive, official says",
     "link": "https://www.theguardian.com/world/2026/sep/03/nepal-floods-rasuwagadhi-hydropower-hydro-tunnel-trapped-workers-search-rescue",
     "pubDate": "03.09.2026 11:25:06",
@@ -376,41 +278,6 @@
     "pubDate": "02.09.2026 23:01:37",
     "sortDate": 1788390097000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Repression of political opposition surges in post-election Zambia",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168267",
-    "pubDate": "02.09.2026 12:00:00",
-    "sortDate": 1788350400000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168268",
-    "pubDate": "02.09.2026 12:00:00",
-    "sortDate": 1788350400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Don’t give up’: Syrian women’s ongoing search for the missing",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168264",
-    "pubDate": "02.09.2026 12:00:00",
-    "sortDate": 1788350400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan: Air attack destroys food aid for families in South Kordofan",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168251",
-    "pubDate": "02.09.2026 12:00:00",
-    "sortDate": 1788350400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Fight for humanity’: Avoiding a climate catastrophe means acting now",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168240",
-    "pubDate": "02.09.2026 12:00:00",
-    "sortDate": 1788350400000,
-    "source": "UN News"
   },
   {
     "title": "Barclays faces complaint over backing for power plant near world’s largest mangrove forest",
@@ -446,82 +313,5 @@
     "pubDate": "01.09.2026 22:58:32",
     "sortDate": 1788303512000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Response must outpace spread of Ebola: UN relief chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168246",
-    "pubDate": "01.09.2026 12:00:00",
-    "sortDate": 1788264000000,
-    "source": "UN News"
-  },
-  {
-    "title": "At SCO summit In Kyrgyzstan, Guterres calls for more representative global governance",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168239",
-    "pubDate": "01.09.2026 12:00:00",
-    "sortDate": 1788264000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Decades of war have left ‘depth and breadth’ of trauma across Afghanistan, UN finds",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168238",
-    "pubDate": "01.09.2026 12:00:00",
-    "sortDate": 1788264000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168237",
-    "pubDate": "01.09.2026 12:00:00",
-    "sortDate": 1788264000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nepal floods: Mounting death toll and concern for women and girls",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168234",
-    "pubDate": "01.09.2026 12:00:00",
-    "sortDate": 1788264000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nepal flooding deaths surpass 900 as needs climb",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168233",
-    "pubDate": "31.08.2026 12:00:00",
-    "sortDate": 1788177600000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Slavery is not a thing of the past’: UN supports call for reparations",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168232",
-    "pubDate": "31.08.2026 12:00:00",
-    "sortDate": 1788177600000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Every step towards disarmament matters,’ nuclear testing survivors warn",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168231",
-    "pubDate": "31.08.2026 12:00:00",
-    "sortDate": 1788177600000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168228",
-    "pubDate": "30.08.2026 12:00:00",
-    "sortDate": 1788091200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Rising seas, rising stakes: What increasing sea levels mean to humanity",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168206",
-    "pubDate": "29.08.2026 12:00:00",
-    "sortDate": 1788004800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168229",
-    "pubDate": "28.08.2026 12:00:00",
-    "sortDate": 1787918400000,
-    "source": "UN News"
   }
 ]
