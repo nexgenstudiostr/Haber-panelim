@@ -1,9 +1,44 @@
 [
   {
-    "title": "Australia politics live: Joyce says One Nation ‘shouldn’t have to model’ super plan; Chaney condemns Labor ‘park barrelling’ allegations",
+    "title": "Australia politics live: Hastie threatens One Nation with ‘costly exercise’ and says he won’t take any more ‘slander’ for Ben Roberts-Smith evidence",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-    "pubDate": "07.09.2026 23:29:42",
-    "sortDate": 1788823782000,
+    "pubDate": "08.09.2026 02:19:36",
+    "sortDate": 1788833976000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Barnaby Joyce says he’s not ‘Jesus Christ’ and admits One Nation has not modelled super policy in fiery interviews",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/08/barnaby-joyce-not-jesus-christ-one-nation-early-access-super-policy",
+    "pubDate": "08.09.2026 02:18:21",
+    "sortDate": 1788833901000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park",
+    "pubDate": "08.09.2026 02:04:56",
+    "sortDate": 1788833096000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘I heard a lot of noise’: trial begins in Mexico for alleged killers of Australian surfers and American friend",
+    "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+    "pubDate": "08.09.2026 02:00:24",
+    "sortDate": 1788832824000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nepal says big polluters must ‘wake up’ as it calls for climate compensation over flood disaster",
+    "link": "https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation",
+    "pubDate": "08.09.2026 00:58:09",
+    "sortDate": 1788829089000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US woman charged with killing son ‘very invested’ in Lindsay Clancy trial, prosecutors say",
+    "link": "https://www.theguardian.com/us-news/2026/sep/07/illinois-woman-charged-lindsay-clancy-trial",
+    "pubDate": "07.09.2026 23:41:03",
+    "sortDate": 1788824463000,
     "source": "The Guardian"
   },
   {
@@ -18,13 +53,6 @@
     "link": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
     "pubDate": "07.09.2026 23:01:20",
     "sortDate": 1788822080000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park",
-    "pubDate": "07.09.2026 22:06:49",
-    "sortDate": 1788818809000,
     "source": "The Guardian"
   },
   {
@@ -74,13 +102,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
     "pubDate": "07.09.2026 17:48:37",
     "sortDate": 1788803317000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
-    "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
-    "pubDate": "07.09.2026 17:29:20",
-    "sortDate": 1788802160000,
     "source": "The Guardian"
   },
   {
@@ -140,13 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Grassroots Labor group urges Albanese government to chart course away from ‘American war machine’",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/08/grassroots-labor-pressure-group-albanese-government-us-military-war-machine",
-    "pubDate": "07.09.2026 15:00:22",
-    "sortDate": 1788793222000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Why is the far-right AfD’s state victory significant and what might happen next in German politics?",
     "link": "https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer",
     "pubDate": "07.09.2026 14:04:23",
@@ -154,17 +168,31 @@
     "source": "The Guardian"
   },
   {
+    "title": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168288",
+    "pubDate": "07.09.2026 12:00:00",
+    "sortDate": 1788782400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Human rights chief Türk renews call for end to spiralling Sudan war",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168287",
+    "pubDate": "07.09.2026 12:00:00",
+    "sortDate": 1788782400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168283",
+    "pubDate": "07.09.2026 12:00:00",
+    "sortDate": 1788782400000,
+    "source": "UN News"
+  },
+  {
     "title": "Elon Musk thanked by German far-right leader after landmark election win praised by Russia | First Thing",
     "link": "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
     "pubDate": "07.09.2026 11:20:53",
     "sortDate": 1788780053000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Nakedly political’: US attempts to link trans support to authoritarianism in new health department report",
-    "link": "https://www.theguardian.com/us-news/2026/sep/07/hhs-report-trans-support-authoritarianism",
-    "pubDate": "07.09.2026 11:00:49",
-    "sortDate": 1788778849000,
     "source": "The Guardian"
   },
   {
@@ -231,6 +259,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "‘Advance safety for all’: International police cooperation helps tackle cross-border crime",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168280",
+    "pubDate": "06.09.2026 12:00:00",
+    "sortDate": 1788696000000,
+    "source": "UN News"
+  },
+  {
+    "title": "New reservoir offers innovative solution to South Sudan cattle beef",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168266",
+    "pubDate": "06.09.2026 12:00:00",
+    "sortDate": 1788696000000,
+    "source": "UN News"
+  },
+  {
     "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
     "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
     "pubDate": "06.09.2026 06:00:58",
@@ -250,6 +292,20 @@
     "pubDate": "05.09.2026 18:00:15",
     "sortDate": 1788631215000,
     "source": "The Guardian"
+  },
+  {
+    "title": "As wildfires spread north, UN agencies race to help Europe adapt",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168273",
+    "pubDate": "05.09.2026 12:00:00",
+    "sortDate": 1788609600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Central Park adapts to climate change while helping New York stay cool",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168277",
+    "pubDate": "05.09.2026 12:00:00",
+    "sortDate": 1788609600000,
+    "source": "UN News"
   },
   {
     "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
@@ -273,11 +329,95 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN tells the world: Stop making Africa look small",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168284",
+    "pubDate": "04.09.2026 12:00:00",
+    "sortDate": 1788523200000,
+    "source": "UN News"
+  },
+  {
+    "title": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168282",
+    "pubDate": "04.09.2026 12:00:00",
+    "sortDate": 1788523200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN aims to raise nearly $50 million for Nepal flood response",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168281",
+    "pubDate": "04.09.2026 12:00:00",
+    "sortDate": 1788523200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168278",
+    "pubDate": "04.09.2026 12:00:00",
+    "sortDate": 1788523200000,
+    "source": "UN News"
+  },
+  {
     "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
     "link": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
     "pubDate": "03.09.2026 12:52:08",
     "sortDate": 1788439928000,
     "source": "The Guardian"
+  },
+  {
+    "title": "General Assembly backs creation of new UN learning institute under UN80 reforms",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168276",
+    "pubDate": "03.09.2026 12:00:00",
+    "sortDate": 1788436800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168275",
+    "pubDate": "03.09.2026 12:00:00",
+    "sortDate": 1788436800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gloria Steinem: A voice for women, to the very end",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168272",
+    "pubDate": "03.09.2026 12:00:00",
+    "sortDate": 1788436800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168271",
+    "pubDate": "03.09.2026 12:00:00",
+    "sortDate": 1788436800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Outside forces fuel Sudan war, new report finds",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168270",
+    "pubDate": "03.09.2026 12:00:00",
+    "sortDate": 1788436800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nepal floods leave 22,000 children without safe water: UNICEF",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168269",
+    "pubDate": "03.09.2026 12:00:00",
+    "sortDate": 1788436800000,
+    "source": "UN News"
+  },
+  {
+    "title": "El Niño is surging. Months of extreme heat could follow",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168265",
+    "pubDate": "03.09.2026 12:00:00",
+    "sortDate": 1788436800000,
+    "source": "UN News"
+  },
+  {
+    "title": "One in five children in 21 nations faced tech-facilitated sexual abuse: UNICEF",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168236",
+    "pubDate": "03.09.2026 12:00:00",
+    "sortDate": 1788436800000,
+    "source": "UN News"
   },
   {
     "title": "Dozens of trapped hydropower tunnel workers in Nepal could still be alive, official says",
@@ -294,6 +434,41 @@
     "source": "The Guardian"
   },
   {
+    "title": "Repression of political opposition surges in post-election Zambia",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168267",
+    "pubDate": "02.09.2026 12:00:00",
+    "sortDate": 1788350400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168268",
+    "pubDate": "02.09.2026 12:00:00",
+    "sortDate": 1788350400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Don’t give up’: Syrian women’s ongoing search for the missing",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168264",
+    "pubDate": "02.09.2026 12:00:00",
+    "sortDate": 1788350400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Air attack destroys food aid for families in South Kordofan",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168251",
+    "pubDate": "02.09.2026 12:00:00",
+    "sortDate": 1788350400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Fight for humanity’: Avoiding a climate catastrophe means acting now",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168240",
+    "pubDate": "02.09.2026 12:00:00",
+    "sortDate": 1788350400000,
+    "source": "UN News"
+  },
+  {
     "title": "Barclays faces complaint over backing for power plant near world’s largest mangrove forest",
     "link": "https://www.theguardian.com/global-development/2026/sep/02/bangladesh-india-barclays-bank-legal-complaint-backing-polluting-rampal-power-plant-sundarbans",
     "pubDate": "02.09.2026 10:00:21",
@@ -308,10 +483,45 @@
     "source": "The Guardian"
   },
   {
-    "title": "British aid worker mistakenly identified as a survivor of Nepal-Tibet disaster",
-    "link": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
-    "pubDate": "01.09.2026 22:58:32",
-    "sortDate": 1788303512000,
-    "source": "The Guardian"
+    "title": "Response must outpace spread of Ebola: UN relief chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168246",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "At SCO summit In Kyrgyzstan, Guterres calls for more representative global governance",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168239",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Decades of war have left ‘depth and breadth’ of trauma across Afghanistan, UN finds",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168238",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168237",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nepal floods: Mounting death toll and concern for women and girls",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168234",
+    "pubDate": "01.09.2026 12:00:00",
+    "sortDate": 1788264000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nepal flooding deaths surpass 900 as needs climb",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168233",
+    "pubDate": "31.08.2026 12:00:00",
+    "sortDate": 1788177600000,
+    "source": "UN News"
   }
 ]
