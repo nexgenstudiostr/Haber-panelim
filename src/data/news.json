@@ -1,30 +1,135 @@
 [
   {
-    "title": "Ed Miliband to make statement on UK plan to sanction illegal Israeli settlements – UK politics live",
+    "title": "Israel to close UK consulate in Jerusalem after sanctions against illegal settlements – UK politics live",
     "link": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
-    "pubDate": "08.09.2026 12:24:11",
-    "sortDate": 1788870251000,
+    "pubDate": "08.09.2026 16:55:14",
+    "sortDate": 1788886514000,
     "source": "The Guardian"
   },
   {
-    "title": "New Hampshire and Rhode Island to vote in state primaries - US politics live",
+    "title": "Trump administration asks supreme court to allow voter verification database blocked by judge - US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
-    "pubDate": "08.09.2026 12:22:29",
-    "sortDate": 1788870149000,
+    "pubDate": "08.09.2026 16:55:09",
+    "sortDate": 1788886509000,
     "source": "The Guardian"
   },
   {
-    "title": "UK pays highest borrowing rate since 1998 as pressure builds on public finances – business live",
+    "title": "UK air traffic control fix issue that cancelled 300 flights but disruption to continue into evening – business live",
     "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-    "pubDate": "08.09.2026 12:08:04",
-    "sortDate": 1788869284000,
+    "pubDate": "08.09.2026 16:48:05",
+    "sortDate": 1788886085000,
     "source": "The Guardian"
   },
   {
-    "title": "One in 12 golf clubs in England broke water extraction rules in past five years",
-    "link": "https://www.theguardian.com/environment/2026/sep/08/golf-clubs-water-extraction-licences-england",
-    "pubDate": "08.09.2026 12:06:30",
-    "sortDate": 1788869190000,
+    "title": "Flight disruption across UK continues after air traffic control technical issue",
+    "link": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+    "pubDate": "08.09.2026 16:25:32",
+    "sortDate": 1788884732000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hurricane Lowell brings threat of floods, mudslides and tornadoes to Hawaii",
+    "link": "https://www.theguardian.com/us-news/2026/sep/08/hawaii-hurricane-lowell",
+    "pubDate": "08.09.2026 16:18:29",
+    "sortDate": 1788884309000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police overlooked tip-off day before far-right agitators blocked Dover roads",
+    "link": "https://www.theguardian.com/world/2026/sep/08/kent-police-dover-unrest-far-right-village",
+    "pubDate": "08.09.2026 16:08:01",
+    "sortDate": 1788883681000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
+    "pubDate": "08.09.2026 16:05:23",
+    "sortDate": 1788883523000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Barnaby Webber’s death in Nottingham attack was ‘potentially preventable’, inquiry told",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/08/barnaby-webber-death-nottingham-attack-inquiry",
+    "pubDate": "08.09.2026 16:03:31",
+    "sortDate": 1788883411000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lindsay Clancy’s lawyer urges Trump to consider pardon after mistrial",
+    "link": "https://www.theguardian.com/us-news/2026/sep/08/lindsay-clancy-mistrial-lawyer-appeal-trump-pardon",
+    "pubDate": "08.09.2026 15:55:09",
+    "sortDate": 1788882909000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British family of man abducted by Saudi Arabia speak out over nine-year ordeal",
+    "link": "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
+    "pubDate": "08.09.2026 15:45:18",
+    "sortDate": 1788882318000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
+    "link": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+    "pubDate": "08.09.2026 15:42:59",
+    "sortDate": 1788882179000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
+    "link": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
+    "pubDate": "08.09.2026 15:37:00",
+    "sortDate": 1788881820000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Netanyahu was warned of 7 October Hamas attacks, book claims",
+    "link": "https://www.theguardian.com/world/2026/sep/08/netanyahu-warned-7-october-hamas-book-haaretz",
+    "pubDate": "08.09.2026 15:25:38",
+    "sortDate": 1788881138000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flushing the toilet can release a ‘plume’ of breathable pathogens – and closing the lid won’t stop their escape",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/09/flushing-the-toilet-releases-pathogens-inhaled",
+    "pubDate": "08.09.2026 15:00:43",
+    "sortDate": 1788879643000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Organised crime driving illicit cigarette factory boom ‘in almost every EU state’",
+    "link": "https://www.theguardian.com/world/2026/sep/08/organised-crime-illicit-cigarette-factory-boom-eu",
+    "pubDate": "08.09.2026 15:00:42",
+    "sortDate": 1788879642000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s call to rename New Mexico ‘New America’ is a distraction tactic, Democrats say",
+    "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-new-mexico-rename-democrats",
+    "pubDate": "08.09.2026 14:59:21",
+    "sortDate": 1788879561000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Family of slain teen calls for death penalty in murder trial of singer D4vd",
+    "link": "https://www.theguardian.com/us-news/2026/sep/08/d4vd-death-penalty-murder-trial",
+    "pubDate": "08.09.2026 14:32:34",
+    "sortDate": 1788877954000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK retailers aim to create 100,000 jobs for young people out of work",
+    "link": "https://www.theguardian.com/society/2026/sep/08/uk-retailers-placements-young-people-out-of-work-john-lewis-m-and-s",
+    "pubDate": "08.09.2026 13:21:52",
+    "sortDate": 1788873712000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fourteen men go on trial in Paris over deadliest small-boat Channel crossing",
+    "link": "https://www.theguardian.com/world/2026/sep/08/paris-trial-deadliest-channel-small-boat-crossing",
+    "pubDate": "08.09.2026 13:07:45",
+    "sortDate": 1788872865000,
     "source": "The Guardian"
   },
   {
@@ -35,73 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Crocodile head found in luggage at Italian airport",
-    "link": "https://www.theguardian.com/environment/2026/sep/08/crocodile-head-seized-luggage-italy-airport",
-    "pubDate": "08.09.2026 12:05:17",
-    "sortDate": 1788869117000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How meteorologists helped recreate one of history’s most important weather forecasts",
-    "link": "https://www.theguardian.com/science/2026/sep/08/how-meteorologists-helped-recreate-one-of-historys-most-important-weather-forecasts",
-    "pubDate": "08.09.2026 11:59:58",
-    "sortDate": 1788868798000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
-    "pubDate": "08.09.2026 11:57:45",
-    "sortDate": 1788868665000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US datacenters face further backlash over wastewater pollution",
-    "link": "https://www.theguardian.com/us-news/2026/sep/08/us-datacenters-wastewater-pollution",
-    "pubDate": "08.09.2026 11:47:13",
-    "sortDate": 1788868033000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Harry and Meghan ‘surprised’ at king’s letter reiterating they are non-working royals",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/08/harry-meghan-surprised-king-charles-letter-non-working-royals",
-    "pubDate": "08.09.2026 11:28:33",
-    "sortDate": 1788866913000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fourteen men go on trial in Paris over deadliest small-boat Channel crossing",
-    "link": "https://www.theguardian.com/world/2026/sep/08/paris-trial-deadliest-channel-small-boat-crossing",
-    "pubDate": "08.09.2026 11:02:31",
-    "sortDate": 1788865351000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK commits £100m to bolster Ukraine’s air defences over winter",
-    "link": "https://www.theguardian.com/politics/2026/sep/08/uk-commits-100m-bolster-ukraine-air-defences-russia-war",
-    "pubDate": "08.09.2026 10:56:50",
-    "sortDate": 1788865010000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US police fear Meta smart glasses could be used to secretly record them",
-    "link": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
-    "pubDate": "08.09.2026 10:00:02",
-    "sortDate": 1788861602000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Mother flagged faulty smoke alarms before house fire that killed father and five children, court hears",
     "link": "https://www.theguardian.com/australia-news/2026/sep/08/russell-island-house-fire-inquest-father-five-children-killed-faulty-smoke-alarms",
     "pubDate": "08.09.2026 09:27:45",
     "sortDate": 1788859665000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
-    "link": "https://www.theguardian.com/world/2026/sep/08/artworks-stolen-france-renoir-museum-french-riviera-art-heist",
-    "pubDate": "08.09.2026 09:13:02",
-    "sortDate": 1788858782000,
     "source": "The Guardian"
   },
   {
@@ -130,13 +172,6 @@
     "link": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
     "pubDate": "08.09.2026 07:55:05",
     "sortDate": 1788854105000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ban on neo-Nazi White Australia party is ‘authoritarian’ and breaches constitution, high court hears",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/08/neo-nazi-white-australia-ban-authoritarian-breaches-constitution-high-court-ntwnfb",
-    "pubDate": "08.09.2026 07:49:24",
-    "sortDate": 1788853764000,
     "source": "The Guardian"
   },
   {
@@ -182,27 +217,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US woman charged with killing son ‘very invested’ in Lindsay Clancy trial, prosecutors say",
-    "link": "https://www.theguardian.com/us-news/2026/sep/07/illinois-woman-charged-lindsay-clancy-trial",
-    "pubDate": "07.09.2026 23:41:03",
-    "sortDate": 1788824463000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Federal investigators search for cause of Amazon cargo jet crash that killed five",
-    "link": "https://www.theguardian.com/us-news/2026/sep/07/amazon-cargo-plane-crash-miami-airport",
-    "pubDate": "07.09.2026 21:49:14",
-    "sortDate": 1788817754000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Syrian reactor could have been used for nuclear weapons if completed, UN says",
-    "link": "https://www.theguardian.com/world/2026/sep/07/syrian-reactor-could-nuclear-weapons-if-completed-un",
-    "pubDate": "07.09.2026 16:37:31",
-    "sortDate": 1788799051000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Russia and North Korea open first road bridge across their shared border",
     "link": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
     "pubDate": "07.09.2026 09:53:53",
@@ -217,24 +231,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "UN expert Francesca Albanese calls for ‘true paradigm shift’ as Miliband resets policy on Israel",
-    "link": "https://www.theguardian.com/world/2026/sep/07/un-francesca-albanese-miliband-israel-palestine-settlements-trade",
-    "pubDate": "07.09.2026 04:00:25",
-    "sortDate": 1788753625000,
-    "source": "The Guardian"
-  },
-  {
     "title": "The US now has access to more than half Australia’s military bases – could it drag the country unwillingly into war?",
     "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
     "pubDate": "06.09.2026 20:00:14",
     "sortDate": 1788724814000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Energy secretary says US might not reach nuclear agreement with Iran",
-    "link": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
-    "pubDate": "06.09.2026 17:39:10",
-    "sortDate": 1788716350000,
     "source": "The Guardian"
   },
   {
