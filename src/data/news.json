@@ -1,30 +1,128 @@
 [
   {
-    "title": "Australia politics live: RSL says One Nation’s Hastie ‘slur’ was an ‘attack on every veteran’s service’; Victoria’s historic work from home laws stall",
+    "title": "OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member",
+    "link": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
+    "pubDate": "10.09.2026 12:23:21",
+    "sortDate": 1789043001000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Malta warned of corruption crisis after Daphne Caruana Galizia verdict sends ‘chill down the spine’",
+    "link": "https://www.theguardian.com/world/2026/sep/10/malta-corruption-crisis-daphne-caruana-galizia-verdict",
+    "pubDate": "10.09.2026 12:17:52",
+    "sortDate": 1789042672000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ryanair will dispute passenger’s claim he was sucked out of window",
+    "link": "https://www.theguardian.com/business/2026/sep/10/ryanair-dispute-sucked-out-of-window-michael-o-leary",
+    "pubDate": "10.09.2026 12:10:42",
+    "sortDate": 1789042242000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No 10 defends plan for visitor tax, saying communities will keep ‘more of the benefits of tourism’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates",
+    "pubDate": "10.09.2026 12:08:06",
+    "sortDate": 1789042086000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russia’s actions have strengthened European case for boosting defence spending, says Nato chief – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+    "pubDate": "10.09.2026 12:05:00",
+    "sortDate": 1789041900000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fascism on the rise in the UK, Anglican bishop says",
+    "link": "https://www.theguardian.com/world/2026/sep/10/fascism-on-the-rise-in-the-uk-anglican-bishop-says",
+    "pubDate": "10.09.2026 12:01:15",
+    "sortDate": 1789041675000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Vance appears to walk back Trump’s offer of $5,000 ‘dividend’ if Republicans win midterms – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/10/donald-trump-republican-midterm-convention-dividend-offer-5000-vance-latest-news-updates",
+    "pubDate": "10.09.2026 11:54:34",
+    "sortDate": 1789041274000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Glencore’s former head of oil pleads not guilty to bribery charges",
+    "link": "https://www.theguardian.com/business/2026/sep/10/glencore-former-head-oil-alex-beard-pleads-not-guilty-bribery",
+    "pubDate": "10.09.2026 11:41:31",
+    "sortDate": 1789040491000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast",
+    "link": "https://www.theguardian.com/world/2026/sep/10/houthis-seize-key-port-mocha-yemen-red-sea-coast-iran-saudi-arabia-us",
+    "pubDate": "10.09.2026 11:39:56",
+    "sortDate": 1789040396000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film",
+    "link": "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film",
+    "pubDate": "10.09.2026 11:15:22",
+    "sortDate": 1789038922000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Chemical industry backed laws in three US states to restrict use of air pollution data",
+    "link": "https://www.theguardian.com/environment/2026/sep/10/us-chemical-industry-air-pollution-monitors",
+    "pubDate": "10.09.2026 11:00:23",
+    "sortDate": 1789038023000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Our forefathers are coming back’: Naga people celebrate after Oxford museum agrees to return remains",
+    "link": "https://www.theguardian.com/global-development/2026/sep/10/nagaland-colonialism-ethnography-ethics-oxford-pitt-rivers-museum-return-human-remains",
+    "pubDate": "10.09.2026 11:00:22",
+    "sortDate": 1789038022000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump makes highly unusual promise of $5,000 for all if Republicans win midterms | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/sep/10/first-thing-trump-5000-dollars-promise-republicans-win-midterms",
+    "pubDate": "10.09.2026 10:49:30",
+    "sortDate": 1789037370000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Grace Tame apologises for comments labelling rape of Israeli women during Hamas attacks ‘propaganda’",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/10/grace-tame-apologises-for-comments-labelling-of-israeli-women-during-hamas-attacks-propaganda-ntwnfb",
+    "pubDate": "10.09.2026 08:22:30",
+    "sortDate": 1789028550000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tens of millions of people fail to get humanitarian aid as global system crumbles",
+    "link": "https://www.theguardian.com/global-development/2026/sep/10/global-humanitarian-aid-crisis-64m-fewer-people-received-help-report",
+    "pubDate": "10.09.2026 08:00:19",
+    "sortDate": 1789027219000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Climate ‘feedback loops’ could worsen global warming by 30%, study finds",
+    "link": "https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study",
+    "pubDate": "10.09.2026 08:00:19",
+    "sortDate": 1789027219000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "RSL says One Nation’s Hastie ‘slur’ was an ‘attack on every veteran’s service’ – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
-    "pubDate": "10.09.2026 07:31:22",
-    "sortDate": 1789025482000,
+    "pubDate": "10.09.2026 07:42:24",
+    "sortDate": 1789026144000,
     "source": "The Guardian"
   },
   {
-    "title": "JP Morgan boss meets Burnham and Healey to warn against bank tax rise",
-    "link": "https://www.theguardian.com/business/2026/sep/09/jp-morgan-boss-jamie-dimon-to-warn-uk-chancellor-against-bank-tax-hike",
-    "pubDate": "10.09.2026 07:15:37",
-    "sortDate": 1789024537000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Primark to launch home delivery service in Britain",
+    "title": "Primark to launch home delivery service despite ‘challenging’ market",
     "link": "https://www.theguardian.com/business/2026/sep/10/primark-home-delivery-split-abf-europe",
     "pubDate": "10.09.2026 07:13:04",
     "sortDate": 1789024384000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "John Lewis losses widen to £124m as shopper confidence dips",
-    "link": "https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose",
-    "pubDate": "10.09.2026 06:39:36",
-    "sortDate": 1789022376000,
     "source": "The Guardian"
   },
   {
@@ -42,7 +140,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Labor friends of Palestine criticise Australia’s decision not to join sanctions on Israeli settlements in West Bank",
+    "title": "Husic urges ‘concrete action’ on Israeli settlements in West Bank after Australia declines to join trade ban",
     "link": "https://www.theguardian.com/australia-news/2026/sep/10/labor-palestine-criticise-australias-decision-sanctions-israeli-settlements-in-west-bank-ntwnfb",
     "pubDate": "10.09.2026 06:14:55",
     "sortDate": 1789020895000,
@@ -70,13 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "ABC and the Guardian call on One Nation to reverse media ban amid censorship concerns",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/10/guardian-australia-abc-media-ban-one-nation-pauline-hanson-ntwnfb",
-    "pubDate": "10.09.2026 05:37:58",
-    "sortDate": 1789018678000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US citizens will receive $5,000 if Republicans win midterms, Trump claims in lengthy convention speech",
     "link": "https://www.theguardian.com/us-news/2026/sep/09/trump-republican-convention-speech-midterm-elections",
     "pubDate": "10.09.2026 05:26:46",
@@ -91,59 +182,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK disabled people could swap Pip cash for ‘in kind’ support in benefit overhaul",
-    "link": "https://www.theguardian.com/politics/2026/sep/10/disabled-people-personal-independence-payments-pip-support",
-    "pubDate": "10.09.2026 05:00:17",
-    "sortDate": 1789016417000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Fundamentally unfair’: Burnham must overhaul migration reforms, says TUC general secretary",
-    "link": "https://www.theguardian.com/politics/2026/sep/10/fundamentally-unfair-burnham-must-overhaul-migration-reforms-says-tuc-general-secretary",
-    "pubDate": "10.09.2026 05:00:16",
-    "sortDate": 1789016416000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Institutional neglect’: 25 years on from 9/11, experts sound alarm over US counter-terror efforts",
-    "link": "https://www.theguardian.com/us-news/2026/sep/10/9-11-us-counter-terrorism-intelligence-trump-administration",
-    "pubDate": "10.09.2026 05:00:15",
-    "sortDate": 1789016415000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump claims he will give $5,000 to every American if Republicans win the midterms as he defends Iran war and tariffs– as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates",
-    "pubDate": "10.09.2026 04:04:11",
-    "sortDate": 1789013051000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "John Major’s rise from obscure whip to PM part of new National Theatre season",
-    "link": "https://www.theguardian.com/stage/2026/sep/10/play-john-major-rise-to-power-national-theatre",
-    "pubDate": "10.09.2026 04:00:15",
-    "sortDate": 1789012815000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rhode Island’s Democratic governor loses primary amid anger over bridge",
-    "link": "https://www.theguardian.com/us-news/2026/sep/09/rhode-island-primary-results-dan-mckee",
-    "pubDate": "10.09.2026 02:05:20",
-    "sortDate": 1789005920000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
     "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
     "pubDate": "10.09.2026 01:02:42",
     "sortDate": 1789002162000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Democrat John Fetterman makes surprise appearance at Republican convention",
-    "link": "https://www.theguardian.com/us-news/2026/sep/09/john-fetterman-democrat-republican-midterm-convention",
-    "pubDate": "10.09.2026 00:24:14",
-    "sortDate": 1788999854000,
     "source": "The Guardian"
   },
   {
@@ -182,88 +224,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Israel sanctions will not hurt intelligence sharing between spy agencies, says Miliband",
-    "link": "https://www.theguardian.com/politics/2026/sep/09/israel-sanctions-will-not-hurt-intelligence-sharing-between-spy-agencies-says-miliband",
-    "pubDate": "09.09.2026 16:14:41",
-    "sortDate": 1788970481000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Air traffic control boss given a week to report after UK flight chaos causes 2,000 cancellations",
     "link": "https://www.theguardian.com/world/2026/sep/09/uk-flight-cancellations-nats-martin-rolfe-heidi-alexander",
     "pubDate": "09.09.2026 16:09:18",
     "sortDate": 1788970158000,
     "source": "The Guardian"
-  },
-  {
-    "title": "Germany’s Merz cancels phone call with Trump after social media post celebrating AfD win – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/sep/09/europe-ukraine-russia-zelenskyy-germany-merz-afd-norway-king-harald-v-latest-news-updates",
-    "pubDate": "09.09.2026 15:28:18",
-    "sortDate": 1788967698000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "John Malkovich cancels Israel trip over fabricated solidarity quote",
-    "link": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
-    "pubDate": "09.09.2026 15:23:41",
-    "sortDate": 1788967421000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tens of thousands line the streets as Norway bids farewell to King Harald V",
-    "link": "https://www.theguardian.com/world/2026/sep/09/norway-king-harald-v-funeral",
-    "pubDate": "09.09.2026 15:02:30",
-    "sortDate": 1788966150000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham sees sanctions against Israeli settlements as an electoral asset",
-    "link": "https://www.theguardian.com/politics/2026/sep/09/sanctions-israeli-settlements-trade-andy-burnham-analysis",
-    "pubDate": "09.09.2026 14:18:48",
-    "sortDate": 1788963528000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘The water comes up to our knees’: Climate hazards shut millions of children out of school in 2025",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168306",
-    "pubDate": "09.09.2026 12:00:00",
-    "sortDate": 1788955200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Flood-ravaged Nepal calls for climate justice",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168305",
-    "pubDate": "09.09.2026 12:00:00",
-    "sortDate": 1788955200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Plight of Afghans going ‘from bad to worse’, but the world is looking away: Türk",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168303",
-    "pubDate": "09.09.2026 12:00:00",
-    "sortDate": 1788955200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168302",
-    "pubDate": "09.09.2026 12:00:00",
-    "sortDate": 1788955200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Guterres urges leaders to invest in peace as conflicts deepen",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168301",
-    "pubDate": "09.09.2026 12:00:00",
-    "sortDate": 1788955200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Record number of attacks on education, global fund warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168300",
-    "pubDate": "09.09.2026 12:00:00",
-    "sortDate": 1788955200000,
-    "source": "UN News"
   },
   {
     "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
@@ -301,62 +266,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ships and seafarers increasingly caught in the crossfire of unrelated wars",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168297",
-    "pubDate": "08.09.2026 12:00:00",
-    "sortDate": 1788868800000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168298",
-    "pubDate": "08.09.2026 12:00:00",
-    "sortDate": 1788868800000,
-    "source": "UN News"
-  },
-  {
-    "title": "AI datacentres pose growing threat to electricity systems worldwide",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168296",
-    "pubDate": "08.09.2026 12:00:00",
-    "sortDate": 1788868800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola response in eastern DR Congo must include food assistance, WFP says",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168295",
-    "pubDate": "08.09.2026 12:00:00",
-    "sortDate": 1788868800000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘This is not 1945’: General Assembly president gavels open new session aimed at restoring global trust",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168293",
-    "pubDate": "08.09.2026 12:00:00",
-    "sortDate": 1788868800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Syria’s transition hinges on justice for all, UN Human Rights Council hears",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168292",
-    "pubDate": "08.09.2026 12:00:00",
-    "sortDate": 1788868800000,
-    "source": "UN News"
-  },
-  {
-    "title": "In Gaza, women-headed households face ‘impossible choices’ to survive",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168291",
-    "pubDate": "08.09.2026 12:00:00",
-    "sortDate": 1788868800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Tobacco use can undermine fertility, UN health agency warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168290",
-    "pubDate": "08.09.2026 12:00:00",
-    "sortDate": 1788868800000,
-    "source": "UN News"
-  },
-  {
     "title": "‘Trust deficit’: Why India’s economic data has sparked a furore",
     "link": "https://www.theguardian.com/world/2026/sep/07/why-indias-economic-data-faces-a-trust-deficit",
     "pubDate": "08.09.2026 06:30:29",
@@ -378,27 +287,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168288",
-    "pubDate": "07.09.2026 12:00:00",
-    "sortDate": 1788782400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Human rights chief Türk renews call for end to spiralling Sudan war",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168287",
-    "pubDate": "07.09.2026 12:00:00",
-    "sortDate": 1788782400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168283",
-    "pubDate": "07.09.2026 12:00:00",
-    "sortDate": 1788782400000,
-    "source": "UN News"
-  },
-  {
     "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
     "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
     "pubDate": "07.09.2026 08:27:08",
@@ -406,39 +294,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Advance safety for all’: International police cooperation helps tackle cross-border crime",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168280",
-    "pubDate": "06.09.2026 12:00:00",
-    "sortDate": 1788696000000,
-    "source": "UN News"
-  },
-  {
-    "title": "New reservoir offers innovative solution to South Sudan cattle beef",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168266",
-    "pubDate": "06.09.2026 12:00:00",
-    "sortDate": 1788696000000,
-    "source": "UN News"
-  },
-  {
     "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
     "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
     "pubDate": "05.09.2026 18:00:15",
     "sortDate": 1788631215000,
     "source": "The Guardian"
-  },
-  {
-    "title": "As wildfires spread north, UN agencies race to help Europe adapt",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168273",
-    "pubDate": "05.09.2026 12:00:00",
-    "sortDate": 1788609600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Central Park adapts to climate change while helping New York stay cool",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168277",
-    "pubDate": "05.09.2026 12:00:00",
-    "sortDate": 1788609600000,
-    "source": "UN News"
   },
   {
     "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
@@ -452,76 +312,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue",
     "pubDate": "04.09.2026 13:10:26",
     "sortDate": 1788527426000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UN tells the world: Stop making Africa look small",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168284",
-    "pubDate": "04.09.2026 12:00:00",
-    "sortDate": 1788523200000,
-    "source": "UN News"
-  },
-  {
-    "title": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168282",
-    "pubDate": "04.09.2026 12:00:00",
-    "sortDate": 1788523200000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN aims to raise nearly $50 million for Nepal flood response",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168281",
-    "pubDate": "04.09.2026 12:00:00",
-    "sortDate": 1788523200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168278",
-    "pubDate": "04.09.2026 12:00:00",
-    "sortDate": 1788523200000,
-    "source": "UN News"
-  },
-  {
-    "title": "General Assembly backs creation of new UN learning institute under UN80 reforms",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168276",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168275",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Gloria Steinem: A voice for women, to the very end",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168272",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168271",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Outside forces fuel Sudan war, new report finds",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168270",
-    "pubDate": "03.09.2026 12:00:00",
-    "sortDate": 1788436800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Dozens of trapped hydropower tunnel workers in Nepal could still be alive, official says",
-    "link": "https://www.theguardian.com/world/2026/sep/03/nepal-floods-rasuwagadhi-hydropower-hydro-tunnel-trapped-workers-search-rescue",
-    "pubDate": "03.09.2026 11:25:06",
-    "sortDate": 1788434706000,
     "source": "The Guardian"
   }
 ]
