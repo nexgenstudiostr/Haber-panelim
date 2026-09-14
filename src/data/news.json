@@ -1,9 +1,72 @@
 [
   {
-    "title": "Politics live: Pensioners to pay for half of Labor’s $3bn private health savings; electrifying push for Australians to save $5,000 a year",
+    "title": "Politics live: Fugitive developer Jean Nassif tells Icac ‘I’m going to speak my heart’; Sussan Ley appointed to Snowy Hydro board",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
-    "pubDate": "14.09.2026 00:19:40",
-    "sortDate": 1789345180000,
+    "pubDate": "14.09.2026 05:34:09",
+    "sortDate": 1789364049000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sydney mayor allegedly threatened and children secretly recorded after he refused to step down, Icac hears",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/14/sydney-mayor-threatened-secretly-recorded-after-refusing-to-step-down-icac-ntwnfb",
+    "pubDate": "14.09.2026 05:05:52",
+    "sortDate": 1789362352000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Motorcyclist’s death reignites debate over potholes on Victoria’s ‘deteriorating’ roads",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/14/motorcyclist-dies-pothole-trawalla-ballarat-victoria-roads",
+    "pubDate": "14.09.2026 05:01:36",
+    "sortDate": 1789362096000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rail passengers get automatic right to switch operators for free when trains are cancelled",
+    "link": "https://www.theguardian.com/business/2026/sep/14/cancelled-trains-rail-passengers-automatic-right-free-switch-operators",
+    "pubDate": "14.09.2026 05:00:27",
+    "sortDate": 1789362027000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jack Thorne warns some fellow scriptwriters are using AI ‘to cheat’",
+    "link": "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence",
+    "pubDate": "14.09.2026 05:00:26",
+    "sortDate": 1789362026000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Somerset ‘festival of ideas’ to measure whether its talks change people’s outlook",
+    "link": "https://www.theguardian.com/culture/2026/sep/14/somerset-festival-of-ideas-opinion-tests",
+    "pubDate": "14.09.2026 05:00:25",
+    "sortDate": 1789362025000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Rise in abuse of election candidates is ‘changing politics’ in England",
+    "link": "https://www.theguardian.com/politics/2026/sep/14/election-candidates-england-abuse-electoral-commission-report",
+    "pubDate": "14.09.2026 04:01:21",
+    "sortDate": 1789358481000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Alan Jones told prominent athlete ‘I would like to be kissing you all night’ after alleged assault, trial hears",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/14/alan-jones-trial-athlete-witness-ntwnfb",
+    "pubDate": "14.09.2026 03:05:55",
+    "sortDate": 1789355155000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Peptide user tore oesophagus after using counterfeit product, Australian regulator warns",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/14/counterfeit-retratrutide-warning-peptide-torn-oesophagus-australia-tga",
+    "pubDate": "14.09.2026 02:41:49",
+    "sortDate": 1789353709000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
+    "link": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
+    "pubDate": "14.09.2026 00:54:05",
+    "sortDate": 1789347245000,
     "source": "The Guardian"
   },
   {
@@ -14,24 +77,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "One Nation vows to cut migration by 750,000 sparking fears for key industries including aged care",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/14/one-nation-new-migration-plan-cut-750000-aged-care-impact-ntwnfb",
-    "pubDate": "13.09.2026 23:39:48",
-    "sortDate": 1789342788000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Missing US hiker, 70, found injured on remote island after week-long search",
     "link": "https://www.theguardian.com/us-news/2026/sep/13/missing-isle-royale-hiker-70-years-old-found-rescued",
     "pubDate": "13.09.2026 23:12:29",
     "sortDate": 1789341149000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Queensland woman falls to her death at Bali cliff popular with tourists",
-    "link": "https://www.theguardian.com/world/2026/sep/14/queensland-woman-cliff-death-kelingking-beach-ntwnfb",
-    "pubDate": "13.09.2026 23:02:05",
-    "sortDate": 1789340525000,
     "source": "The Guardian"
   },
   {
@@ -46,20 +95,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/13/voting-under-way-in-sweden-with-far-right-eyeing-first-role-in-government",
     "pubDate": "13.09.2026 22:52:46",
     "sortDate": 1789339966000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Sweat the asset’: new development minister plots path to make UK aid count",
-    "link": "https://www.theguardian.com/politics/2026/sep/13/sweat-the-asset-new-development-minister-plots-path-to-make-uk-aid-count",
-    "pubDate": "13.09.2026 21:30:14",
-    "sortDate": 1789335014000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
-    "link": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-    "pubDate": "13.09.2026 21:30:13",
-    "sortDate": 1789335013000,
     "source": "The Guardian"
   },
   {
@@ -98,13 +133,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trade unions, MPs and donors urge Burnham to revisit party funding rules",
-    "link": "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner",
-    "pubDate": "13.09.2026 17:50:08",
-    "sortDate": 1789321808000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say",
     "link": "https://www.theguardian.com/world/2026/sep/13/russian-drone-hits-kyiv-warsaw-passenger-train-polish-border",
     "pubDate": "13.09.2026 17:43:03",
@@ -112,31 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Leaders at Celtic summit to affirm right to seek independence from UK",
-    "link": "https://www.theguardian.com/politics/2026/sep/13/first-ministers-to-affirm-right-to-seek-independence-from-the-uk",
-    "pubDate": "13.09.2026 16:41:58",
-    "sortDate": 1789317718000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pregnant woman among more than 10 killed in Israeli attacks on Gaza",
     "link": "https://www.theguardian.com/world/2026/sep/13/pregnant-woman-killed-israeli-attacks-gaza",
     "pubDate": "13.09.2026 15:51:33",
     "sortDate": 1789314693000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "As Japan’s yen peaks, is the era of budget-friendly trips coming to an end for Australian travellers?",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/14/as-japans-yen-peaks-is-the-era-of-budget-friendly-trips-coming-to-an-end-for-australian-travellers",
-    "pubDate": "13.09.2026 15:00:09",
-    "sortDate": 1789311609000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Crossbench MPs launch push to stop Australian military exports being used in human rights breaches",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/14/crossbench-mps-launch-push-to-stop-australian-military-exports-being-used-in-human-rights-breaches",
-    "pubDate": "13.09.2026 15:00:09",
-    "sortDate": 1789311609000,
     "source": "The Guardian"
   },
   {
@@ -207,13 +214,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow",
     "pubDate": "12.09.2026 04:53:10",
     "sortDate": 1789188790000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-    "link": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
-    "pubDate": "12.09.2026 04:45:28",
-    "sortDate": 1789188328000,
     "source": "The Guardian"
   },
   {
