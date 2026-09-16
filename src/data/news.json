@@ -1,51 +1,149 @@
 [
   {
-    "title": "Australian politics live: NSW One Nation leader clarifies anti-abortion comments; NDIA says job cuts necessary",
+    "title": "Australian politics live: PM distances himself from Labor staffer sacked over social media posts; Lambie says AI companies ‘like dinosaurs in Jurassic Park testing fences’",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb",
-    "pubDate": "16.09.2026 00:48:03",
-    "sortDate": 1789519683000,
+    "pubDate": "16.09.2026 05:39:33",
+    "sortDate": 1789537173000,
     "source": "The Guardian"
   },
   {
-    "title": "Six green card holders in Texas charged in federal crackdown on illegal voting – US politics live",
+    "title": "Sydney man who allegedly called 13-year-old Muslim girl a ‘terrorist’ berates judge after bail refused",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/16/sydney-man-alleged-racial-abuse-muslim-girl-13-terrorist-ntwnfb",
+    "pubDate": "16.09.2026 05:27:34",
+    "sortDate": 1789536454000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Anywhere, anytime’: Victoria police and PSOs to get random stop and search powers after Labor backflip",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/16/victoria-police-pso-stop-and-search-powers-jacks-law-labor-backflip",
+    "pubDate": "16.09.2026 05:03:31",
+    "sortDate": 1789535011000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
+    "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
+    "pubDate": "16.09.2026 05:00:12",
+    "sortDate": 1789534812000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fresh evidence of C of E’s role in enslavement uncovered as church wrestles with reparations debate",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/16/church-of-england-enslavement-reparations-debate",
+    "pubDate": "16.09.2026 05:00:11",
+    "sortDate": 1789534811000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Revealed: the UK towns with the fewest jobs for young people",
+    "link": "https://www.theguardian.com/society/2026/sep/16/revealed-the-uk-towns-with-the-fewest-jobs-for-young-people",
+    "pubDate": "16.09.2026 05:00:11",
+    "sortDate": 1789534811000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "People protecting nature and land set up self-defence units amid threat of murder",
+    "link": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+    "pubDate": "16.09.2026 05:00:10",
+    "sortDate": 1789534810000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NBC helicopter crash in LA kills at least three people with others injured",
+    "link": "https://www.theguardian.com/us-news/2026/sep/16/los-angeles-helicopter-crash",
+    "pubDate": "16.09.2026 04:32:48",
+    "sortDate": 1789533168000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK mathematician debunks myth around Parthenon’s optical illusions",
+    "link": "https://www.theguardian.com/science/2026/sep/16/uk-mathematician-debunks-myth-parthenon-optical-illusions",
+    "pubDate": "16.09.2026 04:01:09",
+    "sortDate": 1789531269000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
+    "link": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
+    "pubDate": "16.09.2026 04:00:12",
+    "sortDate": 1789531212000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
+    "link": "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships",
+    "pubDate": "16.09.2026 04:00:11",
+    "sortDate": 1789531211000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Expect even more potholes on UK roads after summer heatwaves, says RAC",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/16/expect-more-potholes-uk-roads-summer-heatwaves-rac",
+    "pubDate": "16.09.2026 04:00:10",
+    "sortDate": 1789531210000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jeremy Greenwood denies giving ‘ridiculous’ evidence to Icac about ‘mum’s perspective’ from premier’s sister-in-law",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/16/jeremy-greenwood-icac-evidence-perrottet-payments-ntwnfb",
+    "pubDate": "16.09.2026 03:23:21",
+    "sortDate": 1789529001000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+    "link": "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+    "pubDate": "16.09.2026 02:56:37",
+    "sortDate": 1789527397000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Alice Springs heavy metal music venue raises $1m in donations in fight to stay open",
+    "link": "https://www.theguardian.com/music/2026/sep/16/alice-springs-heavy-metal-music-venue-black-wreath-fundraiser-raises-1m",
+    "pubDate": "16.09.2026 02:31:05",
+    "sortDate": 1789525865000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Six green card holders in Texas charged in federal crackdown on illegal voting – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates",
-    "pubDate": "16.09.2026 00:38:06",
-    "sortDate": 1789519086000,
+    "pubDate": "16.09.2026 02:03:49",
+    "sortDate": 1789524229000,
     "source": "The Guardian"
   },
   {
-    "title": "Anthropic’s CEO calls for AI slowdown as Nvidia’s urges acceleration",
-    "link": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
-    "pubDate": "16.09.2026 00:21:18",
-    "sortDate": 1789518078000,
+    "title": "The Palestinian school under siege – podcast",
+    "link": "https://www.theguardian.com/news/audio/2026/sep/16/palestinian-school-al-mughayyir-under-siege-podcast",
+    "pubDate": "16.09.2026 02:00:06",
+    "sortDate": 1789524006000,
     "source": "The Guardian"
   },
   {
-    "title": "Yvonne Whear’s car found in river as mystery surrounding NSW woman’s disappearance continues",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/16/yvonne-whears-car-found-in-river-northern-rivers-ntwnfb",
-    "pubDate": "16.09.2026 00:11:16",
-    "sortDate": 1789517476000,
+    "title": "Human remains found in Arizona after deadly Grand Canyon flash floods",
+    "link": "https://www.theguardian.com/us-news/2026/sep/15/arizona-human-remains-floods-grand-canyon",
+    "pubDate": "16.09.2026 01:43:12",
+    "sortDate": 1789522992000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russia plotting to kill Ukraine allies in US and Europe, FBI says",
+    "link": "https://www.theguardian.com/us-news/2026/sep/15/russia-us-killings-plot",
+    "pubDate": "16.09.2026 01:28:20",
+    "sortDate": 1789522100000,
     "source": "The Guardian"
   },
   {
     "title": "US set to deliver 2,000lb bombs to Israel as part of vast arms deal",
     "link": "https://www.theguardian.com/us-news/2026/sep/15/trump-administration-bomb-supply-israel-gaza",
-    "pubDate": "16.09.2026 00:05:06",
-    "sortDate": 1789517106000,
+    "pubDate": "16.09.2026 01:13:01",
+    "sortDate": 1789521181000,
     "source": "The Guardian"
   },
   {
-    "title": "Queenslanders’ rights to oppose mining projects ‘gutted’ by new laws, activists say",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/16/queenslanders-rights-to-oppose-mining-projects-gutted-by-new-laws-activists-say",
-    "pubDate": "15.09.2026 23:39:48",
-    "sortDate": 1789515588000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sleeping teen and camper wounded as Colorado bear attacks reach record high",
-    "link": "https://www.theguardian.com/us-news/2026/sep/15/colorado-bear-attacks",
-    "pubDate": "15.09.2026 23:31:50",
-    "sortDate": 1789515110000,
+    "title": "Anthropic CEO renews call for AI slowdown as Nvidia’s urges acceleration",
+    "link": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+    "pubDate": "16.09.2026 00:21:18",
+    "sortDate": 1789518078000,
     "source": "The Guardian"
   },
   {
@@ -56,52 +154,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Thirteenth Met police officer sacked after undercover BBC investigation",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/15/thirteenth-met-police-officer-sacked-after-undercover-bbc-investigation",
-    "pubDate": "15.09.2026 22:59:53",
-    "sortDate": 1789513193000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Britons of all ethnicities feel racial equality is worsening, study shows",
-    "link": "https://www.theguardian.com/world/2026/sep/15/ethnic-groups-feel-racial-equality-worsening-uk-study",
-    "pubDate": "15.09.2026 22:47:14",
-    "sortDate": 1789512434000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mail-in disaster averted as Trump in angry froth after court defeat",
-    "link": "https://www.theguardian.com/us-news/2026/sep/15/trump-mail-ballot-court-defeat",
-    "pubDate": "15.09.2026 22:10:56",
-    "sortDate": 1789510256000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Iran war cost US $38bn and significantly depleted missile stockpile, report finds",
+    "title": "US House votes for third time to end Iran war after $38bn cost is revealed",
     "link": "https://www.theguardian.com/world/2026/sep/15/iran-war-cost-cbo-report",
     "pubDate": "15.09.2026 21:47:39",
     "sortDate": 1789508859000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Search under way for three-year-old boy missing from Suffolk playground",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/15/search-under-way-for-three-year-old-boy-missing-from-suffolk-playground",
-    "pubDate": "15.09.2026 21:36:55",
-    "sortDate": 1789508215000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Air pollution linked to higher suicide risk, international research suggests",
-    "link": "https://www.theguardian.com/environment/2026/sep/15/air-pollution-linked-to-higher-suicide-risk-research-suggests",
-    "pubDate": "15.09.2026 21:30:01",
-    "sortDate": 1789507801000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labor accused of throwing creatives ‘under the bus’ with proposal to ease copyright protections for AI giants",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus",
-    "pubDate": "15.09.2026 21:29:11",
-    "sortDate": 1789507751000,
     "source": "The Guardian"
   },
   {
@@ -154,32 +210,67 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pauline Hanson’s daughter Lee working for a NSW One Nation senator remotely from Tasmania without ministerial approval",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/16/pauline-hanson-daughter-lee-working-remotely-for-one-nation-without-ministerial-approval-ntwnfb",
-    "pubDate": "15.09.2026 15:00:55",
-    "sortDate": 1789484455000,
-    "source": "The Guardian"
+    "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168343",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
   },
   {
-    "title": "Explosive device found on drone shot down in Lithuania, says minister - as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-    "pubDate": "15.09.2026 14:39:53",
-    "sortDate": 1789483193000,
-    "source": "The Guardian"
+    "title": "UNICEF says thousands of children require mental health support after Nepal floods",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168340",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
   },
   {
-    "title": "UK sanctions on Israel ‘fall far short’ of its obligations, legal experts say",
-    "link": "https://www.theguardian.com/politics/2026/sep/15/legal-experts-say-sanctions-israel-fall-far-short-uk-obligations",
-    "pubDate": "15.09.2026 11:54:14",
-    "sortDate": 1789473254000,
-    "source": "The Guardian"
+    "title": "Escalating conflict drives new displacement in Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168339",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
   },
   {
-    "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-    "link": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
-    "pubDate": "15.09.2026 11:35:41",
-    "sortDate": 1789472141000,
-    "source": "The Guardian"
+    "title": "Ebola responders grapple with widening outbreak in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168338",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168337",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Attacks on education threaten an entire generation, UNICEF warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168336",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World fears major war more than any other global risk, UN survey finds",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168332",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza remains recovery points to possible war crimes, says UN rights chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168335",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Super El Niño’ deepens hunger crisis in South Sudan – WFP",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168334",
+    "pubDate": "15.09.2026 12:00:00",
+    "sortDate": 1789473600000,
+    "source": "UN News"
   },
   {
     "title": "Imran Khan’s sons accuse Pakistani army chief of vendetta against imprisoned father",
@@ -189,24 +280,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
-    "link": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown",
-    "pubDate": "15.09.2026 10:37:22",
-    "sortDate": 1789468642000,
-    "source": "The Guardian"
-  },
-  {
     "title": "What would it take to make India’s cities better – and safer?",
     "link": "https://www.theguardian.com/world/2026/sep/13/this-is-india-cities-failing-residents-delhi-building-collapse",
     "pubDate": "15.09.2026 06:30:28",
     "sortDate": 1789453828000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
-    "link": "https://www.theguardian.com/world/2026/sep/15/houthi-rebels-seize-red-sea-hanish-islands-saudi-oil-warning",
-    "pubDate": "15.09.2026 04:22:16",
-    "sortDate": 1789446136000,
     "source": "The Guardian"
   },
   {
@@ -259,6 +336,62 @@
     "source": "The Guardian"
   },
   {
+    "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168333",
+    "pubDate": "14.09.2026 12:00:00",
+    "sortDate": 1789387200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168331",
+    "pubDate": "14.09.2026 12:00:00",
+    "sortDate": 1789387200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Money sent home by migrants nearly doubles in a decade",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168330",
+    "pubDate": "14.09.2026 12:00:00",
+    "sortDate": 1789387200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Highly persistent toxic waste threatens ‘many, if not all, human rights’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168329",
+    "pubDate": "14.09.2026 12:00:00",
+    "sortDate": 1789387200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168328",
+    "pubDate": "14.09.2026 12:00:00",
+    "sortDate": 1789387200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Countries must increase AI regulation to avoid ‘existential risks’: Türk",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168326",
+    "pubDate": "14.09.2026 12:00:00",
+    "sortDate": 1789387200000,
+    "source": "UN News"
+  },
+  {
+    "title": "IAEA chief underscores commitment to nuclear safety and verification",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168325",
+    "pubDate": "14.09.2026 12:00:00",
+    "sortDate": 1789387200000,
+    "source": "UN News"
+  },
+  {
+    "title": "South Sudan: UNICEF reaches communities cut off by conflict in Jonglei state",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168324",
+    "pubDate": "14.09.2026 12:00:00",
+    "sortDate": 1789387200000,
+    "source": "UN News"
+  },
+  {
     "title": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide",
     "link": "https://www.theguardian.com/world/2026/sep/14/indonesian-police-deaths-of-australian-man-and-two-children-ntwnfb",
     "pubDate": "14.09.2026 08:44:44",
@@ -273,6 +406,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "Guterres: Old global order must change as power shifts to emerging economies",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168323",
+    "pubDate": "13.09.2026 12:00:00",
+    "sortDate": 1789300800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Married at 13, pregnant and starving: Child brides of Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168322",
+    "pubDate": "13.09.2026 12:00:00",
+    "sortDate": 1789300800000,
+    "source": "UN News"
+  },
+  {
     "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
     "link": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
     "pubDate": "13.09.2026 02:39:50",
@@ -280,11 +427,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
-    "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
-    "pubDate": "12.09.2026 15:09:05",
-    "sortDate": 1789225745000,
-    "source": "The Guardian"
+    "title": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168320",
+    "pubDate": "12.09.2026 12:00:00",
+    "sortDate": 1789214400000,
+    "source": "UN News"
   },
   {
     "title": "CIA releases dozens of presidential daily briefs on Bin Laden and al-Qaida from before 9/11",
@@ -294,11 +441,67 @@
     "source": "The Guardian"
   },
   {
-    "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
-    "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-    "pubDate": "10.09.2026 20:35:06",
-    "sortDate": 1789072506000,
-    "source": "The Guardian"
+    "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168318",
+    "pubDate": "11.09.2026 12:00:00",
+    "sortDate": 1789128000000,
+    "source": "UN News"
+  },
+  {
+    "title": "The world just had the hottest August ever",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168317",
+    "pubDate": "11.09.2026 12:00:00",
+    "sortDate": 1789128000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Surge in displacement following fighting in southwest Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168314",
+    "pubDate": "11.09.2026 12:00:00",
+    "sortDate": 1789128000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168313",
+    "pubDate": "11.09.2026 12:00:00",
+    "sortDate": 1789128000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168312",
+    "pubDate": "10.09.2026 12:00:00",
+    "sortDate": 1789041600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168311",
+    "pubDate": "10.09.2026 12:00:00",
+    "sortDate": 1789041600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168310",
+    "pubDate": "10.09.2026 12:00:00",
+    "sortDate": 1789041600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168309",
+    "pubDate": "10.09.2026 12:00:00",
+    "sortDate": 1789041600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Human cost of violence in South Sudan ‘continues to grow’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168307",
+    "pubDate": "10.09.2026 12:00:00",
+    "sortDate": 1789041600000,
+    "source": "UN News"
   },
   {
     "title": "‘Our forefathers are coming back’: Naga people celebrate after Oxford museum agrees to return remains",
@@ -306,6 +509,13 @@
     "pubDate": "10.09.2026 11:00:22",
     "sortDate": 1789038022000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘The water comes up to our knees’: Climate hazards shut millions of children out of school in 2025",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168306",
+    "pubDate": "09.09.2026 12:00:00",
+    "sortDate": 1788955200000,
+    "source": "UN News"
   },
   {
     "title": "‘Trust deficit’: Why India’s economic data has sparked a furore",
