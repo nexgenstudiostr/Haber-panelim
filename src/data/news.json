@@ -1,23 +1,93 @@
 [
   {
-    "title": "Trump says he’ll probably lose lawsuit brought by news outlets he banned from White House, blaming judge appointed by ‘TRUMP’ – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
-    "pubDate": "22.09.2026 00:19:45",
-    "sortDate": 1790036385000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia news live: Chalmers says ‘monetised misogyny’ fuelling DV; Bragg to propose using super to secure mortgages",
+    "title": "Australia news live: RBA governor says migration boosting economy not adding to inflation but ‘where it bites is housing market’",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
-    "pubDate": "22.09.2026 00:18:29",
-    "sortDate": 1790036309000,
+    "pubDate": "22.09.2026 05:27:40",
+    "sortDate": 1790054860000,
     "source": "The Guardian"
   },
   {
-    "title": "No avoiding the cost of inaction on climate, Anthony Albanese says ahead of UN general assembly",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/21/no-avoiding-the-cost-of-inaction-on-climate-anthony-albanese-says-in-new-york",
-    "pubDate": "22.09.2026 00:09:12",
-    "sortDate": 1790035752000,
+    "title": "Nearly 4m records of enslaved people in 20 former British colonies now searchable online",
+    "link": "https://www.theguardian.com/news/2026/sep/22/nearly-4m-records-of-enslaved-people-in-20-former-british-colonies-now-searchable-online",
+    "pubDate": "22.09.2026 05:00:36",
+    "sortDate": 1790053236000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police investigate possible organised crime links after boy, 11, shot in the face in Sydney",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/22/boy-11-shot-face-sydney-man-charged-gun-laws-buyback-ntwnfb",
+    "pubDate": "22.09.2026 04:57:31",
+    "sortDate": 1790053051000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Private investigator surveilled Liberal minister and supplied Jean Nassif with recording devices, Icac hears",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/22/private-investigator-secretly-recorded-mp-david-elliott-jean-nassif-icac-ntwnfb",
+    "pubDate": "22.09.2026 04:53:26",
+    "sortDate": 1790052806000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "At least two people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
+    "link": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo",
+    "pubDate": "22.09.2026 04:48:59",
+    "sortDate": 1790052539000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘I understood what women have been going through’: fourth alleged victim testifies at Alan Jones trial",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/22/fourth-alleged-victim-testifies-at-alan-jones-trial-ntwnfb",
+    "pubDate": "22.09.2026 04:29:33",
+    "sortDate": 1790051373000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+    "link": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+    "pubDate": "22.09.2026 04:29:22",
+    "sortDate": 1790051362000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Intergenerational report underplays effect of climate crisis on Australia’s future, experts say",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/22/intergenerational-report-underplays-effect-climate-crisis-on-australia-future-2066",
+    "pubDate": "22.09.2026 04:00:57",
+    "sortDate": 1790049657000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump seeks ‘massive’ Belarus fertiliser deal amid Canada trade war",
+    "link": "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war",
+    "pubDate": "22.09.2026 04:00:55",
+    "sortDate": 1790049655000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hope for UK mothers accused of child abduction after fleeing domestic violence",
+    "link": "https://www.theguardian.com/society/2026/sep/22/uk-mothers-domestic-abuse-child-abduction",
+    "pubDate": "22.09.2026 04:00:36",
+    "sortDate": 1790049636000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump says he’ll probably lose lawsuit brought by news outlets he banned from White House, blaming judge appointed by ‘TRUMP’ – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
+    "pubDate": "22.09.2026 02:02:18",
+    "sortDate": 1790042538000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US TV networks suspend White House pool coverage over Trump media ban",
+    "link": "https://www.theguardian.com/us-news/2026/sep/21/trump-tv-networks-white-house-pool-coverage",
+    "pubDate": "22.09.2026 01:37:29",
+    "sortDate": 1790041049000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump and Mamdani appear friendly after ‘wide-ranging’ meeting at Gracie Mansion",
+    "link": "https://www.theguardian.com/us-news/2026/sep/21/trump-and-mamdani-meeting-gracie-mansion",
+    "pubDate": "22.09.2026 01:30:35",
+    "sortDate": 1790040635000,
     "source": "The Guardian"
   },
   {
@@ -32,20 +102,6 @@
     "link": "https://www.theguardian.com/us-news/2026/sep/21/judge-spacex-wildlife-refuge-musk",
     "pubDate": "21.09.2026 23:54:10",
     "sortDate": 1790034850000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Black Tesla employees accuse company of fostering racial discrimination in major trial",
-    "link": "https://www.theguardian.com/technology/2026/sep/21/black-employees-accuse-tesla-fostering-discrimination",
-    "pubDate": "21.09.2026 23:20:34",
-    "sortDate": 1790032834000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Venezuelan shot by ICE seeks medical care as lawyer says bullet lodged in back",
-    "link": "https://www.theguardian.com/us-news/2026/sep/21/ice-shooting-austin-texas-venezuelan-man",
-    "pubDate": "21.09.2026 23:13:35",
-    "sortDate": 1790032415000,
     "source": "The Guardian"
   },
   {
@@ -81,41 +137,6 @@
     "link": "https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
     "pubDate": "21.09.2026 21:30:26",
     "sortDate": 1790026226000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Celia Birtwell ‘humanises’ Burberry in London fashion week closing show",
-    "link": "https://www.theguardian.com/fashion/2026/sep/21/celia-birtwell-burberry-london-fashion-week-closing-show",
-    "pubDate": "21.09.2026 21:30:07",
-    "sortDate": 1790026207000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "World leaders address climate crisis before UN meet amid record-breaking El Niño",
-    "link": "https://www.theguardian.com/environment/2026/sep/21/world-leaders-climate-crisis-el-nino",
-    "pubDate": "21.09.2026 21:26:55",
-    "sortDate": 1790026015000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Airlines urge action after UK flights delayed and cancelled again",
-    "link": "https://www.theguardian.com/world/2026/sep/21/uk-airports-air-traffic-control-flights-cancelled-delays-nats-prestwick",
-    "pubDate": "21.09.2026 20:45:05",
-    "sortDate": 1790023505000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man charged and boy, 11, in serious condition after being shot in face in Sydney",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/21/boy-11-in-serious-condition-after-being-shot-in-face-and-neck-in-sydney-home-ntwnfb",
-    "pubDate": "21.09.2026 20:24:56",
-    "sortDate": 1790022296000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Datacentres in Victoria to be banned in residential areas",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/22/datacentres-in-victoria-to-be-banned-in-residential-areas",
-    "pubDate": "21.09.2026 19:00:23",
-    "sortDate": 1790017223000,
     "source": "The Guardian"
   },
   {
@@ -231,13 +252,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Latest German election humiliation puts Merz on borrowed time as CDU unrest grows",
-    "link": "https://www.theguardian.com/world/2026/sep/21/german-state-election-humiliation-friedrich-merz-borrowed-time-cdu-unrest-grows",
-    "pubDate": "21.09.2026 10:04:46",
-    "sortDate": 1789985086000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Japanese islands brace for Dujuan to become a typhoon again",
     "link": "https://www.theguardian.com/environment/2026/sep/21/weather-tracker-japan-typhoon-dujuan",
     "pubDate": "21.09.2026 09:45:49",
@@ -256,13 +270,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
     "pubDate": "21.09.2026 01:09:23",
     "sortDate": 1789952963000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
-    "link": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
-    "pubDate": "20.09.2026 20:17:44",
-    "sortDate": 1789935464000,
     "source": "The Guardian"
   },
   {
@@ -410,13 +417,6 @@
     "link": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon",
     "pubDate": "18.09.2026 08:36:50",
     "sortDate": 1789720610000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
-    "link": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
-    "pubDate": "18.09.2026 07:14:13",
-    "sortDate": 1789715653000,
     "source": "The Guardian"
   },
   {
