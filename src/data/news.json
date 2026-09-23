@@ -1,9 +1,156 @@
 [
   {
-    "title": "Australia news live: Gus Lamont’s parents make emotional plea for information; NAB customers report online banking outage",
+    "title": "Venezuela’s Delcy Rodríguez hails ‘historic meeting’ with Donald Trump in New York",
+    "link": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
+    "pubDate": "23.09.2026 12:54:07",
+    "sortDate": 1790168047000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Zelenskyy to speak at UN hours after ‘severe’ Russian strikes on Kyiv - live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+    "pubDate": "23.09.2026 12:44:54",
+    "sortDate": 1790167494000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump to meet China’s Xi as Congress mulls bill banning artificial superintelligence – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
+    "pubDate": "23.09.2026 12:31:55",
+    "sortDate": 1790166715000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Camp Mystic faces investigation as Texas Rangers seek evidence of manslaughter",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/camp-mystic-criminal-investigation",
+    "pubDate": "23.09.2026 12:17:45",
+    "sortDate": 1790165865000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Streeting confirms annual £120m payments to Mauritius on hold while Chagos Islands deal is reviewed – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
+    "pubDate": "23.09.2026 12:10:17",
+    "sortDate": 1790165417000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ancient wall found beneath Paris could confirm site of first settlement",
+    "link": "https://www.theguardian.com/world/2026/sep/23/ancient-wall-paris-first-settlement-archaeology-roman",
+    "pubDate": "23.09.2026 12:06:21",
+    "sortDate": 1790165181000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump addresses UN with mixture of boasts, threats and jibes | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/first-thing-trump-addresses-un-boasts-threats-jibes-us-iran-meeting",
+    "pubDate": "23.09.2026 12:01:55",
+    "sortDate": 1790164915000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police use teargas on protesters as disabled woman, 87, evicted from Madrid home",
+    "link": "https://www.theguardian.com/world/2026/sep/23/madrid-police-teargas-protesters-disabled-woman-evicted",
+    "pubDate": "23.09.2026 12:00:20",
+    "sortDate": 1790164820000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "United Kingdom announces action on disinformation and global AI standards",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168406",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UK watchdog investigating Pornhub over concerns it can still be accessed by children",
+    "link": "https://www.theguardian.com/society/2026/sep/23/pornhub-investigation-ofcom-online-safety-act-children",
+    "pubDate": "23.09.2026 11:57:03",
+    "sortDate": 1790164623000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
+    "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+    "pubDate": "23.09.2026 11:08:01",
+    "sortDate": 1790161681000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran denies dropping preconditions amid ‘very productive’ three-hour UN talks in New York",
+    "link": "https://www.theguardian.com/world/2026/sep/23/iran-denies-dropping-preconditions-very-productive-three-hour-un-talks-new-york",
+    "pubDate": "23.09.2026 10:41:41",
+    "sortDate": 1790160101000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Judge wrong to hear case from bed while recovering from surgery, court says",
+    "link": "https://www.theguardian.com/law/2026/sep/23/judge-hears-case-from-bed-recovering-surgery-court-of-appeal",
+    "pubDate": "23.09.2026 10:29:10",
+    "sortDate": 1790159350000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Chagos Islands deal ‘can’t go ahead’ without US support, Streeting says",
+    "link": "https://www.theguardian.com/world/2026/sep/23/chagos-islands-diego-garcia-streeting-us-support",
+    "pubDate": "23.09.2026 10:11:13",
+    "sortDate": 1790158273000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
+    "link": "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
+    "pubDate": "23.09.2026 10:08:29",
+    "sortDate": 1790158109000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Republican jitters grow as unpopular Trump fuels midterm ‘bloodbath’ fears",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-republicans-midterms",
+    "pubDate": "23.09.2026 10:00:47",
+    "sortDate": 1790157647000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+    "link": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
+    "pubDate": "23.09.2026 09:38:06",
+    "sortDate": 1790156286000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "A ‘grubby rumour’ and a $5m extortion attempt: former Toplace executive gives Icac evidence",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/23/sharangan-maheswaran-jean-nassif-david-elliott-affair-rumour-icac-ntwnfb",
+    "pubDate": "23.09.2026 09:02:25",
+    "sortDate": 1790154145000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Ghost patient’ policy wrongly removing at-risk people from GP lists, doctors say",
+    "link": "https://www.theguardian.com/society/2026/sep/23/nhs-england-ghost-patient-policy-wrongly-removing-vulnerable-people",
+    "pubDate": "23.09.2026 08:00:18",
+    "sortDate": 1790150418000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shoebridge says US submission on online safety laws an ‘extraordinary intervention’ – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
-    "pubDate": "23.09.2026 06:53:34",
-    "sortDate": 1790146414000,
+    "pubDate": "23.09.2026 08:00:11",
+    "sortDate": 1790150411000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Gus Lamont’s parents make emotional plea as $1m reward offered for information about disappearance",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/23/missing-boy-gus-lamont-parents-video-message-1m-reward-announced-ntwnfb",
+    "pubDate": "23.09.2026 07:21:19",
+    "sortDate": 1790148079000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jesse Baird ‘petrified’ of Beau Lamarre-Condon and kept repeating ‘he has a gun’, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/23/beau-lamarre-condon-trial-jesse-baird-luke-davies-ntwnfb",
+    "pubDate": "23.09.2026 07:02:53",
+    "sortDate": 1790146973000,
     "source": "The Guardian"
   },
   {
@@ -11,69 +158,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/sep/23/angus-taylor-pledges-to-repeal-swathe-of-climate-policies-saying-australia-has-done-its-bit",
     "pubDate": "23.09.2026 06:45:12",
     "sortDate": 1790145912000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Angry Anderson dies aged 79: Rose Tattoo frontman was a ferocious rock ’n’ roll singer and youth advocate",
-    "link": "https://www.theguardian.com/music/2026/sep/23/angry-anderson-dies-rose-tattoo-frontman-death-aged-79",
-    "pubDate": "23.09.2026 06:32:04",
-    "sortDate": 1790145124000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Glimpses into lives of Roman suburbanites in Bath revealed in rare finds",
-    "link": "https://www.theguardian.com/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath",
-    "pubDate": "23.09.2026 06:00:19",
-    "sortDate": 1790143219000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bikies, ‘moral compass malfunctions’ and corruption cost: Victoria’s Big Build royal commission holds first public hearing",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/23/victoria-big-build-royal-commission-construction-inquiry-corruption-first-hearing-ntwnfb",
-    "pubDate": "23.09.2026 05:52:51",
-    "sortDate": 1790142771000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?",
-    "link": "https://www.theguardian.com/world/2026/sep/23/wednesday-briefing-can-burnham-seek-a-different-path-to-trumps-world-order",
-    "pubDate": "23.09.2026 05:45:26",
-    "sortDate": 1790142326000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Qantas announces 18-hour direct flights from Sydney to New York with onboard ‘wellbeing zones’",
-    "link": "https://www.theguardian.com/business/2026/sep/23/qantas-direct-flights-from-sydney-to-new-york",
-    "pubDate": "23.09.2026 05:17:07",
-    "sortDate": 1790140627000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN",
-    "link": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
-    "pubDate": "23.09.2026 05:00:16",
-    "sortDate": 1790139616000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Critics of UK government’s economic forecaster are ‘shooting the messenger’, say MPs",
-    "link": "https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk",
-    "pubDate": "23.09.2026 05:00:16",
-    "sortDate": 1790139616000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Thinktank linked to Reform UK calls for abolition of state pension",
-    "link": "https://www.theguardian.com/politics/2026/sep/23/thinktank-reform-uk-abolition-state-pension",
-    "pubDate": "23.09.2026 04:00:15",
-    "sortDate": 1790136015000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump defends actions in Iran and Venezuela in UN General Assembly address amid rising tensions with allies – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/22/donald-trump-unga-speech-iran-middle-east-ukraine-latest-news-updates",
-    "pubDate": "23.09.2026 01:48:22",
-    "sortDate": 1790128102000,
     "source": "The Guardian"
   },
   {
@@ -91,20 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US supreme court declines to intervene in custody fight over baby born via surrogate",
-    "link": "https://www.theguardian.com/us-news/2026/sep/22/supreme-court-surrogate-custody-battle",
-    "pubDate": "22.09.2026 22:38:28",
-    "sortDate": 1790116708000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Kamala Harris returns to Michigan to campaign for Abdul El-Sayed for Senate",
-    "link": "https://www.theguardian.com/us-news/2026/sep/22/kamala-harris-abdul-el-sayed-campaign-michigan",
-    "pubDate": "22.09.2026 22:18:18",
-    "sortDate": 1790115498000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Spain allows US extradition case against pro-Palestine aid donor to proceed",
     "link": "https://www.theguardian.com/us-news/2026/sep/22/spain-extradition-request-james-fergie-chambers",
     "pubDate": "22.09.2026 22:16:55",
@@ -112,24 +182,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "California and New York sue over Trump push to halt wind energy projects",
-    "link": "https://www.theguardian.com/us-news/2026/sep/22/california-new-york-trump-wind-energy",
-    "pubDate": "22.09.2026 21:35:42",
-    "sortDate": 1790112942000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran and US have held talks on sidelines of UN summit, says Donald Trump",
     "link": "https://www.theguardian.com/world/2026/sep/22/iran-us-talks-sidelines-un-summit-trump-israel-us",
     "pubDate": "22.09.2026 21:21:59",
     "sortDate": 1790112119000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hats, pencils and baby pacifiers: Yellowstone staffers retrieve record amount of trash from hot springs",
-    "link": "https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record",
-    "pubDate": "22.09.2026 20:46:15",
-    "sortDate": 1790109975000,
     "source": "The Guardian"
   },
   {
@@ -168,27 +224,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US to build new military bases in Greenland as deal seeks to end tensions between Nato allies - as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/sep/22/eu-trump-russia-putin-sanctions-ukraine-greenland-denmark-zelenskyy-latest-news-updates",
-    "pubDate": "22.09.2026 16:51:13",
-    "sortDate": 1790095873000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US fighter jet crashes at air base in western Germany",
-    "link": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany",
-    "pubDate": "22.09.2026 16:49:18",
-    "sortDate": 1790095758000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Skirts given star billing as Prada swerves trousers and dresses in Milan",
-    "link": "https://www.theguardian.com/fashion/2026/sep/22/skirts-miuccia-prada-raf-simons-milan-fashion-week",
-    "pubDate": "22.09.2026 16:26:38",
-    "sortDate": 1790094398000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
     "link": "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
     "pubDate": "22.09.2026 13:57:36",
@@ -201,6 +236,97 @@
     "pubDate": "22.09.2026 13:43:41",
     "sortDate": 1790084621000,
     "source": "The Guardian"
+  },
+  {
+    "title": "When a country goes underwater: Island States fight for their future",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168398",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "How El Niño offers a test of whether the world can adapt to a changing climate",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168404",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Ask us first’: Children demand a voice on AI’s future",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168403",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Time is running out’ for Israel-Palestine two-State solution",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168401",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Choose international order over ‘law of the jungle’, urges Macron",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168402",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Qatar: Absence of a regional collective security system is fuelling crisis in the Gulf",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168400",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rendered unable to fulfil its mission, Turkish President laments before world leaders",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168399",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168397",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Diplomacy is the way to address global challenges, Brazil tells General Assembly",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168395",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Time to accept ‘hard truths’ so trust can be rebuilt: General Assembly President",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168394",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres: ‘Cracks have become canyons’ as world faces four tests of power",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168392",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Millions of children return to schools that still can’t provide clean water or a working toilet",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168393",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Displacement on the rise in Yemen as fighting continues",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168390",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
   },
   {
     "title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
@@ -238,25 +364,60 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
-    "link": "https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters",
-    "pubDate": "21.09.2026 21:33:09",
-    "sortDate": 1790026389000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
-    "link": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
-    "pubDate": "21.09.2026 17:13:23",
-    "sortDate": 1790010803000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pakistan jails sisters of Imran Khan before protest seeking his release",
     "link": "https://www.theguardian.com/world/2026/sep/21/pakistan-jails-sisters-of-imran-khan-before-protest-seeking-his-release",
     "pubDate": "21.09.2026 14:48:49",
     "sortDate": 1790002129000,
     "source": "The Guardian"
+  },
+  {
+    "title": "In Tanzania, the sea is moving inland – and taking livelihoods with it",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168389",
+    "pubDate": "21.09.2026 12:00:00",
+    "sortDate": 1789992000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168387",
+    "pubDate": "21.09.2026 12:00:00",
+    "sortDate": 1789992000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168386",
+    "pubDate": "21.09.2026 12:00:00",
+    "sortDate": 1789992000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘We are not powerless’: UN chief urges world leaders to invest in peace",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168383",
+    "pubDate": "21.09.2026 12:00:00",
+    "sortDate": 1789992000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Why climate action now comes down to speed, finance and cooperation",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168382",
+    "pubDate": "21.09.2026 12:00:00",
+    "sortDate": 1789992000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola vaccine trial begins in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168381",
+    "pubDate": "21.09.2026 12:00:00",
+    "sortDate": 1789992000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN panel calls for stronger safeguards as AI agents advance",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168380",
+    "pubDate": "21.09.2026 12:00:00",
+    "sortDate": 1789992000000,
+    "source": "UN News"
   },
   {
     "title": "Japanese islands brace for Dujuan to become a typhoon again",
@@ -273,6 +434,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "The right to development: Why equity, not charity, is a human right",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168367",
+    "pubDate": "20.09.2026 12:00:00",
+    "sortDate": 1789905600000,
+    "source": "UN News"
+  },
+  {
     "title": "Why China is pushing back on US warnings over rapid AI development",
     "link": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
     "pubDate": "20.09.2026 06:00:09",
@@ -280,17 +448,24 @@
     "source": "The Guardian"
   },
   {
+    "title": "The race to build a pandemic-proof world",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168377",
+    "pubDate": "19.09.2026 12:00:00",
+    "sortDate": 1789819200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Why the UN General Assembly still matters",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168361",
+    "pubDate": "19.09.2026 12:00:00",
+    "sortDate": 1789819200000,
+    "source": "UN News"
+  },
+  {
     "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
     "link": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
     "pubDate": "18.09.2026 23:08:49",
     "sortDate": 1789772929000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
-    "link": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-    "pubDate": "18.09.2026 17:27:39",
-    "sortDate": 1789752459000,
     "source": "The Guardian"
   },
   {
@@ -301,11 +476,46 @@
     "source": "The Guardian"
   },
   {
-    "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
-    "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
-    "pubDate": "18.09.2026 11:21:36",
-    "sortDate": 1789730496000,
-    "source": "The Guardian"
+    "title": "UN Crime Congress: Technology is transforming crime – and the response to it",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168370",
+    "pubDate": "18.09.2026 12:00:00",
+    "sortDate": 1789732800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168375",
+    "pubDate": "18.09.2026 12:00:00",
+    "sortDate": 1789732800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: UN peacekeeping under pressure",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168376",
+    "pubDate": "18.09.2026 12:00:00",
+    "sortDate": 1789732800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sexual violence against civilians and POWs in Ukraine widespread and ‘abhorrent’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168374",
+    "pubDate": "18.09.2026 12:00:00",
+    "sortDate": 1789732800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Less than 4 years from development goals deadline, progress shows what’s possible",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168371",
+    "pubDate": "18.09.2026 12:00:00",
+    "sortDate": 1789732800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Women and girls pay high price in DR Congo Ebola outbreak",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168368",
+    "pubDate": "18.09.2026 12:00:00",
+    "sortDate": 1789732800000,
+    "source": "UN News"
   },
   {
     "title": "IS member sentenced to 20 years in prison for role in 2021 Kabul airport bombing",
