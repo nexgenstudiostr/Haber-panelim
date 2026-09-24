@@ -1,23 +1,86 @@
 [
   {
-    "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
+    "title": "Why is Woodside sponsoring Fremantle’s AFL team – and will the climate crisis shift the relationship?",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/24/woodside-energy-sponsorship-deal-fremantle-afl-team-fans-logo",
+    "pubDate": "24.09.2026 00:00:02",
+    "sortDate": 1790208002000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "News live: Marles says ‘legal situation’ of OpenAI breach under investigation; Victoria to allow dogs in pubs under election promise",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
-    "pubDate": "23.09.2026 21:39:24",
-    "sortDate": 1790199564000,
+    "pubDate": "23.09.2026 23:56:53",
+    "sortDate": 1790207813000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Texas executes death-row prisoner over 2005 triple killing",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/texas-execution-kersean-ramey",
+    "pubDate": "23.09.2026 23:52:31",
+    "sortDate": 1790207551000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Senator confirms ‘eight suicide attempts’ by US navy personnel assigned to USS Abraham Lincoln carrier group – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
+    "pubDate": "23.09.2026 23:51:36",
+    "sortDate": 1790207496000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Venezuela being ‘reborn’, Rodríguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit – live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+    "pubDate": "23.09.2026 23:47:24",
+    "sortDate": 1790207244000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Justin Bieber performs surprise acoustic gig in beleaguered Los Angeles park",
+    "link": "https://www.theguardian.com/music/2026/sep/23/justin-bieber-macarthur-park-los-angeles",
+    "pubDate": "23.09.2026 23:33:20",
+    "sortDate": 1790206400000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
+    "pubDate": "23.09.2026 23:30:50",
+    "sortDate": 1790206250000,
     "source": "The Guardian"
   },
   {
     "title": "Anthony Albanese says OpenAI agent hacked Medicare and he expressed ‘extreme concern’ to Sam Altman",
     "link": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
-    "pubDate": "23.09.2026 21:38:27",
-    "sortDate": 1790199507000,
+    "pubDate": "23.09.2026 23:16:12",
+    "sortDate": 1790205372000,
     "source": "The Guardian"
   },
   {
-    "title": "Judge promises to rule soon on Trump’s ban of journalists from the White House – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates",
-    "pubDate": "23.09.2026 21:34:38",
-    "sortDate": 1790199278000,
+    "title": "Tony Blair says Britain should work towards rejoining EU in next 10 years",
+    "link": "https://www.theguardian.com/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit",
+    "pubDate": "23.09.2026 23:01:01",
+    "sortDate": 1790204461000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "RFK Jr received $4m in book advances from Maha allies over past year",
+    "link": "https://www.theguardian.com/us-news/2026/sep/23/rfk-jr-maha-book-advances",
+    "pubDate": "23.09.2026 22:56:04",
+    "sortDate": 1790204164000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Three charged with assault after anti-migration protests in Hampshire",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/23/gosport-people-charged-anti-migration-protests",
+    "pubDate": "23.09.2026 22:41:27",
+    "sortDate": 1790203287000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+    "link": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+    "pubDate": "23.09.2026 22:00:01",
+    "sortDate": 1790200801000,
     "source": "The Guardian"
   },
   {
@@ -35,45 +98,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK shares findings of damning climate crisis national security report suppressed under Starmer",
-    "link": "https://www.theguardian.com/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
-    "pubDate": "23.09.2026 21:21:33",
-    "sortDate": 1790198493000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Ukraine did not choose this war’, Volodymyr Zelenskyy tells UN general assembly - live",
-    "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
-    "pubDate": "23.09.2026 21:21:29",
-    "sortDate": 1790198489000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Democrats accuse Susan Collins of corruption after bombshell ‘pay-to-play’ report",
     "link": "https://www.theguardian.com/us-news/2026/sep/23/susan-collins-corruption-allegation-report-propublica",
     "pubDate": "23.09.2026 21:12:39",
     "sortDate": 1790197959000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Three charged with assault after anti-migration protests in Hampshire",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/23/gosport-people-charged-anti-migration-protests",
-    "pubDate": "23.09.2026 21:07:55",
-    "sortDate": 1790197675000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "In a first, olive ridley turtles spotted nesting on California’s beaches",
-    "link": "https://www.theguardian.com/us-news/2026/sep/23/sea-turtle-nesting-california-beaches",
-    "pubDate": "23.09.2026 21:05:09",
-    "sortDate": 1790197509000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Andy Burnham signals he may lift ban on alcohol in football stands",
-    "link": "https://www.theguardian.com/football/2026/sep/23/andy-burnham-signals-he-may-lift-ban-on-alcohol-in-football-stands",
-    "pubDate": "23.09.2026 21:00:00",
-    "sortDate": 1790197200000,
     "source": "The Guardian"
   },
   {
@@ -84,7 +112,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "How the ‘poisonous tide’ of disinformation stokes division and sows despair",
+    "title": "How the ‘poisonous tide’ of disinformation spreads division and despair",
     "link": "https://www.theguardian.com/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
     "pubDate": "23.09.2026 19:24:39",
     "sortDate": 1790191479000,
@@ -98,24 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Texas to execute death-row prisoner over 2005 triple killing",
-    "link": "https://www.theguardian.com/us-news/2026/sep/23/texas-execution-kersean-ramey",
-    "pubDate": "23.09.2026 18:51:08",
-    "sortDate": 1790189468000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
     "link": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
     "pubDate": "23.09.2026 18:50:43",
     "sortDate": 1790189443000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club",
-    "link": "https://www.theguardian.com/us-news/2026/sep/23/trump-putin-g20-summit-miami",
-    "pubDate": "23.09.2026 18:09:10",
-    "sortDate": 1790186950000,
     "source": "The Guardian"
   },
   {
@@ -140,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Property investors may pay less capital gains tax under Labor’s reforms, analysis suggests",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/24/property-investors-may-pay-less-capital-gains-tax-under-labors-reforms-analysis-suggests",
-    "pubDate": "23.09.2026 15:00:53",
-    "sortDate": 1790175653000,
-    "source": "The Guardian"
-  },
-  {
     "title": "The EU’s Canada offer is more mood than reality but it could hint at a future geometry for the bloc",
     "link": "https://www.theguardian.com/world/2026/sep/23/eus-canada-offer-is-more-mood-than-reality-but-it-could-hint-at-a-future-geometry-for-the-bloc",
     "pubDate": "23.09.2026 14:30:51",
@@ -166,6 +173,27 @@
     "pubDate": "23.09.2026 12:54:07",
     "sortDate": 1790168047000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168419",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres calls on countries to set clear timelines for transition away from fossil fuels",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168418",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Rohingya refugees deserve a future beyond survival, not endless displacement",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168417",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
   },
   {
     "title": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading beyond Ukraine",
@@ -462,27 +490,6 @@
     "source": "UN News"
   },
   {
-    "title": "‘We are not powerless’: UN chief urges world leaders to invest in peace",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168383",
-    "pubDate": "21.09.2026 12:00:00",
-    "sortDate": 1789992000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Why climate action now comes down to speed, finance and cooperation",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168382",
-    "pubDate": "21.09.2026 12:00:00",
-    "sortDate": 1789992000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola vaccine trial begins in DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168381",
-    "pubDate": "21.09.2026 12:00:00",
-    "sortDate": 1789992000000,
-    "source": "UN News"
-  },
-  {
     "title": "Japanese islands brace for Dujuan to become a typhoon again",
     "link": "https://www.theguardian.com/environment/2026/sep/21/weather-tracker-japan-typhoon-dujuan",
     "pubDate": "21.09.2026 09:45:49",
@@ -494,13 +501,6 @@
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
     "pubDate": "21.09.2026 05:00:38",
     "sortDate": 1789966838000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Why China is pushing back on US warnings over rapid AI development",
-    "link": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
-    "pubDate": "20.09.2026 06:00:09",
-    "sortDate": 1789884009000,
     "source": "The Guardian"
   },
   {
