@@ -1,30 +1,44 @@
 [
   {
-    "title": "New Jersey lieutenant governor resigns after sexual harassment accusation",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/new-jersey-lieutenant-governor-resigns-dale-caldwell",
-    "pubDate": "25.09.2026 19:52:33",
-    "sortDate": 1790365953000,
+    "title": "Two people arrested in New York City for allegedly climbing out of manhole",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/new-york-city-arrests-mole-people",
+    "pubDate": "25.09.2026 22:57:51",
+    "sortDate": 1790377071000,
     "source": "The Guardian"
   },
   {
-    "title": "Idaho cold case may be tied to unsolved 1982 Tylenol murders, authorities say",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/idaho-cold-case-1982-tylenol-murders",
-    "pubDate": "25.09.2026 19:38:49",
-    "sortDate": 1790365129000,
+    "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+    "link": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+    "pubDate": "25.09.2026 22:55:19",
+    "sortDate": 1790376919000,
     "source": "The Guardian"
   },
   {
-    "title": "In latest blow to Obamacare, Trump is threatening the entire US health system",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/trump-aca-health-insurance",
-    "pubDate": "25.09.2026 19:34:49",
-    "sortDate": 1790364889000,
+    "title": "Supreme court blocks Trump-backed Missouri congressional map from use in midterms",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/supreme-court-missouri-maps-trump",
+    "pubDate": "25.09.2026 22:33:14",
+    "sortDate": 1790375594000,
     "source": "The Guardian"
   },
   {
-    "title": "Alarm at UN over sanctions threatened by US on international criminal court",
-    "link": "https://www.theguardian.com/world/2026/sep/25/trump-israel-icc-threats",
-    "pubDate": "25.09.2026 18:33:54",
-    "sortDate": 1790361234000,
+    "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+    "pubDate": "25.09.2026 22:21:15",
+    "sortDate": 1790374875000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ex-American Idol contestant told lover he dreamed of killing wife, murder trial hears",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover",
+    "pubDate": "25.09.2026 22:12:50",
+    "sortDate": 1790374370000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump and Chinese president Xi end summit without major agreement on AI",
+    "link": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+    "pubDate": "25.09.2026 22:11:52",
+    "sortDate": 1790374312000,
     "source": "The Guardian"
   },
   {
@@ -39,13 +53,6 @@
     "link": "https://www.theguardian.com/uk-news/2026/sep/25/failures-at-manston-asylum-centre-linked-to-decisions-at-number-10-inquiry-hears",
     "pubDate": "25.09.2026 18:15:31",
     "sortDate": 1790360131000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Partner of woman killed by US hunter who allegedly mistook her for deer says death ‘no accident’",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/delaware-woman-killed-hunter",
-    "pubDate": "25.09.2026 18:00:34",
-    "sortDate": 1790359234000,
     "source": "The Guardian"
   },
   {
@@ -145,6 +152,13 @@
     "pubDate": "25.09.2026 12:41:14",
     "sortDate": 1790340074000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168452",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
   },
   {
     "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
@@ -427,13 +441,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
-    "pubDate": "23.09.2026 18:50:43",
-    "sortDate": 1790189443000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Venezuela seeking rebirth after political crisis and devastating earthquakes, President tells UN",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168420",
     "pubDate": "23.09.2026 12:00:00",
@@ -464,13 +471,6 @@
   {
     "title": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading beyond Ukraine",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168416",
-    "pubDate": "23.09.2026 12:00:00",
-    "sortDate": 1790164800000,
-    "source": "UN News"
-  },
-  {
-    "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168414",
     "pubDate": "23.09.2026 12:00:00",
     "sortDate": 1790164800000,
     "source": "UN News"
