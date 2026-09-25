@@ -1,30 +1,121 @@
 [
   {
-    "title": "Australia news live: Pocock calls for AI safety act after Medicare breach; retrial date set in Yung Filly rape case",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-    "pubDate": "25.09.2026 06:49:46",
-    "sortDate": 1790318986000,
+    "title": "Pope Leo warns against AI creating ‘paradise of machines’ in first visit to France – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+    "pubDate": "25.09.2026 12:35:09",
+    "sortDate": 1790339709000,
     "source": "The Guardian"
   },
   {
-    "title": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
-    "link": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
-    "pubDate": "25.09.2026 06:33:25",
-    "sortDate": 1790318005000,
+    "title": "Polanski heckled at Jewish community hustings after saying that Zionism is a form of racism – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
+    "pubDate": "25.09.2026 12:21:12",
+    "sortDate": 1790338872000,
     "source": "The Guardian"
   },
   {
-    "title": "Two-year waiting times highlight NHS struggle with rise in ADHD and autism awareness",
-    "link": "https://www.theguardian.com/society/2026/sep/25/two-year-nhs-waiting-times-reveal-struggle-rise-adhd-autism-awareness",
-    "pubDate": "25.09.2026 06:32:13",
-    "sortDate": 1790317933000,
+    "title": "Trump’s executive order on recreational fishing is a ‘giveaway of fish and ocean ecosystem’, advocates warn",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/recreational-fishing-trump-executive-order",
+    "pubDate": "25.09.2026 12:00:50",
+    "sortDate": 1790337650000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "DNA database of UK dogs could help police collar criminals",
+    "link": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
+    "pubDate": "25.09.2026 12:00:49",
+    "sortDate": 1790337649000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia urges global cooperation on climate, AI checks and international law",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168435",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "The Takeaway: UN General Assembly debate Day 3",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168434",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours",
+    "link": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
+    "pubDate": "25.09.2026 11:53:43",
+    "sortDate": 1790337223000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Daniel Thomas pleads not guilty after alleged dinghy slashing in Channel",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/25/daniel-thomas-court-charged-criminal-damage-dinghy-channel",
+    "pubDate": "25.09.2026 11:50:06",
+    "sortDate": 1790337006000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meloni accused of ‘running scared’ with cap on foreign children in classrooms",
+    "link": "https://www.theguardian.com/world/2026/sep/25/giorgia-meloni-italy-foreign-children-schools",
+    "pubDate": "25.09.2026 11:31:45",
+    "sortDate": 1790335905000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "When Trump’s narrative meets voters’ realities",
+    "link": "https://www.theguardian.com/us-news/2026/sep/24/trump-midterms-tv-media-ban-economy",
+    "pubDate": "25.09.2026 11:30:48",
+    "sortDate": 1790335848000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tour Montparnasse renovation halted amid disagreements between owners",
+    "link": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
+    "pubDate": "25.09.2026 11:25:55",
+    "sortDate": 1790335555000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Your body fights to stay cool’: workers toil in record heat as federal rule frozen",
+    "link": "https://www.theguardian.com/environment/2026/sep/25/extreme-heat-regulations-trump",
+    "pubDate": "25.09.2026 11:00:49",
+    "sortDate": 1790334049000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "How the illegal dumping of toxic waste in a Croatian town sparked national calls for clean-up",
+    "link": "https://www.theguardian.com/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
+    "pubDate": "25.09.2026 11:00:48",
+    "sortDate": 1790334048000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britain’s low-paid urged to sign up to savings scheme offering cash bonus",
+    "link": "https://www.theguardian.com/money/2026/sep/25/britain-low-paid-help-to-save-savings-scheme-cash-bonus",
+    "pubDate": "25.09.2026 11:00:48",
+    "sortDate": 1790334048000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+    "link": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+    "pubDate": "25.09.2026 10:28:45",
+    "sortDate": 1790332125000,
     "source": "The Guardian"
   },
   {
     "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
     "link": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
-    "pubDate": "25.09.2026 06:00:42",
-    "sortDate": 1790316042000,
+    "pubDate": "25.09.2026 09:53:48",
+    "sortDate": 1790330028000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pocock calls for AI safety act after Medicare breach – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
+    "pubDate": "25.09.2026 06:56:14",
+    "sortDate": 1790319374000,
     "source": "The Guardian"
   },
   {
@@ -32,13 +123,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack",
     "pubDate": "25.09.2026 05:57:17",
     "sortDate": 1790315837000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Devastating’: council rejects Frome residents’ bid for regeneration project",
-    "link": "https://www.theguardian.com/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale",
-    "pubDate": "25.09.2026 05:00:40",
-    "sortDate": 1790312440000,
     "source": "The Guardian"
   },
   {
@@ -91,31 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "New Jersey governor calls on lieutenant governor to resign after ethics investigation",
-    "link": "https://www.theguardian.com/us-news/2026/sep/24/new-jersey-lieutenant-governor-ethics-investigation",
-    "pubDate": "25.09.2026 01:35:35",
-    "sortDate": 1790300135000,
-    "source": "The Guardian"
-  },
-  {
     "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
     "link": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
     "pubDate": "24.09.2026 23:58:11",
     "sortDate": 1790294291000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man shot and wounded during Trump assassination attempt in Butler dies",
-    "link": "https://www.theguardian.com/us-news/2026/sep/24/trump-assassination-attempt-man-dies-injured",
-    "pubDate": "24.09.2026 23:32:40",
-    "sortDate": 1790292760000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Netanyahu’s speech at UN spurs protests in New York City: ‘Let Gaza live’",
-    "link": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-protests",
-    "pubDate": "24.09.2026 23:28:26",
-    "sortDate": 1790292506000,
     "source": "The Guardian"
   },
   {
@@ -126,31 +189,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "UK food and drink trade deficit largest since 2000 at £21bn",
-    "link": "https://www.theguardian.com/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security",
-    "pubDate": "24.09.2026 23:01:32",
-    "sortDate": 1790290892000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
     "link": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
     "pubDate": "24.09.2026 21:57:34",
     "sortDate": 1790287054000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Cracking auction, Gromit!’ Original Aardman puppets go under the hammer",
-    "link": "https://www.theguardian.com/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators",
-    "pubDate": "24.09.2026 21:41:31",
-    "sortDate": 1790286091000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Far-right activist Daniel Thomas charged over alleged dinghy slashing in Channel",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/24/police-arrest-far-right-activist-daniel-thomas-after-dinghy-slashed-channel",
-    "pubDate": "24.09.2026 21:20:36",
-    "sortDate": 1790284836000,
     "source": "The Guardian"
   },
   {
@@ -165,27 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
     "pubDate": "24.09.2026 17:56:06",
     "sortDate": 1790272566000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
-    "link": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
-    "pubDate": "24.09.2026 17:45:12",
-    "sortDate": 1790271912000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "France says EU’s ‘Made in Europe’ law should not include the UK",
-    "link": "https://www.theguardian.com/world/2026/sep/24/france-says-eus-made-in-europe-law-should-not-include-the-uk",
-    "pubDate": "24.09.2026 17:42:23",
-    "sortDate": 1790271743000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russia could attack a Nato country within months, Danish intelligence says",
-    "link": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
-    "pubDate": "24.09.2026 16:05:44",
-    "sortDate": 1790265944000,
     "source": "The Guardian"
   },
   {
@@ -208,6 +229,83 @@
     "pubDate": "24.09.2026 13:15:48",
     "sortDate": 1790255748000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168433",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168432",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168431",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Rising seas are sinking futures’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168430",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haitians can’t wait to return home and vote in elections says Prime Minister",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168429",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168428",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168427",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Palestinian existence under threat, Abbas tells UN, warning of ‘another Nakba’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168426",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE: World leaders approve new declaration to tackle rising sea levels",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168423",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Peace remains only a promise’ for millions in eastern DR Congo, General Assembly hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168422",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "The Takeaway: UN General Assembly debate Day 2",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168421",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
   },
   {
     "title": "Backlash as Indian oil heir made professor of sustainability by Newcastle University",
@@ -252,6 +350,111 @@
     "source": "The Guardian"
   },
   {
+    "title": "Venezuela seeking rebirth after political crisis and devastating earthquakes, President tells UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168420",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168419",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres calls on countries to set clear timelines for transition away from fossil fuels",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168418",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Rohingya refugees deserve a future beyond survival, not endless displacement",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168417",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading beyond Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168416",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168414",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE: Climate change is here - What happens next is still in our hands",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168372",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN’s ‘sacred covenant has been broken’, Argentina’s Milei tells General Assembly",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168415",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "At UN, Pezeshkian turns terrorism accusation back on Iran’s critics",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168412",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Syria begins ‘new phase of revival’, President Al-Sharaa tells General Assembly",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168411",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168410",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Right to development: A blueprint for unmet promises",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168405",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN health agency calls for investment boost to save young lives from cancer",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168408",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168407",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
+    "title": "United Kingdom announces action on disinformation and global AI standards",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168406",
+    "pubDate": "23.09.2026 12:00:00",
+    "sortDate": 1790164800000,
+    "source": "UN News"
+  },
+  {
     "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
     "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
     "pubDate": "23.09.2026 11:08:01",
@@ -266,18 +469,25 @@
     "source": "The Guardian"
   },
   {
-    "title": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
-    "link": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council",
-    "pubDate": "23.09.2026 01:15:26",
-    "sortDate": 1790126126000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Sri Lanka Easter bombings: 15 sentenced to hundreds of years in prison each over deadly terror attacks",
     "link": "https://www.theguardian.com/world/2026/sep/23/sri-lanka-easter-bombings-15-sentenced-prison-terror-attacks",
     "pubDate": "23.09.2026 00:43:00",
     "sortDate": 1790124180000,
     "source": "The Guardian"
+  },
+  {
+    "title": "When a country goes underwater: Island States fight for their future",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168398",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
+  },
+  {
+    "title": "How El Niño offers a test of whether the world can adapt to a changing climate",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168404",
+    "pubDate": "22.09.2026 12:00:00",
+    "sortDate": 1790078400000,
+    "source": "UN News"
   },
   {
     "title": "‘What we have is unique’: the Indian craftsmanship behind global luxury fashion",
