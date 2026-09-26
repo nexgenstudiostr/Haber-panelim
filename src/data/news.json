@@ -1,20 +1,90 @@
 [
   {
-    "title": "New research finds 485 chemicals in US pesticide products linked to breast cancer",
-    "link": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-    "pubDate": "26.09.2026 13:00:36",
-    "sortDate": 1790427636000,
+    "title": "Third person arrested in death of Tasia Fortune, as police say hanging was staged",
+    "link": "https://www.theguardian.com/us-news/2026/sep/26/mississippi-tasia-fortune-arrest-hanging-staged",
+    "pubDate": "26.09.2026 17:20:40",
+    "sortDate": 1790443240000,
     "source": "The Guardian"
   },
   {
-    "title": "White House blocks CNN from Air Force One in latest escalation with news media",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
-    "pubDate": "26.09.2026 12:45:33",
-    "sortDate": 1790426733000,
+    "title": "Wisconsin police investigating fraternity for hazing after men found in basement",
+    "link": "https://www.theguardian.com/us-news/2026/sep/26/university-of-wisconsin-fraternity-hazing",
+    "pubDate": "26.09.2026 16:57:54",
+    "sortDate": 1790441874000,
     "source": "The Guardian"
   },
   {
-    "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+    "title": "Greek authorities seek answers after six killed in Athens apartment block explosion",
+    "link": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
+    "pubDate": "26.09.2026 16:54:55",
+    "sortDate": 1790441695000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘I can deliver’: Burnham pledges radical change on eve of Labour conference",
+    "link": "https://www.theguardian.com/politics/2026/sep/26/burnham-pledges-radical-change-labour-conference-exclusive",
+    "pubDate": "26.09.2026 16:35:27",
+    "sortDate": 1790440527000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham announces new homes scheme for first-time buyers",
+    "link": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-announces-new-scheme-for-first-time-home-buyers-england",
+    "pubDate": "26.09.2026 16:19:29",
+    "sortDate": 1790439569000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ranulph Fiennes’ stepson appeals for funds to ‘locate and safeguard’ the explorer",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/26/ranulph-fiennes-explorer-stepson-launches-crowdfunder",
+    "pubDate": "26.09.2026 16:15:45",
+    "sortDate": 1790439345000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
+    "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
+    "pubDate": "26.09.2026 16:00:39",
+    "sortDate": 1790438439000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+    "link": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+    "pubDate": "26.09.2026 15:50:27",
+    "sortDate": 1790437827000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "California man charged in the killing of his ex-wife – two decades after she vanished",
+    "link": "https://www.theguardian.com/us-news/2026/sep/26/california-man-charged-killing-ex-wife-jill-maiorca",
+    "pubDate": "26.09.2026 15:28:28",
+    "sortDate": 1790436508000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jill Dando murder: technological advances allow police to review CCTV 27 years later",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/26/jill-dando-murder-technological-advances-police-cctv",
+    "pubDate": "26.09.2026 15:15:47",
+    "sortDate": 1790435747000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pennsylvania measles outbreak spreads, with 55 new cases reported since Wednesday",
+    "link": "https://www.theguardian.com/us-news/2026/sep/26/pennsylvania-measles-outbreak-spreads",
+    "pubDate": "26.09.2026 14:10:05",
+    "sortDate": 1790431805000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Power outages and flooded roads as major storm bears down on US north-east",
+    "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+    "pubDate": "26.09.2026 13:35:26",
+    "sortDate": 1790429726000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
     "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
     "pubDate": "26.09.2026 12:38:46",
     "sortDate": 1790426326000,
@@ -28,11 +98,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Venezuelan shot by ICE in Austin needs surgery to avoid losing feeling in body, supporters say",
-    "link": "https://www.theguardian.com/us-news/2026/sep/26/venezuelan-man-ice-shooting-austin-texas",
-    "pubDate": "26.09.2026 12:00:34",
-    "sortDate": 1790424034000,
-    "source": "The Guardian"
+    "title": "‘Safeguard the postwar order,’ China tells UN General Assembly",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168456",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
   },
   {
     "title": "Countries adopt global blueprint to tackle fast-evolving crime in digital age",
@@ -49,24 +119,10 @@
     "source": "UN News"
   },
   {
-    "title": "Green shoots? Burnham cultivates rural links in attempt to ‘build back trust’ with farmers",
-    "link": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-farmers-build-back-trust",
-    "pubDate": "26.09.2026 11:30:14",
-    "sortDate": 1790422214000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
     "link": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
     "pubDate": "26.09.2026 11:10:09",
     "sortDate": 1790421009000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Work intensifying on UK laws to stamp out concert ticket touts, say sources",
-    "link": "https://www.theguardian.com/business/2026/sep/26/work-intensifying-uk-laws-stamp-out-concert-ticket-touts",
-    "pubDate": "26.09.2026 11:00:35",
-    "sortDate": 1790420435000,
     "source": "The Guardian"
   },
   {
@@ -77,38 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Thomas Jefferson letter goes on the market – containing a prescient warning for Trump today",
-    "link": "https://www.theguardian.com/us-news/2026/sep/26/thomas-jefferson-letter-trump-warning",
-    "pubDate": "26.09.2026 11:00:34",
-    "sortDate": 1790420434000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Severely disabled young people should get fast-track access to benefits, Milburn says",
-    "link": "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn",
-    "pubDate": "26.09.2026 09:00:32",
-    "sortDate": 1790413232000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Three-quarters of UK’s popular plug-in hybrid cars unable to use rapid chargers",
-    "link": "https://www.theguardian.com/environment/2026/sep/26/uk-plug-in-hybrid-electric-vehicles-rapid-chargers-analysis",
-    "pubDate": "26.09.2026 09:00:32",
-    "sortDate": 1790413232000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
     "link": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
     "pubDate": "26.09.2026 07:58:05",
     "sortDate": 1790409485000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘The weaker he gets, the more dangerous he gets’: Trump lashes out as his power wanes",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court",
-    "pubDate": "26.09.2026 06:00:27",
-    "sortDate": 1790402427000,
     "source": "The Guardian"
   },
   {
@@ -161,13 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-    "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-    "pubDate": "25.09.2026 16:01:10",
-    "sortDate": 1790352070000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms",
     "link": "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
     "pubDate": "25.09.2026 15:43:59",
@@ -179,13 +200,6 @@
     "link": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
     "pubDate": "25.09.2026 15:12:38",
     "sortDate": 1790349158000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-    "pubDate": "25.09.2026 15:09:13",
-    "sortDate": 1790348953000,
     "source": "The Guardian"
   },
   {
@@ -336,13 +350,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
-    "link": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
-    "pubDate": "25.09.2026 03:33:48",
-    "sortDate": 1790307228000,
-    "source": "The Guardian"
-  },
-  {
     "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
     "link": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
     "pubDate": "24.09.2026 23:58:11",
@@ -464,13 +471,6 @@
   {
     "title": "Venezuela seeking rebirth after political crisis and devastating earthquakes, President tells UN",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168420",
-    "pubDate": "23.09.2026 12:00:00",
-    "sortDate": 1790164800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168419",
     "pubDate": "23.09.2026 12:00:00",
     "sortDate": 1790164800000,
     "source": "UN News"
