@@ -1,16 +1,44 @@
 [
   {
-    "title": "Two people arrested in New York City for allegedly climbing out of manhole",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/new-york-city-arrests-mole-people",
-    "pubDate": "25.09.2026 22:57:51",
-    "sortDate": 1790377071000,
+    "title": "British climber, 28, dies in fall in northern Spain",
+    "link": "https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain",
+    "pubDate": "26.09.2026 02:02:50",
+    "sortDate": 1790388170000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "White House blocks CNN from Air Force One in latest escalation with news media",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
+    "pubDate": "26.09.2026 01:31:05",
+    "sortDate": 1790386265000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump cancels nearly $1bn in funding approved by Congress",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding",
+    "pubDate": "26.09.2026 01:00:34",
+    "sortDate": 1790384434000,
     "source": "The Guardian"
   },
   {
     "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
     "link": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
-    "pubDate": "25.09.2026 22:55:19",
-    "sortDate": 1790376919000,
+    "pubDate": "26.09.2026 00:24:43",
+    "sortDate": 1790382283000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Free the Strip! Melburnians fight back against outlawing of much-loved picnic spot",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
+    "pubDate": "26.09.2026 00:12:42",
+    "sortDate": 1790381562000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two people arrested in New York City for allegedly climbing out of manhole",
+    "link": "https://www.theguardian.com/us-news/2026/sep/25/new-york-city-arrests-mole-people",
+    "pubDate": "25.09.2026 22:57:51",
+    "sortDate": 1790377071000,
     "source": "The Guardian"
   },
   {
@@ -25,20 +53,6 @@
     "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
     "pubDate": "25.09.2026 22:21:15",
     "sortDate": 1790374875000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ex-American Idol contestant told lover he dreamed of killing wife, murder trial hears",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/american-idol-contestant-accused-of-told-lover",
-    "pubDate": "25.09.2026 22:12:50",
-    "sortDate": 1790374370000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump and Chinese president Xi end summit without major agreement on AI",
-    "link": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
-    "pubDate": "25.09.2026 22:11:52",
-    "sortDate": 1790374312000,
     "source": "The Guardian"
   },
   {
@@ -154,6 +168,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168453",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
     "title": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168452",
     "pubDate": "25.09.2026 12:00:00",
@@ -259,13 +280,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Tall, dark and hated: plan to renovate ‘Paris’s ugliest building’ put on hold",
-    "link": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
-    "pubDate": "25.09.2026 11:25:55",
-    "sortDate": 1790335555000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Hurricane Polo barrels towards Baja California region of Mexico",
     "link": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
     "pubDate": "25.09.2026 10:28:45",
@@ -277,13 +291,6 @@
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
     "pubDate": "25.09.2026 06:56:14",
     "sortDate": 1790319374000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack",
-    "pubDate": "25.09.2026 05:57:17",
-    "sortDate": 1790315837000,
     "source": "The Guardian"
   },
   {
@@ -464,13 +471,6 @@
   {
     "title": "Rohingya refugees deserve a future beyond survival, not endless displacement",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168417",
-    "pubDate": "23.09.2026 12:00:00",
-    "sortDate": 1790164800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading beyond Ukraine",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168416",
     "pubDate": "23.09.2026 12:00:00",
     "sortDate": 1790164800000,
     "source": "UN News"
