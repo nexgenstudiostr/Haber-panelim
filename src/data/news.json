@@ -1,9 +1,79 @@
 [
   {
-    "title": "Australia news live: Gallagher says final budget outcome will shave $6bn off deficit; RBA interest rate hike looms",
+    "title": "‘Thrilled’: huge swarms of bogong moths surprise NSW residents and may point to species’ recovery",
+    "link": "https://www.theguardian.com/science/2026/sep/28/thrilled-huge-swarms-of-bogong-moths-surprise-nsw-residents-and-may-point-to-species-recovery",
+    "pubDate": "28.09.2026 05:48:50",
+    "sortDate": 1790574530000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia news live: fuel prices rise ahead of interest rate decision; whale carcass prompts shark warnings at Perth beach",
     "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
-    "pubDate": "27.09.2026 23:51:50",
-    "sortDate": 1790553110000,
+    "pubDate": "28.09.2026 05:48:22",
+    "sortDate": 1790574502000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Extra 1,000 prison beds announced in NSW as union warns against arresting ‘our way out of domestic violence’",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/28/extra-1000-prison-beds-announced-in-nsw-as-union-warns-against-arresting-our-way-out-of-domestic-violence-ntwnfb",
+    "pubDate": "28.09.2026 05:46:14",
+    "sortDate": 1790574374000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cheers as murder charge dismissed for Queensland woman who helped terminally ill husband die",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/28/kylie-ellina-truswell-mobbs-murder-charge-dismissed-mnd-ntwnfb",
+    "pubDate": "28.09.2026 05:28:45",
+    "sortDate": 1790573325000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Should you lock into a fixed-rate savings account paying 5.25%?",
+    "link": "https://www.theguardian.com/money/2026/sep/28/fixed-rate-savings-accounts-interest-highest-in-years",
+    "pubDate": "28.09.2026 05:00:24",
+    "sortDate": 1790571624000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘The same struggles as 100 years ago’: exhibition highlights lives of Sami people in Sweden",
+    "link": "https://www.theguardian.com/world/2026/sep/28/same-struggles-exhibition-highlights-lives-sami-people-sweden",
+    "pubDate": "28.09.2026 04:00:24",
+    "sortDate": 1790568024000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ed Miliband to acknowledge Labour’s former stance on Palestine fell short",
+    "link": "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short",
+    "pubDate": "28.09.2026 04:00:24",
+    "sortDate": 1790568024000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "France’s far-right National Rally surges in Senate elections",
+    "link": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
+    "pubDate": "28.09.2026 01:31:45",
+    "sortDate": 1790559105000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Beau Lamarre-Condon told friend if he killed anyone he’d dump belongings in bin and take bodies to bushland, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/28/beau-lamarre-condon-murder-trial-court-ntwnfb",
+    "pubDate": "28.09.2026 01:15:31",
+    "sortDate": 1790558131000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
+    "link": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
+    "pubDate": "28.09.2026 00:52:19",
+    "sortDate": 1790556739000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Protesters disperse after blocking route for loyalist march in Portadown",
+    "link": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
+    "pubDate": "28.09.2026 00:46:58",
+    "sortDate": 1790556418000,
     "source": "The Guardian"
   },
   {
@@ -56,13 +126,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Shannon felt a ‘sense of doom’ as she sought justice for sexual assault. A new NSW program hopes to alleviate that",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/28/sexual-assault-service-nsw-victim-survivor-opening-ntwnfb",
-    "pubDate": "27.09.2026 20:00:13",
-    "sortDate": 1790539213000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Serbia’s populist president Aleksandar Vučić resigns to run for prime minister",
     "link": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
     "pubDate": "27.09.2026 19:09:38",
@@ -77,24 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Five arrested on terrorism charges after explosives found near RAF base used by US",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/27/arrests-suspected-terrorism-charges-explosives-found-near-raf-base-us",
-    "pubDate": "27.09.2026 18:49:18",
-    "sortDate": 1790534958000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’",
     "link": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
     "pubDate": "27.09.2026 18:19:02",
     "sortDate": 1790533142000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Don’t squander it’: Can Labour hang on to the Burnham bounce?",
-    "link": "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming",
-    "pubDate": "27.09.2026 18:05:15",
-    "sortDate": 1790532315000,
     "source": "The Guardian"
   },
   {
@@ -119,27 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "One Nation boss called David Farley an ‘asshole’ in lead-up to Farrer byelection, text messages reveal",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/28/one-nation-kelvin-morton-david-farley-asshole-farrer-byelection-text-messages-ntwnfb",
-    "pubDate": "27.09.2026 15:00:08",
-    "sortDate": 1790521208000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "RBA expected to hike cash rate to 4.6%, its highest level since 2011",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/28/rba-expected-to-hike-cash-rate-to-46-its-highest-level-since-2011",
-    "pubDate": "27.09.2026 15:00:07",
-    "sortDate": 1790521207000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
-    "pubDate": "27.09.2026 15:00:07",
-    "sortDate": 1790521207000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Datacenter developers accused of skirting key US pollution rules",
     "link": "https://www.theguardian.com/us-news/2026/sep/27/datacenter-developers-us-pollution-rules",
     "pubDate": "27.09.2026 14:00:06",
@@ -161,11 +189,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Hell on earth’: last residents eat weeds to survive in Russian-occupied Oleshky",
-    "link": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
-    "pubDate": "27.09.2026 11:00:04",
-    "sortDate": 1790506804000,
-    "source": "The Guardian"
+    "title": "The Takeaway: UN General Assembly debate Day 5",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168462",
+    "pubDate": "27.09.2026 12:00:00",
+    "sortDate": 1790510400000,
+    "source": "UN News"
   },
   {
     "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
@@ -182,18 +210,67 @@
     "source": "The Guardian"
   },
   {
-    "title": "Greek authorities seek answers after six killed in Athens apartment block explosion",
-    "link": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
-    "pubDate": "26.09.2026 16:54:55",
-    "sortDate": 1790441695000,
-    "source": "The Guardian"
-  },
-  {
     "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
     "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
     "pubDate": "26.09.2026 16:00:39",
     "sortDate": 1790438439000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Canada urges stronger partnerships as global order faces ‘rupture’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168461",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168460",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168459",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168458",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Lavrov issues call for new Eurasian ‘security architecture’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168457",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Safeguard the postwar order,’ China tells UN General Assembly",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168456",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Countries adopt global blueprint to tackle fast-evolving crime in digital age",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168455",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
+  },
+  {
+    "title": "The Takeaway: UN General Assembly debate Day 4",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168454",
+    "pubDate": "26.09.2026 12:00:00",
+    "sortDate": 1790424000000,
+    "source": "UN News"
   },
   {
     "title": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
@@ -224,13 +301,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Protests erupt as Netanyahu gives inflammatory UN speech - The Latest",
-    "link": "https://www.theguardian.com/news/audio/2026/sep/25/protests-erupt-as-netanyahu-gives-inflammatory-un-speech-the-latest",
-    "pubDate": "25.09.2026 18:22:27",
-    "sortDate": 1790360547000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Pakistan locks down Islamabad as Imran Khan’s party vows to march on capital",
     "link": "https://www.theguardian.com/world/2026/sep/25/pakistan-lockdown-islamabad-imran-khan-party-march",
     "pubDate": "25.09.2026 13:44:55",
@@ -243,6 +313,111 @@
     "pubDate": "25.09.2026 12:41:14",
     "sortDate": 1790340074000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168453",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168452",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168450",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Tuvalu urges decisive global action as rising seas threaten its future",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168449",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan,  Haiti diplacement, AI hub to boost gender equality",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168447",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168444",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Invest with Iraq’: PM sets out vision for new economic future",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168443",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168441",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Africa needs its own AI solutions, not borrowed ones, says expert",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168440",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan’s farmers are ready to return – private investment could get them there",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168439",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Rising tide of forced displacement",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168438",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "LIVE: Six years on from COVID-19, is the world ready for the next pandemic?",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168437",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemen violence deepens concerns over child hunger crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168436",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Australia urges global cooperation on climate, AI checks and international law",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168435",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
+  },
+  {
+    "title": "The Takeaway: UN General Assembly debate Day 3",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168434",
+    "pubDate": "25.09.2026 12:00:00",
+    "sortDate": 1790337600000,
+    "source": "UN News"
   },
   {
     "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
@@ -259,18 +434,53 @@
     "source": "The Guardian"
   },
   {
-    "title": "Rick Wakeman performs piano concert to 150 rescued moon bears in Vietnam",
-    "link": "https://www.theguardian.com/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
-    "pubDate": "24.09.2026 15:40:28",
-    "sortDate": 1790264428000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
     "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
     "pubDate": "24.09.2026 15:29:42",
     "sortDate": 1790263782000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168433",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168432",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168431",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Rising seas are sinking futures’",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168430",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haitians can’t wait to return home and vote in elections says Prime Minister",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168429",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
+  },
+  {
+    "title": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168428",
+    "pubDate": "24.09.2026 12:00:00",
+    "sortDate": 1790251200000,
+    "source": "UN News"
   },
   {
     "title": "Backlash as Indian oil heir made professor of sustainability by Newcastle University",
