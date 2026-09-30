@@ -1,16 +1,163 @@
 [
   {
-    "title": "Australia news live: Chalmers blames inflation on high fuel costs and end of energy rebates; Faruqi ‘disappointed’ after Greens ballot",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
-    "pubDate": "30.09.2026 03:12:22",
-    "sortDate": 1790737942000,
+    "title": "Insects play critical role in ecosystems beyond just providing food, new research shows",
+    "link": "https://www.theguardian.com/environment/2026/sep/30/insects-ecosystems-conservation",
+    "pubDate": "30.09.2026 10:00:24",
+    "sortDate": 1790762424000,
     "source": "The Guardian"
   },
   {
-    "title": "David Shoebridge says ‘we’re here to replace Labor’ in first remarks after being elected new Greens leader",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/30/david-shoebridge-greens-leadership-steph-hodgins-may-retreat-larissa-waters",
-    "pubDate": "30.09.2026 02:47:50",
-    "sortDate": 1790736470000,
+    "title": "Trump campaign ads paid with public money violate federal law, critics say",
+    "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-campaign-ads-violate-federal-law",
+    "pubDate": "30.09.2026 10:00:22",
+    "sortDate": 1790762422000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "As AI images become common, the threat to elections draws alarm: ‘How will voters know what’s true?’",
+    "link": "https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
+    "pubDate": "30.09.2026 10:00:22",
+    "sortDate": 1790762422000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Belgium’s defence minister warns of ‘dark winter for Europe’ with more ‘hybrid warfare’ from Russia - Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
+    "pubDate": "30.09.2026 09:53:23",
+    "sortDate": 1790762003000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham says UK ‘can’t afford another decade of post-Brexit drift’ as he leaves door open to rejoining the EU – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+    "pubDate": "30.09.2026 09:38:54",
+    "sortDate": 1790761134000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Greggs announces plans to shut four UK factories that could cost 740 jobs",
+    "link": "https://www.theguardian.com/business/2026/sep/30/greggs-to-close-four-uk-factories-with-potential-for-740-job-losses",
+    "pubDate": "30.09.2026 09:32:09",
+    "sortDate": 1790760729000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israel-bound passenger plane makes emergency landing in Saudi Arabia after reported fight between pilots",
+    "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+    "pubDate": "30.09.2026 09:11:27",
+    "sortDate": 1790759487000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New Orleans judge files criminal case against CBS affiliate over reporting",
+    "link": "https://www.theguardian.com/us-news/2026/sep/30/new-orleans-judge-criminal-case-cbs-affiliate",
+    "pubDate": "30.09.2026 09:00:23",
+    "sortDate": 1790758823000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Poundland management in rescue talks that could save 11,000 jobs",
+    "link": "https://www.theguardian.com/business/2026/sep/30/poundland-management-in-rescue-talks-that-could-save-11000-jobs",
+    "pubDate": "30.09.2026 07:57:43",
+    "sortDate": 1790755063000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "South Korea calls for apology from North Korea after mine injures three soldiers",
+    "link": "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers",
+    "pubDate": "30.09.2026 07:53:24",
+    "sortDate": 1790754804000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘If people are in a bunker, business stops’: Missile alerts cost Ukraine $45m for every hour they halt businesses",
+    "link": "https://www.theguardian.com/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt",
+    "pubDate": "30.09.2026 07:52:53",
+    "sortDate": 1790754773000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham: UK could ‘go all the way’ by rejoining EU",
+    "link": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu",
+    "pubDate": "30.09.2026 07:41:26",
+    "sortDate": 1790754086000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Peugeot recalls hundreds of cars in Australia over issue that could increase ‘risk of serious injury or death’ – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
+    "pubDate": "30.09.2026 07:17:08",
+    "sortDate": 1790752628000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "David Shoebridge wants the Greens to ‘seize this moment’. Is his more combative style the answer?",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/30/australian-greens-david-shoebridge-new-leader-style-analysis",
+    "pubDate": "30.09.2026 07:12:22",
+    "sortDate": 1790752342000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sixteen English councils spend more than 80% of core funding on social care",
+    "link": "https://www.theguardian.com/society/2026/sep/30/councils-core-spending-social-care-england",
+    "pubDate": "30.09.2026 07:00:13",
+    "sortDate": 1790751613000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Energy bills in Great Britain forecast to jump by £276 a year from January",
+    "link": "https://www.theguardian.com/money/2026/sep/30/energy-bills-great-britain-forecast-to-rise-iran-war",
+    "pubDate": "30.09.2026 06:17:33",
+    "sortDate": 1790749053000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Malaysia begins Myanmar repatriations despite warnings from UN and rights groups",
+    "link": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups",
+    "pubDate": "30.09.2026 06:05:11",
+    "sortDate": 1790748311000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "World’s oceans absorbed record heat equal to 40 times annual global energy use",
+    "link": "https://www.theguardian.com/environment/2026/sep/30/worlds-seas-warmed-23-zettajoules-2025",
+    "pubDate": "30.09.2026 06:00:13",
+    "sortDate": 1790748013000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Approval of biggest coal project in NSW planning commission’s history described as ‘infamous betrayal’",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/30/hunter-valley-coal-project-singleton-ipc-planning-decision",
+    "pubDate": "30.09.2026 05:48:20",
+    "sortDate": 1790747300000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Double beds, aircon and big-screen TVs: Indonesia suspends officials over luxury prison cells",
+    "link": "https://www.theguardian.com/world/2026/sep/30/indonesia-prison-officials-suspended-luxury-apartments-prisoners",
+    "pubDate": "30.09.2026 05:27:22",
+    "sortDate": 1790746042000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NSW man accused of murdering neighbour – and then murdering his relative two weeks later",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/30/nsw-man-accused-murdering-neighbour-and-relative-gurranang-ntwnfb",
+    "pubDate": "30.09.2026 05:20:41",
+    "sortDate": 1790745641000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
+    "link": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+    "pubDate": "30.09.2026 05:00:12",
+    "sortDate": 1790744412000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
+    "link": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
+    "pubDate": "30.09.2026 04:40:25",
+    "sortDate": 1790743225000,
     "source": "The Guardian"
   },
   {
@@ -21,129 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "An EV sold every 100 seconds: Australian demand for electric cars more than doubles",
-    "link": "https://www.theguardian.com/environment/2026/sep/30/australia-electric-cars-vehichles-ev-sales-double",
-    "pubDate": "30.09.2026 02:02:20",
-    "sortDate": 1790733740000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-    "pubDate": "30.09.2026 01:53:11",
-    "sortDate": 1790733191000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Florida man, age 77, becomes 16th person to be executed in state this year",
-    "link": "https://www.theguardian.com/us-news/2026/sep/29/curtis-wilkie-beasley-executed-florida",
-    "pubDate": "30.09.2026 01:33:29",
-    "sortDate": 1790732009000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
-    "link": "https://www.theguardian.com/us-news/2026/sep/29/senate-resolution-west-bank-israel-violence",
-    "pubDate": "30.09.2026 00:16:17",
-    "sortDate": 1790727377000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘He’s unbearable’: bear that went viral for living under LA home is back",
-    "link": "https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace",
-    "pubDate": "29.09.2026 23:43:27",
-    "sortDate": 1790725407000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hundreds detained as student protests across France turn violent",
-    "link": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent",
-    "pubDate": "29.09.2026 23:27:30",
-    "sortDate": 1790724450000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "From One Nation to fossil fuels, Adam Bandt and Bob Brown reveal vision for Greens ahead of leadership showdown",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/30/senior-greens-figures-say-new-leadership-must-stop-labor-approving-fossil-fuel-projects-by-whatever-means",
-    "pubDate": "29.09.2026 22:50:41",
-    "sortDate": 1790722241000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Suspect in RAF Fairford case called police to report incident",
-    "link": "https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-police-uk-counter-terrorism",
-    "pubDate": "29.09.2026 21:35:16",
-    "sortDate": 1790717716000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Give BrewDog ‘second chance’ says new owner as it invests £50m",
-    "link": "https://www.theguardian.com/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
-    "pubDate": "29.09.2026 18:35:27",
-    "sortDate": 1790706927000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham gambles on radical progressive plan to help Britain ‘rise again’",
-    "link": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-    "pubDate": "29.09.2026 18:21:29",
-    "sortDate": 1790706089000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham says he would put PR in Labour manifesto and scrap triple lock to fund social care – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
-    "pubDate": "29.09.2026 17:20:06",
-    "sortDate": 1790702406000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham’s emotional solo act had Labour in raptures – but his promises will take time to come good",
-    "link": "https://www.theguardian.com/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
-    "pubDate": "29.09.2026 17:13:39",
-    "sortDate": 1790702019000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Saudi Arabia urged to reconcile with UAE to drive back Houthi separatists in Yemen",
     "link": "https://www.theguardian.com/world/2026/sep/29/saudi-arabia-urged-to-reconcile-with-uae-to-drive-back-houthi-separatists-in-yemen",
     "pubDate": "29.09.2026 16:52:37",
     "sortDate": 1790700757000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "National Rally’s Jordan Bardella rails at ‘war’ on party after antisemitism claims",
-    "link": "https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france",
-    "pubDate": "29.09.2026 15:16:39",
-    "sortDate": 1790694999000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
-    "pubDate": "29.09.2026 15:03:15",
-    "sortDate": 1790694195000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australian government concedes no scientific consensus on social media harms for teenagers – but ‘credible risks’ justify ban",
-    "link": "https://www.theguardian.com/australia-news/2026/sep/30/social-media-ban-australia-high-court-mental-health-risks-teens",
-    "pubDate": "29.09.2026 15:00:56",
-    "sortDate": 1790694056000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old",
-    "link": "https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction",
-    "pubDate": "29.09.2026 14:27:03",
-    "sortDate": 1790692023000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Estonia blames Russia for arson attack on drone maker supplying Ukraine",
-    "link": "https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine",
-    "pubDate": "29.09.2026 14:20:39",
-    "sortDate": 1790691639000,
     "source": "The Guardian"
   },
   {
@@ -189,24 +217,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction",
-    "link": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
-    "pubDate": "28.09.2026 08:18:24",
-    "sortDate": 1790583504000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Children forced to give up school for work as fighting upends daily life in Yemen",
     "link": "https://www.theguardian.com/world/2026/sep/28/yemen-fighting-houthis-families-flee-displacement",
     "pubDate": "28.09.2026 07:07:26",
     "sortDate": 1790579246000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘You were right’: Ed Miliband tells critics Labour was wrong on Gaza",
-    "link": "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short",
-    "pubDate": "28.09.2026 04:00:24",
-    "sortDate": 1790568024000,
     "source": "The Guardian"
   },
   {
@@ -228,13 +242,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
     "pubDate": "27.09.2026 13:46:49",
     "sortDate": 1790516809000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
-    "link": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
-    "pubDate": "27.09.2026 13:14:42",
-    "sortDate": 1790514882000,
     "source": "The Guardian"
   },
   {
@@ -270,13 +277,6 @@
     "link": "https://www.theguardian.com/world/2026/sep/25/pakistan-lockdown-islamabad-imran-khan-party-march",
     "pubDate": "25.09.2026 13:44:55",
     "sortDate": 1790343895000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pomp over progress in Xi’s US summit with Trump is a win for China",
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
-    "pubDate": "25.09.2026 12:41:14",
-    "sortDate": 1790340074000,
     "source": "The Guardian"
   },
   {
