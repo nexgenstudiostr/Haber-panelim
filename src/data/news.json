@@ -1,30 +1,121 @@
 [
   {
-    "title": "French high school protests escalate with violence reported – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
-    "pubDate": "01.10.2026 15:35:36",
-    "sortDate": 1790868936000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US supreme court to review policy to detain immigrants challenging deportation – live",
+    "title": "Trump doesn’t rule out sending ICE to polling sites; US supreme court to review policy to detain immigrants challenging deportation – live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/01/tennessee-governor-halts-executions-christa-pike-lethal-injection-donald-trump-hegseth-musk-us-politics-latest-news-updates",
-    "pubDate": "01.10.2026 15:34:35",
-    "sortDate": 1790868875000,
+    "pubDate": "01.10.2026 20:29:53",
+    "sortDate": 1790886593000,
     "source": "The Guardian"
   },
   {
-    "title": "Farage hints Reform’s internal inquiry could clear two aides suspended after C4 investigation – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates",
-    "pubDate": "01.10.2026 15:28:46",
-    "sortDate": 1790868526000,
+    "title": "Judge denies defense motion to declare Lindsay Clancy not guilty of murder",
+    "link": "https://www.theguardian.com/us-news/2026/oct/01/lindsay-clancy-not-guilty-motion-denied",
+    "pubDate": "01.10.2026 20:27:38",
+    "sortDate": 1790886458000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Supreme court to hear case challenging Trump’s immigration detention policy",
+    "link": "https://www.theguardian.com/us-news/2026/oct/01/supreme-court-case-trump-immigration-detention",
+    "pubDate": "01.10.2026 20:20:49",
+    "sortDate": 1790886049000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lyft agrees to pay California $272.5m in largest-ever wage theft settlement",
+    "link": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
+    "pubDate": "01.10.2026 20:05:46",
+    "sortDate": 1790885146000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump doesn’t rule out declaring state of emergency before midterm elections",
+    "link": "https://www.theguardian.com/us-news/2026/oct/01/trump-iran-war-poll-ratings-time-interview",
+    "pubDate": "01.10.2026 19:20:18",
+    "sortDate": 1790882418000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "How success of Manchester City helped put Andy Burnham in power",
+    "link": "https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power",
+    "pubDate": "01.10.2026 18:53:05",
+    "sortDate": 1790880785000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Key disability benefit for young people may be axed under major welfare changes",
+    "link": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+    "pubDate": "01.10.2026 18:43:00",
+    "sortDate": 1790880180000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+    "link": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+    "pubDate": "01.10.2026 18:34:10",
+    "sortDate": 1790879650000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour figures uneasy about Healey’s ‘underpowered’ approach to budget",
+    "link": "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
+    "pubDate": "01.10.2026 18:33:40",
+    "sortDate": 1790879620000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Total class act’: Marie-France van Heel is poised to be a very different PM’s wife",
+    "link": "https://www.theguardian.com/politics/2026/oct/01/marie-france-van-heel-very-different-type-prime-minister-wife",
+    "pubDate": "01.10.2026 17:56:46",
+    "sortDate": 1790877406000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+    "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+    "pubDate": "01.10.2026 17:56:18",
+    "sortDate": 1790877378000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
+    "link": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
+    "pubDate": "01.10.2026 17:52:16",
+    "sortDate": 1790877136000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
+    "link": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+    "pubDate": "01.10.2026 17:45:09",
+    "sortDate": 1790876709000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Britain in talks with European allies over release of emergency diesel stockpiles",
+    "link": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
+    "pubDate": "01.10.2026 16:49:01",
+    "sortDate": 1790873341000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+    "pubDate": "01.10.2026 16:38:32",
+    "sortDate": 1790872712000,
     "source": "The Guardian"
   },
   {
     "title": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
     "link": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-    "pubDate": "01.10.2026 15:21:28",
-    "sortDate": 1790868088000,
+    "pubDate": "01.10.2026 16:04:48",
+    "sortDate": 1790870688000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+    "link": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+    "pubDate": "01.10.2026 15:52:14",
+    "sortDate": 1790869934000,
     "source": "The Guardian"
   },
   {
@@ -56,66 +147,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
-    "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-    "pubDate": "01.10.2026 14:48:45",
-    "sortDate": 1790866125000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Rick Ross arrested on domestic battery and strangulation charges",
-    "link": "https://www.theguardian.com/music/2026/oct/01/rick-ross-arrest-miami-battery-strangulation",
-    "pubDate": "01.10.2026 14:34:42",
-    "sortDate": 1790865282000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Naomi Campbell wins legal challenge over charity trustee ban",
-    "link": "https://www.theguardian.com/society/2026/oct/01/naomi-campbell-wins-legal-challenge-charity-trustee-ban",
-    "pubDate": "01.10.2026 14:29:42",
-    "sortDate": 1790864982000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Finnish PM says suspected break-ins at MPs’ homes could be work of foreign power",
     "link": "https://www.theguardian.com/world/2026/oct/01/finland-suspected-break-ins-mp-homes-foreign-power",
     "pubDate": "01.10.2026 14:29:26",
     "sortDate": 1790864966000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "White House removes CNN from press pool for second time in a week",
-    "link": "https://www.theguardian.com/media/2026/oct/01/nn-white-house-second-removal-media-ban",
-    "pubDate": "01.10.2026 14:07:20",
-    "sortDate": 1790863640000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tourette syndrome campaigner John Davidson to watch Bafta Scotland awards in separate ‘relaxed’ space",
-    "link": "https://www.theguardian.com/film/2026/oct/01/tourette-syndrome-campaigner-john-davidson-to-watch-bafta-scotland-awards-in-separate-relaxed-space",
-    "pubDate": "01.10.2026 14:06:40",
-    "sortDate": 1790863600000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Witnesses detail horror of Tennessee woman’s botched execution: ‘None of it was normal’",
-    "link": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-failed-execution-witness-accounts",
-    "pubDate": "01.10.2026 14:01:12",
-    "sortDate": 1790863272000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump and his allies credit deportations with record low crime. Experts disagree",
-    "link": "https://www.theguardian.com/us-news/2026/oct/01/trump-deportations-crime-experts",
-    "pubDate": "01.10.2026 14:00:53",
-    "sortDate": 1790863253000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘I do it because I like it’: Bodhana Sivanandan, 11, on being youngest ever ‘woman grandmaster’",
-    "link": "https://www.theguardian.com/sport/2026/oct/01/bodhana-sivanandan-11-youngest-ever-female-chess-grandmaster",
-    "pubDate": "01.10.2026 14:00:52",
-    "sortDate": 1790863252000,
     "source": "The Guardian"
   },
   {
@@ -133,6 +168,34 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN Member States weigh latest Security Council veto, this time on Iran",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168505",
+    "pubDate": "01.10.2026 12:00:00",
+    "sortDate": 1790856000000,
+    "source": "UN News"
+  },
+  {
+    "title": "No more execution attempts on Christa Pike, UN rights chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168504",
+    "pubDate": "01.10.2026 12:00:00",
+    "sortDate": 1790856000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168503",
+    "pubDate": "01.10.2026 12:00:00",
+    "sortDate": 1790856000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Women are not victims’: Türk calls for women to be at the heart of peace and security",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168502",
+    "pubDate": "01.10.2026 12:00:00",
+    "sortDate": 1790856000000,
+    "source": "UN News"
+  },
+  {
     "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168500",
     "pubDate": "01.10.2026 12:00:00",
@@ -145,20 +208,6 @@
     "pubDate": "01.10.2026 12:00:00",
     "sortDate": 1790856000000,
     "source": "UN News"
-  },
-  {
-    "title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
-    "link": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
-    "pubDate": "01.10.2026 10:49:24",
-    "sortDate": 1790851764000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jürgen Klopp disgusted by claims his Germany team are ‘not white enough’",
-    "link": "https://www.theguardian.com/football/2026/oct/01/jurgen-klopp-germany-team-not-white-enough-disgusted-claims",
-    "pubDate": "01.10.2026 10:06:14",
-    "sortDate": 1790849174000,
-    "source": "The Guardian"
   },
   {
     "title": "‘It’s utter surrealism’: Venezuela’s Chavistas lament government’s embrace of Trump",
@@ -196,24 +245,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
-    "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-    "pubDate": "30.09.2026 22:30:53",
-    "sortDate": 1790807453000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
     "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
     "pubDate": "30.09.2026 19:51:24",
     "sortDate": 1790797884000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Israeli forces overwhelmed by violent settlers in ‘terrorist attack’ on Palestinian family",
-    "link": "https://www.theguardian.com/world/2026/sep/30/israeli-settler-violence-west-bank-attack-jalud-palestinians-icrc",
-    "pubDate": "30.09.2026 19:01:03",
-    "sortDate": 1790794863000,
     "source": "The Guardian"
   },
   {
@@ -252,7 +287,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Palestinians yearn for ‘a return to normal life,’ says top Middle East peace envoy",
+    "title": "Palestinians yearn for ‘a return to normal life’, says top Middle East peace envoy",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168497",
     "pubDate": "30.09.2026 12:00:00",
     "sortDate": 1790769600000,
@@ -448,13 +483,6 @@
     "source": "UN News"
   },
   {
-    "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168465",
-    "pubDate": "28.09.2026 12:00:00",
-    "sortDate": 1790596800000,
-    "source": "UN News"
-  },
-  {
     "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
     "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
     "pubDate": "27.09.2026 23:24:10",
@@ -476,39 +504,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "The Takeaway: UN General Assembly debate Day 5",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168462",
-    "pubDate": "27.09.2026 12:00:00",
-    "sortDate": 1790510400000,
-    "source": "UN News"
-  },
-  {
     "title": "Melbourne man’s mysterious disappearance on popular Peru hiking trail prompts widespread search",
     "link": "https://www.theguardian.com/world/2026/sep/27/melbourne-man-disappearance-south-american-hiking-trail-search-peru",
     "pubDate": "27.09.2026 06:45:54",
     "sortDate": 1790491554000,
     "source": "The Guardian"
-  },
-  {
-    "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
-    "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
-    "pubDate": "26.09.2026 16:00:39",
-    "sortDate": 1790438439000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Canada urges stronger partnerships as global order faces ‘rupture’",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168461",
-    "pubDate": "26.09.2026 12:00:00",
-    "sortDate": 1790424000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168460",
-    "pubDate": "26.09.2026 12:00:00",
-    "sortDate": 1790424000000,
-    "source": "UN News"
   },
   {
     "title": "Pakistan locks down Islamabad as Imran Khan’s party vows to march on capital",
