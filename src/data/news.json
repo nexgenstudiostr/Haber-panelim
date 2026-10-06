@@ -1,30 +1,100 @@
 [
   {
-    "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
+    "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-    "pubDate": "06.10.2026 17:28:57",
-    "sortDate": 1791307737000,
+    "pubDate": "06.10.2026 21:57:47",
+    "sortDate": 1791323867000,
     "source": "The Guardian"
   },
   {
-    "title": "Three men jailed for raping teenage girl before fleeing UK in back of lorry",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/06/three-men-raped-girl-fled-in-lorry-jailed-bristol",
-    "pubDate": "06.10.2026 17:23:48",
-    "sortDate": 1791307428000,
+    "title": "Trump announces $6.6bn defense shipyard owned by top Republican donor’s firm",
+    "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore",
+    "pubDate": "06.10.2026 21:46:33",
+    "sortDate": 1791323193000,
     "source": "The Guardian"
   },
   {
-    "title": "Our reporters are answering your questions on how the Iran war will affect the midterm elections",
-    "link": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
-    "pubDate": "06.10.2026 17:14:14",
-    "sortDate": 1791306854000,
+    "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
+    "link": "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
+    "pubDate": "06.10.2026 21:24:50",
+    "sortDate": 1791321890000,
     "source": "The Guardian"
   },
   {
-    "title": "Badenoch announces £2.3bn proposal to cut employer national insurance for young workers – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-    "pubDate": "06.10.2026 17:01:12",
-    "sortDate": 1791306072000,
+    "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
+    "link": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
+    "pubDate": "06.10.2026 21:21:48",
+    "sortDate": 1791321708000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump says he is weighing suspension of federal gas tax",
+    "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-federal-gas-tax",
+    "pubDate": "06.10.2026 21:19:47",
+    "sortDate": 1791321587000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Badenoch denies plan for ‘British Iron Dome’ – after Tories use phrase in press release",
+    "link": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
+    "pubDate": "06.10.2026 21:15:06",
+    "sortDate": 1791321306000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israeli settlers beat press photographer as soldiers watch in West Bank",
+    "link": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
+    "pubDate": "06.10.2026 21:00:28",
+    "sortDate": 1791320428000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on 7 October anniversary",
+    "link": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb",
+    "pubDate": "06.10.2026 20:59:31",
+    "sortDate": 1791320371000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘All I want to do is cry’: trauma of 7 October survivors three years after the attacks",
+    "link": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks",
+    "pubDate": "06.10.2026 20:00:23",
+    "sortDate": 1791316823000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Chancellor plans major intervention to help poorer UK households with rising energy bills",
+    "link": "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills",
+    "pubDate": "06.10.2026 19:27:59",
+    "sortDate": 1791314879000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Senior academics set out key questions Cambridge must answer over Jason Arday’s death",
+    "link": "https://www.theguardian.com/education/2026/oct/06/cambridge-university-academics-jason-arday-death-investigation-inadequate",
+    "pubDate": "06.10.2026 18:44:25",
+    "sortDate": 1791312265000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour figures rule out working with Greens after ‘Zionism is racism’ vote",
+    "link": "https://www.theguardian.com/politics/2026/oct/06/labour-figures-rule-out-working-with-greens-after-zionism-is-racism-vote",
+    "pubDate": "06.10.2026 18:26:29",
+    "sortDate": 1791311189000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British man arrested over suspected RAF Fairford terrorism plot",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/06/british-man-arrested-over-suspected-raf-fairford-terrorism-plot",
+    "pubDate": "06.10.2026 18:13:44",
+    "sortDate": 1791310424000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+    "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+    "pubDate": "06.10.2026 18:02:56",
+    "sortDate": 1791309776000,
     "source": "The Guardian"
   },
   {
@@ -32,13 +102,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
     "pubDate": "06.10.2026 16:53:21",
     "sortDate": 1791305601000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Election deniers stoke Trump-driven ballot security fears before midterms",
-    "link": "https://www.theguardian.com/us-news/2026/oct/06/election-deniers-midterms-trump",
-    "pubDate": "06.10.2026 16:50:47",
-    "sortDate": 1791305447000,
     "source": "The Guardian"
   },
   {
@@ -56,45 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "New York City med spa owner admits to giving client botulism with bootleg Botox",
-    "link": "https://www.theguardian.com/us-news/2026/oct/06/new-york-med-spa-botulism-botox",
-    "pubDate": "06.10.2026 16:06:35",
-    "sortDate": 1791302795000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s suggestion that Iran could ‘take out’ LA or San Diego draws Republican rebuke",
-    "link": "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego",
-    "pubDate": "06.10.2026 15:39:22",
-    "sortDate": 1791301162000,
-    "source": "The Guardian"
-  },
-  {
     "title": "State parliament elects Germany’s first far-right speaker since second world war",
     "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
     "pubDate": "06.10.2026 15:38:58",
     "sortDate": 1791301138000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
-    "link": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
-    "pubDate": "06.10.2026 15:06:35",
-    "sortDate": 1791299195000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Proportion of people in Great Britain vaping who never smoked doubles in four years",
-    "link": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
-    "pubDate": "06.10.2026 15:05:53",
-    "sortDate": 1791299153000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reform MP raises concerns about second homes – then buys one for £800,000",
-    "link": "https://www.theguardian.com/politics/2026/oct/06/reform-sarah-pochin-second-homes-bought-800000",
-    "pubDate": "06.10.2026 14:41:17",
-    "sortDate": 1791297677000,
     "source": "The Guardian"
   },
   {
@@ -119,13 +147,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Norwegian princess Märtha Louise and husband sue ex-friends for ‘betrayal of trust’",
-    "link": "https://www.theguardian.com/us-news/2026/oct/06/norway-princess-martha-louise-husband-durek-verrett-lawsuit-defamation-los-angeles",
-    "pubDate": "06.10.2026 13:59:17",
-    "sortDate": 1791295157000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
     "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
     "pubDate": "06.10.2026 12:46:56",
@@ -138,6 +159,20 @@
     "pubDate": "06.10.2026 12:21:01",
     "sortDate": 1791289261000,
     "source": "The Guardian"
+  },
+  {
+    "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168537",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168535",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
   },
   {
     "title": "Testing and monitoring underway in suspected Russia plague death",
@@ -182,17 +217,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "OpenAI delivers a mea culpa to the Australian government in person – but answers still elude",
+    "title": "OpenAI’s Jason Kwon gave even-toned, reassuring answers to the Australian government. Did … ChatGPT write this?",
     "link": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
     "pubDate": "06.10.2026 11:12:41",
     "sortDate": 1791285161000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Richard Morecroft, veteran ABC news presenter, dies age 70 after cancer diagnosis",
-    "link": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
-    "pubDate": "06.10.2026 10:44:48",
-    "sortDate": 1791283488000,
     "source": "The Guardian"
   },
   {
@@ -249,20 +277,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
     "pubDate": "05.10.2026 18:00:47",
     "sortDate": 1791223247000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK threatens to expel Israeli diplomats over planned East Jerusalem consulate closure",
-    "link": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate",
-    "pubDate": "05.10.2026 17:53:46",
-    "sortDate": 1791222826000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
-    "link": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
-    "pubDate": "05.10.2026 15:45:46",
-    "sortDate": 1791215146000,
     "source": "The Guardian"
   },
   {
@@ -506,20 +520,6 @@
   {
     "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168503",
-    "pubDate": "01.10.2026 12:00:00",
-    "sortDate": 1790856000000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Women are not victims’: Türk calls for women to be at the heart of peace and security",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168502",
-    "pubDate": "01.10.2026 12:00:00",
-    "sortDate": 1790856000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168500",
     "pubDate": "01.10.2026 12:00:00",
     "sortDate": 1790856000000,
     "source": "UN News"
