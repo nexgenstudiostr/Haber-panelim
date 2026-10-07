@@ -1,9 +1,128 @@
 [
   {
-    "title": "Hunter Valley community group wins landmark high court climate change case over Mount Pleasant coalmine",
-    "link": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
-    "pubDate": "07.10.2026 01:44:47",
-    "sortDate": 1791337487000,
+    "title": "WHO releases first global guidelines on child obesity as cases surge",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168536",
+    "pubDate": "07.10.2026 12:00:00",
+    "sortDate": 1791374400000,
+    "source": "UN News"
+  },
+  {
+    "title": "UK house prices flatline as rising mortgage costs weigh on market",
+    "link": "https://www.theguardian.com/business/2026/oct/07/uk-house-prices-flatline-as-rising-mortgage-costs-weigh-on-market",
+    "pubDate": "07.10.2026 07:56:02",
+    "sortDate": 1791359762000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
+    "pubDate": "07.10.2026 07:51:29",
+    "sortDate": 1791359489000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nicolas Ghesquière takes us into the future for Louis Vuitton show in Paris",
+    "link": "https://www.theguardian.com/fashion/2026/oct/07/louis-vuitton-nicolas-ghesquiere-futuristic-show-paris-fashion-week",
+    "pubDate": "07.10.2026 07:49:35",
+    "sortDate": 1791359375000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Badenoch expected to announce plan to cut inheritance tax and claim UK faces ‘battle of ideas’ over spending – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
+    "pubDate": "07.10.2026 07:41:48",
+    "sortDate": 1791358908000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Lawyers should be running to courts’ to stop coal approvals after landmark ruling, NSW MP says",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/07/mount-pleasant-hunter-valley-coalmine-high-court-ruling-community-advocates",
+    "pubDate": "07.10.2026 07:24:31",
+    "sortDate": 1791357871000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/07/angus-taylor-coalition-immigration-policy-not-fully-costed-ntwnfb",
+    "pubDate": "07.10.2026 06:52:45",
+    "sortDate": 1791355965000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Scientists who put faith in technology less likely to take climate action",
+    "link": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+    "pubDate": "07.10.2026 06:00:36",
+    "sortDate": 1791352836000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Detective breaks down in court as she recalls finding Beau Lamarre-Condon’s alleged murder victims",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
+    "pubDate": "07.10.2026 05:47:03",
+    "sortDate": 1791352023000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Queensland man charged with murder after three-month-old son dies from ‘significant internal injuries’",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/07/queensland-man-charged-murder-three-month-old-baby-son-ntwnfb",
+    "pubDate": "07.10.2026 05:39:57",
+    "sortDate": 1791351597000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
+    "link": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
+    "pubDate": "07.10.2026 05:25:10",
+    "sortDate": 1791350710000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tories delight as satirical tapestry pokes fun at ‘turncoat’ Robert Jenrick",
+    "link": "https://www.theguardian.com/politics/2026/oct/07/conservative-party-conference-satirical-tapestry-robert-jenrick",
+    "pubDate": "07.10.2026 05:00:35",
+    "sortDate": 1791349235000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "O2 signs record £200m deal to keep London venue’s naming rights",
+    "link": "https://www.theguardian.com/business/2026/oct/07/o2-signs-record-deal-london-venue-the-o2-naming-rights",
+    "pubDate": "07.10.2026 05:00:35",
+    "sortDate": 1791349235000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Former bishop sentenced to more than six years in prison for sexually abusing young Aboriginal men",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/07/christopher-alan-saunders-broome-bishop-sexual-abuse-aboriginal-men-ntwnfb",
+    "pubDate": "07.10.2026 04:42:52",
+    "sortDate": 1791348172000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
+    "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi",
+    "pubDate": "07.10.2026 04:39:01",
+    "sortDate": 1791347941000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
+    "link": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
+    "pubDate": "07.10.2026 04:00:34",
+    "sortDate": 1791345634000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Friends of Nolan Wells sue NFL Hall of Famer Terrell Owens for defamation",
+    "link": "https://www.theguardian.com/us-news/2026/oct/06/nolan-wells-friends-terrell-owens-defamation",
+    "pubDate": "07.10.2026 02:04:38",
+    "sortDate": 1791338678000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+    "pubDate": "07.10.2026 01:58:29",
+    "sortDate": 1791338309000,
     "source": "The Guardian"
   },
   {
@@ -14,27 +133,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-    "pubDate": "07.10.2026 01:36:04",
-    "sortDate": 1791336964000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Comedian Dave Hughes to stop speaking at Liberal party events over political donation concerns",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/07/comedian-dave-hughes-liberal-party-donation-law-concerns-ntwnfb",
-    "pubDate": "07.10.2026 01:17:22",
-    "sortDate": 1791335842000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Richard Morecroft, veteran ABC news presenter, dies aged 70 after cancer diagnosis",
-    "link": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
-    "pubDate": "07.10.2026 01:16:03",
-    "sortDate": 1791335763000,
-    "source": "The Guardian"
-  },
-  {
     "title": "David Ellison denies he has ‘politicized’ Skydance despite close Trump links",
     "link": "https://www.theguardian.com/media/2026/oct/06/skydance-david-ellison-trump",
     "pubDate": "07.10.2026 00:45:45",
@@ -42,38 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pornhub returns to Australia after banning access due to age verification rules",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/07/pornhub-returns-australia-apple-age-verification-rules-child-safety-ntwnfb",
-    "pubDate": "07.10.2026 00:28:14",
-    "sortDate": 1791332894000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jaguar targets young Americans with Type 01 EV – but it’s too long for UK parking spaces",
-    "link": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
-    "pubDate": "07.10.2026 00:00:28",
-    "sortDate": 1791331228000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Privacy watchdog launches probe into China-based company behind Kmart ‘pervert glasses’ app",
-    "link": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
-    "pubDate": "06.10.2026 23:58:23",
-    "sortDate": 1791331103000,
-    "source": "The Guardian"
-  },
-  {
     "title": "LA and San Diego residents ‘horrified’ by Trump suggesting Iran bomb them",
     "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
     "pubDate": "06.10.2026 23:45:02",
     "sortDate": 1791330302000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
-    "link": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
-    "pubDate": "06.10.2026 23:35:51",
-    "sortDate": 1791329751000,
     "source": "The Guardian"
   },
   {
@@ -105,13 +175,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Badenoch denies plan for ‘British Iron Dome’ – after Tories use phrase in press release",
-    "link": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
-    "pubDate": "06.10.2026 21:15:06",
-    "sortDate": 1791321306000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Israeli settlers beat press photographer as soldiers watch in West Bank",
     "link": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
     "pubDate": "06.10.2026 21:00:28",
@@ -126,52 +189,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Chancellor plans major intervention to help poorer UK households with rising energy bills",
-    "link": "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills",
-    "pubDate": "06.10.2026 19:27:59",
-    "sortDate": 1791314879000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Senior academics set out key questions Cambridge must answer over Jason Arday’s death",
-    "link": "https://www.theguardian.com/education/2026/oct/06/cambridge-university-academics-jason-arday-death-investigation-inadequate",
-    "pubDate": "06.10.2026 18:44:25",
-    "sortDate": 1791312265000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labour figures rule out working with Greens after ‘Zionism is racism’ vote",
-    "link": "https://www.theguardian.com/politics/2026/oct/06/labour-figures-rule-out-working-with-greens-after-zionism-is-racism-vote",
-    "pubDate": "06.10.2026 18:26:29",
-    "sortDate": 1791311189000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Google told to halt work on datacentres in Finland over environmental concerns",
-    "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-    "pubDate": "06.10.2026 18:02:56",
-    "sortDate": 1791309776000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
     "link": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
     "pubDate": "06.10.2026 16:53:21",
     "sortDate": 1791305601000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Greek prime minister vows to ‘ramp up’ efforts to regain Parthenon marbles",
-    "link": "https://www.theguardian.com/artanddesign/2026/oct/06/greek-prime-minister-pledges-to-ramp-up-efforts-to-regain-parthenon-marbles",
-    "pubDate": "06.10.2026 16:50:19",
-    "sortDate": 1791305419000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-    "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
-    "pubDate": "06.10.2026 16:23:12",
-    "sortDate": 1791303792000,
     "source": "The Guardian"
   },
   {
@@ -187,6 +208,20 @@
     "pubDate": "06.10.2026 12:21:01",
     "sortDate": 1791289261000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Rocket revolution’ opens access to space",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168538",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israeli demolition in East Jerusalem displaces 69 Palestinians",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168539",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
   },
   {
     "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
@@ -238,6 +273,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Former UN food agency official claims he was fired for highlighting hunger in Gaza",
+    "link": "https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza",
+    "pubDate": "06.10.2026 11:31:00",
+    "sortDate": 1791286260000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
     "link": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
     "pubDate": "06.10.2026 07:00:05",
@@ -277,13 +319,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
     "pubDate": "05.10.2026 19:44:01",
     "sortDate": 1791229441000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
-    "link": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
-    "pubDate": "05.10.2026 18:00:47",
-    "sortDate": 1791223247000,
     "source": "The Guardian"
   },
   {
@@ -364,13 +399,6 @@
     "source": "UN News"
   },
   {
-    "title": "Extreme heat warnings issued for parts of southern California",
-    "link": "https://www.theguardian.com/us-news/2026/oct/05/extreme-heat-warnings-southern-california",
-    "pubDate": "05.10.2026 08:20:52",
-    "sortDate": 1791188452000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
     "link": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
     "pubDate": "05.10.2026 04:00:48",
@@ -382,13 +410,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
     "pubDate": "04.10.2026 15:16:03",
     "sortDate": 1791126963000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US marine arrested in Japan on suspicion of killing woman, police say",
-    "link": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
-    "pubDate": "04.10.2026 13:46:19",
-    "sortDate": 1791121579000,
     "source": "The Guardian"
   },
   {
@@ -502,26 +523,5 @@
     "pubDate": "01.10.2026 13:10:51",
     "sortDate": 1790860251000,
     "source": "The Guardian"
-  },
-  {
-    "title": "UN Member States weigh latest Security Council veto, this time on Iran",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168505",
-    "pubDate": "01.10.2026 12:00:00",
-    "sortDate": 1790856000000,
-    "source": "UN News"
-  },
-  {
-    "title": "No more execution attempts on Christa Pike: UN rights chief",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168504",
-    "pubDate": "01.10.2026 12:00:00",
-    "sortDate": 1790856000000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168503",
-    "pubDate": "01.10.2026 12:00:00",
-    "sortDate": 1790856000000,
-    "source": "UN News"
   }
 ]
