@@ -1,23 +1,107 @@
 [
   {
-    "title": "USS Abraham Lincoln’s commanding officer addresses suicide attempts in strike group after record deployment – live",
+    "title": "Counting under way in Holborn and St Pancras byelection – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+    "pubDate": "09.10.2026 01:34:04",
+    "sortDate": 1791509644000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hegseth falsely claims Obama called 2009 Fort Hood attack ‘workplace violence’ – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-    "pubDate": "08.10.2026 21:32:48",
-    "sortDate": 1791495168000,
+    "pubDate": "09.10.2026 01:23:19",
+    "sortDate": 1791508999000,
     "source": "The Guardian"
   },
   {
-    "title": "Two Latvian men arrested at RAF base in Cambridgeshire used by US military",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/08/two-latvian-men-arrested-raf-molesworth-cambridgeshire-us-nato",
-    "pubDate": "08.10.2026 21:27:17",
-    "sortDate": 1791494837000,
+    "title": "Millions on alert as Hurricane Isaias set to bring dangerous storm surge",
+    "link": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
+    "pubDate": "09.10.2026 01:21:04",
+    "sortDate": 1791508864000,
     "source": "The Guardian"
   },
   {
-    "title": "Polls close in Holborn and St Pancras byelection as Labour hopes to retain seat",
-    "link": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
-    "pubDate": "08.10.2026 21:22:29",
-    "sortDate": 1791494549000,
+    "title": "Sydney festival 2027: 11 international dance works to headline ‘once-in-a-lifetime’ program",
+    "link": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program",
+    "pubDate": "09.10.2026 01:00:34",
+    "sortDate": 1791507634000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jim Chalmers overrules ATO’s controversial ban on credit card payments following business outcry",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/09/chalmers-delays-controversial-credit-card-ban-business-tax",
+    "pubDate": "09.10.2026 00:45:19",
+    "sortDate": 1791506719000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ICE agent shoots man in New York City with five-year-old in car",
+    "link": "https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent",
+    "pubDate": "09.10.2026 00:13:55",
+    "sortDate": 1791504835000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Plans for Sydney’s controversial new public square in doubt after NSW government intervention",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-public-square-controversy-state-government-intervention",
+    "pubDate": "08.10.2026 23:59:53",
+    "sortDate": 1791503993000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pentagon says execution of Fort Hood shooter will be livestreamed",
+    "link": "https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution",
+    "pubDate": "08.10.2026 23:18:29",
+    "sortDate": 1791501509000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real",
+    "link": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health",
+    "pubDate": "08.10.2026 23:01:32",
+    "sortDate": 1791500492000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NHS England mental health services review: what has it found and what does it recommend?",
+    "link": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism",
+    "pubDate": "08.10.2026 23:01:32",
+    "sortDate": 1791500492000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds",
+    "link": "https://www.theguardian.com/society/2026/oct/09/nhs-fonagy-review-autism-adhd-mental-health-conditions-care",
+    "pubDate": "08.10.2026 23:01:32",
+    "sortDate": 1791500492000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New Ofsted inspection regime damaging teachers, survey says",
+    "link": "https://www.theguardian.com/education/2026/oct/09/new-ofsted-inspection-regime-damaging-teachers-survey-says",
+    "pubDate": "08.10.2026 23:01:31",
+    "sortDate": 1791500491000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Curtis Flowers, US man wrongfully imprisoned for 22 years, dies aged 56",
+    "link": "https://www.theguardian.com/us-news/2026/oct/08/curtis-flowers-wrongful-conviction-mississippi-dead",
+    "pubDate": "08.10.2026 22:36:36",
+    "sortDate": 1791498996000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
+    "pubDate": "08.10.2026 22:33:24",
+    "sortDate": 1791498804000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French ministers scramble to appease students after 10 days of protests",
+    "link": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
+    "pubDate": "08.10.2026 21:47:23",
+    "sortDate": 1791496043000,
     "source": "The Guardian"
   },
   {
@@ -35,45 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Thousands turn out to welcome weary USS Lincoln sailors after fraught stretch at sea",
-    "link": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
-    "pubDate": "08.10.2026 20:18:19",
-    "sortDate": 1791490699000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Thousands march in Madrid after death of evicted pensioner Maricarmen",
     "link": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
     "pubDate": "08.10.2026 20:11:34",
     "sortDate": 1791490294000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo",
-    "link": "https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio",
-    "pubDate": "08.10.2026 20:10:25",
-    "sortDate": 1791490225000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
-    "link": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
-    "pubDate": "08.10.2026 20:02:47",
-    "sortDate": 1791489767000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "DoJ seeks to charge ex-Trump aide who gave key testimony on January 6 attack",
-    "link": "https://www.theguardian.com/us-news/2026/oct/08/cassidy-hutchinson-criminal-charges-doj",
-    "pubDate": "08.10.2026 19:06:20",
-    "sortDate": 1791486380000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Royal Navy sailor accused of spying for Russia appears in court",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act",
-    "pubDate": "08.10.2026 18:14:08",
-    "sortDate": 1791483248000,
     "source": "The Guardian"
   },
   {
@@ -95,27 +144,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
     "pubDate": "08.10.2026 17:52:35",
     "sortDate": 1791481955000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "French students continue protests, saying ministers’ pledges not enough",
-    "link": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
-    "pubDate": "08.10.2026 17:39:21",
-    "sortDate": 1791481161000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "What would make your life easier? Martin Lewis asks public for ‘small ideas’ to improve UK",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/08/martin-lewis-small-ideas-institute-public-improve-uk",
-    "pubDate": "08.10.2026 17:29:25",
-    "sortDate": 1791480565000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "A lake pilgrimage and a quiet car ride to the beach: last hours of sisters who took own lives in Brighton",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/08/last-hours-three-sisters-brighton-inquest",
-    "pubDate": "08.10.2026 17:19:48",
-    "sortDate": 1791479988000,
     "source": "The Guardian"
   },
   {
@@ -175,38 +203,59 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+    "pubDate": "08.10.2026 12:00:00",
+    "sortDate": 1791460800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+    "pubDate": "08.10.2026 12:00:00",
+    "sortDate": 1791460800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168555",
+    "pubDate": "08.10.2026 12:00:00",
+    "sortDate": 1791460800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168554",
+    "pubDate": "08.10.2026 12:00:00",
+    "sortDate": 1791460800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Age must never diminish rights,’ UN independent expert warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168553",
+    "pubDate": "08.10.2026 12:00:00",
+    "sortDate": 1791460800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168551",
+    "pubDate": "08.10.2026 12:00:00",
+    "sortDate": 1791460800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168550",
+    "pubDate": "08.10.2026 12:00:00",
+    "sortDate": 1791460800000,
+    "source": "UN News"
+  },
+  {
     "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
     "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
     "pubDate": "08.10.2026 11:11:47",
     "sortDate": 1791457907000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Queensland literary awards: ‘stunning’ debut inspired by segregated shantytown wins top prize",
-    "link": "https://www.theguardian.com/books/2026/oct/08/queensland-literary-awards-lenora-thaker-the-pearl-of-tagai-town-winner",
-    "pubDate": "08.10.2026 10:30:16",
-    "sortDate": 1791455416000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bachelor star Sam Wood denied bail as police allege he choked wife until she ‘thought she would die’",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb",
-    "pubDate": "08.10.2026 05:58:53",
-    "sortDate": 1791439133000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb",
-    "pubDate": "08.10.2026 05:30:47",
-    "sortDate": 1791437447000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘That is a lie’: alleged Alan Jones victim denies family tried to get money out of broadcaster, court hears",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/08/that-is-a-lie-alleged-alan-jones-victim-denies-family-tried-to-get-money-out-of-broadcaster-court-hears-ntwnfb",
-    "pubDate": "08.10.2026 04:48:00",
-    "sortDate": 1791434880000,
     "source": "The Guardian"
   },
   {
@@ -252,6 +301,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168548",
+    "pubDate": "07.10.2026 12:00:00",
+    "sortDate": 1791374400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168547",
+    "pubDate": "07.10.2026 12:00:00",
+    "sortDate": 1791374400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168546",
+    "pubDate": "07.10.2026 12:00:00",
+    "sortDate": 1791374400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168542",
+    "pubDate": "07.10.2026 12:00:00",
+    "sortDate": 1791374400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Critical funding gap threatens health response in Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+    "pubDate": "07.10.2026 12:00:00",
+    "sortDate": 1791374400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168540",
+    "pubDate": "07.10.2026 12:00:00",
+    "sortDate": 1791374400000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO releases first global guidelines on child obesity as cases surge",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168536",
+    "pubDate": "07.10.2026 12:00:00",
+    "sortDate": 1791374400000,
+    "source": "UN News"
+  },
+  {
     "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
     "link": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
     "pubDate": "07.10.2026 05:25:10",
@@ -264,6 +362,62 @@
     "pubDate": "06.10.2026 12:46:56",
     "sortDate": 1791290816000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Rocket revolution’ opens access to space",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168538",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Israeli demolition in East Jerusalem displaces 69 Palestinians",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168539",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168537",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168535",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Testing and monitoring underway in suspected Russia plague death",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168533",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168532",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Ebola takes the people children depend on’: UNICEF",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168531",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
+  },
+  {
+    "title": "When streets become pharmacies: Booming illicit markets in Central Africa",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168527",
+    "pubDate": "06.10.2026 12:00:00",
+    "sortDate": 1791288000000,
+    "source": "UN News"
   },
   {
     "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
@@ -285,6 +439,62 @@
     "pubDate": "05.10.2026 12:00:24",
     "sortDate": 1791201624000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘Nothing can justify these atrocities,’ says Guterres three years on from 7 October attacks",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168530",
+    "pubDate": "05.10.2026 12:00:00",
+    "sortDate": 1791201600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The clock on AI regulation is ticking’, warns UN rights chief",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168529",
+    "pubDate": "05.10.2026 12:00:00",
+    "sortDate": 1791201600000,
+    "source": "UN News"
+  },
+  {
+    "title": "More than 184,000 displaced as fighting intensifies in Yemen",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168528",
+    "pubDate": "05.10.2026 12:00:00",
+    "sortDate": 1791201600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security, sacrifice or opportunity: Visions differ over effective climate action",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168526",
+    "pubDate": "05.10.2026 12:00:00",
+    "sortDate": 1791201600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168522",
+    "pubDate": "05.10.2026 12:00:00",
+    "sortDate": 1791201600000,
+    "source": "UN News"
+  },
+  {
+    "title": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168521",
+    "pubDate": "05.10.2026 12:00:00",
+    "sortDate": 1791201600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN upholds housing as a human right on World Habitat Day",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168520",
+    "pubDate": "05.10.2026 12:00:00",
+    "sortDate": 1791201600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168519",
+    "pubDate": "05.10.2026 12:00:00",
+    "sortDate": 1791201600000,
+    "source": "UN News"
   },
   {
     "title": "India’s Cockroach movement launches new protests over changes to voter roll",
