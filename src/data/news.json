@@ -1,107 +1,135 @@
 [
   {
-    "title": "‘A big responsibility’: Clifton Suspension Bridge master hails £7.6m renovation",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/14/clifton-suspension-bridge-master-hails-refurbishment-bristol",
-    "pubDate": "14.10.2026 12:44:10",
-    "sortDate": 1791981850000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "French minister accuses Elon Musk of ‘online harassment campaigns’ against European leaders",
-    "link": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election",
-    "pubDate": "14.10.2026 12:39:22",
-    "sortDate": 1791981562000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-    "pubDate": "14.10.2026 12:37:54",
-    "sortDate": 1791981474000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US inflation rose to 3.7% in September, figures show",
-    "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
-    "pubDate": "14.10.2026 12:36:35",
-    "sortDate": 1791981395000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
+    "title": "DoJ threatens California over alleged noncitizen voting as Trump tries to rally support for Republicans – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-    "pubDate": "14.10.2026 12:27:14",
-    "sortDate": 1791980834000,
+    "pubDate": "14.10.2026 17:23:18",
+    "sortDate": 1791998598000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Student protests in Albania turn violent as demonstrators clash with police",
+    "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+    "pubDate": "14.10.2026 17:21:21",
+    "sortDate": 1791998481000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "The Archers cast ‘angry’ at BBC decision to scrap new Birmingham studio",
+    "link": "https://www.theguardian.com/media/2026/oct/14/the-archers-cast-radio-bbc-decision-new-studio-birmingham",
+    "pubDate": "14.10.2026 17:12:39",
+    "sortDate": 1791997959000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – as it happened",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+    "pubDate": "14.10.2026 17:06:58",
+    "sortDate": 1791997618000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+    "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+    "pubDate": "14.10.2026 17:05:42",
+    "sortDate": 1791997542000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
+    "link": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
+    "pubDate": "14.10.2026 17:00:14",
+    "sortDate": 1791997214000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Manchester City staff invited on government trade trip to India",
+    "link": "https://www.theguardian.com/football/2026/oct/14/bev-craig-manchester-city-trade-trip-india-to-promote-uk-tourism",
+    "pubDate": "14.10.2026 17:00:08",
+    "sortDate": 1791997208000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+    "link": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+    "pubDate": "14.10.2026 16:51:25",
+    "sortDate": 1791996685000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
+    "link": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+    "pubDate": "14.10.2026 16:49:15",
+    "sortDate": 1791996555000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
+    "link": "https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban",
+    "pubDate": "14.10.2026 16:43:27",
+    "sortDate": 1791996207000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cornell president acknowledges he knew about fraternity sexual assault but didn’t follow up",
+    "link": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
+    "pubDate": "14.10.2026 16:30:10",
+    "sortDate": 1791995410000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sir Trevor Phillips encouraged CBS News colleagues to tell critics to ‘fuck off’",
+    "link": "https://www.theguardian.com/media/2026/oct/14/sir-trevor-phillips-london-cbs-news",
+    "pubDate": "14.10.2026 16:20:59",
+    "sortDate": 1791994859000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
+    "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+    "pubDate": "14.10.2026 16:18:46",
+    "sortDate": 1791994726000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump administration promises social security recipients 3.6% increase in 2027",
+    "link": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
+    "pubDate": "14.10.2026 16:08:35",
+    "sortDate": 1791994115000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
+    "link": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
+    "pubDate": "14.10.2026 15:48:05",
+    "sortDate": 1791992885000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
+    "link": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+    "pubDate": "14.10.2026 15:33:52",
+    "sortDate": 1791992032000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+    "pubDate": "14.10.2026 15:02:35",
+    "sortDate": 1791990155000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
+    "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+    "pubDate": "14.10.2026 14:29:42",
+    "sortDate": 1791988182000,
     "source": "The Guardian"
   },
   {
     "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
     "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-    "pubDate": "14.10.2026 12:21:16",
-    "sortDate": 1791980476000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russell Brand was ‘ruthless and calculated’, prosecutors tell jury as rape and sexual assault trial begins – live",
-    "link": "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates",
-    "pubDate": "14.10.2026 12:11:27",
-    "sortDate": 1791979887000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ken Paxton stirs vaccine skepticism to ingratiate himself with Maha movement",
-    "link": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
-    "pubDate": "14.10.2026 12:00:02",
-    "sortDate": 1791979202000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tinie Tempah says he will finally visit Scunthorpe after campaign by fans",
-    "link": "https://www.theguardian.com/music/2026/oct/14/tinie-tempah-visit-scunthorpe-campaign-fans-pass-out",
-    "pubDate": "14.10.2026 11:59:01",
-    "sortDate": 1791979141000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham rules out deal with Greens as he condemns ‘Zionism is racism’ policy as ‘antisemitic’– UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-    "pubDate": "14.10.2026 11:57:25",
-    "sortDate": 1791979045000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bank of America fined $1.2bn for money laundering failures",
-    "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
-    "pubDate": "14.10.2026 11:54:29",
-    "sortDate": 1791978869000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK government apologises for past burials of stillborn babies in mass graves",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/14/uk-government-apologises-stillborn-babies-mass-graves",
-    "pubDate": "14.10.2026 11:42:22",
-    "sortDate": 1791978142000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pope Leo recovering from surgery after lung cancer diagnosis | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/oct/14/first-thing-pope-leo-surgery-lung-cancer",
-    "pubDate": "14.10.2026 10:15:14",
-    "sortDate": 1791972914000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
-    "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-    "pubDate": "14.10.2026 10:05:36",
-    "sortDate": 1791972336000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ukrainian soldier goes on trial over sabotage of Nord Stream gas pipelines",
-    "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
-    "pubDate": "14.10.2026 09:24:46",
-    "sortDate": 1791969886000,
+    "pubDate": "14.10.2026 13:16:30",
+    "sortDate": 1791983790000,
     "source": "The Guardian"
   },
   {
@@ -144,13 +172,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/oct/14/australia-reliant-on-gas-for-foreseeable-future-madeleine-king-press-club",
     "pubDate": "14.10.2026 05:52:22",
     "sortDate": 1791957142000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Wednesday briefing: ​Why small boat crossings are here to stay ​",
-    "link": "https://www.theguardian.com/world/2026/oct/14/wednesday-briefing-why-small-boat-crossings-are-here-to-stay",
-    "pubDate": "14.10.2026 05:44:34",
-    "sortDate": 1791956674000,
     "source": "The Guardian"
   },
   {
@@ -217,55 +238,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168589",
-    "pubDate": "13.10.2026 12:00:00",
-    "sortDate": 1791892800000,
-    "source": "UN News"
-  },
-  {
-    "title": "800 million young people face a future without jobs",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168588",
-    "pubDate": "13.10.2026 12:00:00",
-    "sortDate": 1791892800000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-    "pubDate": "13.10.2026 12:00:00",
-    "sortDate": 1791892800000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168586",
-    "pubDate": "13.10.2026 12:00:00",
-    "sortDate": 1791892800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168585",
-    "pubDate": "13.10.2026 12:00:00",
-    "sortDate": 1791892800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Disasters cost $228 billion in housing losses every year",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168583",
-    "pubDate": "13.10.2026 12:00:00",
-    "sortDate": 1791892800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Global action to end violence against children is lagging behind risks: UN expert",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168582",
-    "pubDate": "13.10.2026 12:00:00",
-    "sortDate": 1791892800000,
-    "source": "UN News"
-  },
-  {
     "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
     "link": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
     "pubDate": "13.10.2026 10:00:05",
@@ -294,74 +266,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-    "link": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-    "pubDate": "12.10.2026 15:42:37",
-    "sortDate": 1791819757000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Indian opposition figures lead march to police barricades around supreme court",
     "link": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march",
     "pubDate": "12.10.2026 14:23:59",
     "sortDate": 1791815039000,
     "source": "The Guardian"
-  },
-  {
-    "title": "NAZA: Netanyahu orders identification and prosecution of film’s interviewees",
-    "link": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
-    "pubDate": "12.10.2026 12:59:56",
-    "sortDate": 1791809996000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "General Assembly adopts pandemic declaration, but not by consensus",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168581",
-    "pubDate": "12.10.2026 12:00:00",
-    "sortDate": 1791806400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168580",
-    "pubDate": "12.10.2026 12:00:00",
-    "sortDate": 1791806400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168578",
-    "pubDate": "12.10.2026 12:00:00",
-    "sortDate": 1791806400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan: Drought and war push Darfur and Kordofan towards famine",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168577",
-    "pubDate": "12.10.2026 12:00:00",
-    "sortDate": 1791806400000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN aid operation underway in Nepal following fresh floods",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168576",
-    "pubDate": "12.10.2026 12:00:00",
-    "sortDate": 1791806400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Efficiency has limits’: UNHCR chief warns refugee protection is buckling under cuts",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168575",
-    "pubDate": "12.10.2026 12:00:00",
-    "sortDate": 1791806400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Rise in poverty is ‘a wake-up call for the world’, UN development chief says",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168574",
-    "pubDate": "12.10.2026 12:00:00",
-    "sortDate": 1791806400000,
-    "source": "UN News"
   },
   {
     "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
@@ -378,62 +287,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
-    "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-    "pubDate": "11.10.2026 16:53:01",
-    "sortDate": 1791737581000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Djibouti shipwreck: Death toll rises to 139 as 84 remain missing",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168573",
-    "pubDate": "11.10.2026 12:00:00",
-    "sortDate": 1791720000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sustaining livelihoods amid crisis in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168569",
-    "pubDate": "11.10.2026 12:00:00",
-    "sortDate": 1791720000000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168572",
-    "pubDate": "11.10.2026 12:00:00",
-    "sortDate": 1791720000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Giving a dam: Cultivating peace in Côte d’Ivoire",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168568",
-    "pubDate": "10.10.2026 12:00:00",
-    "sortDate": 1791633600000,
-    "source": "UN News"
-  },
-  {
-    "title": "India: UN rights office urges release of ‘arbitrarily detained’ protesters",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168571",
-    "pubDate": "10.10.2026 12:00:00",
-    "sortDate": 1791633600000,
-    "source": "UN News"
-  },
-  {
-    "title": "In the Mekong Delta, a push to grow food with saltwater",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168545",
-    "pubDate": "10.10.2026 12:00:00",
-    "sortDate": 1791633600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN chief ‘gravely concerned’ by renewed fighting in northern Ethiopia, warns against escalation",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168570",
-    "pubDate": "10.10.2026 12:00:00",
-    "sortDate": 1791633600000,
-    "source": "UN News"
-  },
-  {
     "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
     "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
     "pubDate": "09.10.2026 21:36:18",
@@ -448,62 +301,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168567",
-    "pubDate": "09.10.2026 12:00:00",
-    "sortDate": 1791547200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Global trade reaches record $35 trillion despite conflicts",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168566",
-    "pubDate": "09.10.2026 12:00:00",
-    "sortDate": 1791547200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168565",
-    "pubDate": "09.10.2026 12:00:00",
-    "sortDate": 1791547200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168564",
-    "pubDate": "09.10.2026 12:00:00",
-    "sortDate": 1791547200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168562",
-    "pubDate": "09.10.2026 12:00:00",
-    "sortDate": 1791547200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Amid heartache of Nepal flooding disaster, fear remains",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168561",
-    "pubDate": "09.10.2026 12:00:00",
-    "sortDate": 1791547200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168559",
-    "pubDate": "09.10.2026 12:00:00",
-    "sortDate": 1791547200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168558",
-    "pubDate": "09.10.2026 12:00:00",
-    "sortDate": 1791547200000,
-    "source": "UN News"
-  },
-  {
     "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
     "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
     "pubDate": "09.10.2026 09:59:06",
@@ -516,12 +313,5 @@
     "pubDate": "09.10.2026 04:00:38",
     "sortDate": 1791518438000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168557",
-    "pubDate": "08.10.2026 12:00:00",
-    "sortDate": 1791460800000,
-    "source": "UN News"
   }
 ]
