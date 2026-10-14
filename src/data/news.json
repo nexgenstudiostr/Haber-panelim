@@ -1,23 +1,142 @@
 [
   {
-    "title": "Australian politics live: Trade minister says Coalition MPs walked out of meeting on EU trade deal; RBA warns staff to accept pay deal or miss out",
-    "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-    "pubDate": "14.10.2026 06:30:27",
-    "sortDate": 1791959427000,
+    "title": "‘A big responsibility’: Clifton Suspension Bridge master hails £7.6m renovation",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/14/clifton-suspension-bridge-master-hails-refurbishment-bristol",
+    "pubDate": "14.10.2026 12:44:10",
+    "sortDate": 1791981850000,
     "source": "The Guardian"
   },
   {
-    "title": "Businesses could be barred from non-essential water use amid supply threat",
-    "link": "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat",
-    "pubDate": "14.10.2026 06:00:48",
-    "sortDate": 1791957648000,
+    "title": "French minister accuses Elon Musk of ‘online harassment campaigns’ against European leaders",
+    "link": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election",
+    "pubDate": "14.10.2026 12:39:22",
+    "sortDate": 1791981562000,
     "source": "The Guardian"
   },
   {
-    "title": "Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines",
+    "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+    "pubDate": "14.10.2026 12:37:54",
+    "sortDate": 1791981474000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US inflation rose to 3.7% in September, figures show",
+    "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+    "pubDate": "14.10.2026 12:36:35",
+    "sortDate": 1791981395000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+    "pubDate": "14.10.2026 12:27:14",
+    "sortDate": 1791980834000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+    "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+    "pubDate": "14.10.2026 12:21:16",
+    "sortDate": 1791980476000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russell Brand was ‘ruthless and calculated’, prosecutors tell jury as rape and sexual assault trial begins – live",
+    "link": "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates",
+    "pubDate": "14.10.2026 12:11:27",
+    "sortDate": 1791979887000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ken Paxton stirs vaccine skepticism to ingratiate himself with Maha movement",
+    "link": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
+    "pubDate": "14.10.2026 12:00:02",
+    "sortDate": 1791979202000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tinie Tempah says he will finally visit Scunthorpe after campaign by fans",
+    "link": "https://www.theguardian.com/music/2026/oct/14/tinie-tempah-visit-scunthorpe-campaign-fans-pass-out",
+    "pubDate": "14.10.2026 11:59:01",
+    "sortDate": 1791979141000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Burnham rules out deal with Greens as he condemns ‘Zionism is racism’ policy as ‘antisemitic’– UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+    "pubDate": "14.10.2026 11:57:25",
+    "sortDate": 1791979045000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Bank of America fined $1.2bn for money laundering failures",
+    "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
+    "pubDate": "14.10.2026 11:54:29",
+    "sortDate": 1791978869000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK government apologises for past burials of stillborn babies in mass graves",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/14/uk-government-apologises-stillborn-babies-mass-graves",
+    "pubDate": "14.10.2026 11:42:22",
+    "sortDate": 1791978142000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pope Leo recovering from surgery after lung cancer diagnosis | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/oct/14/first-thing-pope-leo-surgery-lung-cancer",
+    "pubDate": "14.10.2026 10:15:14",
+    "sortDate": 1791972914000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
+    "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+    "pubDate": "14.10.2026 10:05:36",
+    "sortDate": 1791972336000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ukrainian soldier goes on trial over sabotage of Nord Stream gas pipelines",
     "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
-    "pubDate": "14.10.2026 06:00:47",
-    "sortDate": 1791957647000,
+    "pubDate": "14.10.2026 09:24:46",
+    "sortDate": 1791969886000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
+    "link": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
+    "pubDate": "14.10.2026 08:39:00",
+    "sortDate": 1791967140000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Child safety officer incorrectly assessed Elizabeth Struhs as ‘safe’ day after she was admitted to hospital in coma",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/14/child-safety-officer-incorrectly-assessed-elizabeth-struhs-as-safe-a-day-after-she-was-admitted-to-hospital-in-a-coma-ntwnfb",
+    "pubDate": "14.10.2026 08:08:10",
+    "sortDate": 1791965290000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labor’s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out",
+    "pubDate": "14.10.2026 07:59:53",
+    "sortDate": 1791964793000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Video recording device found in cabin of HMAS Leeuwin navy ship in Cairns",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns",
+    "pubDate": "14.10.2026 07:19:06",
+    "sortDate": 1791962346000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trade minister says Coalition MPs walked out of meeting on EU trade deal – as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+    "pubDate": "14.10.2026 07:01:02",
+    "sortDate": 1791961262000,
     "source": "The Guardian"
   },
   {
@@ -42,41 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Barriers facing black and south Asian music events ‘cost London up to £141m a year’",
-    "link": "https://www.theguardian.com/music/2026/oct/14/barriers-black-south-asian-music-events-london-racial-inequality",
-    "pubDate": "14.10.2026 05:00:46",
-    "sortDate": 1791954046000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Beau Lamarre-Condon previously visited farm where he later allegedly tried to sink bodies, court told",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb",
-    "pubDate": "14.10.2026 04:45:06",
-    "sortDate": 1791953106000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
-    "link": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
-    "pubDate": "14.10.2026 04:34:29",
-    "sortDate": 1791952469000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "$20m public liability insurance to rally in a park: how council red tape hinders the right to protest",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/14/councils-making-protesters-purchase-public-liability-insurance",
-    "pubDate": "14.10.2026 04:22:19",
-    "sortDate": 1791951739000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Court overturns Tanya Plibersek’s protection order which stalled controversial NSW goldmine",
-    "link": "https://www.theguardian.com/environment/2026/oct/14/federal-court-overturns-tanya-plibersek-protection-order-nsw-goldmine-mcphillamys-blaney",
-    "pubDate": "14.10.2026 04:03:30",
-    "sortDate": 1791950610000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iranian woman handed death sentence for ‘blasphemy’ in social media post",
     "link": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
     "pubDate": "14.10.2026 04:00:44",
@@ -84,24 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Ukraine is littered with landmines on a scale last seen in Vietnam. How can they be removed?",
-    "link": "https://www.theguardian.com/world/2026/oct/14/landmines-ukraine-demining-drones-ai",
-    "pubDate": "14.10.2026 04:00:43",
-    "sortDate": 1791950443000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "’How do you explain the deletion of 130 million names?’ Why Indian voters are on the streets",
+    "title": "‘How do you explain the deletion of 130 million names?’: why Indian voters are on the streets",
     "link": "https://www.theguardian.com/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar",
     "pubDate": "14.10.2026 02:09:22",
     "sortDate": 1791943762000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump repeats false claim about Iran’s nuclear weapons program at Alaska rally – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-    "pubDate": "14.10.2026 02:01:48",
-    "sortDate": 1791943308000,
     "source": "The Guardian"
   },
   {
@@ -119,66 +189,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Fostering in crisis: can flexible care models fix England’s child placement shortfall?",
-    "link": "https://www.theguardian.com/society/2026/oct/14/fostering-in-crisis-can-flexible-care-models-fix-englands-child-placement-shortfall",
-    "pubDate": "13.10.2026 23:01:39",
-    "sortDate": 1791932499000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
-    "link": "https://www.theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
-    "pubDate": "13.10.2026 23:01:38",
-    "sortDate": 1791932498000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Stop making sense: focus on sounds to help learn a language, study suggests",
-    "link": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
-    "pubDate": "13.10.2026 23:01:37",
-    "sortDate": 1791932497000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Man who died in Six Flags rollercoaster fall in Georgia was a father and educator",
-    "link": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death",
-    "pubDate": "13.10.2026 22:46:08",
-    "sortDate": 1791931568000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-    "link": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-    "pubDate": "13.10.2026 21:54:12",
-    "sortDate": 1791928452000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
-    "link": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
-    "pubDate": "13.10.2026 21:30:35",
-    "sortDate": 1791927035000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Intense waves and floods batter California waterfront homes and boardwalks",
     "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
     "pubDate": "13.10.2026 21:29:08",
     "sortDate": 1791926948000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Florida officials say six people dead from Hurricane Isaias",
-    "link": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
-    "pubDate": "13.10.2026 21:25:37",
-    "sortDate": 1791926737000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Duane ‘Keffe D’ Davis sentenced to 40 years to life over Tupac Shakur’s murder",
-    "link": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
-    "pubDate": "13.10.2026 19:43:45",
-    "sortDate": 1791920625000,
     "source": "The Guardian"
   },
   {
@@ -270,13 +284,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests",
     "pubDate": "13.10.2026 06:30:16",
     "sortDate": 1791873016000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
-    "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
-    "pubDate": "13.10.2026 04:29:46",
-    "sortDate": 1791865786000,
     "source": "The Guardian"
   },
   {
@@ -508,13 +515,6 @@
     "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
     "pubDate": "09.10.2026 04:00:38",
     "sortDate": 1791518438000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-    "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-    "pubDate": "08.10.2026 20:20:31",
-    "sortDate": 1791490831000,
     "source": "The Guardian"
   },
   {
