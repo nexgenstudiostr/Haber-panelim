@@ -1,30 +1,142 @@
 [
   {
-    "title": "Australian politics live: Shoebridge denies knowing about Steele-John allegations and says he’s entitled to fair process",
+    "title": "Albania’s prime minister vows not to resign over student-led protests",
+    "link": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+    "pubDate": "15.10.2026 10:34:51",
+    "sortDate": 1792060491000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Former DUP leader Jeffrey Donaldson sentenced to 15 years for child sexual abuse – latest updates",
+    "link": "https://www.theguardian.com/uk-news/live/2026/oct/15/former-dup-leader-jeffrey-donaldson-sentenced-child-sexual-abuse-latest-updates",
+    "pubDate": "15.10.2026 10:32:42",
+    "sortDate": 1792060362000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Charity watchdog to criticise ‘intimidation’ after Farage calls for prosecution of groups helping asylum seekers – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
+    "pubDate": "15.10.2026 10:30:06",
+    "sortDate": 1792060206000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+    "pubDate": "15.10.2026 10:26:21",
+    "sortDate": 1792059981000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+    "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+    "pubDate": "15.10.2026 10:24:34",
+    "sortDate": 1792059874000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+    "pubDate": "15.10.2026 10:24:21",
+    "sortDate": 1792059861000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russia and Ukraine resume energy strikes despite Trump warnings",
+    "link": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+    "pubDate": "15.10.2026 10:14:49",
+    "sortDate": 1792059289000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US officials considering ad campaign to urge South African Afrikaners to emigrate",
+    "link": "https://www.theguardian.com/us-news/2026/oct/15/us-officials-ad-campaign-south-africa-afrikaners-refugees",
+    "pubDate": "15.10.2026 10:00:10",
+    "sortDate": 1792058410000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
+    "link": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
+    "pubDate": "15.10.2026 09:00:13",
+    "sortDate": 1792054813000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK threatens to ban Eritreans over returns policy",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy",
+    "pubDate": "15.10.2026 08:45:43",
+    "sortDate": 1792053943000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+    "link": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+    "pubDate": "15.10.2026 08:00:25",
+    "sortDate": 1792051225000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Woman charged after allegedly poisoning colleague’s curry lunch with snail pellets",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/15/woman-charged-after-allegedly-poisoning-colleagues-curry-lunch-with-snail-pellets-ntwnfb",
+    "pubDate": "15.10.2026 07:47:40",
+    "sortDate": 1792050460000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ADF member ‘person of interest’ after video recorder found in HMAS Leeuwin women’s showers",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb",
+    "pubDate": "15.10.2026 07:00:34",
+    "sortDate": 1792047634000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wallace & Gromit maker Aardman falls short of return to profit",
+    "link": "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss",
+    "pubDate": "15.10.2026 07:00:25",
+    "sortDate": 1792047625000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "ADF member ‘person of interest’ after ‘despicable betrayal of trust’ on Navy ship where camera found in women’s shower – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
-    "pubDate": "15.10.2026 05:10:45",
-    "sortDate": 1792041045000,
+    "pubDate": "15.10.2026 06:54:56",
+    "sortDate": 1792047296000,
     "source": "The Guardian"
   },
   {
-    "title": "UK households have paid extra £13,961 on bills since 2021 amid soaring inflation, TUC says",
-    "link": "https://www.theguardian.com/business/2026/oct/15/uk-households-extra-bills-inflation-tuc",
-    "pubDate": "15.10.2026 05:00:23",
-    "sortDate": 1792040423000,
+    "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
+    "pubDate": "15.10.2026 06:35:48",
+    "sortDate": 1792046148000,
     "source": "The Guardian"
   },
   {
-    "title": "Parents of Chloe Moffat want Treasury staff held to account over her death",
-    "link": "https://www.theguardian.com/politics/2026/oct/15/chloe-moffat-suicide-parents-treasury-staff",
-    "pubDate": "15.10.2026 05:00:23",
-    "sortDate": 1792040423000,
+    "title": "Doctors treating Elizabeth Struhs recommended involuntary mental health assessment of her mother, coroner hears",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/15/elizabeth-struhs-inquest-child-safety-doctors-mother-ntwnfb",
+    "pubDate": "15.10.2026 06:32:08",
+    "sortDate": 1792045928000,
     "source": "The Guardian"
   },
   {
-    "title": "Poland looks to economic heights in a country transformed since Soviet days",
+    "title": "UK economy unexpectedly grows in August despite fall in consumer spending",
+    "link": "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets",
+    "pubDate": "15.10.2026 06:05:17",
+    "sortDate": 1792044317000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
     "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
-    "pubDate": "15.10.2026 05:00:22",
-    "sortDate": 1792040422000,
+    "pubDate": "15.10.2026 05:56:12",
+    "sortDate": 1792043772000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Thursday briefing: Thanks to an erratic Trump, peace in Ukraine is still far away",
+    "link": "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away",
+    "pubDate": "15.10.2026 05:44:12",
+    "sortDate": 1792043052000,
     "source": "The Guardian"
   },
   {
@@ -32,27 +144,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
     "pubDate": "15.10.2026 04:25:03",
     "sortDate": 1792038303000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Victoria to become first state to make abortions free as Coalition matches Labor election promise",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free",
-    "pubDate": "15.10.2026 04:05:58",
-    "sortDate": 1792037158000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Greens senator Jordon Steele-John takes leave amid investigation into complaints",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/15/greens-senator-jordan-steele-john-leave-investigation-complaints-ntwnb",
-    "pubDate": "15.10.2026 04:00:50",
-    "sortDate": 1792036850000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Verse from the waste land: Rotterdam’s poetic bin lorries granted cultural status",
-    "link": "https://www.theguardian.com/world/2026/oct/15/rotterdam-poems-bin-lorries-granted-cultural-status",
-    "pubDate": "15.10.2026 04:00:23",
-    "sortDate": 1792036823000,
     "source": "The Guardian"
   },
   {
@@ -70,80 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb",
-    "pubDate": "15.10.2026 02:39:06",
-    "sortDate": 1792031946000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
     "pubDate": "15.10.2026 02:08:19",
     "sortDate": 1792030099000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labor and Coalition block bill that would ban incarcerated women being shackled in childbirth",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb",
-    "pubDate": "15.10.2026 00:22:33",
-    "sortDate": 1792023753000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sexual assault reported at frat house near University of Chicago",
-    "link": "https://www.theguardian.com/us-news/2026/oct/14/sexual-assault-report-uchicago",
-    "pubDate": "14.10.2026 23:32:50",
-    "sortDate": 1792020770000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Student protests in Albania turn violent as demonstrators clash with police",
-    "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-    "pubDate": "14.10.2026 23:19:43",
-    "sortDate": 1792019983000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Stopping Pip for ADHD or autism would not make big savings, says thinktank",
-    "link": "https://www.theguardian.com/society/2026/oct/15/pip-ban-adhd-autism-savings-resolution-foundation",
-    "pubDate": "14.10.2026 23:01:15",
-    "sortDate": 1792018875000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-    "link": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access",
-    "pubDate": "14.10.2026 23:00:08",
-    "sortDate": 1792018808000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pope Leo’s recovery from lung cancer surgery ‘progressing as planned’",
-    "link": "https://www.theguardian.com/world/2026/oct/14/pope-leo-recovery-lung-cancer-surgery-progressing-as-planned",
-    "pubDate": "14.10.2026 22:31:18",
-    "sortDate": 1792017078000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lawyers for man shot by ICE in New York City say agent did not identify himself",
-    "link": "https://www.theguardian.com/us-news/2026/oct/14/ice-shooting-new-york-city-oscar-belgal",
-    "pubDate": "14.10.2026 22:30:42",
-    "sortDate": 1792017042000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says",
-    "link": "https://www.theguardian.com/us-news/2026/oct/14/ilhan-omar-phone-seized-relatives-subpoenaed",
-    "pubDate": "14.10.2026 22:22:14",
-    "sortDate": 1792016534000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK hospitality sector to offer up to 100,000 jobs to young people out of work",
-    "link": "https://www.theguardian.com/society/2026/oct/14/uk-hospitality-sector-100000-jobs-young-people-neets",
-    "pubDate": "14.10.2026 21:30:13",
-    "sortDate": 1792013413000,
     "source": "The Guardian"
   },
   {
@@ -158,13 +179,6 @@
     "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
     "pubDate": "14.10.2026 19:01:29",
     "sortDate": 1792004489000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
-    "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
-    "pubDate": "14.10.2026 18:54:34",
-    "sortDate": 1792004074000,
     "source": "The Guardian"
   },
   {
@@ -319,13 +333,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
     "pubDate": "13.10.2026 17:26:08",
     "sortDate": 1791912368000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
-    "link": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
-    "pubDate": "13.10.2026 16:34:13",
-    "sortDate": 1791909253000,
     "source": "The Guardian"
   },
   {
@@ -516,12 +523,5 @@
     "pubDate": "09.10.2026 12:00:00",
     "sortDate": 1791547200000,
     "source": "UN News"
-  },
-  {
-    "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-    "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-    "pubDate": "09.10.2026 09:59:06",
-    "sortDate": 1791539946000,
-    "source": "The Guardian"
   }
 ]
