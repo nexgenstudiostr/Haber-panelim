@@ -1,5 +1,68 @@
 [
   {
+    "title": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
+    "link": "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books",
+    "pubDate": "18.10.2026 07:15:53",
+    "sortDate": 1792307753000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+    "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+    "pubDate": "18.10.2026 07:00:53",
+    "sortDate": 1792306853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+    "link": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+    "pubDate": "18.10.2026 07:00:53",
+    "sortDate": 1792306853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Condé Nast’s UK profits drop by more than a third as sale of Vogue publisher ruled out",
+    "link": "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group",
+    "pubDate": "18.10.2026 07:00:53",
+    "sortDate": 1792306853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
+    "link": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
+    "pubDate": "18.10.2026 04:00:50",
+    "sortDate": 1792296050000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+    "pubDate": "18.10.2026 04:00:49",
+    "sortDate": 1792296049000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
+    "link": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
+    "pubDate": "18.10.2026 04:00:49",
+    "sortDate": 1792296049000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Indigenous woman shackled to hospital bed while in labour in Queensland",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/18/indigenous-woman-shackled-during-labour-childbirth-queensland-ntwnfb",
+    "pubDate": "18.10.2026 03:59:02",
+    "sortDate": 1792295942000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+    "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+    "pubDate": "18.10.2026 02:50:29",
+    "sortDate": 1792291829000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
     "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
     "pubDate": "18.10.2026 00:01:12",
@@ -105,34 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
-    "link": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
-    "pubDate": "17.10.2026 15:38:17",
-    "sortDate": 1792251497000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Pope Leo discharged from hospital after cancer operation",
-    "link": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation",
-    "pubDate": "17.10.2026 13:41:49",
-    "sortDate": 1792244509000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Isabel Allende wins €1m Spanish literary prize under pseudonym",
-    "link": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
-    "pubDate": "17.10.2026 13:01:51",
-    "sortDate": 1792242111000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
-    "pubDate": "17.10.2026 13:00:31",
-    "sortDate": 1792242031000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
     "link": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
     "pubDate": "17.10.2026 11:57:15",
@@ -151,20 +186,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
     "pubDate": "17.10.2026 02:52:59",
     "sortDate": 1792205579000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
-    "pubDate": "17.10.2026 01:49:17",
-    "sortDate": 1792201757000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track",
-    "pubDate": "16.10.2026 23:00:15",
-    "sortDate": 1792191615000,
     "source": "The Guardian"
   },
   {
@@ -224,24 +245,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
-    "link": "https://www.theguardian.com/news/2026/oct/16/jamaicans-confront-enslavement-taboo-busting-stories-on-screen-possession",
-    "pubDate": "16.10.2026 10:00:02",
-    "sortDate": 1792144802000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
     "link": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
     "pubDate": "16.10.2026 07:00:56",
     "sortDate": 1792134056000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
-    "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
-    "pubDate": "15.10.2026 16:38:32",
-    "sortDate": 1792082312000,
     "source": "The Guardian"
   },
   {
@@ -305,13 +312,6 @@
     "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
     "pubDate": "09.10.2026 21:36:18",
     "sortDate": 1791581778000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-    "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-    "pubDate": "09.10.2026 16:30:09",
-    "sortDate": 1791563409000,
     "source": "The Guardian"
   }
 ]
