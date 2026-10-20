@@ -1,37 +1,128 @@
 [
   {
-    "title": "Italy poised to approve tougher security measures in response to protests – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-    "pubDate": "20.10.2026 12:55:03",
-    "sortDate": 1792500903000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Michigan heckler the son of Republican adviser paid for ‘influencer marketing’ against El-Sayed",
-    "link": "https://www.theguardian.com/us-news/2026/oct/20/abdul-el-sayed-heckler",
-    "pubDate": "20.10.2026 12:45:48",
-    "sortDate": 1792500348000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
+    "title": "House Democrat accuses Rubio and Trump of ‘lying’ about Ukraine intelligence as president continues campaigning – US politics live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-    "pubDate": "20.10.2026 12:45:38",
-    "sortDate": 1792500338000,
+    "pubDate": "20.10.2026 18:02:16",
+    "sortDate": 1792519336000,
     "source": "The Guardian"
   },
   {
-    "title": "Hancock’s claim about protecting care homes shown by Covid inquiry to be ‘cruel lie’, victims’ families say – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-    "pubDate": "20.10.2026 12:38:11",
-    "sortDate": 1792499891000,
+    "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+    "link": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+    "pubDate": "20.10.2026 17:43:40",
+    "sortDate": 1792518220000,
     "source": "The Guardian"
   },
   {
-    "title": "US bans use of China’s DeepSeek AI tools by government agencies",
-    "link": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-    "pubDate": "20.10.2026 12:33:27",
-    "sortDate": 1792499607000,
+    "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+    "pubDate": "20.10.2026 17:41:17",
+    "sortDate": 1792518077000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Baby who died from meningitis may have been saved if tested sooner, inquest finds",
+    "link": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds",
+    "pubDate": "20.10.2026 17:37:46",
+    "sortDate": 1792517866000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
+    "link": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
+    "pubDate": "20.10.2026 17:32:57",
+    "sortDate": 1792517577000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ex-student alleging sexual assault felt ‘unsupported’ by Cornell president",
+    "link": "https://www.theguardian.com/us-news/2026/oct/20/cornell-student-alleging-sexual-assault-letter",
+    "pubDate": "20.10.2026 17:29:44",
+    "sortDate": 1792517384000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tommy Robinson threatened to make families of Mail journalists ‘famous’, court hears",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears",
+    "pubDate": "20.10.2026 17:16:52",
+    "sortDate": 1792516612000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Superficial damp squib’: Covid inquiry recommendations fail to impress bereaved families",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/20/covid-inquiry-recommendations-fail-to-impress-bereaved-families",
+    "pubDate": "20.10.2026 17:15:59",
+    "sortDate": 1792516559000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+    "pubDate": "20.10.2026 16:50:31",
+    "sortDate": 1792515031000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Why are French police so violent? Their job is to protect the state, not the people",
+    "link": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots",
+    "pubDate": "20.10.2026 16:49:44",
+    "sortDate": 1792514984000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Great white shark leaps from water and photobombs California beachgoers",
+    "link": "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california",
+    "pubDate": "20.10.2026 16:45:59",
+    "sortDate": 1792514759000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NatWest cracks down on 13,000 staff attending office two days a month",
+    "link": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
+    "pubDate": "20.10.2026 16:45:24",
+    "sortDate": 1792514724000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+    "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+    "pubDate": "20.10.2026 16:24:05",
+    "sortDate": 1792513445000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+    "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+    "pubDate": "20.10.2026 16:13:25",
+    "sortDate": 1792512805000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+    "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+    "pubDate": "20.10.2026 16:11:21",
+    "sortDate": 1792512681000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trendy LA neighborhood’s war over wild coyote erupts after child attacked",
+    "link": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
+    "pubDate": "20.10.2026 16:00:39",
+    "sortDate": 1792512039000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+    "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+    "pubDate": "20.10.2026 15:41:44",
+    "sortDate": 1792510904000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Actor Christina Applegate reveals she was misdiagnosed with multiple sclerosis",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/oct/20/christina-applegate-ms-misdiagnosed",
+    "pubDate": "20.10.2026 13:51:59",
+    "sortDate": 1792504319000,
     "source": "The Guardian"
   },
   {
@@ -42,45 +133,17 @@
     "source": "The Guardian"
   },
   {
-    "title": "Downtown datacenter? AI plan floated for boarded-up San Francisco mall",
-    "link": "https://www.theguardian.com/us-news/2026/oct/20/san-francisco-mall-ai-datacenter",
-    "pubDate": "20.10.2026 12:00:35",
-    "sortDate": 1792497635000,
-    "source": "The Guardian"
+    "title": "Yemen war continues to force families from homes amid hunger and disease",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168629",
+    "pubDate": "20.10.2026 12:00:00",
+    "sortDate": 1792497600000,
+    "source": "UN News"
   },
   {
     "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
     "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
     "pubDate": "20.10.2026 11:54:52",
     "sortDate": 1792497292000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Storm Austen forecast to hit southern UK",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/20/storm-austen-named-uk-severe-weather-warning",
-    "pubDate": "20.10.2026 11:38:01",
-    "sortDate": 1792496281000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
-    "pubDate": "20.10.2026 11:00:35",
-    "sortDate": 1792494035000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-    "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-    "pubDate": "20.10.2026 11:00:05",
-    "sortDate": 1792494005000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Thames Water creditors secure former Labour minister to drive rescue deal",
-    "link": "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
-    "pubDate": "20.10.2026 10:49:23",
-    "sortDate": 1792493363000,
     "source": "The Guardian"
   },
   {
@@ -98,13 +161,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Federal efforts over alleged noncitizen voting escalate with California arrests | First Thing",
-    "link": "https://www.theguardian.com/us-news/2026/oct/20/first-thing-federal-efforts-over-alleged-noncitizen-voting-escalate-with-california-arrests",
-    "pubDate": "20.10.2026 10:23:46",
-    "sortDate": 1792491826000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
     "link": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
     "pubDate": "20.10.2026 09:53:27",
@@ -112,45 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
-    "link": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
-    "pubDate": "20.10.2026 09:45:39",
-    "sortDate": 1792489539000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
     "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
     "pubDate": "20.10.2026 09:18:58",
     "sortDate": 1792487938000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Alberta voters reject plan for referendum to leave Canada",
-    "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-    "pubDate": "20.10.2026 09:02:43",
-    "sortDate": 1792486963000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
-    "link": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
-    "pubDate": "20.10.2026 09:00:21",
-    "sortDate": 1792486821000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Getting Ziggy with it: David Bowie’s alter egos inspire dance show that will transform his songs",
-    "link": "https://www.theguardian.com/stage/2026/oct/20/david-bowie-dance-marcos-morau",
-    "pubDate": "20.10.2026 07:30:19",
-    "sortDate": 1792481419000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
-    "link": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
-    "pubDate": "20.10.2026 06:47:18",
-    "sortDate": 1792478838000,
     "source": "The Guardian"
   },
   {
@@ -231,6 +252,55 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168628",
+    "pubDate": "19.10.2026 12:00:00",
+    "sortDate": 1792411200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168627",
+    "pubDate": "19.10.2026 12:00:00",
+    "sortDate": 1792411200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168626",
+    "pubDate": "19.10.2026 12:00:00",
+    "sortDate": 1792411200000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+    "pubDate": "19.10.2026 12:00:00",
+    "sortDate": 1792411200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+    "pubDate": "19.10.2026 12:00:00",
+    "sortDate": 1792411200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: Funding cuts leave half a million without food assistance",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+    "pubDate": "19.10.2026 12:00:00",
+    "sortDate": 1792411200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+    "pubDate": "19.10.2026 12:00:00",
+    "sortDate": 1792411200000,
+    "source": "UN News"
+  },
+  {
     "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
     "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
     "pubDate": "19.10.2026 10:07:09",
@@ -259,13 +329,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
-    "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
-    "pubDate": "19.10.2026 05:00:22",
-    "sortDate": 1792386022000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
     "link": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati",
     "pubDate": "19.10.2026 04:43:41",
@@ -273,11 +336,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-    "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-    "pubDate": "18.10.2026 23:53:13",
-    "sortDate": 1792367593000,
-    "source": "The Guardian"
+    "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168608",
+    "pubDate": "18.10.2026 12:00:00",
+    "sortDate": 1792324800000,
+    "source": "UN News"
   },
   {
     "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
@@ -285,6 +348,20 @@
     "pubDate": "18.10.2026 09:00:55",
     "sortDate": 1792314055000,
     "source": "The Guardian"
+  },
+  {
+    "title": "COP17: The world has a plan to save nature. Is it working?",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168618",
+    "pubDate": "17.10.2026 12:00:00",
+    "sortDate": 1792238400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168619",
+    "pubDate": "17.10.2026 12:00:00",
+    "sortDate": 1792238400000,
+    "source": "UN News"
   },
   {
     "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
@@ -301,6 +378,48 @@
     "source": "The Guardian"
   },
   {
+    "title": "As disasters mount, next UN climate summit faces a test of trust",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168617",
+    "pubDate": "16.10.2026 12:00:00",
+    "sortDate": 1792152000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168614",
+    "pubDate": "16.10.2026 12:00:00",
+    "sortDate": 1792152000000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO scales up Ebola readiness in 22 countries across three continents",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168613",
+    "pubDate": "16.10.2026 12:00:00",
+    "sortDate": 1792152000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+    "pubDate": "16.10.2026 12:00:00",
+    "sortDate": 1792152000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+    "pubDate": "16.10.2026 12:00:00",
+    "sortDate": 1792152000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Guterres urges faster action and financing to stop biodiversity loss",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+    "pubDate": "16.10.2026 12:00:00",
+    "sortDate": 1792152000000,
+    "source": "UN News"
+  },
+  {
     "title": "Flash floods destroy villages in central Nepal",
     "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
     "pubDate": "16.10.2026 10:12:48",
@@ -313,5 +432,96 @@
     "pubDate": "16.10.2026 10:09:14",
     "sortDate": 1792145354000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+    "pubDate": "15.10.2026 12:00:00",
+    "sortDate": 1792065600000,
+    "source": "UN News"
+  },
+  {
+    "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168607",
+    "pubDate": "15.10.2026 12:00:00",
+    "sortDate": 1792065600000,
+    "source": "UN News"
+  },
+  {
+    "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168604",
+    "pubDate": "15.10.2026 12:00:00",
+    "sortDate": 1792065600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan faces record hunger levels amid rampant rights violations",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+    "pubDate": "15.10.2026 12:00:00",
+    "sortDate": 1792065600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168603",
+    "pubDate": "15.10.2026 12:00:00",
+    "sortDate": 1792065600000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO urges vigilance after Kenya confirms second Ebola case",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168602",
+    "pubDate": "15.10.2026 12:00:00",
+    "sortDate": 1792065600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168599",
+    "pubDate": "15.10.2026 12:00:00",
+    "sortDate": 1792065600000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168600",
+    "pubDate": "15.10.2026 12:00:00",
+    "sortDate": 1792065600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+    "pubDate": "14.10.2026 12:00:00",
+    "sortDate": 1791979200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168597",
+    "pubDate": "14.10.2026 12:00:00",
+    "sortDate": 1791979200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168596",
+    "pubDate": "14.10.2026 12:00:00",
+    "sortDate": 1791979200000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: Cholera cases spike amid fight against Ebola",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168595",
+    "pubDate": "14.10.2026 12:00:00",
+    "sortDate": 1791979200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Health workers tackle taboos over drinking with new AI tool",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168594",
+    "pubDate": "14.10.2026 12:00:00",
+    "sortDate": 1791979200000,
+    "source": "UN News"
   }
 ]
