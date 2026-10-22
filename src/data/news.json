@@ -1,9 +1,107 @@
 [
   {
-    "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
+    "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+    "pubDate": "22.10.2026 05:17:11",
+    "sortDate": 1792646231000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+    "pubDate": "22.10.2026 05:00:08",
+    "sortDate": 1792645208000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Thursday news quiz: Liz is absurd, Apu finds words and a bloke steals a bird",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/oct/22/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-270",
+    "pubDate": "22.10.2026 05:00:08",
+    "sortDate": 1792645208000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Wanted: new No 10 adviser to help citizens deal with rise of AI",
+    "link": "https://www.theguardian.com/politics/2026/oct/22/downing-street-advisers-andy-burnham-ai",
+    "pubDate": "22.10.2026 05:00:06",
+    "sortDate": 1792645206000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Waitrose opens first new supermarket in eight years in north London",
+    "link": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
+    "pubDate": "22.10.2026 04:00:06",
+    "sortDate": 1792641606000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+    "link": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+    "pubDate": "22.10.2026 03:56:46",
+    "sortDate": 1792641406000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
+    "pubDate": "22.10.2026 03:15:41",
+    "sortDate": 1792638941000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man fined after 700 frozen and taxidermied animals found on Victorian property",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/man-fined-after-700-frozen-and-taxidermied-animals-found-on-victorian-property-ntwnfb",
+    "pubDate": "22.10.2026 02:24:13",
+    "sortDate": 1792635853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man charged after allegedly making threats at Hannah Beazley’s electorate office while armed with nunchucks",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb",
+    "pubDate": "22.10.2026 02:11:41",
+    "sortDate": 1792635101000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-    "pubDate": "22.10.2026 00:06:07",
-    "sortDate": 1792627567000,
+    "pubDate": "22.10.2026 02:01:24",
+    "sortDate": 1792634484000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Man, I loved that’: Trump cheers South Carolina rally attender who hit protester",
+    "link": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
+    "pubDate": "22.10.2026 01:23:04",
+    "sortDate": 1792632184000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+    "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+    "pubDate": "22.10.2026 01:16:20",
+    "sortDate": 1792631780000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+    "link": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+    "pubDate": "22.10.2026 01:13:01",
+    "sortDate": 1792631581000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sam Wood makes bid for bail to supreme court over domestic violence charges",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb",
+    "pubDate": "22.10.2026 01:02:30",
+    "sortDate": 1792630950000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+    "link": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+    "pubDate": "22.10.2026 00:26:50",
+    "sortDate": 1792628810000,
     "source": "The Guardian"
   },
   {
@@ -21,13 +119,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
-    "pubDate": "21.10.2026 23:04:49",
-    "sortDate": 1792623889000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
     "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
     "pubDate": "21.10.2026 23:03:16",
@@ -42,73 +133,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Royal Navy lacks resources to counter Russian threat in high north, MPs warn",
-    "link": "https://www.theguardian.com/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn",
-    "pubDate": "21.10.2026 23:01:03",
-    "sortDate": 1792623663000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Nancy Pelosi’s office latest recipient of letter containing white powder",
     "link": "https://www.theguardian.com/us-news/2026/oct/21/nancy-pelosi-office-letter-white-powder",
     "pubDate": "21.10.2026 22:47:28",
     "sortDate": 1792622848000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-    "pubDate": "21.10.2026 22:35:17",
-    "sortDate": 1792622117000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "House prices falling in every Australian capital city for first time in 15 years",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin",
-    "pubDate": "21.10.2026 21:56:27",
-    "sortDate": 1792619787000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-    "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-    "pubDate": "21.10.2026 21:23:37",
-    "sortDate": 1792617817000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Orangutans prefer food associated with sounds of laughter, study suggests",
-    "link": "https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study",
-    "pubDate": "21.10.2026 21:00:01",
-    "sortDate": 1792616401000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Huge moment’: long-awaited extension to Sydney’s metro line to open next week",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/22/sydney-southwest-metro-extension-opening-friday-chris-minns",
-    "pubDate": "21.10.2026 20:01:54",
-    "sortDate": 1792612914000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NSW passes ‘human compost’ laws with several MPs saying they will utilise practice after they die",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/22/nsw-passes-human-compost-laws-with-several-mps-saying-they-will-utilise-practice-after-they-die",
-    "pubDate": "21.10.2026 19:37:00",
-    "sortDate": 1792611420000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former Tory election candidate suspended over contract killing claims",
-    "link": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
-    "pubDate": "21.10.2026 18:13:55",
-    "sortDate": 1792606435000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "No surprise and lasting anger: families of people who died in care homes react to Covid inquiry report",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/21/families-care-home-residents-covid-inquiry-report-findings",
-    "pubDate": "21.10.2026 18:11:16",
-    "sortDate": 1792606276000,
     "source": "The Guardian"
   },
   {
@@ -154,13 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Poland’s parliament votes to ease abortion ban but faces likely veto from president",
-    "link": "https://www.theguardian.com/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president",
-    "pubDate": "21.10.2026 15:01:30",
-    "sortDate": 1792594890000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
     "link": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
     "pubDate": "21.10.2026 14:24:02",
@@ -175,13 +196,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Majority of Australians who report penicillin allergy not truly allergic",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/22/penicillin-allergy-australia-doctors-antibiotic-guidelines",
-    "pubDate": "21.10.2026 14:00:20",
-    "sortDate": 1792591220000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
     "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
     "pubDate": "21.10.2026 13:40:08",
@@ -189,24 +203,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Shark trapped for a month in South Korean canal is finally freed",
-    "link": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
-    "pubDate": "21.10.2026 11:41:48",
-    "sortDate": 1792582908000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
     "link": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
     "pubDate": "21.10.2026 05:00:02",
     "sortDate": 1792558802000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fifth foreign firm pulls out of controversial Israeli cable car project to East Jerusalem",
-    "link": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
-    "pubDate": "21.10.2026 04:00:05",
-    "sortDate": 1792555205000,
     "source": "The Guardian"
   },
   {
