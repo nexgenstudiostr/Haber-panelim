@@ -1,9 +1,191 @@
 [
   {
-    "title": "Brazil runoff live updates: Lula supporters celebrate historic election win as Bolsonaro refuses to concede",
+    "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
+    "pubDate": "26.10.2026 15:26:16",
+    "sortDate": 1793028376000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+    "pubDate": "26.10.2026 15:20:23",
+    "sortDate": 1793028023000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-    "pubDate": "26.10.2026 08:05:48",
-    "sortDate": 1793001948000,
+    "pubDate": "26.10.2026 15:08:53",
+    "sortDate": 1793027333000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+    "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+    "pubDate": "26.10.2026 15:07:23",
+    "sortDate": 1793027243000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Catholic bishops accuse Trump White House of turning prayer into campaign photo op",
+    "link": "https://www.theguardian.com/us-news/2026/oct/26/catholic-bishops-trump-white-house-prayer",
+    "pubDate": "26.10.2026 15:05:34",
+    "sortDate": 1793027134000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russell Brand had ‘insane sexual appetite’ and bad behaviour on ‘another level’, trial told",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/26/russell-brand-trial-personal-assistant-evidence",
+    "pubDate": "26.10.2026 14:58:12",
+    "sortDate": 1793026692000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
+    "pubDate": "26.10.2026 14:54:23",
+    "sortDate": 1793026463000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Audi boss under fire in Germany for Trump rally appearance",
+    "link": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+    "pubDate": "26.10.2026 14:42:27",
+    "sortDate": 1793025747000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Unions suspend planned V&A strike after improved pay offer",
+    "link": "https://www.theguardian.com/artanddesign/2026/oct/26/v-and-a-museum-unions-suspend-strike-after-improved-pay-offer-london",
+    "pubDate": "26.10.2026 14:25:54",
+    "sortDate": 1793024754000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
+    "link": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+    "pubDate": "26.10.2026 14:03:06",
+    "sortDate": 1793023386000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "First Thing: Brazil re-elects Lula in comeback rebuke for Bolsonaro and far right",
+    "link": "https://www.theguardian.com/us-news/2026/oct/26/first-thing-brazil-re-elects-lula-comeback-bolsonaro",
+    "pubDate": "26.10.2026 14:00:48",
+    "sortDate": 1793023248000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
+    "pubDate": "26.10.2026 14:00:45",
+    "sortDate": 1793023245000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+    "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+    "pubDate": "26.10.2026 14:00:43",
+    "sortDate": 1793023243000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+    "link": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+    "pubDate": "26.10.2026 13:41:41",
+    "sortDate": 1793022101000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NHS consultants to go on two-day strike in England in November, says BMA",
+    "link": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+    "pubDate": "26.10.2026 13:33:11",
+    "sortDate": 1793021591000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
+    "link": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+    "pubDate": "26.10.2026 13:00:42",
+    "sortDate": 1793019642000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Peta releases video showing experiments on infant monkeys at University of Washington",
+    "link": "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video",
+    "pubDate": "26.10.2026 12:00:41",
+    "sortDate": 1793016041000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Security Council LIVE: Children and war, ‘each one is a life’",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168668",
+    "pubDate": "26.10.2026 12:00:00",
+    "sortDate": 1793016000000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Egypt, Guterres warns against Iran-US escalation",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+    "pubDate": "26.10.2026 12:00:00",
+    "sortDate": 1793016000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168667",
+    "pubDate": "26.10.2026 12:00:00",
+    "sortDate": 1793016000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+    "link": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+    "pubDate": "26.10.2026 11:30:40",
+    "sortDate": 1793014240000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+    "link": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+    "pubDate": "26.10.2026 11:03:33",
+    "sortDate": 1793012613000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+    "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+    "pubDate": "26.10.2026 11:00:40",
+    "sortDate": 1793012440000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "European gas prices soar to four-year high over winter supply fears",
+    "link": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+    "pubDate": "26.10.2026 10:35:24",
+    "sortDate": 1793010924000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+    "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+    "pubDate": "26.10.2026 09:59:27",
+    "sortDate": 1793008767000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+    "link": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+    "pubDate": "26.10.2026 09:47:14",
+    "sortDate": 1793008034000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brexit deal is not good enough for British public, says Andy Burnham",
+    "link": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
+    "pubDate": "26.10.2026 09:30:10",
+    "sortDate": 1793007010000,
     "source": "The Guardian"
   },
   {
@@ -42,45 +224,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb",
-    "pubDate": "26.10.2026 06:41:36",
-    "sortDate": 1792996896000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say",
-    "link": "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet",
-    "pubDate": "26.10.2026 06:00:24",
-    "sortDate": 1792994424000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
-    "pubDate": "26.10.2026 05:28:02",
-    "sortDate": 1792992482000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
     "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
     "pubDate": "26.10.2026 05:27:12",
     "sortDate": 1792992432000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bayeux tapestry becomes pop culture hit as young people more keen to see exhibition than top films",
-    "link": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
-    "pubDate": "26.10.2026 05:00:21",
-    "sortDate": 1792990821000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
-    "pubDate": "26.10.2026 04:29:01",
-    "sortDate": 1792988941000,
     "source": "The Guardian"
   },
   {
@@ -91,7 +238,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+    "title": "Lula wins historic fourth term as Brazilian president in defeat of far-right Flávio Bolsonaro",
     "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
     "pubDate": "26.10.2026 00:19:05",
     "sortDate": 1792973945000,
@@ -112,94 +259,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-    "pubDate": "25.10.2026 23:40:57",
-    "sortDate": 1792971657000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
-    "link": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
-    "pubDate": "25.10.2026 22:36:59",
-    "sortDate": 1792967819000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham pledges £900m for homelessness amid drive to end rough sleeping",
-    "link": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
-    "pubDate": "25.10.2026 22:30:13",
-    "sortDate": 1792967413000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two dead and tens of thousands of properties without power as Storm Boelo batters UK",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-    "pubDate": "25.10.2026 22:19:18",
-    "sortDate": 1792966758000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
-    "link": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
-    "pubDate": "25.10.2026 20:29:25",
-    "sortDate": 1792960165000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
-    "link": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
-    "pubDate": "25.10.2026 20:28:27",
-    "sortDate": 1792960107000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
-    "link": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
-    "pubDate": "25.10.2026 19:57:40",
-    "sortDate": 1792958260000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Suspect in shooting death of Missouri teen on highway charged in second road incident",
-    "link": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-    "pubDate": "25.10.2026 19:12:05",
-    "sortDate": 1792955525000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US south-west braces for more storms after enduring days of rain and flooding",
-    "link": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
-    "pubDate": "25.10.2026 19:02:51",
-    "sortDate": 1792954971000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
     "link": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
     "pubDate": "25.10.2026 19:00:10",
     "sortDate": 1792954810000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘He’s not going to punk me. I’ll trick him’: Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen",
-    "link": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
-    "pubDate": "25.10.2026 16:13:19",
-    "sortDate": 1792944799000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Portuguese police with dogs and batons dismantle housing protest camps",
-    "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-    "pubDate": "25.10.2026 15:32:20",
-    "sortDate": 1792942340000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-    "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-    "pubDate": "25.10.2026 13:43:19",
-    "sortDate": 1792935799000,
     "source": "The Guardian"
   },
   {
@@ -231,13 +294,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-    "link": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
-    "pubDate": "25.10.2026 06:00:54",
-    "sortDate": 1792908054000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
     "link": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
     "pubDate": "25.10.2026 02:00:49",
@@ -257,20 +313,6 @@
     "pubDate": "24.10.2026 12:00:00",
     "sortDate": 1792843200000,
     "source": "UN News"
-  },
-  {
-    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-    "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-    "pubDate": "24.10.2026 02:22:32",
-    "sortDate": 1792808552000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-    "pubDate": "23.10.2026 17:14:16",
-    "sortDate": 1792775656000,
-    "source": "The Guardian"
   },
   {
     "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
@@ -343,13 +385,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-    "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-    "pubDate": "22.10.2026 21:53:28",
-    "sortDate": 1792706008000,
-    "source": "The Guardian"
-  },
-  {
     "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168648",
     "pubDate": "22.10.2026 12:00:00",
@@ -399,24 +434,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Controversial US-backed vaccine trial in African newborns halted",
-    "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-    "pubDate": "21.10.2026 17:18:56",
-    "sortDate": 1792603136000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Indian court orders release of two leaders of Cockroach movement",
     "link": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
     "pubDate": "21.10.2026 15:26:25",
     "sortDate": 1792596385000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-    "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-    "pubDate": "21.10.2026 13:40:08",
-    "sortDate": 1792590008000,
     "source": "The Guardian"
   },
   {
@@ -492,27 +513,6 @@
   {
     "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168630",
-    "pubDate": "20.10.2026 12:00:00",
-    "sortDate": 1792497600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Bangladesh: UNICEF chief calls for an end to child marriage",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168632",
-    "pubDate": "20.10.2026 12:00:00",
-    "sortDate": 1792497600000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168631",
-    "pubDate": "20.10.2026 12:00:00",
-    "sortDate": 1792497600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Yemen war continues to force families from homes amid hunger and disease",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168629",
     "pubDate": "20.10.2026 12:00:00",
     "sortDate": 1792497600000,
     "source": "UN News"
