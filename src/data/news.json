@@ -1,16 +1,107 @@
 [
   {
-    "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
+    "title": "Australian politics live: Fatima Payman linking Haines-style attack to staffing allocation is ‘outrageous’, Labor says",
     "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-    "pubDate": "26.10.2026 20:37:58",
-    "sortDate": 1793047078000,
+    "pubDate": "27.10.2026 00:01:24",
+    "sortDate": 1793059284000,
     "source": "The Guardian"
   },
   {
-    "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate – US politics live",
+    "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+    "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+    "pubDate": "27.10.2026 00:01:02",
+    "sortDate": 1793059262000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
+    "link": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
+    "pubDate": "27.10.2026 00:01:02",
+    "sortDate": 1793059262000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+    "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+    "pubDate": "27.10.2026 00:00:03",
+    "sortDate": 1793059203000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump lashes out at Obama for joking that White House looks ‘like Saddam Hussein opened a Cheesecake Factory’ – live",
     "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-    "pubDate": "26.10.2026 20:29:55",
-    "sortDate": 1793046595000,
+    "pubDate": "26.10.2026 23:54:36",
+    "sortDate": 1793058876000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "FTC and 20 states sue Dollar General, accusing bargain chain of overcharging customers",
+    "link": "https://www.theguardian.com/us-news/2026/oct/26/dollar-general-ftc-lawsuit",
+    "pubDate": "26.10.2026 23:22:56",
+    "sortDate": 1793056976000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+    "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+    "pubDate": "26.10.2026 23:02:17",
+    "sortDate": 1793055737000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+    "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+    "pubDate": "26.10.2026 22:45:35",
+    "sortDate": 1793054735000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+    "link": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+    "pubDate": "26.10.2026 22:44:19",
+    "sortDate": 1793054659000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Massachusetts lesbian bar makes frantic effort to find new owners after relaxing masking policy",
+    "link": "https://www.theguardian.com/us-news/2026/oct/26/last-ditch-lesbian-bar-closing",
+    "pubDate": "26.10.2026 22:39:32",
+    "sortDate": 1793054372000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Carers allowed to earn over the weekly limit without losing out as ‘cliff-edge’ abolished in the budget",
+    "link": "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
+    "pubDate": "26.10.2026 22:30:53",
+    "sortDate": 1793053853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump dangles $1m reward for reporting voter fraud in past or upcoming elections",
+    "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
+    "pubDate": "26.10.2026 22:23:40",
+    "sortDate": 1793053420000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+    "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+    "pubDate": "26.10.2026 22:08:38",
+    "sortDate": 1793052518000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British politicians among international delegates barred from entering West Bank",
+    "link": "https://www.theguardian.com/world/2026/oct/26/british-politicians-among-international-delegates-barred-from-entering-west-bank",
+    "pubDate": "26.10.2026 21:39:42",
+    "sortDate": 1793050782000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Man found dead in Queensland floods named as former councillor and One Nation candidate",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge",
+    "pubDate": "26.10.2026 20:55:21",
+    "sortDate": 1793048121000,
     "source": "The Guardian"
   },
   {
@@ -49,31 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
-    "link": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
-    "pubDate": "26.10.2026 18:42:11",
-    "sortDate": 1793040131000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Southern California prepares for flooding amid forecast of ‘record-breaking tides’",
-    "link": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
-    "pubDate": "26.10.2026 18:39:27",
-    "sortDate": 1793039967000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Major clean-up under way after two storms cause havoc in Britain",
     "link": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
     "pubDate": "26.10.2026 18:25:07",
     "sortDate": 1793039107000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NHS consultants to go on two-day strike in England in November",
-    "link": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-    "pubDate": "26.10.2026 18:05:16",
-    "sortDate": 1793037916000,
     "source": "The Guardian"
   },
   {
@@ -84,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Fifteen-year-old arrested in shooting near Florida university that injured 12",
-    "link": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
-    "pubDate": "26.10.2026 18:01:23",
-    "sortDate": 1793037683000,
-    "source": "The Guardian"
-  },
-  {
     "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
     "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
     "pubDate": "26.10.2026 17:56:50",
@@ -98,31 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Jury selected for trial of four accused of sexually assaulting man’s drugged ex-wife",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
-    "pubDate": "26.10.2026 17:51:03",
-    "sortDate": 1793037063000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Father pays tribute to son, six, killed by truck on Kansas soccer field",
-    "link": "https://www.theguardian.com/us-news/2026/oct/26/cole-adrian-tribute-kansas-soccer",
-    "pubDate": "26.10.2026 17:50:50",
-    "sortDate": 1793037050000,
-    "source": "The Guardian"
-  },
-  {
     "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
     "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
     "pubDate": "26.10.2026 17:38:16",
     "sortDate": 1793036296000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Shabana Mahmood launches review into murder of student Henry Nowak",
-    "link": "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
-    "pubDate": "26.10.2026 17:30:46",
-    "sortDate": 1793035846000,
     "source": "The Guardian"
   },
   {
@@ -147,13 +189,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Democracy always’: Lula vows no return to dictatorship in Brazil after election win",
-    "link": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
-    "pubDate": "26.10.2026 15:51:18",
-    "sortDate": 1793029878000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
     "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
     "pubDate": "26.10.2026 15:07:23",
@@ -175,13 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
-    "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
-    "pubDate": "26.10.2026 14:00:43",
-    "sortDate": 1793023243000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
     "link": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
     "pubDate": "26.10.2026 13:41:41",
@@ -189,11 +217,39 @@
     "source": "The Guardian"
   },
   {
-    "title": "Jacinda Ardern joins University of Sydney as lecturer and mentor",
-    "link": "https://www.theguardian.com/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
-    "pubDate": "26.10.2026 13:01:42",
-    "sortDate": 1793019702000,
-    "source": "The Guardian"
+    "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168672",
+    "pubDate": "26.10.2026 12:00:00",
+    "sortDate": 1793016000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Women and girls’ share of civilian war deaths doubles since 2021",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168673",
+    "pubDate": "26.10.2026 12:00:00",
+    "sortDate": 1793016000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+    "pubDate": "26.10.2026 12:00:00",
+    "sortDate": 1793016000000,
+    "source": "UN News"
+  },
+  {
+    "title": "In Egypt, Guterres warns against Iran-US escalation",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+    "pubDate": "26.10.2026 12:00:00",
+    "sortDate": 1793016000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168667",
+    "pubDate": "26.10.2026 12:00:00",
+    "sortDate": 1793016000000,
+    "source": "UN News"
   },
   {
     "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
@@ -231,13 +287,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-    "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-    "pubDate": "26.10.2026 06:44:33",
-    "sortDate": 1792997073000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
     "link": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
     "pubDate": "26.10.2026 00:58:25",
@@ -245,24 +294,17 @@
     "source": "The Guardian"
   },
   {
-    "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
-    "link": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
-    "pubDate": "25.10.2026 19:00:10",
-    "sortDate": 1792954810000,
-    "source": "The Guardian"
+    "title": "Why do planes keep circling before landing? UN has a plan to fix it",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168666",
+    "pubDate": "25.10.2026 12:00:00",
+    "sortDate": 1792929600000,
+    "source": "UN News"
   },
   {
     "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
     "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
     "pubDate": "25.10.2026 11:52:45",
     "sortDate": 1792929165000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-    "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-    "pubDate": "25.10.2026 06:24:46",
-    "sortDate": 1792909486000,
     "source": "The Guardian"
   },
   {
@@ -280,6 +322,13 @@
     "source": "The Guardian"
   },
   {
+    "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+    "pubDate": "24.10.2026 12:00:00",
+    "sortDate": 1792843200000,
+    "source": "UN News"
+  },
+  {
     "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
     "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
     "pubDate": "23.10.2026 13:57:11",
@@ -287,11 +336,109 @@
     "source": "The Guardian"
   },
   {
+    "title": "UN marks 81 years of global cooperation",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168665",
+    "pubDate": "23.10.2026 12:00:00",
+    "sortDate": 1792756800000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+    "pubDate": "23.10.2026 12:00:00",
+    "sortDate": 1792756800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168662",
+    "pubDate": "23.10.2026 12:00:00",
+    "sortDate": 1792756800000,
+    "source": "UN News"
+  },
+  {
+    "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+    "pubDate": "23.10.2026 12:00:00",
+    "sortDate": 1792756800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+    "pubDate": "23.10.2026 12:00:00",
+    "sortDate": 1792756800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Soil mapping aims to boost agricultural production in Kenya",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+    "pubDate": "23.10.2026 12:00:00",
+    "sortDate": 1792756800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+    "pubDate": "23.10.2026 12:00:00",
+    "sortDate": 1792756800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+    "pubDate": "23.10.2026 12:00:00",
+    "sortDate": 1792756800000,
+    "source": "UN News"
+  },
+  {
     "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
     "link": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
     "pubDate": "23.10.2026 07:00:03",
     "sortDate": 1792738803000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168648",
+    "pubDate": "22.10.2026 12:00:00",
+    "sortDate": 1792670400000,
+    "source": "UN News"
+  },
+  {
+    "title": "First human case of Shamonda virus reported in France as patient dies",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168652",
+    "pubDate": "22.10.2026 12:00:00",
+    "sortDate": 1792670400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168651",
+    "pubDate": "22.10.2026 12:00:00",
+    "sortDate": 1792670400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168650",
+    "pubDate": "22.10.2026 12:00:00",
+    "sortDate": 1792670400000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168647",
+    "pubDate": "22.10.2026 12:00:00",
+    "sortDate": 1792670400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168646",
+    "pubDate": "22.10.2026 12:00:00",
+    "sortDate": 1792670400000,
+    "source": "UN News"
   },
   {
     "title": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
@@ -306,6 +453,69 @@
     "pubDate": "21.10.2026 15:26:25",
     "sortDate": 1792596385000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168645",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168644",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168643",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168642",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Summit in Samarkand, a boon for child wellbeing and health",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168640",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168639",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168638",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
+  },
+  {
+    "title": "WHO supports Nigeria after first Ebola case confirmed",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168637",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168634",
+    "pubDate": "21.10.2026 12:00:00",
+    "sortDate": 1792584000000,
+    "source": "UN News"
   },
   {
     "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
