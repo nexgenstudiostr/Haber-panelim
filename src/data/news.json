@@ -1,30 +1,156 @@
 [
   {
-    "title": "Israel election results live: vote count underway as exit polls point to tie between Netanyahu and Eisenkot blocs",
+    "title": "Give UK workers right to know colleagues’ pay to prevent disparities, says watchdog",
+    "link": "https://www.theguardian.com/money/2026/oct/28/uk-workers-right-know-colleagues-pay-disparities-gender-pay-gap-discrimination-watchdog-ehrc",
+    "pubDate": "28.10.2026 13:34:02",
+    "sortDate": 1793194442000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
+    "pubDate": "28.10.2026 13:33:49",
+    "sortDate": 1793194429000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Budget 2026 live: Healey announces £100 energy payment for millions and 3% rise in bank tax",
+    "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+    "pubDate": "28.10.2026 13:32:05",
+    "sortDate": 1793194325000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Death toll rises to 64 after two trains collide in Spain – latest updates",
+    "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+    "pubDate": "28.10.2026 13:31:50",
+    "sortDate": 1793194310000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
     "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-    "pubDate": "28.10.2026 06:18:07",
-    "sortDate": 1793168287000,
+    "pubDate": "28.10.2026 13:26:14",
+    "sortDate": 1793193974000,
     "source": "The Guardian"
   },
   {
-    "title": "Australian politics live: Coalition MP ejected from question time after swearing at PM; Payman apologises to Haines for comments after alleged attack",
+    "title": "Spain train crash: at least 64 dead after collision in Toledo province",
+    "link": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
+    "pubDate": "28.10.2026 13:22:21",
+    "sortDate": 1793193741000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russell Brand says he couldn’t find anyone to give evidence on his behalf in rape and sexual assault trial – latest updates",
+    "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates",
+    "pubDate": "28.10.2026 13:20:36",
+    "sortDate": 1793193636000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Budget 2026: John Healey offers £100 payment to households to help navigate ‘global economic storms’",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-john-healey-offers-100-payment-to-households-to-help-navigate-global-economic-storms",
+    "pubDate": "28.10.2026 13:17:31",
+    "sortDate": 1793193451000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "RFK Jr assailed over ‘wildly racist tirade’ about Arabs at Michigan campaign stop",
+    "link": "https://www.theguardian.com/us-news/2026/oct/28/rfk-jr-michigan-arabs-comment",
+    "pubDate": "28.10.2026 13:17:00",
+    "sortDate": 1793193420000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Business secretary writes to Poundland owner as administration fears build",
+    "link": "https://www.theguardian.com/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears",
+    "pubDate": "28.10.2026 13:16:12",
+    "sortDate": 1793193372000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia must recruit hundreds more to crew Aukus submarines, retired admiral warns",
+    "link": "https://www.theguardian.com/world/2026/oct/28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns",
+    "pubDate": "28.10.2026 12:46:36",
+    "sortDate": 1793191596000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Dementia cases in US projected to rise dramatically by 2050, study finds",
+    "link": "https://www.theguardian.com/us-news/2026/oct/28/dementia-cases-increase",
+    "pubDate": "28.10.2026 12:00:03",
+    "sortDate": 1793188803000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Both blocs claim upper hand in crucial Israeli election | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/oct/28/first-thing-israeli-election-elon-musk-ai-odyssey",
+    "pubDate": "28.10.2026 11:33:27",
+    "sortDate": 1793187207000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil amid election defeat",
+    "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+    "pubDate": "28.10.2026 11:32:31",
+    "sortDate": 1793187151000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+    "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+    "pubDate": "28.10.2026 11:21:01",
+    "sortDate": 1793186461000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
+    "link": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
+    "pubDate": "28.10.2026 10:00:05",
+    "sortDate": 1793181605000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fed set to hold interest rates steady in last decision before midterms",
+    "link": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+    "pubDate": "28.10.2026 10:00:03",
+    "sortDate": 1793181603000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+    "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+    "pubDate": "28.10.2026 09:37:49",
+    "sortDate": 1793180269000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+    "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+    "pubDate": "28.10.2026 06:55:35",
+    "sortDate": 1793170535000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+    "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+    "pubDate": "28.10.2026 06:36:14",
+    "sortDate": 1793169374000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Coalition MP ejected from question time after swearing at PM – as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-    "pubDate": "28.10.2026 06:17:35",
-    "sortDate": 1793168255000,
+    "pubDate": "28.10.2026 06:35:49",
+    "sortDate": 1793169349000,
     "source": "The Guardian"
   },
   {
-    "title": "What to expect from John Healey’s first budget: who wins, who pays?",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/28/what-to-expect-from-john-healeys-first-budget-who-wins-who-pays",
-    "pubDate": "28.10.2026 06:00:02",
-    "sortDate": 1793167202000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Volunteer, 78, says Reform official likened her to Nazi collaborator for teaching asylum seekers English",
-    "link": "https://www.theguardian.com/politics/2026/oct/28/reform-official-volunteer-nazi-collaborator-teaching-asylum-seekers-english",
-    "pubDate": "28.10.2026 06:00:01",
-    "sortDate": 1793167201000,
+    "title": "Australia must ‘re-win the argument for democratic politics’ in wake of Haines incident, Alastair Campbell says",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb",
+    "pubDate": "28.10.2026 06:24:22",
+    "sortDate": 1793168662000,
     "source": "The Guardian"
   },
   {
@@ -35,24 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "From a seed in China to the ‘backdrop for countless love stories’: a ginko’s 167-year journey to Victorian tree of the year",
+    "title": "From a seed in China to the ‘backdrop for countless love stories’: a ginkgo’s 167-year journey to Victorian tree of the year",
     "link": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
     "pubDate": "28.10.2026 05:32:13",
     "sortDate": 1793165533000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
-    "pubDate": "28.10.2026 05:31:55",
-    "sortDate": 1793165515000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two key unions turn on Labor, running attack ads and pulling campaign funds a month out from Victorian election",
-    "link": "https://www.theguardian.com/australia-news/2026/oct/28/unions-turn-on-labor-attack-ads-campaign-funds-victorian-election-exclusive",
-    "pubDate": "28.10.2026 05:10:54",
-    "sortDate": 1793164254000,
     "source": "The Guardian"
   },
   {
@@ -63,38 +175,17 @@
     "source": "The Guardian"
   },
   {
+    "title": "Gulliver fans celebrate three centuries of Jonathan Swift’s classic satire",
+    "link": "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin",
+    "pubDate": "28.10.2026 05:00:54",
+    "sortDate": 1793163654000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Major Israeli TV networks revise polling projections – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
     "pubDate": "28.10.2026 04:08:29",
     "sortDate": 1793160509000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump tells Texas campaign rally crowd he’s rolling back environmental rules to curb methane pollution – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-    "pubDate": "28.10.2026 02:00:46",
-    "sortDate": 1793152846000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-    "pubDate": "28.10.2026 01:45:27",
-    "sortDate": 1793151927000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Danny Masterson loses appeal against rape conviction after arguing judge was biased against Scientology",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb",
-    "pubDate": "28.10.2026 00:22:32",
-    "sortDate": 1793146952000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-    "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-    "pubDate": "28.10.2026 00:07:22",
-    "sortDate": 1793146042000,
     "source": "The Guardian"
   },
   {
@@ -105,66 +196,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "DNA links serial killer Ted Bundy to 1974 murder of Utah girl",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
-    "pubDate": "27.10.2026 23:52:55",
-    "sortDate": 1793145175000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Body of missing California hiker covered in snow retrieved on Mount Whitney",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
-    "pubDate": "27.10.2026 23:39:17",
-    "sortDate": 1793144357000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
     "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
     "pubDate": "27.10.2026 23:07:06",
     "sortDate": 1793142426000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Chancellor targets cost of living crisis in budget for a ‘difficult moment’",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/27/john-healey-budget-help-with-cost-of-living-deferring-decisions-on-tax-and-spending",
-    "pubDate": "27.10.2026 22:34:33",
-    "sortDate": 1793140473000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-    "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-    "pubDate": "27.10.2026 22:30:45",
-    "sortDate": 1793140245000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-    "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
-    "pubDate": "27.10.2026 22:03:00",
-    "sortDate": 1793138580000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
-    "link": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-    "pubDate": "27.10.2026 20:56:23",
-    "sortDate": 1793134583000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former Met officer who worked with Wayne Couzens found guilty of rape",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/27/former-met-officer-who-served-in-same-unit-as-david-carrick-and-wayne-couzens-found-guilty-of-sexual-offences",
-    "pubDate": "27.10.2026 20:34:59",
-    "sortDate": 1793133299000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
-    "link": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
-    "pubDate": "27.10.2026 20:23:46",
-    "sortDate": 1793132626000,
     "source": "The Guardian"
   },
   {
@@ -175,13 +210,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
-    "link": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
-    "pubDate": "27.10.2026 17:35:50",
-    "sortDate": 1793122550000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Slovenia mourns loss of glacier on its highest peak after scorching summer",
     "link": "https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer",
     "pubDate": "27.10.2026 17:08:47",
@@ -189,31 +217,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
-    "link": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-    "pubDate": "27.10.2026 16:23:32",
-    "sortDate": 1793118212000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK officials discussing options including free movement with EU ahead of summit",
-    "link": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
-    "pubDate": "27.10.2026 09:41:15",
-    "sortDate": 1793094075000,
-    "source": "The Guardian"
-  },
-  {
     "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
     "link": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
     "pubDate": "27.10.2026 09:21:33",
     "sortDate": 1793092893000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-    "link": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
-    "pubDate": "27.10.2026 07:00:04",
-    "sortDate": 1793084404000,
     "source": "The Guardian"
   },
   {
@@ -284,13 +291,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
     "pubDate": "25.10.2026 02:00:49",
     "sortDate": 1792893649000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-    "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-    "pubDate": "23.10.2026 13:57:11",
-    "sortDate": 1792763831000,
     "source": "The Guardian"
   },
   {
