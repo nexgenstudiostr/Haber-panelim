@@ -1,6 +1,97 @@
 [
   {
-    "title": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation’s James Ashby",
+    "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
+    "pubDate": "02.11.2026 06:12:52",
+    "sortDate": 1793599972000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy",
+    "pubDate": "02.11.2026 06:08:33",
+    "sortDate": 1793599713000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "World’s largest early warning system for severe child illness to launch in NHS A&Es across England",
+    "link": "https://www.theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england",
+    "pubDate": "02.11.2026 06:00:35",
+    "sortDate": 1793599235000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Millions in UK brace to remortgage on worse deals as rate rise looms",
+    "link": "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates",
+    "pubDate": "02.11.2026 06:00:34",
+    "sortDate": 1793599234000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+    "link": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+    "pubDate": "02.11.2026 06:00:33",
+    "sortDate": 1793599233000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+    "link": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+    "pubDate": "02.11.2026 06:00:32",
+    "sortDate": 1793599232000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Counsellors and psychotherapists call for UK statutory regulation in ‘watershed moment’",
+    "link": "https://www.theguardian.com/society/2026/nov/02/counsellors-psychotherapists-statutory-regulation-uk-professional-bodies",
+    "pubDate": "02.11.2026 05:01:31",
+    "sortDate": 1793595691000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK making up China policy ‘as it goes along’, MPs warn",
+    "link": "https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps",
+    "pubDate": "02.11.2026 05:00:33",
+    "sortDate": 1793595633000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
+    "pubDate": "02.11.2026 04:05:01",
+    "sortDate": 1793592301000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Million-dollar fish caught by Darwin man ‘just fishing and talking’ at night with brother",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/02/million-dollar-fish-caught-by-darwin-man-just-fishing-and-talking-at-night-with-brother",
+    "pubDate": "02.11.2026 03:45:51",
+    "sortDate": 1793591151000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+    "pubDate": "02.11.2026 01:07:23",
+    "sortDate": 1793581643000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+    "link": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+    "pubDate": "02.11.2026 01:06:13",
+    "sortDate": 1793581573000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+    "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+    "pubDate": "02.11.2026 00:12:17",
+    "sortDate": 1793578337000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pauline Hanson and James Ashby rule out running against Nationals leader Matt Canavan in Capricornia",
     "link": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb",
     "pubDate": "01.11.2026 23:05:05",
     "sortDate": 1793574305000,
@@ -35,31 +126,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
-    "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
-    "pubDate": "01.11.2026 20:31:30",
-    "sortDate": 1793565090000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
     "link": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
     "pubDate": "01.11.2026 20:10:27",
     "sortDate": 1793563827000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
-    "pubDate": "01.11.2026 20:02:57",
-    "sortDate": 1793563377000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
-    "link": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
-    "pubDate": "01.11.2026 19:47:35",
-    "sortDate": 1793562455000,
     "source": "The Guardian"
   },
   {
@@ -70,38 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Connecticut senator Chris Murphy hospitalized after stroke",
-    "link": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
-    "pubDate": "01.11.2026 19:27:44",
-    "sortDate": 1793561264000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
-    "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-    "pubDate": "01.11.2026 18:37:42",
-    "sortDate": 1793558262000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
     "link": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
     "pubDate": "01.11.2026 17:49:28",
     "sortDate": 1793555368000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
-    "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
-    "pubDate": "01.11.2026 17:47:42",
-    "sortDate": 1793555262000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Police detain 325 people at pro-Palestine Action protest at US embassy in London",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/01/police-detain-325-people-at-pro-palestine-action-protest-at-us-embassy-in-london",
-    "pubDate": "01.11.2026 17:29:20",
-    "sortDate": 1793554160000,
     "source": "The Guardian"
   },
   {
@@ -130,34 +172,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
     "pubDate": "01.11.2026 16:11:50",
     "sortDate": 1793549510000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
-    "link": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
-    "pubDate": "01.11.2026 15:44:28",
-    "sortDate": 1793547868000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "House prices fall for seventh consecutive month as interest rates dent demand",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/02/home-values-fall-for-seventh-month-interest-rates-dent-property-demand",
-    "pubDate": "01.11.2026 14:00:18",
-    "sortDate": 1793541618000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former NSW Liberal leads overhaul of One Nation candidate selection process",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/02/former-nsw-liberal-leads-overhaul-of-one-nation-candidate-selection-process-ntwnfb",
-    "pubDate": "01.11.2026 14:00:15",
-    "sortDate": 1793541615000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
-    "pubDate": "01.11.2026 14:00:13",
-    "sortDate": 1793541613000,
     "source": "The Guardian"
   },
   {
@@ -224,13 +238,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
-    "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
-    "pubDate": "30.10.2026 06:44:29",
-    "sortDate": 1793342669000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
     "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
     "pubDate": "30.10.2026 05:00:45",
@@ -249,13 +256,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
     "pubDate": "30.10.2026 02:56:46",
     "sortDate": 1793329006000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Netanyahu accused of smearing Arab voters to hold on to power",
-    "link": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-    "pubDate": "29.10.2026 23:14:53",
-    "sortDate": 1793315693000,
     "source": "The Guardian"
   },
   {
