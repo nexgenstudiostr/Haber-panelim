@@ -1,65 +1,114 @@
 [
   {
+    "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+    "pubDate": "03.11.2026 21:14:42",
+    "sortDate": 1793740482000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "King Charles addresses summit as demands for slavery apology grow",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
+    "pubDate": "03.11.2026 21:09:21",
+    "sortDate": 1793740161000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Minneapolis community leave ‘I Voted’ stickers at Alex Pretti’s memorial site",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/minneapolis-i-voted-stickers-alex-pretti-memorial",
+    "pubDate": "03.11.2026 21:05:52",
+    "sortDate": 1793739952000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Google says there’s no way to use Search without using artificial intelligence",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+    "pubDate": "03.11.2026 20:30:06",
+    "sortDate": 1793737806000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+    "link": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+    "pubDate": "03.11.2026 20:21:14",
+    "sortDate": 1793737274000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
+    "link": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+    "pubDate": "03.11.2026 20:00:13",
+    "sortDate": 1793736013000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
+    "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
+    "pubDate": "03.11.2026 19:50:27",
+    "sortDate": 1793735427000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Well-known’ man fails in legal attempt to block Guardian and ITN publishing sexual allegations",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
+    "pubDate": "03.11.2026 19:48:43",
+    "sortDate": 1793735323000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Convicted murderer who escaped from Tennessee prison captured in Missouri",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/jacob-morley-tennessee-prisoner-capture",
+    "pubDate": "03.11.2026 19:42:35",
+    "sortDate": 1793734955000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
+    "link": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
+    "pubDate": "03.11.2026 18:51:16",
+    "sortDate": 1793731876000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+    "pubDate": "03.11.2026 18:22:57",
+    "sortDate": 1793730177000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
+    "link": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
+    "pubDate": "03.11.2026 18:03:07",
+    "sortDate": 1793728987000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+    "pubDate": "03.11.2026 17:32:45",
+    "sortDate": 1793727165000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+    "pubDate": "03.11.2026 17:28:49",
+    "sortDate": 1793726929000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump claims US will end military aid to Israel by end of this year",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+    "pubDate": "03.11.2026 17:17:11",
+    "sortDate": 1793726231000,
+    "source": "The Guardian"
+  },
+  {
     "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
     "link": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
     "pubDate": "03.11.2026 15:24:53",
     "sortDate": 1793719493000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-    "pubDate": "03.11.2026 15:23:11",
-    "sortDate": 1793719391000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Americans head to polls in midterm elections seen as referendum on Trump",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
-    "pubDate": "03.11.2026 15:17:04",
-    "sortDate": 1793719024000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
-    "pubDate": "03.11.2026 15:15:58",
-    "sortDate": 1793718958000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Judge orders Iowa to permit Satanic Temple holiday event at state capitol",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/iowa-satanic-temple-holiday-event-judge",
-    "pubDate": "03.11.2026 15:13:33",
-    "sortDate": 1793718813000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Justice department funds research into gender dysphoria and violent crime in latest anti-trans effort",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/doj-research-gender-dysphoria-violent-crime",
-    "pubDate": "03.11.2026 15:00:22",
-    "sortDate": 1793718022000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-    "pubDate": "03.11.2026 14:59:49",
-    "sortDate": 1793717989000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bulgaria confirms bomb threats against flights from Bergamo and Dublin – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-    "pubDate": "03.11.2026 14:57:15",
-    "sortDate": 1793717835000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
-    "pubDate": "03.11.2026 14:56:17",
-    "sortDate": 1793717777000,
     "source": "The Guardian"
   },
   {
@@ -70,29 +119,15 @@
     "source": "The Guardian"
   },
   {
-    "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
-    "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-    "pubDate": "03.11.2026 14:29:37",
-    "sortDate": 1793716177000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Four planes flying across Europe targeted by bomb threats",
-    "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-    "pubDate": "03.11.2026 14:21:24",
-    "sortDate": 1793715684000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US supreme court to hear arguments in Catholic preschools’ LGBTQ+ exclusion case",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/lgbtq-catholic-public-preschool-supreme-court",
-    "pubDate": "03.11.2026 14:17:52",
-    "sortDate": 1793715472000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
     "link": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
+    "pubDate": "03.11.2026 14:00:46",
+    "sortDate": 1793714446000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ticket sellers, Virgin flight credits and a 25-hour laundry cycle: meet Choice’s 2026 Shonky award winners",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony",
     "pubDate": "03.11.2026 14:00:46",
     "sortDate": 1793714446000,
     "source": "The Guardian"
@@ -109,13 +144,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
     "pubDate": "03.11.2026 13:52:34",
     "sortDate": 1793713954000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans",
-    "link": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
-    "pubDate": "03.11.2026 13:34:10",
-    "sortDate": 1793712850000,
     "source": "The Guardian"
   },
   {
@@ -140,31 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘I am deeply sorry’: Craig Silvey pens 9,000-word apology for child exploitation material offences",
+    "title": "Craig Silvey pens 9,000-word apology for child exploitation material offences",
     "link": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-for-child-exploitation-material-offences-ntwnfb",
     "pubDate": "03.11.2026 10:47:41",
     "sortDate": 1793702861000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK and EU agree deal to remove Brexit checks on food and animal products",
-    "link": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
-    "pubDate": "03.11.2026 09:19:21",
-    "sortDate": 1793697561000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australia seeks to change visa deal with UK after influx of Britons",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk",
-    "pubDate": "03.11.2026 08:36:41",
-    "sortDate": 1793695001000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation",
-    "pubDate": "03.11.2026 08:11:08",
-    "sortDate": 1793693468000,
     "source": "The Guardian"
   },
   {
@@ -207,13 +214,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
     "pubDate": "01.11.2026 22:26:11",
     "sortDate": 1793571971000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
-    "link": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
-    "pubDate": "01.11.2026 17:49:28",
-    "sortDate": 1793555368000,
     "source": "The Guardian"
   },
   {
