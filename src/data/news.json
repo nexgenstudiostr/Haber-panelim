@@ -1,9 +1,100 @@
 [
   {
-    "title": "Mahmood says most care workers will be able to get settlement after 5 years, not 15 as originally proposed – UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
-    "pubDate": "02.11.2026 17:17:27",
-    "sortDate": 1793639847000,
+    "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+    "link": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+    "pubDate": "03.11.2026 00:01:32",
+    "sortDate": 1793664092000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+    "pubDate": "02.11.2026 23:51:57",
+    "sortDate": 1793663517000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+    "pubDate": "02.11.2026 23:22:57",
+    "sortDate": 1793661777000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+    "pubDate": "02.11.2026 23:22:24",
+    "sortDate": 1793661744000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+    "pubDate": "02.11.2026 23:09:57",
+    "sortDate": 1793660997000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
+    "link": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
+    "pubDate": "02.11.2026 22:30:30",
+    "sortDate": 1793658630000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
+    "pubDate": "02.11.2026 22:09:35",
+    "sortDate": 1793657375000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
+    "link": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington",
+    "pubDate": "02.11.2026 21:59:02",
+    "sortDate": 1793656742000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+    "pubDate": "02.11.2026 20:39:52",
+    "sortDate": 1793651992000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+    "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+    "pubDate": "02.11.2026 20:00:27",
+    "sortDate": 1793649627000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Russell Brand is not a ‘psychopath who rapes people and thinks it’s normal’, court told",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial",
+    "pubDate": "02.11.2026 19:57:56",
+    "sortDate": 1793649476000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+    "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+    "pubDate": "02.11.2026 19:07:40",
+    "sortDate": 1793646460000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
+    "pubDate": "02.11.2026 19:06:40",
+    "sortDate": 1793646400000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French pupils resume school blockades as country braces for more protests",
+    "link": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
+    "pubDate": "02.11.2026 18:17:33",
+    "sortDate": 1793643453000,
     "source": "The Guardian"
   },
   {
@@ -14,59 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Trump promised a steel mill in this rural Iowa region. But is it all a midterm election ploy?",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/iowa-midterms-steel-mill",
-    "pubDate": "02.11.2026 17:00:23",
-    "sortDate": 1793638823000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Defendant tells court he believed he had consent of woman drugged by her husband",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/02/defendant-tells-court-he-believed-he-had-consent-of-woman-drugged-by-her-husband",
-    "pubDate": "02.11.2026 16:59:20",
-    "sortDate": 1793638760000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
-    "pubDate": "02.11.2026 16:47:48",
-    "sortDate": 1793638068000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash",
-    "pubDate": "02.11.2026 16:44:01",
-    "sortDate": 1793637841000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
     "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
     "pubDate": "02.11.2026 16:39:20",
     "sortDate": 1793637560000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "E Jean Carroll fights Trump’s last-ditch push to dismiss $83m damages verdict",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/e-jean-carroll-trump-supreme-court",
-    "pubDate": "02.11.2026 16:37:00",
-    "sortDate": 1793637420000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Newcastle hospital told woman whose unborn baby had died to go home and ‘book a slot to give birth’",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/02/newcastle-hospital-rvi-woman-sent-home-unborn-baby-died",
-    "pubDate": "02.11.2026 16:36:27",
-    "sortDate": 1793637387000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "EHRC raises concern with Reform about ‘racial and sexual remarks’ in documentary",
-    "link": "https://www.theguardian.com/politics/2026/nov/02/ehrc-raises-concern-with-reform-about-racial-and-sexual-remarks-in-documentary",
-    "pubDate": "02.11.2026 16:28:43",
-    "sortDate": 1793636923000,
     "source": "The Guardian"
   },
   {
@@ -77,31 +119,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Nigel Farage’s regular column for the Telegraph to end",
-    "link": "https://www.theguardian.com/politics/2026/nov/02/nigel-farage-telegraph-column-ends",
-    "pubDate": "02.11.2026 16:14:07",
-    "sortDate": 1793636047000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
-    "link": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
-    "pubDate": "02.11.2026 15:36:01",
-    "sortDate": 1793633761000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Guardian Essential poll: record number of Australians are turning their backs on the Melbourne Cup",
     "link": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
     "pubDate": "02.11.2026 14:00:46",
     "sortDate": 1793628046000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
-    "pubDate": "02.11.2026 14:00:44",
-    "sortDate": 1793628044000,
     "source": "The Guardian"
   },
   {
@@ -119,18 +140,25 @@
     "source": "The Guardian"
   },
   {
-    "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
-    "link": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
-    "pubDate": "02.11.2026 11:11:28",
-    "sortDate": 1793617888000,
-    "source": "The Guardian"
+    "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+    "pubDate": "02.11.2026 12:00:00",
+    "sortDate": 1793620800000,
+    "source": "UN News"
   },
   {
-    "title": "Europe could face colder weather as polar vortex weakens",
-    "link": "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe",
-    "pubDate": "02.11.2026 11:00:54",
-    "sortDate": 1793617254000,
-    "source": "The Guardian"
+    "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168720",
+    "pubDate": "02.11.2026 12:00:00",
+    "sortDate": 1793620800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Six in seven journalist murders go unpunished,  UNESCO reports",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168719",
+    "pubDate": "02.11.2026 12:00:00",
+    "sortDate": 1793620800000,
+    "source": "UN News"
   },
   {
     "title": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
@@ -189,11 +217,60 @@
     "source": "The Guardian"
   },
   {
+    "title": "Breaking the silence in Mexico’s barracks",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168715",
+    "pubDate": "01.11.2026 12:00:00",
+    "sortDate": 1793534400000,
+    "source": "UN News"
+  },
+  {
+    "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168718",
+    "pubDate": "01.11.2026 12:00:00",
+    "sortDate": 1793534400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+    "pubDate": "01.11.2026 12:00:00",
+    "sortDate": 1793534400000,
+    "source": "UN News"
+  },
+  {
     "title": "Binance resumes customer withdrawals after record $6.3bn hack",
     "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
     "pubDate": "01.11.2026 11:54:23",
     "sortDate": 1793534063000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+    "pubDate": "31.10.2026 12:00:00",
+    "sortDate": 1793448000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168711",
+    "pubDate": "31.10.2026 12:00:00",
+    "sortDate": 1793448000000,
+    "source": "UN News"
+  },
+  {
+    "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+    "pubDate": "31.10.2026 12:00:00",
+    "sortDate": 1793448000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Somalia looks to the future as the UN's political mission closes",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168714",
+    "pubDate": "31.10.2026 12:00:00",
+    "sortDate": 1793448000000,
+    "source": "UN News"
   },
   {
     "title": "Canada and EU announce new alliance open to like-minded countries",
@@ -222,6 +299,41 @@
     "pubDate": "30.10.2026 12:49:56",
     "sortDate": 1793364596000,
     "source": "The Guardian"
+  },
+  {
+    "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+    "pubDate": "30.10.2026 12:00:00",
+    "sortDate": 1793361600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+    "pubDate": "30.10.2026 12:00:00",
+    "sortDate": 1793361600000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+    "pubDate": "30.10.2026 12:00:00",
+    "sortDate": 1793361600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+    "pubDate": "30.10.2026 12:00:00",
+    "sortDate": 1793361600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Yemen war makes reaching assistance too dangerous for many",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+    "pubDate": "30.10.2026 12:00:00",
+    "sortDate": 1793361600000,
+    "source": "UN News"
   },
   {
     "title": "Beijing Queer film festival cancelled after harassment from authorities",
@@ -259,11 +371,53 @@
     "source": "The Guardian"
   },
   {
-    "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-    "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-    "pubDate": "29.10.2026 17:49:47",
-    "sortDate": 1793296187000,
-    "source": "The Guardian"
+    "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+    "pubDate": "29.10.2026 12:00:00",
+    "sortDate": 1793275200000,
+    "source": "UN News"
+  },
+  {
+    "title": "AI is changing the way we think. The question is whether we’ll notice in time",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168704",
+    "pubDate": "29.10.2026 12:00:00",
+    "sortDate": 1793275200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+    "pubDate": "29.10.2026 12:00:00",
+    "sortDate": 1793275200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Russia drone strike on Ukrainian railway station kills 13",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+    "pubDate": "29.10.2026 12:00:00",
+    "sortDate": 1793275200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Nature is making a comeback – now restoration funding must quadruple",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168700",
+    "pubDate": "29.10.2026 12:00:00",
+    "sortDate": 1793275200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+    "pubDate": "29.10.2026 12:00:00",
+    "sortDate": 1793275200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168697",
+    "pubDate": "29.10.2026 12:00:00",
+    "sortDate": 1793275200000,
+    "source": "UN News"
   },
   {
     "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -271,6 +425,62 @@
     "pubDate": "28.10.2026 14:16:24",
     "sortDate": 1793196984000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Higher Ground: How New York is raising a park to hold back the sea",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+    "pubDate": "28.10.2026 12:00:00",
+    "sortDate": 1793188800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+    "pubDate": "28.10.2026 12:00:00",
+    "sortDate": 1793188800000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN human rights chief urges better protection of civilians in conflicts",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168695",
+    "pubDate": "28.10.2026 12:00:00",
+    "sortDate": 1793188800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+    "pubDate": "28.10.2026 12:00:00",
+    "sortDate": 1793188800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168693",
+    "pubDate": "28.10.2026 12:00:00",
+    "sortDate": 1793188800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+    "pubDate": "28.10.2026 12:00:00",
+    "sortDate": 1793188800000,
+    "source": "UN News"
+  },
+  {
+    "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168689",
+    "pubDate": "28.10.2026 12:00:00",
+    "sortDate": 1793188800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Record heat-related deaths in 2023, WHO-partnered report finds",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168688",
+    "pubDate": "28.10.2026 12:00:00",
+    "sortDate": 1793188800000,
+    "source": "UN News"
   },
   {
     "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
