@@ -1,30 +1,107 @@
 [
   {
-    "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-    "pubDate": "03.11.2026 21:14:42",
-    "sortDate": 1793740482000,
+    "title": "US midterm elections 2026 live updates: Democrats flip first Senate seat from Republicans; Ossoff wins re-election",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+    "pubDate": "04.11.2026 01:44:47",
+    "sortDate": 1793756687000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Republican Ashley Moody defeats progressive Angie Nixon in Florida Senate race",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/ashley-moody-wins-florida-senate-race",
+    "pubDate": "04.11.2026 01:41:54",
+    "sortDate": 1793756514000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu",
+    "pubDate": "04.11.2026 01:34:31",
+    "sortDate": 1793756071000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+    "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+    "pubDate": "04.11.2026 01:31:46",
+    "sortDate": 1793755906000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "North Carolina voters elect Roy Cooper, state’s first Democratic senator in 10 years",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/roy-cooper-michael-whatley-north-carolina-senate",
+    "pubDate": "04.11.2026 01:31:13",
+    "sortDate": 1793755873000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrats aim to retake Senate from Republicans as Americans go to polls",
+    "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
+    "pubDate": "04.11.2026 01:28:24",
+    "sortDate": 1793755704000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+    "pubDate": "04.11.2026 00:14:49",
+    "sortDate": 1793751289000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
+    "pubDate": "04.11.2026 00:01:18",
+    "sortDate": 1793750478000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Choice Shonky awards 2026: From ticket sellers and Virgin flight credits to a 25-hour laundry cycle",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony",
+    "pubDate": "03.11.2026 22:48:24",
+    "sortDate": 1793746104000,
     "source": "The Guardian"
   },
   {
     "title": "King Charles addresses summit as demands for slavery apology grow",
     "link": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
-    "pubDate": "03.11.2026 21:09:21",
-    "sortDate": 1793740161000,
+    "pubDate": "03.11.2026 22:15:19",
+    "sortDate": 1793744119000,
     "source": "The Guardian"
   },
   {
-    "title": "Minneapolis community leave ‘I Voted’ stickers at Alex Pretti’s memorial site",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/minneapolis-i-voted-stickers-alex-pretti-memorial",
-    "pubDate": "03.11.2026 21:05:52",
-    "sortDate": 1793739952000,
+    "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+    "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+    "pubDate": "03.11.2026 22:08:50",
+    "sortDate": 1793743730000,
     "source": "The Guardian"
   },
   {
-    "title": "Google says there’s no way to use Search without using artificial intelligence",
-    "link": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
-    "pubDate": "03.11.2026 20:30:06",
-    "sortDate": 1793737806000,
+    "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
+    "pubDate": "03.11.2026 22:04:24",
+    "sortDate": 1793743464000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Spanish transport minister resigns after deadly train crash",
+    "link": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
+    "pubDate": "03.11.2026 21:46:02",
+    "sortDate": 1793742362000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+    "pubDate": "03.11.2026 21:35:42",
+    "sortDate": 1793741742000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
+    "link": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
+    "pubDate": "03.11.2026 21:09:39",
+    "sortDate": 1793740179000,
     "source": "The Guardian"
   },
   {
@@ -35,52 +112,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
-    "link": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
-    "pubDate": "03.11.2026 20:00:13",
-    "sortDate": 1793736013000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
-    "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
-    "pubDate": "03.11.2026 19:50:27",
-    "sortDate": 1793735427000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Well-known’ man fails in legal attempt to block Guardian and ITN publishing sexual allegations",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
-    "pubDate": "03.11.2026 19:48:43",
-    "sortDate": 1793735323000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Convicted murderer who escaped from Tennessee prison captured in Missouri",
-    "link": "https://www.theguardian.com/us-news/2026/nov/03/jacob-morley-tennessee-prisoner-capture",
-    "pubDate": "03.11.2026 19:42:35",
-    "sortDate": 1793734955000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
-    "link": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
-    "pubDate": "03.11.2026 18:51:16",
-    "sortDate": 1793731876000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
     "pubDate": "03.11.2026 18:22:57",
     "sortDate": 1793730177000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
-    "link": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
-    "pubDate": "03.11.2026 18:03:07",
-    "sortDate": 1793728987000,
     "source": "The Guardian"
   },
   {
@@ -112,22 +147,8 @@
     "source": "The Guardian"
   },
   {
-    "title": "True crime novel about 1949 murder of Paris life model wins France’s biggest literary prize",
-    "link": "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada",
-    "pubDate": "03.11.2026 14:31:00",
-    "sortDate": 1793716260000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
     "link": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
-    "pubDate": "03.11.2026 14:00:46",
-    "sortDate": 1793714446000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ticket sellers, Virgin flight credits and a 25-hour laundry cycle: meet Choice’s 2026 Shonky award winners",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony",
     "pubDate": "03.11.2026 14:00:46",
     "sortDate": 1793714446000,
     "source": "The Guardian"
@@ -158,20 +179,6 @@
     "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
     "pubDate": "03.11.2026 13:00:07",
     "sortDate": 1793710807000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
-    "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-    "pubDate": "03.11.2026 12:25:07",
-    "sortDate": 1793708707000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Craig Silvey pens 9,000-word apology for child exploitation material offences",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-for-child-exploitation-material-offences-ntwnfb",
-    "pubDate": "03.11.2026 10:47:41",
-    "sortDate": 1793702861000,
     "source": "The Guardian"
   },
   {
@@ -249,13 +256,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
     "pubDate": "30.10.2026 17:37:46",
     "sortDate": 1793381866000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-    "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-    "pubDate": "30.10.2026 14:08:41",
-    "sortDate": 1793369321000,
     "source": "The Guardian"
   },
   {
