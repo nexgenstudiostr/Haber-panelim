@@ -1,51 +1,86 @@
 [
   {
-    "title": "Harmeet Dhillon, controversial head of DoJ’s civil rights division, steps down",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
-    "pubDate": "05.11.2026 19:04:05",
-    "sortDate": 1793905445000,
+    "title": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
+    "link": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+    "pubDate": "06.11.2026 00:24:54",
+    "sortDate": 1793924694000,
     "source": "The Guardian"
   },
   {
-    "title": "‘Our work’s not done’: Russell Brand detective urges other potential victims to come forward",
+    "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+    "pubDate": "06.11.2026 00:24:35",
+    "sortDate": 1793924675000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+    "pubDate": "06.11.2026 00:04:37",
+    "sortDate": 1793923477000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Florida puts man to death as three US executions scheduled for same day",
+    "link": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
+    "pubDate": "05.11.2026 23:48:04",
+    "sortDate": 1793922484000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out",
+    "link": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival",
+    "pubDate": "05.11.2026 23:00:36",
+    "sortDate": 1793919636000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Fox News suffers ratings drop on bleak election night for Republicans",
+    "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
+    "pubDate": "05.11.2026 22:04:20",
+    "sortDate": 1793916260000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Salon, internet’s oldest general interest publication, shuts down after 31 years",
+    "link": "https://www.theguardian.com/media/2026/nov/05/salon-website-shuts-down",
+    "pubDate": "05.11.2026 21:27:24",
+    "sortDate": 1793914044000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+    "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+    "pubDate": "05.11.2026 21:23:18",
+    "sortDate": 1793913798000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
+    "link": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+    "pubDate": "05.11.2026 20:30:11",
+    "sortDate": 1793910611000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police investigating two further rape allegations against Russell Brand",
     "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
-    "pubDate": "05.11.2026 19:01:39",
-    "sortDate": 1793905299000,
+    "pubDate": "05.11.2026 19:17:40",
+    "sortDate": 1793906260000,
     "source": "The Guardian"
   },
   {
-    "title": "Six people dead and nine injured after fire at Brooklyn home",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
-    "pubDate": "05.11.2026 19:00:00",
-    "sortDate": 1793905200000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
-    "link": "https://www.theguardian.com/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout",
-    "pubDate": "05.11.2026 18:51:47",
-    "sortDate": 1793904707000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "NHS England cancer diagnoses at record high with 1,000 people diagnosed every day",
+    "title": "Cancer diagnoses in England hit record high of more than 1,000 people a day",
     "link": "https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day",
     "pubDate": "05.11.2026 18:49:25",
     "sortDate": 1793904565000,
     "source": "The Guardian"
   },
   {
-    "title": "US tech shares fall sharply as investors bet on AI slowdown after Democrats’ election triumph",
-    "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-    "pubDate": "05.11.2026 18:44:25",
-    "sortDate": 1793904265000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US elections 2026 live: Democrats flip four more House seats as Republicans trade blame for brutal midterms losses",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-    "pubDate": "05.11.2026 18:41:42",
-    "sortDate": 1793904102000,
+    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+    "pubDate": "05.11.2026 18:48:07",
+    "sortDate": 1793904487000,
     "source": "The Guardian"
   },
   {
@@ -56,7 +91,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+    "title": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
     "link": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
     "pubDate": "05.11.2026 18:13:01",
     "sortDate": 1793902381000,
@@ -81,20 +116,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
     "pubDate": "05.11.2026 17:37:27",
     "sortDate": 1793900247000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Henry Nowak’s killer has sentence extended by court of appeal",
-    "link": "https://www.theguardian.com/law/2026/nov/05/henry-nowak-killer-vickrum-digwa-should-have-had-longer-sentence-court-of-appeal-hears",
-    "pubDate": "05.11.2026 17:29:25",
-    "sortDate": 1793899765000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK government considers smart glasses ban over secret filming concerns",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
-    "pubDate": "05.11.2026 17:21:51",
-    "sortDate": 1793899311000,
     "source": "The Guardian"
   },
   {
@@ -147,6 +168,20 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
     "title": "Children at risk as war zone attacks on water and sanitation more than triple",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
     "pubDate": "05.11.2026 12:00:00",
@@ -182,20 +217,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-    "pubDate": "05.11.2026 06:56:01",
-    "sortDate": 1793861761000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
-    "pubDate": "05.11.2026 05:03:08",
-    "sortDate": 1793854988000,
-    "source": "The Guardian"
-  },
-  {
     "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
     "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
     "pubDate": "05.11.2026 05:00:55",
@@ -207,6 +228,13 @@
     "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
     "pubDate": "05.11.2026 04:22:49",
     "sortDate": 1793852569000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
+    "pubDate": "04.11.2026 20:00:43",
+    "sortDate": 1793822443000,
     "source": "The Guardian"
   },
   {
@@ -242,13 +270,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
     "pubDate": "04.11.2026 14:07:17",
     "sortDate": 1793801237000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
-    "link": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
-    "pubDate": "04.11.2026 12:19:18",
-    "sortDate": 1793794758000,
     "source": "The Guardian"
   },
   {
@@ -371,13 +392,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
-    "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
-    "pubDate": "02.11.2026 20:00:27",
-    "sortDate": 1793649627000,
-    "source": "The Guardian"
-  },
-  {
     "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
     "pubDate": "02.11.2026 12:00:00",
@@ -471,20 +485,6 @@
   {
     "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-    "pubDate": "30.10.2026 12:00:00",
-    "sortDate": 1793361600000,
-    "source": "UN News"
-  },
-  {
-    "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168708",
-    "pubDate": "30.10.2026 12:00:00",
-    "sortDate": 1793361600000,
-    "source": "UN News"
-  },
-  {
-    "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168707",
     "pubDate": "30.10.2026 12:00:00",
     "sortDate": 1793361600000,
     "source": "UN News"
