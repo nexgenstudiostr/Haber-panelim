@@ -1,5 +1,89 @@
 [
   {
+    "title": "Briton among six dead after gunman opens fire in Kraków market square",
+    "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+    "pubDate": "08.11.2026 09:30:22",
+    "sortDate": 1794130222000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+    "link": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+    "pubDate": "08.11.2026 09:00:35",
+    "sortDate": 1794128435000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Psychiatrists and paediatricians among specialists most likely to charge ‘extreme’ fees, thinktank finds",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia",
+    "pubDate": "08.11.2026 09:00:35",
+    "sortDate": 1794128435000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+    "link": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+    "pubDate": "08.11.2026 08:00:36",
+    "sortDate": 1794124836000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "From the overblown to the ordinary? Met Gala 2027 to celebrate ‘poetics of everyday’",
+    "link": "https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday",
+    "pubDate": "08.11.2026 08:00:36",
+    "sortDate": 1794124836000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
+    "pubDate": "08.11.2026 08:00:35",
+    "sortDate": 1794124835000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+    "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+    "pubDate": "08.11.2026 07:00:34",
+    "sortDate": 1794121234000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+    "pubDate": "08.11.2026 07:00:34",
+    "sortDate": 1794121234000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+    "link": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+    "pubDate": "08.11.2026 07:00:33",
+    "sortDate": 1794121233000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+    "pubDate": "08.11.2026 06:00:33",
+    "sortDate": 1794117633000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
+    "link": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
+    "pubDate": "08.11.2026 06:00:33",
+    "sortDate": 1794117633000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Does Andy Burnham’s pivot from press to social media put scrutiny at risk?",
+    "link": "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk",
+    "pubDate": "08.11.2026 06:00:32",
+    "sortDate": 1794117632000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
     "link": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
     "pubDate": "08.11.2026 03:00:28",
@@ -32,13 +116,6 @@
     "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
     "pubDate": "07.11.2026 22:32:41",
     "sortDate": 1794090761000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-    "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-    "pubDate": "07.11.2026 21:19:01",
-    "sortDate": 1794086341000,
     "source": "The Guardian"
   },
   {
@@ -105,27 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
-    "link": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
-    "pubDate": "07.11.2026 15:00:14",
-    "sortDate": 1794063614000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-    "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-    "pubDate": "07.11.2026 15:00:14",
-    "sortDate": 1794063614000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
-    "link": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
-    "pubDate": "07.11.2026 15:00:13",
-    "sortDate": 1794063613000,
-    "source": "The Guardian"
-  },
-  {
     "title": "New Zealand election coalition talks will likely take weeks – as it happened",
     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
     "pubDate": "07.11.2026 13:12:22",
@@ -133,32 +189,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-    "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-    "pubDate": "07.11.2026 13:03:03",
-    "sortDate": 1794056583000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump’s elevation of Stephen Miller is a middle finger to millions of voters",
-    "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-    "pubDate": "07.11.2026 13:00:12",
-    "sortDate": 1794056412000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Court rules against Home Office in asylum seeker kidnapping case",
-    "link": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-    "pubDate": "07.11.2026 13:00:11",
-    "sortDate": 1794056411000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-    "link": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-    "pubDate": "07.11.2026 09:15:35",
-    "sortDate": 1794042935000,
-    "source": "The Guardian"
+    "title": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168759",
+    "pubDate": "07.11.2026 12:00:00",
+    "sortDate": 1794052800000,
+    "source": "UN News"
   },
   {
     "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
@@ -172,13 +207,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
     "pubDate": "07.11.2026 06:00:04",
     "sortDate": 1794031204000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
-    "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-    "pubDate": "07.11.2026 05:00:02",
-    "sortDate": 1794027602000,
     "source": "The Guardian"
   },
   {
@@ -231,18 +259,39 @@
     "source": "The Guardian"
   },
   {
-    "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-    "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
-    "pubDate": "06.11.2026 09:54:12",
-    "sortDate": 1793958852000,
-    "source": "The Guardian"
+    "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
   },
   {
-    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-    "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-    "pubDate": "06.11.2026 06:16:22",
-    "sortDate": 1793945782000,
-    "source": "The Guardian"
+    "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
+  },
+  {
+    "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
   },
   {
     "title": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
@@ -259,6 +308,34 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Two new Ebola vaccines to join DR Congo clinical trial",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168742",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
     "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
     "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
     "pubDate": "04.11.2026 18:18:37",
@@ -273,11 +350,102 @@
     "source": "The Guardian"
   },
   {
+    "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168735",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168736",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghan children face narrowing path to education, UN agencies report",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168732",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168725",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
     "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
     "link": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
     "pubDate": "03.11.2026 15:24:53",
     "sortDate": 1793719493000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168731",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gender equality pays off for business – so why are companies pulling back?",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168726",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
   },
   {
     "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
@@ -287,11 +455,60 @@
     "source": "The Guardian"
   },
   {
+    "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+    "pubDate": "02.11.2026 12:00:00",
+    "sortDate": 1793620800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+    "pubDate": "02.11.2026 12:00:00",
+    "sortDate": 1793620800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168720",
+    "pubDate": "02.11.2026 12:00:00",
+    "sortDate": 1793620800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Six in seven journalist murders go unpunished,  UNESCO reports",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168719",
+    "pubDate": "02.11.2026 12:00:00",
+    "sortDate": 1793620800000,
+    "source": "UN News"
+  },
+  {
     "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
     "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
     "pubDate": "01.11.2026 16:11:50",
     "sortDate": 1793549510000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Breaking the silence in Mexico’s barracks",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168715",
+    "pubDate": "01.11.2026 12:00:00",
+    "sortDate": 1793534400000,
+    "source": "UN News"
+  },
+  {
+    "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168718",
+    "pubDate": "01.11.2026 12:00:00",
+    "sortDate": 1793534400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+    "pubDate": "01.11.2026 12:00:00",
+    "sortDate": 1793534400000,
+    "source": "UN News"
   },
   {
     "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -305,13 +522,6 @@
     "link": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
     "pubDate": "27.10.2026 09:21:33",
     "sortDate": 1793092893000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
-    "link": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-    "pubDate": "25.10.2026 02:00:49",
-    "sortDate": 1792893649000,
     "source": "The Guardian"
   }
 ]
