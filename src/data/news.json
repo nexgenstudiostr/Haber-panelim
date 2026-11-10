@@ -1,72 +1,198 @@
 [
   {
-    "title": "‘It’s a feeling of being screwed over’: once-quiet village despairs over ‘monster’ warehouse",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/astley-village-despair-monster-warehouse-inquiry",
-    "pubDate": "09.11.2026 07:00:03",
-    "sortDate": 1794207603000,
+    "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+    "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+    "pubDate": "10.11.2026 01:34:47",
+    "sortDate": 1794274487000,
     "source": "The Guardian"
   },
   {
-    "title": "Kraków shooting suspect who killed six has died, say police in Poland",
+    "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+    "pubDate": "10.11.2026 01:31:44",
+    "sortDate": 1794274304000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+    "pubDate": "10.11.2026 01:09:19",
+    "sortDate": 1794272959000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
+    "pubDate": "10.11.2026 01:03:14",
+    "sortDate": 1794272594000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as double murder trial continues",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+    "pubDate": "10.11.2026 00:53:54",
+    "sortDate": 1794272034000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+    "pubDate": "10.11.2026 00:41:13",
+    "sortDate": 1794271273000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+    "pubDate": "10.11.2026 00:14:45",
+    "sortDate": 1794269685000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
+    "link": "https://www.theguardian.com/education/2026/nov/10/headteachers-consider-leaving-job-earlier-than-planned-new-ofsted-inspection",
+    "pubDate": "10.11.2026 00:01:22",
+    "sortDate": 1794268882000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+    "pubDate": "09.11.2026 23:48:36",
+    "sortDate": 1794268116000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+    "pubDate": "09.11.2026 23:30:37",
+    "sortDate": 1794267037000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tommy Walsh, co-presenter of BBC’s Ground Force, dies aged 69",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/09/tommy-walsh-co-presenter-of-bbcs-ground-force-dies-aged-69",
+    "pubDate": "09.11.2026 19:59:36",
+    "sortDate": 1794254376000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+    "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+    "pubDate": "09.11.2026 19:40:45",
+    "sortDate": 1794253245000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
+    "link": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
+    "pubDate": "09.11.2026 19:27:22",
+    "sortDate": 1794252442000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Air pollution soars as fog traps emissions in England’s urban areas",
+    "link": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
+    "pubDate": "09.11.2026 19:13:59",
+    "sortDate": 1794251639000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Barnsley workers strike over nursery privatisation by Reform council",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/09/barnsley-strike-nursery-privatisation-reform-council-yorkshire-grimethorpe",
+    "pubDate": "09.11.2026 18:50:17",
+    "sortDate": 1794250217000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
+    "link": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
+    "pubDate": "09.11.2026 18:27:51",
+    "sortDate": 1794248871000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+    "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+    "pubDate": "09.11.2026 17:54:40",
+    "sortDate": 1794246880000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
+    "link": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+    "pubDate": "09.11.2026 17:47:04",
+    "sortDate": 1794246424000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president",
+    "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+    "pubDate": "09.11.2026 17:42:51",
+    "sortDate": 1794246171000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author",
+    "link": "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement",
+    "pubDate": "09.11.2026 17:00:14",
+    "sortDate": 1794243614000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
     "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
-    "pubDate": "09.11.2026 06:58:03",
-    "sortDate": 1794207483000,
+    "pubDate": "09.11.2026 15:52:26",
+    "sortDate": 1794239546000,
     "source": "The Guardian"
   },
   {
-    "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
-    "link": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
-    "pubDate": "09.11.2026 06:00:03",
-    "sortDate": 1794204003000,
-    "source": "The Guardian"
+    "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
+    "pubDate": "09.11.2026 12:00:00",
+    "sortDate": 1794225600000,
+    "source": "UN News"
   },
   {
-    "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
-    "pubDate": "09.11.2026 05:47:49",
-    "sortDate": 1794203269000,
-    "source": "The Guardian"
+    "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168766",
+    "pubDate": "09.11.2026 12:00:00",
+    "sortDate": 1794225600000,
+    "source": "UN News"
   },
   {
-    "title": "Burnham’s homelessness pledge to ‘get everyone in for Christmas’ in jeopardy",
-    "link": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
-    "pubDate": "09.11.2026 05:01:01",
-    "sortDate": 1794200461000,
-    "source": "The Guardian"
+    "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168763",
+    "pubDate": "09.11.2026 12:00:00",
+    "sortDate": 1794225600000,
+    "source": "UN News"
   },
   {
-    "title": "Starbucks plans to hire 7,500 staff in major UK expansion plan",
-    "link": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan",
-    "pubDate": "09.11.2026 05:01:00",
-    "sortDate": 1794200460000,
-    "source": "The Guardian"
+    "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168762",
+    "pubDate": "09.11.2026 12:00:00",
+    "sortDate": 1794225600000,
+    "source": "UN News"
   },
   {
-    "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
-    "pubDate": "09.11.2026 04:55:15",
-    "sortDate": 1794200115000,
-    "source": "The Guardian"
+    "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+    "pubDate": "09.11.2026 12:00:00",
+    "sortDate": 1794225600000,
+    "source": "UN News"
   },
   {
-    "title": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
-    "pubDate": "09.11.2026 03:59:31",
-    "sortDate": 1794196771000,
-    "source": "The Guardian"
+    "title": "‘Exceptional’ extreme temperatures to continue into next year, UN reports",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168760",
+    "pubDate": "09.11.2026 12:00:00",
+    "sortDate": 1794225600000,
+    "source": "UN News"
   },
   {
-    "title": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-    "pubDate": "09.11.2026 03:47:21",
-    "sortDate": 1794196041000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
-    "pubDate": "09.11.2026 03:33:14",
-    "sortDate": 1794195194000,
+    "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+    "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+    "pubDate": "09.11.2026 10:59:06",
+    "sortDate": 1794221946000,
     "source": "The Guardian"
   },
   {
@@ -77,66 +203,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Homicidal, not suicidal’: Beau Lamarre-Condon allegedly claimed workplace bullying for sympathy, court hears",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-    "pubDate": "09.11.2026 01:44:14",
-    "sortDate": 1794188654000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
-    "pubDate": "09.11.2026 01:10:55",
-    "sortDate": 1794186655000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Maya Jama steps down as Love Island host after nine seasons",
-    "link": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
-    "pubDate": "09.11.2026 00:43:39",
-    "sortDate": 1794185019000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
     "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
     "pubDate": "09.11.2026 00:25:28",
     "sortDate": 1794183928000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Two police officers hailed as heroes for confronting Kraków gunman",
-    "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
-    "pubDate": "08.11.2026 21:11:40",
-    "sortDate": 1794172300000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
-    "pubDate": "08.11.2026 21:04:49",
-    "sortDate": 1794171889000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
-    "pubDate": "08.11.2026 20:13:09",
-    "sortDate": 1794168789000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Small plane crashes into pickup truck on busy Florida highway",
-    "link": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
-    "pubDate": "08.11.2026 19:29:05",
-    "sortDate": 1794166145000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-    "link": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-    "pubDate": "08.11.2026 18:20:06",
-    "sortDate": 1794162006000,
     "source": "The Guardian"
   },
   {
@@ -154,24 +224,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
-    "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
-    "pubDate": "08.11.2026 16:50:58",
-    "sortDate": 1794156658000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
     "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
     "pubDate": "08.11.2026 14:26:14",
     "sortDate": 1794147974000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK spent £100m on zombie Brexit border inspection posts",
-    "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
-    "pubDate": "08.11.2026 13:32:58",
-    "sortDate": 1794144778000,
     "source": "The Guardian"
   },
   {
@@ -180,6 +236,13 @@
     "pubDate": "08.11.2026 12:00:39",
     "sortDate": 1794139239000,
     "source": "The Guardian"
+  },
+  {
+    "title": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168756",
+    "pubDate": "08.11.2026 12:00:00",
+    "sortDate": 1794139200000,
+    "source": "UN News"
   },
   {
     "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
@@ -231,17 +294,17 @@
     "source": "The Guardian"
   },
   {
+    "title": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168759",
+    "pubDate": "07.11.2026 12:00:00",
+    "sortDate": 1794052800000,
+    "source": "UN News"
+  },
+  {
     "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
     "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
     "pubDate": "07.11.2026 07:00:04",
     "sortDate": 1794034804000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
-    "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
-    "pubDate": "07.11.2026 06:00:04",
-    "sortDate": 1794031204000,
     "source": "The Guardian"
   },
   {
@@ -259,13 +322,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
-    "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
-    "pubDate": "06.11.2026 19:23:24",
-    "sortDate": 1793993004000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
     "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
     "pubDate": "06.11.2026 15:08:43",
@@ -280,6 +336,69 @@
     "source": "The Guardian"
   },
   {
+    "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
+  },
+  {
+    "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
+  },
+  {
+    "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+    "pubDate": "06.11.2026 12:00:00",
+    "sortDate": 1793966400000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
+    "title": "Two new Ebola vaccines to join DR Congo clinical trial",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168742",
+    "pubDate": "05.11.2026 12:00:00",
+    "sortDate": 1793880000000,
+    "source": "UN News"
+  },
+  {
     "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
     "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
     "pubDate": "04.11.2026 18:18:37",
@@ -287,11 +406,102 @@
     "source": "The Guardian"
   },
   {
+    "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168735",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168736",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "Afghan children face narrowing path to education, UN agencies report",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168732",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168725",
+    "pubDate": "04.11.2026 12:00:00",
+    "sortDate": 1793793600000,
+    "source": "UN News"
+  },
+  {
     "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
     "link": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
     "pubDate": "03.11.2026 15:24:53",
     "sortDate": 1793719493000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168731",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
+  },
+  {
+    "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Gender equality pays off for business – so why are companies pulling back?",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168726",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
+  },
+  {
+    "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+    "pubDate": "03.11.2026 12:00:00",
+    "sortDate": 1793707200000,
+    "source": "UN News"
   },
   {
     "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
