@@ -1,51 +1,128 @@
 [
   {
-    "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
-    "link": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
-    "pubDate": "10.11.2026 01:34:47",
-    "sortDate": 1794274487000,
+    "title": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+    "pubDate": "10.11.2026 08:24:36",
+    "sortDate": 1794299076000,
     "source": "The Guardian"
   },
   {
-    "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-    "pubDate": "10.11.2026 01:31:44",
-    "sortDate": 1794274304000,
+    "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+    "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+    "pubDate": "10.11.2026 07:30:31",
+    "sortDate": 1794295831000,
     "source": "The Guardian"
   },
   {
-    "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
-    "pubDate": "10.11.2026 01:09:19",
-    "sortDate": 1794272959000,
+    "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+    "link": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+    "pubDate": "10.11.2026 07:30:15",
+    "sortDate": 1794295815000,
     "source": "The Guardian"
   },
   {
-    "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
-    "pubDate": "10.11.2026 01:03:14",
-    "sortDate": 1794272594000,
+    "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
+    "link": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
+    "pubDate": "10.11.2026 07:00:32",
+    "sortDate": 1794294032000,
     "source": "The Guardian"
   },
   {
-    "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as double murder trial continues",
+    "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+    "pubDate": "10.11.2026 06:46:53",
+    "sortDate": 1794293213000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+    "link": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+    "pubDate": "10.11.2026 06:00:52",
+    "sortDate": 1794290452000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+    "link": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+    "pubDate": "10.11.2026 06:00:31",
+    "sortDate": 1794290431000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
+    "link": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+    "pubDate": "10.11.2026 06:00:30",
+    "sortDate": 1794290430000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
+    "link": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
+    "pubDate": "10.11.2026 06:00:30",
+    "sortDate": 1794290430000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Beau Lamarre-Condon admits entering Jesse Baird’s house when he wasn’t home and eating Easter egg, murder trial hears",
     "link": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-    "pubDate": "10.11.2026 00:53:54",
-    "sortDate": 1794272034000,
+    "pubDate": "10.11.2026 05:28:25",
+    "sortDate": 1794288505000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
+    "pubDate": "10.11.2026 05:17:31",
+    "sortDate": 1794287851000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+    "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+    "pubDate": "10.11.2026 05:00:29",
+    "sortDate": 1794286829000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sydney private school accused of mishandling sexual abuse allegations should be banned from enrolling new students, inquiry says",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/redeemer-baptist-school-sexual-abuse-inquiry-ntwnfb",
+    "pubDate": "10.11.2026 04:51:39",
+    "sortDate": 1794286299000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
+    "pubDate": "10.11.2026 04:44:32",
+    "sortDate": 1794285872000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+    "pubDate": "10.11.2026 03:00:40",
+    "sortDate": 1794279640000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+    "pubDate": "10.11.2026 02:54:54",
+    "sortDate": 1794279294000,
     "source": "The Guardian"
   },
   {
     "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
     "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-    "pubDate": "10.11.2026 00:41:13",
-    "sortDate": 1794271273000,
+    "pubDate": "10.11.2026 02:28:00",
+    "sortDate": 1794277680000,
     "source": "The Guardian"
   },
   {
-    "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-    "pubDate": "10.11.2026 00:14:45",
-    "sortDate": 1794269685000,
+    "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police",
+    "pubDate": "10.11.2026 02:19:47",
+    "sortDate": 1794277187000,
     "source": "The Guardian"
   },
   {
@@ -56,20 +133,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
-    "pubDate": "09.11.2026 23:48:36",
-    "sortDate": 1794268116000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-    "link": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-    "pubDate": "09.11.2026 23:30:37",
-    "sortDate": 1794267037000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Tommy Walsh, co-presenter of BBC’s Ground Force, dies aged 69",
     "link": "https://www.theguardian.com/uk-news/2026/nov/09/tommy-walsh-co-presenter-of-bbcs-ground-force-dies-aged-69",
     "pubDate": "09.11.2026 19:59:36",
@@ -77,31 +140,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+    "title": "The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes",
     "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
     "pubDate": "09.11.2026 19:40:45",
     "sortDate": 1794253245000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
-    "link": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
-    "pubDate": "09.11.2026 19:27:22",
-    "sortDate": 1794252442000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Air pollution soars as fog traps emissions in England’s urban areas",
-    "link": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
-    "pubDate": "09.11.2026 19:13:59",
-    "sortDate": 1794251639000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Barnsley workers strike over nursery privatisation by Reform council",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/09/barnsley-strike-nursery-privatisation-reform-council-yorkshire-grimethorpe",
-    "pubDate": "09.11.2026 18:50:17",
-    "sortDate": 1794250217000,
     "source": "The Guardian"
   },
   {
@@ -119,32 +161,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
-    "link": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
-    "pubDate": "09.11.2026 17:47:04",
-    "sortDate": 1794246424000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president",
-    "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
-    "pubDate": "09.11.2026 17:42:51",
-    "sortDate": 1794246171000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author",
-    "link": "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement",
-    "pubDate": "09.11.2026 17:00:14",
-    "sortDate": 1794243614000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
-    "link": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
-    "pubDate": "09.11.2026 15:52:26",
-    "sortDate": 1794239546000,
-    "source": "The Guardian"
+    "title": "At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168769",
+    "pubDate": "09.11.2026 12:00:00",
+    "sortDate": 1794225600000,
+    "source": "UN News"
   },
   {
     "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
@@ -299,13 +320,6 @@
     "pubDate": "07.11.2026 12:00:00",
     "sortDate": 1794052800000,
     "source": "UN News"
-  },
-  {
-    "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-    "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-    "pubDate": "07.11.2026 07:00:04",
-    "sortDate": 1794034804000,
-    "source": "The Guardian"
   },
   {
     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
@@ -497,13 +511,6 @@
     "source": "UN News"
   },
   {
-    "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-    "pubDate": "03.11.2026 12:00:00",
-    "sortDate": 1793707200000,
-    "source": "UN News"
-  },
-  {
     "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
     "link": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
     "pubDate": "03.11.2026 06:00:39",
@@ -515,13 +522,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
     "pubDate": "01.11.2026 16:11:50",
     "sortDate": 1793549510000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
-    "link": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
-    "pubDate": "27.10.2026 09:21:33",
-    "sortDate": 1793092893000,
     "source": "The Guardian"
   }
 ]
