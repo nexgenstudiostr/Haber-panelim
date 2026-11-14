@@ -1,9 +1,72 @@
 [
   {
-    "title": "US air travel slowly recovers from nationwide flight ground stop as chaos continues",
+    "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+    "pubDate": "14.11.2026 19:01:32",
+    "sortDate": 1794682892000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
+    "pubDate": "14.11.2026 19:00:53",
+    "sortDate": 1794682853000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+    "pubDate": "14.11.2026 19:00:52",
+    "sortDate": 1794682852000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Family of Watford woman set alight ‘desperate for answers’ after attack",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+    "pubDate": "14.11.2026 17:59:12",
+    "sortDate": 1794679152000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
     "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-    "pubDate": "14.11.2026 15:03:00",
-    "sortDate": 1794668580000,
+    "pubDate": "14.11.2026 17:11:18",
+    "sortDate": 1794676278000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
+    "link": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+    "pubDate": "14.11.2026 17:00:49",
+    "sortDate": 1794675649000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+    "pubDate": "14.11.2026 16:58:33",
+    "sortDate": 1794675513000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Cold weather health alerts issued for parts of UK on Sunday night",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+    "pubDate": "14.11.2026 16:42:04",
+    "sortDate": 1794674524000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+    "pubDate": "14.11.2026 16:00:48",
+    "sortDate": 1794672048000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+    "link": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+    "pubDate": "14.11.2026 15:34:54",
+    "sortDate": 1794670494000,
     "source": "The Guardian"
   },
   {
@@ -11,13 +74,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
     "pubDate": "14.11.2026 15:00:47",
     "sortDate": 1794668447000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-    "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-    "pubDate": "14.11.2026 14:42:27",
-    "sortDate": 1794667347000,
     "source": "The Guardian"
   },
   {
@@ -35,31 +91,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-    "pubDate": "14.11.2026 14:07:47",
-    "sortDate": 1794665267000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Milder weekend forecast in UK as autumn freeze eases off",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
-    "pubDate": "14.11.2026 13:10:33",
-    "sortDate": 1794661833000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
     "link": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
     "pubDate": "14.11.2026 13:00:47",
     "sortDate": 1794661247000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
-    "link": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
-    "pubDate": "14.11.2026 13:00:45",
-    "sortDate": 1794661245000,
     "source": "The Guardian"
   },
   {
@@ -70,24 +105,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Microsoft says services fully restored after global outage hits governments",
-    "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-    "pubDate": "14.11.2026 11:54:31",
-    "sortDate": 1794657271000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
     "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
     "pubDate": "14.11.2026 11:11:03",
     "sortDate": 1794654663000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
-    "link": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
-    "pubDate": "14.11.2026 11:00:43",
-    "sortDate": 1794654043000,
     "source": "The Guardian"
   },
   {
@@ -147,66 +168,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
-    "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-    "pubDate": "13.11.2026 17:41:15",
-    "sortDate": 1794591675000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
     "link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
     "pubDate": "13.11.2026 13:52:11",
     "sortDate": 1794577931000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168803",
-    "pubDate": "13.11.2026 12:00:00",
-    "sortDate": 1794571200000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168804",
-    "pubDate": "13.11.2026 12:00:00",
-    "sortDate": 1794571200000,
-    "source": "UN News"
-  },
-  {
-    "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168802",
-    "pubDate": "13.11.2026 12:00:00",
-    "sortDate": 1794571200000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168799",
-    "pubDate": "13.11.2026 12:00:00",
-    "sortDate": 1794571200000,
-    "source": "UN News"
-  },
-  {
-    "title": "COP31: New initiative targets AI and reliable climate change information",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168798",
-    "pubDate": "13.11.2026 12:00:00",
-    "sortDate": 1794571200000,
-    "source": "UN News"
-  },
-  {
-    "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
-    "pubDate": "13.11.2026 12:00:00",
-    "sortDate": 1794571200000,
-    "source": "UN News"
-  },
-  {
-    "title": "What’s behind Australia’s surge in teen extremism?",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
-    "pubDate": "13.11.2026 11:33:57",
-    "sortDate": 1794569637000,
     "source": "The Guardian"
   },
   {
@@ -259,48 +224,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168796",
-    "pubDate": "12.11.2026 12:00:00",
-    "sortDate": 1794484800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168793",
-    "pubDate": "12.11.2026 12:00:00",
-    "sortDate": 1794484800000,
-    "source": "UN News"
-  },
-  {
-    "title": "New platform aims to get money moving before disaster strikes",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168794",
-    "pubDate": "12.11.2026 12:00:00",
-    "sortDate": 1794484800000,
-    "source": "UN News"
-  },
-  {
-    "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168792",
-    "pubDate": "12.11.2026 12:00:00",
-    "sortDate": 1794484800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168790",
-    "pubDate": "12.11.2026 12:00:00",
-    "sortDate": 1794484800000,
-    "source": "UN News"
-  },
-  {
-    "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168789",
-    "pubDate": "12.11.2026 12:00:00",
-    "sortDate": 1794484800000,
-    "source": "UN News"
-  },
-  {
     "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
     "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
     "pubDate": "12.11.2026 06:43:31",
@@ -329,109 +252,11 @@
     "source": "The Guardian"
   },
   {
-    "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168788",
-    "pubDate": "11.11.2026 12:00:00",
-    "sortDate": 1794398400000,
-    "source": "UN News"
-  },
-  {
-    "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168783",
-    "pubDate": "11.11.2026 12:00:00",
-    "sortDate": 1794398400000,
-    "source": "UN News"
-  },
-  {
-    "title": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168787",
-    "pubDate": "11.11.2026 12:00:00",
-    "sortDate": 1794398400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168784",
-    "pubDate": "11.11.2026 12:00:00",
-    "sortDate": 1794398400000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-    "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
-    "pubDate": "11.11.2026 05:33:27",
-    "sortDate": 1794375207000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
     "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
     "pubDate": "10.11.2026 15:39:26",
     "sortDate": 1794325166000,
     "source": "The Guardian"
-  },
-  {
-    "title": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168782",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168781",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168779",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168778",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
-  },
-  {
-    "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168775",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168774",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
-  },
-  {
-    "title": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168772",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168771",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Climate crisis could push 141 million more women into extreme poverty",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168770",
-    "pubDate": "10.11.2026 12:00:00",
-    "sortDate": 1794312000000,
-    "source": "UN News"
   },
   {
     "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
@@ -446,41 +271,6 @@
     "pubDate": "10.11.2026 07:30:31",
     "sortDate": 1794295831000,
     "source": "The Guardian"
-  },
-  {
-    "title": "At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168769",
-    "pubDate": "09.11.2026 12:00:00",
-    "sortDate": 1794225600000,
-    "source": "UN News"
-  },
-  {
-    "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168768",
-    "pubDate": "09.11.2026 12:00:00",
-    "sortDate": 1794225600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168766",
-    "pubDate": "09.11.2026 12:00:00",
-    "sortDate": 1794225600000,
-    "source": "UN News"
-  },
-  {
-    "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168763",
-    "pubDate": "09.11.2026 12:00:00",
-    "sortDate": 1794225600000,
-    "source": "UN News"
-  },
-  {
-    "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168762",
-    "pubDate": "09.11.2026 12:00:00",
-    "sortDate": 1794225600000,
-    "source": "UN News"
   },
   {
     "title": "Collision of two trains in Egypt kills at least seven",
