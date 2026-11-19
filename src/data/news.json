@@ -1,9 +1,121 @@
 [
   {
-    "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
+    "title": "EDF snaps up 1.3m more customers after Utilita takeover",
+    "link": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
+    "pubDate": "19.11.2026 08:00:21",
+    "sortDate": 1795075221000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+    "link": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+    "pubDate": "19.11.2026 06:58:33",
+    "sortDate": 1795071513000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
+    "pubDate": "19.11.2026 06:20:46",
+    "sortDate": 1795069246000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
+    "pubDate": "19.11.2026 06:17:12",
+    "sortDate": 1795069032000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Car use in London forecast to rise by 10% in next decade",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
+    "pubDate": "19.11.2026 06:00:20",
+    "sortDate": 1795068020000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
+    "link": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
+    "pubDate": "19.11.2026 06:00:18",
+    "sortDate": 1795068018000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
+    "link": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+    "pubDate": "19.11.2026 05:22:38",
+    "sortDate": 1795065758000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia",
+    "link": "https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia",
+    "pubDate": "19.11.2026 05:01:17",
+    "sortDate": 1795064477000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
+    "link": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
+    "pubDate": "19.11.2026 05:00:19",
+    "sortDate": 1795064419000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+    "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+    "pubDate": "19.11.2026 05:00:18",
+    "sortDate": 1795064418000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Hannah Lillith Assadi wins National book award for ‘visionary’ novel Paradiso 17",
+    "link": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
+    "pubDate": "19.11.2026 04:54:13",
+    "sortDate": 1795064053000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+    "link": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+    "pubDate": "19.11.2026 04:10:10",
+    "sortDate": 1795061410000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Shame old Aussies’ to ‘fresh chaos’: what the UK papers say about Bancroft’s explosive ball tampering claims",
+    "link": "https://www.theguardian.com/media/2026/nov/19/shame-old-aussies-to-fresh-chaos-what-the-uk-papers-say-about-bancrofts-explosive-ball-tampering-claims-ntwnfb",
+    "pubDate": "19.11.2026 04:06:19",
+    "sortDate": 1795061179000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "One in four women globally unable to refuse sex within marriage, says UN",
+    "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+    "pubDate": "19.11.2026 04:00:16",
+    "sortDate": 1795060816000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
     "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-    "pubDate": "19.11.2026 00:37:30",
-    "sortDate": 1795048650000,
+    "pubDate": "19.11.2026 03:11:52",
+    "sortDate": 1795057912000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+    "pubDate": "19.11.2026 01:07:51",
+    "sortDate": 1795050471000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Record-breaking rain lashes California’s Bay area as ‘atmospheric river’ arrives",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+    "pubDate": "19.11.2026 01:03:34",
+    "sortDate": 1795050214000,
     "source": "The Guardian"
   },
   {
@@ -14,17 +126,17 @@
     "source": "The Guardian"
   },
   {
+    "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+    "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+    "pubDate": "18.11.2026 23:27:37",
+    "sortDate": 1795044457000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
     "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
     "pubDate": "18.11.2026 23:25:25",
     "sortDate": 1795044325000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
-    "link": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
-    "pubDate": "18.11.2026 22:48:46",
-    "sortDate": 1795042126000,
     "source": "The Guardian"
   },
   {
@@ -42,13 +154,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
-    "link": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
-    "pubDate": "18.11.2026 22:30:09",
-    "sortDate": 1795041009000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
     "link": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
     "pubDate": "18.11.2026 22:05:49",
@@ -56,59 +161,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
-    "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
-    "pubDate": "18.11.2026 21:39:15",
-    "sortDate": 1795037955000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Member of anti-migrant group found guilty of Staffordshire murder",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
-    "pubDate": "18.11.2026 21:27:54",
-    "sortDate": 1795037274000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "FAA chief urges critics to ‘lay off’ Sean Duffy for flight stoppage: ‘Blame me’",
-    "link": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
-    "pubDate": "18.11.2026 21:04:58",
-    "sortDate": 1795035898000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
-    "pubDate": "18.11.2026 20:32:58",
-    "sortDate": 1795033978000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
-    "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
-    "pubDate": "18.11.2026 20:28:42",
-    "sortDate": 1795033722000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
     "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
     "pubDate": "18.11.2026 20:24:19",
     "sortDate": 1795033459000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-    "pubDate": "18.11.2026 20:03:50",
-    "sortDate": 1795032230000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-    "pubDate": "18.11.2026 19:34:31",
-    "sortDate": 1795030471000,
     "source": "The Guardian"
   },
   {
@@ -126,24 +182,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
-    "pubDate": "18.11.2026 17:56:39",
-    "sortDate": 1795024599000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
     "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
     "pubDate": "18.11.2026 17:48:24",
     "sortDate": 1795024104000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Anthony Albanese defies critics for Apec summit photo with Vladimir Putin",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin",
-    "pubDate": "18.11.2026 15:39:11",
-    "sortDate": 1795016351000,
     "source": "The Guardian"
   },
   {
@@ -154,31 +196,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
-    "pubDate": "18.11.2026 14:00:02",
-    "sortDate": 1795010402000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
     "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
     "pubDate": "18.11.2026 09:58:28",
     "sortDate": 1794995908000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
-    "link": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
-    "pubDate": "18.11.2026 09:30:36",
-    "sortDate": 1794994236000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
-    "pubDate": "18.11.2026 07:58:32",
-    "sortDate": 1794988712000,
     "source": "The Guardian"
   },
   {
@@ -252,13 +273,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-    "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-    "pubDate": "17.11.2026 11:00:39",
-    "sortDate": 1794913239000,
-    "source": "The Guardian"
-  },
-  {
     "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
     "link": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
     "pubDate": "17.11.2026 07:30:06",
@@ -287,13 +301,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-    "link": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-    "pubDate": "16.11.2026 10:19:08",
-    "sortDate": 1794824348000,
-    "source": "The Guardian"
-  },
-  {
     "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
     "link": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
     "pubDate": "15.11.2026 06:00:05",
@@ -305,13 +312,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
     "pubDate": "10.11.2026 10:57:51",
     "sortDate": 1794308271000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
-    "link": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
-    "pubDate": "10.11.2026 07:30:31",
-    "sortDate": 1794295831000,
     "source": "The Guardian"
   }
 ]
