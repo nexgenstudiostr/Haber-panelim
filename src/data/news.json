@@ -1,107 +1,128 @@
 [
   {
-    "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "pubDate": "20.11.2026 16:26:07",
-    "sortDate": 1795191967000,
+    "title": "French police officers found guilty of racist assault on black music producer",
+    "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+    "pubDate": "20.11.2026 22:23:53",
+    "sortDate": 1795213433000,
     "source": "The Guardian"
   },
   {
-    "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
-    "link": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
-    "pubDate": "20.11.2026 16:16:01",
-    "sortDate": 1795191361000,
+    "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+    "pubDate": "20.11.2026 21:47:41",
+    "sortDate": 1795211261000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "pubDate": "20.11.2026 21:38:17",
+    "sortDate": 1795210697000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
+    "link": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+    "pubDate": "20.11.2026 19:38:59",
+    "sortDate": 1795203539000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+    "link": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+    "pubDate": "20.11.2026 19:18:20",
+    "sortDate": 1795202300000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+    "pubDate": "20.11.2026 19:00:11",
+    "sortDate": 1795201211000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+    "pubDate": "20.11.2026 18:51:16",
+    "sortDate": 1795200676000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+    "pubDate": "20.11.2026 18:51:09",
+    "sortDate": 1795200669000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+    "pubDate": "20.11.2026 18:36:30",
+    "sortDate": 1795199790000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
+    "link": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+    "pubDate": "20.11.2026 18:34:13",
+    "sortDate": 1795199653000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
+    "pubDate": "20.11.2026 18:33:17",
+    "sortDate": 1795199597000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+    "pubDate": "20.11.2026 18:24:12",
+    "sortDate": 1795199052000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+    "pubDate": "20.11.2026 18:22:50",
+    "sortDate": 1795198970000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Two men killed after glider crashes into Loch Leven in Scotland",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+    "pubDate": "20.11.2026 18:20:09",
+    "sortDate": 1795198809000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+    "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+    "pubDate": "20.11.2026 18:16:12",
+    "sortDate": 1795198572000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+    "link": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+    "pubDate": "20.11.2026 18:11:25",
+    "sortDate": 1795198285000,
     "source": "The Guardian"
   },
   {
     "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
     "link": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-    "pubDate": "20.11.2026 16:15:24",
-    "sortDate": 1795191324000,
+    "pubDate": "20.11.2026 17:59:55",
+    "sortDate": 1795197595000,
     "source": "The Guardian"
   },
   {
-    "title": "Far-right activist Daniel Thomas jailed for slashing dinghy in Channel",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
-    "pubDate": "20.11.2026 16:08:42",
-    "sortDate": 1795190922000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
-    "pubDate": "20.11.2026 16:03:13",
-    "sortDate": 1795190593000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Onlookers say botched Texas prison execution is like nothing they have ever seen",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/reinaldo-dennes-texas-execution-lethal-injection-botched",
-    "pubDate": "20.11.2026 16:00:44",
-    "sortDate": 1795190444000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
-    "link": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
-    "pubDate": "20.11.2026 16:00:33",
-    "sortDate": 1795190433000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Bring in ‘cosmetic cowboys’ law to avoid more deaths, says family of butt lift victim",
-    "link": "https://www.theguardian.com/society/2026/nov/20/cosmetic-cowboys-law-avoid-more-deaths-family-brazilian-butt-lift-victim",
-    "pubDate": "20.11.2026 15:55:28",
-    "sortDate": 1795190128000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
-    "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-    "pubDate": "20.11.2026 15:39:48",
-    "sortDate": 1795189188000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-    "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
-    "pubDate": "20.11.2026 15:15:28",
-    "sortDate": 1795187728000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
-    "pubDate": "20.11.2026 15:09:09",
-    "sortDate": 1795187349000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Forever our Fiona’: fans of the famous hippo mourn her death at zoo",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/fiona-hippo-death-shrine-tributes-hat-cincinnati-zoo",
-    "pubDate": "20.11.2026 15:06:46",
-    "sortDate": 1795187206000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘You can’t get experience if no one’s employing you’: the vicious circle facing Blackpool’s Neets",
-    "link": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
-    "pubDate": "20.11.2026 15:00:32",
-    "sortDate": 1795186832000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘A source of inspiration’: series of public events celebrate life of Dolores Huerta",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
-    "pubDate": "20.11.2026 15:00:31",
-    "sortDate": 1795186831000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Gloucestershire nouveau’: UK vineyard uncorks its 2026 answer to beaujolais",
-    "link": "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
-    "pubDate": "20.11.2026 14:59:23",
-    "sortDate": 1795186763000,
+    "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
+    "link": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
+    "pubDate": "20.11.2026 16:48:08",
+    "sortDate": 1795193288000,
     "source": "The Guardian"
   },
   {
@@ -110,6 +131,20 @@
     "pubDate": "20.11.2026 14:00:32",
     "sortDate": 1795183232000,
     "source": "The Guardian"
+  },
+  {
+    "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168853",
+    "pubDate": "20.11.2026 12:00:00",
+    "sortDate": 1795176000000,
+    "source": "UN News"
+  },
+  {
+    "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+    "pubDate": "20.11.2026 12:00:00",
+    "sortDate": 1795176000000,
+    "source": "UN News"
   },
   {
     "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
@@ -147,7 +182,7 @@
     "source": "The Guardian"
   },
   {
-    "title": "‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+    "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
     "pubDate": "20.11.2026 11:00:31",
     "sortDate": 1795172431000,
@@ -165,13 +200,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
     "pubDate": "20.11.2026 09:03:20",
     "sortDate": 1795165400000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-    "link": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-    "pubDate": "20.11.2026 08:19:28",
-    "sortDate": 1795162768000,
     "source": "The Guardian"
   },
   {
@@ -242,13 +270,6 @@
     "link": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
     "pubDate": "19.11.2026 16:15:52",
     "sortDate": 1795104952000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
-    "link": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-    "pubDate": "19.11.2026 15:35:01",
-    "sortDate": 1795102501000,
     "source": "The Guardian"
   },
   {
@@ -441,13 +462,6 @@
     "source": "UN News"
   },
   {
-    "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
-    "link": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
-    "pubDate": "17.11.2026 07:30:06",
-    "sortDate": 1794900606000,
-    "source": "The Guardian"
-  },
-  {
     "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168820",
     "pubDate": "16.11.2026 12:00:00",
@@ -508,20 +522,6 @@
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168809",
     "pubDate": "16.11.2026 12:00:00",
     "sortDate": 1794830400000,
-    "source": "UN News"
-  },
-  {
-    "title": "First Person: Managing risk on Ukraine’s frontline",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168807",
-    "pubDate": "15.11.2026 12:00:00",
-    "sortDate": 1794744000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Empowering faith and Indigenous leaders to combat hate",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168808",
-    "pubDate": "15.11.2026 12:00:00",
-    "sortDate": 1794744000000,
     "source": "UN News"
   }
 ]
