@@ -1,44 +1,142 @@
 [
   {
+    "title": "Australian politics live: ‘Private tycoons’ shouldn’t have their own AI arsenals, Andrew Hastie says",
+    "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+    "pubDate": "24.11.2026 06:25:28",
+    "sortDate": 1795501528000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
+    "pubDate": "24.11.2026 06:20:10",
+    "sortDate": 1795501210000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+    "pubDate": "24.11.2026 06:00:07",
+    "sortDate": 1795500007000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+    "pubDate": "24.11.2026 05:58:15",
+    "sortDate": 1795499895000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+    "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+    "pubDate": "24.11.2026 05:54:14",
+    "sortDate": 1795499654000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Beau Lamarre-Condon could have told crown ‘do your worst’ and not given evidence, defence says",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+    "pubDate": "24.11.2026 05:49:34",
+    "sortDate": 1795499374000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
+    "link": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
+    "pubDate": "24.11.2026 05:00:07",
+    "sortDate": 1795496407000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+    "link": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+    "pubDate": "24.11.2026 05:00:07",
+    "sortDate": 1795496407000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+    "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+    "pubDate": "24.11.2026 04:14:43",
+    "sortDate": 1795493683000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
+    "link": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
+    "pubDate": "24.11.2026 04:03:16",
+    "sortDate": 1795492996000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+    "pubDate": "24.11.2026 03:04:41",
+    "sortDate": 1795489481000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
+    "link": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
+    "pubDate": "24.11.2026 03:00:04",
+    "sortDate": 1795489204000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "China sentences official to death for spying for foreign country",
+    "link": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+    "pubDate": "24.11.2026 02:37:36",
+    "sortDate": 1795487856000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+    "pubDate": "24.11.2026 02:25:49",
+    "sortDate": 1795487149000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+    "link": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+    "pubDate": "24.11.2026 01:47:15",
+    "sortDate": 1795484835000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
+    "link": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
+    "pubDate": "24.11.2026 00:01:01",
+    "sortDate": 1795478461000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
+    "link": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
+    "pubDate": "24.11.2026 00:01:00",
+    "sortDate": 1795478460000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+    "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+    "pubDate": "23.11.2026 22:41:48",
+    "sortDate": 1795473708000,
+    "source": "The Guardian"
+  },
+  {
     "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
     "link": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-    "pubDate": "23.11.2026 22:05:49",
-    "sortDate": 1795471549000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Australian politics live: Labor to ‘save more than we spend’ in budget update, Chalmers says; rental affordability plummets to 14-year low",
-    "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-    "pubDate": "23.11.2026 21:58:35",
-    "sortDate": 1795471115000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
-    "link": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-    "pubDate": "23.11.2026 21:56:38",
-    "sortDate": 1795470998000,
+    "pubDate": "23.11.2026 22:23:40",
+    "sortDate": 1795472620000,
     "source": "The Guardian"
   },
   {
     "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
     "link": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
-    "pubDate": "23.11.2026 21:53:33",
-    "sortDate": 1795470813000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
-    "link": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-    "pubDate": "23.11.2026 21:09:10",
-    "sortDate": 1795468150000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
-    "link": "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
-    "pubDate": "23.11.2026 21:04:31",
-    "sortDate": 1795467871000,
+    "pubDate": "23.11.2026 22:21:45",
+    "sortDate": 1795472505000,
     "source": "The Guardian"
   },
   {
@@ -70,20 +168,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
-    "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-    "pubDate": "23.11.2026 18:31:17",
-    "sortDate": 1795458677000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
-    "pubDate": "23.11.2026 18:20:03",
-    "sortDate": 1795458003000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
     "link": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
     "pubDate": "23.11.2026 18:12:48",
@@ -91,31 +175,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Only six beds for trans victims of domestic abuse in UK, report finds",
-    "link": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
-    "pubDate": "23.11.2026 18:07:04",
-    "sortDate": 1795457224000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Scapegoating’: green groups condemn plan to axe Environment Agency and Natural England",
-    "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-    "pubDate": "23.11.2026 17:47:58",
-    "sortDate": 1795456078000,
-    "source": "The Guardian"
-  },
-  {
     "title": "What tactics will Burnham use to sell his EU plans? – podcast",
     "link": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
     "pubDate": "23.11.2026 17:42:13",
     "sortDate": 1795455733000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
-    "link": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
-    "pubDate": "23.11.2026 17:19:55",
-    "sortDate": 1795454395000,
     "source": "The Guardian"
   },
   {
@@ -137,34 +200,6 @@
     "link": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
     "pubDate": "23.11.2026 16:42:09",
     "sortDate": 1795452129000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
-    "link": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
-    "pubDate": "23.11.2026 16:00:51",
-    "sortDate": 1795449651000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
-    "link": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
-    "pubDate": "23.11.2026 13:58:01",
-    "sortDate": 1795442281000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Domestic violence perpetrators are using smart car features to abuse, researchers warn",
-    "link": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
-    "pubDate": "23.11.2026 13:57:45",
-    "sortDate": 1795442265000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’",
-    "link": "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
-    "pubDate": "23.11.2026 13:55:40",
-    "sortDate": 1795442140000,
     "source": "The Guardian"
   },
   {
@@ -217,13 +252,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-    "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-    "pubDate": "22.11.2026 12:12:07",
-    "sortDate": 1795349527000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
     "link": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
     "pubDate": "22.11.2026 09:14:27",
@@ -245,31 +273,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
-    "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-    "pubDate": "21.11.2026 11:00:57",
-    "sortDate": 1795258857000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "China commits to low-carbon electrification and help for others to improve",
-    "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-    "pubDate": "21.11.2026 09:47:57",
-    "sortDate": 1795254477000,
-    "source": "The Guardian"
-  },
-  {
     "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
     "link": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
     "pubDate": "21.11.2026 04:00:47",
     "sortDate": 1795233647000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-    "pubDate": "20.11.2026 21:47:41",
-    "sortDate": 1795211261000,
     "source": "The Guardian"
   },
   {
@@ -291,13 +298,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
     "pubDate": "20.11.2026 09:03:20",
     "sortDate": 1795165400000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-    "link": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
-    "pubDate": "19.11.2026 17:14:55",
-    "sortDate": 1795108495000,
     "source": "The Guardian"
   },
   {
