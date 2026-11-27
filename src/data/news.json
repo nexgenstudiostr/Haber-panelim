@@ -1,9 +1,170 @@
 [
   {
-    "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
-    "link": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
-    "pubDate": "27.11.2026 03:14:10",
-    "sortDate": 1795749250000,
+    "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+    "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+    "pubDate": "27.11.2026 14:02:29",
+    "sortDate": 1795788149000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+    "pubDate": "27.11.2026 14:01:55",
+    "sortDate": 1795788115000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
+    "pubDate": "27.11.2026 14:00:14",
+    "sortDate": 1795788014000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
+    "pubDate": "27.11.2026 14:00:13",
+    "sortDate": 1795788013000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say",
+    "pubDate": "27.11.2026 14:00:12",
+    "sortDate": 1795788012000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Thanksgiving meal in Florida leads to ‘mass casualty’ food poisoning incident",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
+    "pubDate": "27.11.2026 13:41:23",
+    "sortDate": 1795786883000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "UK’s taste for cow’s milk fades as sales hit record low",
+    "link": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
+    "pubDate": "27.11.2026 13:32:07",
+    "sortDate": 1795786327000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+    "link": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+    "pubDate": "27.11.2026 13:13:00",
+    "sortDate": 1795785180000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Bigfoot enthusiasts hope government’s US sightings files are ‘just the beginning’ of proving the creature real",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/bigfoot-enthusiasts-sightings",
+    "pubDate": "27.11.2026 13:00:12",
+    "sortDate": 1795784412000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump Medicaid cuts will hit the most vulnerable Americans, officials say",
+    "link": "https://www.theguardian.com/global/2026/nov/27/trump-medicaid-cuts-vulnerable-americans",
+    "pubDate": "27.11.2026 13:00:11",
+    "sortDate": 1795784411000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
+    "link": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
+    "pubDate": "27.11.2026 12:39:10",
+    "sortDate": 1795783150000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+    "link": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+    "pubDate": "27.11.2026 12:30:08",
+    "sortDate": 1795782608000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Trump claims revised economic data shows pre-midterms figures were ‘fake’ | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/first-thing-trump-claims-revised-economic-data-shows-pre-midterms-figures-were-fake",
+    "pubDate": "27.11.2026 12:12:14",
+    "sortDate": 1795781534000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+    "pubDate": "27.11.2026 12:00:00",
+    "sortDate": 1795780800000,
+    "source": "UN News"
+  },
+  {
+    "title": "Putting survivors at the centre of gender-based violence services",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168885",
+    "pubDate": "27.11.2026 12:00:00",
+    "sortDate": 1795780800000,
+    "source": "UN News"
+  },
+  {
+    "title": "‘Crisis in empathy’: prison guard was watching TV while Aboriginal man was dying in custody, NSW coroner finds",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
+    "pubDate": "27.11.2026 11:18:47",
+    "sortDate": 1795778327000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "King tides batter US coasts as storms threaten Thanksgiving celebrations",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
+    "pubDate": "27.11.2026 10:50:48",
+    "sortDate": 1795776648000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Momentous decision looms after judges call for Netanyahu charges to be dropped",
+    "link": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
+    "pubDate": "27.11.2026 10:48:29",
+    "sortDate": 1795776509000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "French town divided over church bells ringing every 15 minutes at night",
+    "link": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes",
+    "pubDate": "27.11.2026 10:46:57",
+    "sortDate": 1795776417000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+    "link": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+    "pubDate": "27.11.2026 10:00:02",
+    "sortDate": 1795773602000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+    "link": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering",
+    "pubDate": "27.11.2026 08:33:08",
+    "sortDate": 1795768388000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
+    "pubDate": "27.11.2026 06:54:59",
+    "sortDate": 1795762499000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+    "link": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+    "pubDate": "27.11.2026 06:00:56",
+    "sortDate": 1795759256000,
+    "source": "The Guardian"
+  },
+  {
+    "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+    "link": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
+    "pubDate": "27.11.2026 05:00:55",
+    "sortDate": 1795755655000,
     "source": "The Guardian"
   },
   {
@@ -21,62 +182,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
-    "pubDate": "27.11.2026 00:10:55",
-    "sortDate": 1795738255000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
-    "pubDate": "27.11.2026 00:02:10",
-    "sortDate": 1795737730000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
-    "link": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts",
-    "pubDate": "27.11.2026 00:01:48",
-    "sortDate": 1795737708000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nearly half of ethnic minority people in UK have faced racism at work in last year, survey finds",
-    "link": "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
-    "pubDate": "27.11.2026 00:01:47",
-    "sortDate": 1795737707000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Sam Wood to spend Christmas in jail after again being denied bail over alleged assault of wife Snezana",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
-    "pubDate": "26.11.2026 23:54:28",
-    "sortDate": 1795737268000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Chance of snow forecast for northern England and Scotland in next few days",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
-    "pubDate": "26.11.2026 23:01:40",
-    "sortDate": 1795734100000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
-    "pubDate": "26.11.2026 22:36:55",
-    "sortDate": 1795732615000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
-    "link": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
-    "pubDate": "26.11.2026 21:33:36",
-    "sortDate": 1795728816000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
     "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
     "pubDate": "26.11.2026 20:33:07",
@@ -84,87 +189,10 @@
     "source": "The Guardian"
   },
   {
-    "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-    "pubDate": "26.11.2026 20:01:47",
-    "sortDate": 1795723307000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
-    "pubDate": "26.11.2026 19:54:05",
-    "sortDate": 1795722845000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
-    "pubDate": "26.11.2026 19:41:37",
-    "sortDate": 1795722097000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
-    "pubDate": "26.11.2026 19:38:26",
-    "sortDate": 1795721906000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
-    "pubDate": "26.11.2026 19:16:35",
-    "sortDate": 1795720595000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
     "link": "https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu",
     "pubDate": "26.11.2026 19:03:47",
     "sortDate": 1795719827000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
-    "link": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
-    "pubDate": "26.11.2026 18:45:44",
-    "sortDate": 1795718744000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "What would happen if Russia detonated a nuclear weapon in space?",
-    "link": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
-    "pubDate": "26.11.2026 18:13:33",
-    "sortDate": 1795716813000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-    "link": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
-    "pubDate": "26.11.2026 17:51:17",
-    "sortDate": 1795715477000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
-    "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-    "pubDate": "26.11.2026 17:50:54",
-    "sortDate": 1795715454000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
-    "link": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
-    "pubDate": "26.11.2026 17:05:02",
-    "sortDate": 1795712702000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "Labour’s EU reset deal will be ‘floor not ceiling’, says Burnham cabinet ally",
-    "link": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
-    "pubDate": "26.11.2026 17:00:52",
-    "sortDate": 1795712452000,
     "source": "The Guardian"
   },
   {
@@ -329,13 +357,6 @@
     "source": "The Guardian"
   },
   {
-    "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
-    "link": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
-    "pubDate": "25.11.2026 11:00:46",
-    "sortDate": 1795604446000,
-    "source": "The Guardian"
-  },
-  {
     "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
     "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
     "pubDate": "25.11.2026 03:57:11",
@@ -361,13 +382,6 @@
     "link": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
     "pubDate": "24.11.2026 20:04:50",
     "sortDate": 1795550690000,
-    "source": "The Guardian"
-  },
-  {
-    "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-    "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-    "pubDate": "24.11.2026 16:00:50",
-    "sortDate": 1795536050000,
     "source": "The Guardian"
   },
   {
@@ -506,20 +520,6 @@
   {
     "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168853",
-    "pubDate": "20.11.2026 12:00:00",
-    "sortDate": 1795176000000,
-    "source": "UN News"
-  },
-  {
-    "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168849",
-    "pubDate": "20.11.2026 12:00:00",
-    "sortDate": 1795176000000,
-    "source": "UN News"
-  },
-  {
-    "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168847",
     "pubDate": "20.11.2026 12:00:00",
     "sortDate": 1795176000000,
     "source": "UN News"
